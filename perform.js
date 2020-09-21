@@ -1,13 +1,5 @@
 let fs = require('fs')
-let querystring = require('querystring')
-let urlMod = require('url')
-const crypto = require('crypto')
-const https = require('https')
 const fetch = require('node-fetch')
-const jsdom = require("jsdom");
-const { JSDOM } = jsdom;
-let { loadRefSites, loadWikipedia, generateArticle, googlePhoto } = require('./lib')
-let URL = urlMod.URL
 
 let data_url = 'https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days='
 const CORS_PROXY = "https://cors-anywhere.herokuapp.com/"
