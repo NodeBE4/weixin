@@ -36,7 +36,7 @@ async function perform() {
   articles = articles.concat(newarticles)
 
   // remove duplicates
-  articles = Array.from(new Set(articles))
+  articles = removeDuplicates(articles, 'url')
 
   let content = JSON.stringify(articles, undefined, 4)
   fs.writeFileSync(filename, content)
@@ -60,10 +60,19 @@ data: "weixin_${thismonth}.json"
 
 }
 
-function timeConverter(UNIX_timestamp){
-  var a = new Date(UNIX_timestamp);
-  return a
-}
+function removeDuplicates(originalArray, prop) {
+     var newArray = [];
+     var lookupObject  = {};
+
+     for(var i in originalArray) {
+        lookupObject[originalArray[i][prop]] = originalArray[i];
+     }
+
+     for(i in lookupObject) {
+         newArray.push(lookupObject[i]);
+     }
+      return newArray;
+ }
 
 perform()
 
