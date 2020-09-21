@@ -52,7 +52,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: <a href="https://line-count.herokuapp.com/nodebe4/hero">line_count</a> <a href="https://git.io/JUt9v">短鏈接</a> <a href="https://2047.name/qr/https://git.io/JUt9v">二維碼分享此頁</a> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a>, 站务反馈 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">已被墙</span>）
+footer-text: <a href="https://line-count.herokuapp.com/nodebe4/hero">line_count</a> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/duty-machine">duty-machine</a>, 站务反馈 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">已被墙</span>）
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
