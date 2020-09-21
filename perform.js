@@ -11,7 +11,7 @@ async function perform() {
   let newarticles = []
   let today = new Date()
   let thismonth = today.toISOString().substring(0,7)
-  let filename = `./weixin_${thismonth}.json`
+  let filename = `./data/weixin_${thismonth}.json`
   let postname = `./_posts/${thismonth}-01-weixin_censored_articles.md`
   if (fs.existsSync(filename)) {
     let rawtext = fs.readFileSync(filename, {encoding:'utf8', flag:'r'})
@@ -41,7 +41,7 @@ author: "WeChatScope"
 from: "https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days="
 tags: [ 微信公众号 ]
 categories: [ 微信公众号 ]
-data: "weixin_${thismonth}.json"
+data: "data/weixin_${thismonth}.json"
 ---
 `
   md = header 

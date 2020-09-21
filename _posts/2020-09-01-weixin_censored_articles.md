@@ -6,5 +6,5 @@ author: "WeChatScope"
 from: "https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days="
 tags: [ 微信公众号 ]
 categories: [ 微信公众号 ]
-data: "weixin_2020-09.json"
+data: "data/weixin_2020-09.json"
 ---
