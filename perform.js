@@ -33,9 +33,11 @@ async function perform() {
   let content = JSON.stringify(articles, undefined, 4)
   fs.writeFileSync(filename, content)
 
+  let thismonthtext = thismonth.replace('-','年') + `月`
+
   let header = `---
 layout: table
-title: "${thismonth} 被删微信公众号文章"
+title: "${thismonthtext} 被删微信公众号文章"
 date: ${thismonth}-01
 author: "WeChatScope"
 from: "https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days="

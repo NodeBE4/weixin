@@ -1,6 +1,6 @@
 ---
 layout: table
-title: "2020-09 被删微信公众号文章"
+title: "2020年09月 被删微信公众号文章"
 date: 2020-09-01
 author: "WeChatScope"
 from: "https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days="
