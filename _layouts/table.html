@@ -140,10 +140,8 @@ document.addEventListener("DOMContentLoaded", function(event){
   })
 });
 
-var iframe = document.getElementById("iframe-vote");
-
-iframe.contentWindow.document.addEventListener("DOMContentLoaded", function(event){
-  var voteform = iframe.contentWindow.document.getElementById("vote-form");
+document.addEventListener("DOMContentLoaded", function(event){
+  var voteform = document.getElementById("vote-form");
 
   voteform.addEventListener('submit', function(event){
     event.preventDefault(); 
