@@ -25,46 +25,21 @@ comments: true
 <table id="add-hero-form" class="table table-striped table-bordered table-sm" style="width:100%;">
 </table>
 <div style="font-size: 12px">
-  <span style="color: #3498DB;"><i>"赞不会立即生效，每小时或創建新人物時更新一次"</i></span>; 
-  <span style="color: #3498DB;"><i>"头像会有的"</i></span>; 
-  Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+  <span style="color: #3498DB;"><i>"每小时自动更新一次，点击表头可改变排序。"</i></span>
 </div>
 
 <hr>
 <div class="row">
-  <div class="col-12 col-md-6">
-    <h4>请在此处键入你心中的英雄</h4>
-    <span style="color: #3498DB;width:100%; font-size:14px">HeroBot會搞定剩下的一切...</span>
-    <p style="color: #566573;font-size: 12px;">提示：提交或投票成功或需approve批准no script弹出的警告。</p>
-    <form id="add-hero-form" action="https://hero-form.vercel.app/api/submit" method="post" target="_blank">
-      <div class="form-group">
-          <input name="name" type="text" placeholder="姓名 如:李文亮、陈玫" style="display:table-cell; width:100%; max-width: 600px;">
-          <input name="keyword" type="text" placeholder="最关键词 (以区分同名同姓者) 如:医生、端点星" style="display:table-cell; width:100%; max-width: 600px;">
-          <input name="url" type="url" placeholder="维基百科链接 https://zh.wikipedia.org/..." style="display:table-cell; width:100%; max-width: 600px;"><br>
-        <textarea name="message" style="width: 100%; max-width: 600px; height: 100px;" placeholder="随便说点什么，HeroBot看不见但人类能看到..."></textarea>
-        <div><input type="submit" value="提交"/></div>
-      </div>
-    </form>
-  </div>
-  <div class="col-12 col-md-6">
+  <div class="col-12 col-md-12">
     <h4>關於</h4>
     <div id="about-hero">
-      <p><b>說明：</b>本榜來自端點星的<a href="https://github.com/Terminus2049/Wechatscope">Wechatscope</a>，提供原始<a href="https://nodebe4.github.io/weixin/">數據</a>及<a href="https://github.com/NodeBE4/weixin/">代碼</a>。</p>
-      <p><b>參與：</b>歡迎有才華的您貢獻您的想法、代碼、或藝術設計，相關討論見<a href="https://github.com/NodeBE4/weixin/issues/1">issue</a>。</p>
-      <p style="color: #803030;"><b>隱私：</b>人物<i>提交</i>或<i>点赞</i><i class="fa fa-thumbs-o-up"></i>无需注册或登录，本榜无法獲知您的IP地址或浏览器指纹等隐私。</p>
+      <p><b>說明：</b>本榜來自端點星的<a href="https://github.com/Terminus2049/Wechatscope">Wechatscope</a>，提供原始<a href="{{ site.baseurl }}/{{ page.data }}">數據</a>及<a href="https://github.com/NodeBE4/weixin/">代碼</a>。</p>
+      <p><b>參與：</b>歡迎有才華的您貢獻您的想法、代碼、或藝術設計，相關討論見<a href="https://github.com/NodeBE4/weixin/issues/">issue</a>。</p>
+      <p style="color: #803030;"><b>隱私：</b><i>提交到duty-machine</i>或<i>查看内容</i>无需注册或登录，本榜无法獲知您的IP地址或浏览器指纹等隐私。</p>
       <p style="font-size: 12px;"><b>開源：</b>本榜的API开放<a href="https://github.com/duty-machine/duty-machine">源代码</a>且实际部署經第三方API託管平台<a href="https://vercel.com">vercel</a>所<a href="https://github.com/duty-machine/duty-machine">验证</a>.</p>
       <div style="font-size:12px">License: GPL-3.0-or-later</div>
     </div>    
   </div>
-  <div class="col-12">
-    <h4>HeroBot说</h4>
-    <div id="bot-message" class="overflow-auto">
-      <span style="color: #3498DB;"><i>"赞不会立即生效，每小时或創建新人物時更新一次"</i></span>; 
-      <span style="color: #3498DB;"><i>"头像会有的"</i></span>; 
-      <span><i style="color: blue">"英雄榜v1.0发布!"</i></span>; 
-      <span><i>旧版<a href="{{ site.baseurl }}/demo">demo</a></i></span>
-    </div>
-  </div>  
 </div>
 {% include simple-search.html %}
 
@@ -90,10 +65,10 @@ document.addEventListener("DOMContentLoaded", function(event){
   noscript.parentNode.removeChild(noscript)
   const thead_format = {
     'title': '<span><b>标题</b></span>',
-    'nickname': '<span><b>公众号</b></span>',
+    'nickname': '<span><b>作者</b></span>',
     'created_at': '<span><b>发布</b></span>',
     'origin_url': '<span><b>原链</b></span>',
-    'view': '<span><b>临时备份</b></span>',
+    'view': '<span><b>缓存</b></span>',
     'censored_date': '<span><b>删除</b></span>',
     'censored_msg': '<span><b>原因</b></span>',
     'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
@@ -130,6 +105,15 @@ document.addEventListener("DOMContentLoaded", function(event){
         }else if(key=='duty-machine'){
           let archived = `https://wechatscope.jmsc.hku.hk/api/html?fn=${item['archive']}`
           td1.innerHTML += `<a onclick="duty_machine('${archived}')" style="color:#2980B9"><i class="fa fa-archive"></i></a>`
+        }else if(key=='censored_msg'){
+          if (item[key].includes('deleted by the author')){
+            td1.innerHTML += `<i style="font-size: 12px;">被作者删除</i>`
+          } else if (item[key].includes('violates regulations')){
+            td1.innerHTML += `<i style="font-size: 12px;color: red;">内容违规</i>`            
+          } else {
+            let val = item[key] || 0
+            td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
+          }
         }else{
           let val = item[key] || 0
           td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
@@ -147,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       tr2.appendChild(th)
     });
     $('#add-hero-form').DataTable( {
-        "order": [[ 2, "desc" ]],
+        "order": [[ 5, "desc" ]],
         "language": {
             "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Chinese.json"
         }
