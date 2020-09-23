@@ -2468,6 +2468,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653011429&idx=2&sn=5322145247756d852cb5e7e5765b8f20",
         "title": "市场传来大消息，这将是A股下一个爆发的板块！",
+        "title_eng": "There is big news from the market, this will be the next outbreak of A shares!",
         "nickname": "财经要参",
         "created_at": "2020-09-22",
         "archive": "gh_34471e1f4b56_2020-09-22_2653011429_KQWxz0fDCP.y.tar.gz",
@@ -2478,6 +2479,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247508554&idx=1&sn=6953c21b97e74dece74526348bab68ab",
         "title": "自封？清华党组会会议决定：清华已成为世界一流大学",
+        "title_eng": "Self-styled? Tsinghua party committee meeting decided: Tsinghua has become a world-class university",
         "nickname": "柏举居士",
         "created_at": "2020-09-23",
         "archive": "gh_c1335a131ff4_2020-09-23_2247508554_djcL3zbxiI.y.tar.gz",
@@ -2488,10 +2490,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIxOTQ0OA==&mid=2247492728&idx=1&sn=698918479437aab6fca3aff830eb0a68",
         "title": "券商如期启动，牛市初期！有准备的人已经抢下了它",
+        "title_eng": "Brokerage started as scheduled, the beginning of the bull market! Those who are prepared have grabbed it",
         "nickname": "海外探客",
         "created_at": "2020-09-23",
         "archive": "gh_1cb796cd4c22_2020-09-23_2247492728_qdKY95Dc3W.y.tar.gz",
         "censored_date": "2020-09-23 22:35:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247502720&idx=2&sn=a335c2c7d69e7cca449f105906d16971",
+        "title": "2020年洛阳市市直事业单位招聘工作人员面试资格确认相关事宜的通知 ",
+        "nickname": "洛阳人事",
+        "created_at": "2020-09-22",
+        "archive": "gh_afad949b93dd_2020-09-22_2247502720_GvmT78VzRj.y.tar.gz",
+        "censored_date": "2020-09-23 23:39:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-22 18:44:31"
     }
 ]
