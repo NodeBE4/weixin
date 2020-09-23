@@ -2447,6 +2447,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMzA4MzUyMw==&mid=2651598431&idx=1&sn=8f5b339586174b7ddd5ebb291fc139e6",
         "title": "学恩来精神 守初心使命！省纪委监委来淮开展专题教育活动",
+        "title_eng": "Learn Enlai's spirit and keep the original mission! Provincial Commission for Discipline Inspection came to Huai to carry out special education activities",
         "nickname": "淮安发布",
         "created_at": "2020-09-22",
         "archive": "gh_e8a9d366aea8_2020-09-22_2651598431_ApIZRzcTOj.y.tar.gz",
@@ -2457,10 +2458,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzEzNzQ3MQ==&mid=2650220659&idx=1&sn=b89aa1626c031dac9d76d98d5bc0e44b",
         "title": "独家：视频号内测直播带货、30分钟长视频，微信在下一盘大棋？",
+        "title_eng": "Exclusive: The video account will have live broadcast of the internal test and 30-minute video. Is WeChat the next big game?",
         "nickname": "微果酱",
         "created_at": "2020-09-23",
         "archive": "gh_dc40b0299132_2020-09-23_2650220659_5y1mzHusQq.y.tar.gz",
         "censored_date": "2020-09-23 22:07:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653011429&idx=2&sn=5322145247756d852cb5e7e5765b8f20",
+        "title": "市场传来大消息，这将是A股下一个爆发的板块！",
+        "nickname": "财经要参",
+        "created_at": "2020-09-22",
+        "archive": "gh_34471e1f4b56_2020-09-22_2653011429_KQWxz0fDCP.y.tar.gz",
+        "censored_date": "2020-09-23 22:58:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-23 02:14:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247508554&idx=1&sn=6953c21b97e74dece74526348bab68ab",
+        "title": "自封？清华党组会会议决定：清华已成为世界一流大学",
+        "nickname": "柏举居士",
+        "created_at": "2020-09-23",
+        "archive": "gh_c1335a131ff4_2020-09-23_2247508554_djcL3zbxiI.y.tar.gz",
+        "censored_date": "2020-09-23 23:02:14",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-23 19:40:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjIxOTQ0OA==&mid=2247492728&idx=1&sn=698918479437aab6fca3aff830eb0a68",
+        "title": "券商如期启动，牛市初期！有准备的人已经抢下了它",
+        "nickname": "海外探客",
+        "created_at": "2020-09-23",
+        "archive": "gh_1cb796cd4c22_2020-09-23_2247492728_qdKY95Dc3W.y.tar.gz",
+        "censored_date": "2020-09-23 22:35:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
