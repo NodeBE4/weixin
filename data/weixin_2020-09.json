@@ -2663,6 +2663,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=OTE4MzAyODYx&mid=2652244850&idx=1&sn=f5316c924aa768661e2ab882dcc80cb9",
         "title": "真的，男生根本不了解女生",
+        "title_eng": "Really, boys don’t understand girls at all",
         "nickname": "壹读",
         "created_at": "2020-09-24",
         "archive": "wxid_9099770999011_2020-09-24_2652244850_qj8yLSik6d.y.tar.gz",
@@ -2672,11 +2673,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649806461&idx=4&sn=6a0de2f19a2acf766a6c1928c88e70ec",
         "title": "硕博士强烈建议掌握的高效论文工具",
+        "title_eng": "Efficient thesis tools strongly recommended for masters and doctors",
         "nickname": "近现代史论",
         "created_at": "2020-09-23",
         "archive": "gh_ef9695b6d53c_2020-09-23_2649806461_i6asWr7cZl.y.tar.gz",
         "censored_date": "2020-09-24 12:58:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-23 09:39:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTIxMjEzMzc0MQ==&mid=2671749912&idx=1&sn=de2b0a1307f5d204d7b5ac0bdb814cea",
+        "title": "“队伍都要拐弯了！”今早杭州多家医院取号机没法用，医保支付系统瘫痪了？最新回应",
+        "nickname": "钱江晚报",
+        "created_at": "2020-09-24",
+        "archive": "wxid_9251842518611_2020-09-24_2671749912_t7zuM8ZaRU.y.tar.gz",
+        "censored_date": "2020-09-24 13:43:24",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzY1MjIwNA==&mid=2652110565&idx=2&sn=166e42d92e89c52eb54436f9527e3cd2",
+        "title": "这种面膜被多家媒体报道！可能就在你身边，好多女性都用过……",
+        "nickname": "福州日报",
+        "created_at": "2020-09-22",
+        "archive": "gh_516642c12ba2_2020-09-22_2652110565_EfMuUX7htP.y.tar.gz",
+        "censored_date": "2020-09-24 14:23:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
