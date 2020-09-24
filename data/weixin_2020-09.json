@@ -2422,7 +2422,7 @@
         "archive": "gh_f8d73b28357d_2020-09-22_2658321960_uatoqE07Yc.y.tar.gz",
         "censored_date": "2020-09-23 13:02:39",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-23 02:13:16"
+        "update_date": "2020-09-24 18:51:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxODY1NA==&mid=2247502957&idx=2&sn=70e006efa45cea02d8301bf1e7a205d1",
@@ -2714,6 +2714,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247500185&idx=1&sn=0eaa8e51dd347886535b6ce5b97624c5",
         "title": "腰斩！北龙湖突降至2万6，楼市寒冬里的苍凉底色",
+        "title_eng": "Cut in half! Beilong Lake suddenly dropped to 26,000, the desolate background color of the property market in the cold winter",
         "nickname": "海外财经",
         "created_at": "2020-09-24",
         "archive": "gh_8f29429f71d7_2020-09-24_2247500185_0k6o1Tpibs.y.tar.gz",
@@ -2723,10 +2724,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247502632&idx=1&sn=8a89d38e87340885642ab4314263d74e",
         "title": "活鱼竟致癌！美国根本没人吃，可中国却遍地都是！",
+        "title_eng": "Live fish actually cause cancer! No one in the United States eats it, but it is everywhere in China!",
         "nickname": "遮眼看天",
         "created_at": "2020-09-22",
         "archive": "gh_b984621ff266_2020-09-22_2247502632_jPq0UdZExg.y.tar.gz",
         "censored_date": "2020-09-24 17:54:09",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247499239&idx=1&sn=8c4605dd8d51adc7889da766c94bdcd7",
+        "title": "9月20日起，美对中国320项产品恢复加征关税25%",
+        "nickname": "难得视界",
+        "created_at": "2020-09-22",
+        "archive": "gh_1c6cefeca9ab_2020-09-22_2247499239_AwvmhBDkgH.y.tar.gz",
+        "censored_date": "2020-09-24 18:34:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-23 16:27:48"
     }
 ]
