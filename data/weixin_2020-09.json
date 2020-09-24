@@ -2540,7 +2540,7 @@
         "archive": "gh_6768c4e761a2_2020-09-23_2656646655_VWtwAyG7On.y.tar.gz",
         "censored_date": "2020-09-24 01:17:21",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-24 03:01:47"
+        "update_date": "2020-09-24 13:11:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247497977&idx=1&sn=660a0b4e193c2da67d651d84877ad401",
@@ -2551,7 +2551,7 @@
         "archive": "gh_ed7d58d184ae_2020-09-22_2247497977_DSZXfae28I.y.tar.gz",
         "censored_date": "2020-09-24 01:41:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-22 19:36:42"
+        "update_date": "2020-09-24 12:32:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA4MTQ5OA==&mid=2654274532&idx=1&sn=893fcf578831a3a638e16bbe096fb0d8",
@@ -2652,11 +2652,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDExMzcyMQ==&mid=2672274149&idx=5&sn=503084e4178c315d63f076c3787f65dc",
         "title": "千挑万选，终于找到“显瘦20斤”的针织衫！温柔、慵懒、高级、版型100分！",
+        "title_eng": "After thousands of choices, I finally found a knit sweater that was 20 catties thinner! Gentle, lazy, advanced, 100 points for the version!",
         "nickname": "先生读库",
         "created_at": "2020-09-21",
         "archive": "gh_764542393f16_2020-09-21_2672274149_2UhMPRbg0N.y.tar.gz",
         "censored_date": "2020-09-24 12:07:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-22 09:57:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=OTE4MzAyODYx&mid=2652244850&idx=1&sn=f5316c924aa768661e2ab882dcc80cb9",
+        "title": "真的，男生根本不了解女生",
+        "nickname": "壹读",
+        "created_at": "2020-09-24",
+        "archive": "wxid_9099770999011_2020-09-24_2652244850_qj8yLSik6d.y.tar.gz",
+        "censored_date": "2020-09-24 13:07:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649806461&idx=4&sn=6a0de2f19a2acf766a6c1928c88e70ec",
+        "title": "硕博士强烈建议掌握的高效论文工具",
+        "nickname": "近现代史论",
+        "created_at": "2020-09-23",
+        "archive": "gh_ef9695b6d53c_2020-09-23_2649806461_i6asWr7cZl.y.tar.gz",
+        "censored_date": "2020-09-24 12:58:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-23 09:39:57"
     }
 ]
