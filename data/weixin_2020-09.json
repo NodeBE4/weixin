@@ -3137,6 +3137,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2649993811&idx=1&sn=e9491294a1ffee2e00ff5efd38207c3a",
         "title": "“罗永浩自曝2年还债4亿…”沙雕网友：我快不认识亿这个字了！！",
+        "title_eng": "Luo Yonghao reveals that he will pay 400 million yuan in two years... Sand sculpture netizen: I almost don't recognize the word billion! !",
         "nickname": "吐槽星君",
         "created_at": "2020-09-24",
         "archive": "gh_45220e40f13c_2020-09-24_2649993811_RaVTLFmDiw.y.tar.gz",
@@ -3147,10 +3148,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTk1MjIwODAwMQ==&mid=2650937516&idx=1&sn=333d45868d58964b0a78886745904913",
         "title": "突发！华为东莞一实验室起火（视频）！最新通报",
+        "title_eng": "Burst! A fire broke out in a Huawei Dongguan laboratory (video)! Latest Bulletin",
         "nickname": "南方都市报",
         "created_at": "2020-09-25",
         "archive": "wxid_4783107810411_2020-09-25_2650937516_kEZ0dOuNF5.y.tar.gz",
         "censored_date": "2020-09-25 21:40:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-25 23:11:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTE2NDUwMA==&mid=2657126007&idx=1&sn=f5846afe9289f5a609823e9807287fea",
+        "title": "张又侠在出席全军“双争”活动试点试行工作交流会",
+        "nickname": "解放军报",
+        "created_at": "2020-09-25",
+        "archive": "gh_44a7747bcd60_2020-09-25_2657126007_aFMHzV5Xg7.y.tar.gz",
+        "censored_date": "2020-09-25 23:14:48",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
