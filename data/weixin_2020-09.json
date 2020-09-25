@@ -2918,11 +2918,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Mjc5NDAzMw==&mid=2650789005&idx=1&sn=ae25d428e8c04bf0ed5e00c8f211a2bf",
         "title": "2020年9月22日新增确诊7例，均为境外输入",
+        "title_eng": "7 newly confirmed cases on September 22, 2020, all imported from abroad",
         "nickname": "1818黄金眼",
         "created_at": "2020-09-24",
         "archive": "gh_3c22726ebe94_2020-09-24_2650789005_oXQ0JyIPBg.y.tar.gz",
         "censored_date": "2020-09-25 13:36:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-24 12:54:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247486717&idx=2&sn=e9aafe31f279279cc53476c645ae6e13",
+        "title": "白酒放久了到底会不会过期，二十元和百元酒有什么区别？",
+        "nickname": "阅天下百事",
+        "created_at": "2020-09-24",
+        "archive": "gh_8508f826af1e_2020-09-24_2247486717_BUFr2Ang5K.y.tar.gz",
+        "censored_date": "2020-09-25 15:02:37",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-24 14:19:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247599781&idx=3&sn=1ba2c895d78e63e4932bddaf4ce3cb86",
+        "title": "钟南山分享战“疫”经历：听取武汉当地汇报曾连续追问有无人传人",
+        "nickname": "新京报",
+        "created_at": "2020-09-24",
+        "archive": "gh_16cc427c8e02_2020-09-24_2247599781_WsIfJemqbK.y.tar.gz",
+        "censored_date": "2020-09-25 15:15:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-24 14:24:18"
     }
 ]
