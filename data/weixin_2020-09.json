@@ -2488,7 +2488,7 @@
         "archive": "gh_c1335a131ff4_2020-09-23_2247508554_djcL3zbxiI.y.tar.gz",
         "censored_date": "2020-09-23 23:02:14",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-24 18:08:30"
+        "update_date": "2020-09-25 22:09:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIxOTQ0OA==&mid=2247492728&idx=1&sn=698918479437aab6fca3aff830eb0a68",
@@ -3122,5 +3122,35 @@
         "censored_date": "2020-09-25 19:38:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-24 17:33:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjEyMTE5NA==&mid=2650841633&idx=2&sn=d77e8ec81e2484f9c437115cab041687",
+        "title": "“我不是华人，我是满洲人！”一大批美国华人决定与中国划清界限",
+        "title_eng": "I am not Chinese, I am Manchurian! A large number of Chinese Americans decided to draw a clear line with China",
+        "nickname": "稻田报告",
+        "created_at": "2020-09-23",
+        "archive": "gh_736c227c132c_2020-09-23_2650841633_zlqyTbpfIZ.y.tar.gz",
+        "censored_date": "2020-09-25 21:32:14",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-24 16:45:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2649993811&idx=1&sn=e9491294a1ffee2e00ff5efd38207c3a",
+        "title": "“罗永浩自曝2年还债4亿…”沙雕网友：我快不认识亿这个字了！！",
+        "nickname": "吐槽星君",
+        "created_at": "2020-09-24",
+        "archive": "gh_45220e40f13c_2020-09-24_2649993811_RaVTLFmDiw.y.tar.gz",
+        "censored_date": "2020-09-25 22:17:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-24 20:26:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTk1MjIwODAwMQ==&mid=2650937516&idx=1&sn=333d45868d58964b0a78886745904913",
+        "title": "突发！华为东莞一实验室起火（视频）！最新通报",
+        "nickname": "南方都市报",
+        "created_at": "2020-09-25",
+        "archive": "wxid_4783107810411_2020-09-25_2650937516_kEZ0dOuNF5.y.tar.gz",
+        "censored_date": "2020-09-25 21:40:30",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
