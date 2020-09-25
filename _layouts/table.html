@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function(event){
     'origin_url': '<i class="fa fa-weixin wechat" title="公众号原始链接"></i>',
     'censored_date': '<i class="fa fa-ban weibo" title="删除时间"></i>',
     'censored_msg': '<i class="fa fa-question-circle weibo" title="删除原因"></i>',
-    'view': '<i class="fa fa-camera vk" title="缓存(只保留一周)"></i>',
+    'snapshot': '<i class="fa fa-camera vk" title="缓存(只保留一周)"></i>',
     'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
     'archive': '<i class="fa fa-globe chrome" title="永久保存到archive.today"></i>',
     'time-machine': '<i class="fa fa-university chrome" title="永久保存到archive.org"></i>',
@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       tbody.appendChild(tr)
       thead_keys.map(key => {
         let td1 = document.createElement('td');
-        if (key == 'view'){
+        if (key == 'snapshot'){
           td1.innerHTML += `<a href="${tempurl}${item['archive']}"><b>查看</b></a>`;
         }else if(key=='origin_url'){
           td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
