@@ -2963,6 +2963,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0OTcwMTc4Ng==&mid=2247505789&idx=6&sn=142dffecb2fef26c9376660e53202c3a",
         "title": "反转、反转、再反转，Tiktok命运出现戏剧性转折，但别高兴太早",
+        "title_eng": "Reverse, reverse, reverse again, Tiktok's destiny has a dramatic turn, but don’t be too happy",
         "nickname": "今日防务观察",
         "created_at": "2020-09-23",
         "archive": "gh_c225404568b3_2020-09-23_2247505789_nTGa5uglVc.y.tar.gz",
@@ -2973,10 +2974,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjAxMzE5OTMyMQ==&mid=2654116829&idx=2&sn=f6920de1582c1652401a5a4e9a6fdf32",
         "title": "重要提醒：揭开人体免疫力之谜！正在午休的职场人，请你点开这篇文章，不亏！",
+        "title_eng": "Important reminder: Uncover the mystery of human immunity! Those who are on lunch break, please click on this article, no loss!",
         "nickname": "半岛晨报",
         "created_at": "2020-09-24",
         "archive": "wxid_4942649426112_2020-09-24_2654116829_QDKGpySeMq.y.tar.gz",
         "censored_date": "2020-09-25 16:04:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652202145&idx=2&sn=35fb62102bcd494920c6874d3d4720d6",
+        "title": "千亿芯片经费，变成美国豪宅",
+        "nickname": "大千世界",
+        "created_at": "2020-09-23",
+        "archive": "gh_a517719487ef_2020-09-23_2652202145_4q2PxQ7AdD.y.tar.gz",
+        "censored_date": "2020-09-25 16:53:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-24 15:11:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=3&sn=538da457c57d27ff7fe3ff05c90e47d6",
+        "title": "香港顶级富豪不为人知的秘密",
+        "nickname": "恒丰美林大投管",
+        "created_at": "2020-09-25",
+        "archive": "gh_dddf1591efa6_2020-09-25_2650012298_sdifA82rZ5.y.tar.gz",
+        "censored_date": "2020-09-25 17:11:32",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
