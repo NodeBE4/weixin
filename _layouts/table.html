@@ -57,6 +57,7 @@ comments: true
 //     $('#add-hero-form').DataTable();
 // } );
 const tempurl = `https://wechatscope.jmsc.hku.hk/api/html?fn=`
+const searchurl = `https://github.com/NodeBE4/weixin/issues?q=is%3Aissue+is%3Aclosed+`
 
 document.addEventListener("DOMContentLoaded", function(event){
   var url = "{{ site.baseurl }}/{{ page.data }}";
@@ -103,9 +104,6 @@ document.addEventListener("DOMContentLoaded", function(event){
           td1.innerHTML += `<a href="${tempurl}${item['archive']}"><b>查看</b></a>`;
         }else if(key=='origin_url'){
           td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
-        }else if(key=='duty-machine'){
-          let archived = `https://wechatscope.jmsc.hku.hk/api/html?fn=${item['archive']}`
-          td1.innerHTML += `<a onclick="duty_machine('${archived}')" style="color:#2980B9"><i class="fa fa-archive"></i></a>`
         }else if(key=='censored_msg'){
           if (item[key].includes('deleted by the author')){
             td1.innerHTML += `<i style="font-size: 12px;">被作者删除</i>`
@@ -115,6 +113,11 @@ document.addEventListener("DOMContentLoaded", function(event){
             let val = item[key] || 0
             td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
           }
+        }else if(key=='duty-machine'){
+          let archived = `https://wechatscope.jmsc.hku.hk/api/html?fn=${item['archive']}`
+          td1.innerHTML += `<a onclick="duty_machine('${archived}')" style="color:#2980B9" ><i class="fa fa-archive"></i></a>`
+          let encodedurl = searchurl+encodeURIComponent(item.title)
+          td1.innerHTML += `&nbsp<a href="${encodedurl}" style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`          
         }else if (key=='archive'){
           let decodedurl = `${tempurl}${item['archive']}`
           let encodedurl = encodeURIComponent(decodedurl)
