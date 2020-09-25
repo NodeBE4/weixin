@@ -22,11 +22,11 @@ comments: true
   <p class="text-center"><i>BITE ME</i></p>
 </div>
 
+<div style="font-size: 12px">
+  <span style="color: #3498DB;">提示：<i>点击表头可改变排序，鼠标悬浮于表头图标获取详细含义。内容每小时自动更新一次，HKU缓存只保留一周。</i></span>
+</div>
 <table id="add-hero-form" class="table table-striped table-bordered table-sm" style="width:100%;">
 </table>
-<div style="font-size: 12px">
-  <span style="color: #3498DB;"><i>"每小时自动更新一次，点击表头可改变排序。"</i></span>
-</div>
 
 <hr>
 <div class="row">
@@ -66,15 +66,15 @@ document.addEventListener("DOMContentLoaded", function(event){
   noscript.parentNode.removeChild(noscript)
   const thead_format = {
     'title': '<span><b>标题</b></span>',
-    'nickname': '<span><b>作者</b></span>',
-    'created_at': '<span><b>发布</b></span>',
-    'origin_url': '<span><b>原链</b></span>',
-    'view': '<span><b>缓存</b></span>',
-    'censored_date': '<span><b>删除</b></span>',
-    'censored_msg': '<span><b>原因</b></span>',
+    'nickname': '<i class="fa fa-at wechat" title="作者"></i>',
+    'created_at': '<i class="fa fa-check-circle wechat" title="发布时间"></i>',
+    'origin_url': '<i class="fa fa-weixin wechat" title="公众号原始链接"></i>',
+    'censored_date': '<i class="fa fa-ban weibo" title="删除时间"></i>',
+    'censored_msg': '<i class="fa fa-question-circle weibo" title="删除原因"></i>',
+    'view': '<i class="fa fa-camera vk" title="缓存(只保留一周)"></i>',
     'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
-    'archive': '<i class="fa fa-globe" title="archive.today"></i>',
-    'time-machine': '<i class="fa fa-university" title="archive.org"></i>',
+    'archive': '<i class="fa fa-globe chrome" title="永久保存到archive.today"></i>',
+    'time-machine': '<i class="fa fa-university chrome" title="永久保存到archive.org"></i>',
   }
   $.getJSON(url, function(json) {
     herolist = json;
@@ -120,11 +120,11 @@ document.addEventListener("DOMContentLoaded", function(event){
           let decodedurl = `${tempurl}${item['archive']}`
           let encodedurl = encodeURIComponent(decodedurl)
           td1.innerHTML += `<a href="https://archive.today/?run=1&url=${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
-          td1.innerHTML += `&nbsp<a href="https://archive.today/${decodedurl}" target="_blank"><i class="fa fa-search"></i></a>`
+          td1.innerHTML += `&nbsp<a href="https://archive.today/${decodedurl}"  style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`
         }else if (key=='time-machine'){
           let decodedurl = `${tempurl}${item['archive']}`
           td1.innerHTML += `<a href="https://web.archive.org/save/${decodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
-          td1.innerHTML += `&nbsp<a href="https://web.archive.org/web/*/${decodedurl}" target="_blank"><i class="fa fa-search"></i></a>`
+          td1.innerHTML += `&nbsp<a href="https://web.archive.org/web/*/${decodedurl}"  style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`
         }else{
           let val = item[key] || 0
           td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
