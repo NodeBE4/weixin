@@ -117,11 +117,14 @@ document.addEventListener("DOMContentLoaded", function(event){
             td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
           }
         }else if (key=='archive'){
-          let encodedurl = encodeURIComponent(`${tempurl}${item['archive']}`)
+          let decodedurl = `${tempurl}${item['archive']}`
+          let encodedurl = encodeURIComponent(decodedurl)
           td1.innerHTML += `<a href="https://archive.today/?run=1&url=${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
+          td1.innerHTML += `&nbsp<a href="https://archive.today/${decodedurl}" target="_blank"><i class="fa fa-search"></i></a>`
         }else if (key=='time-machine'){
-          let encodedurl = `${tempurl}${item['archive']}`
-          td1.innerHTML += `<a href="https://web.archive.org/save/${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
+          let decodedurl = `${tempurl}${item['archive']}`
+          td1.innerHTML += `<a href="https://web.archive.org/save/${decodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
+          td1.innerHTML += `&nbsp<a href="https://web.archive.org/web/*/${decodedurl}" target="_blank"><i class="fa fa-search"></i></a>`
         }else{
           let val = item[key] || 0
           td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
