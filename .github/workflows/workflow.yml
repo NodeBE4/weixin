@@ -1,6 +1,8 @@
 on:
-  issues:
-    types: [opened]
+  schedule:
+    - cron:  '*/5 * * * *'
+  # issues:
+  #   types: [opened]
 
 jobs:
   build:
