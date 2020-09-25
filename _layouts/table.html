@@ -56,6 +56,7 @@ comments: true
 // $(document).ready(function() {
 //     $('#add-hero-form').DataTable();
 // } );
+const tempurl = `https://wechatscope.jmsc.hku.hk/api/html?fn=`
 
 document.addEventListener("DOMContentLoaded", function(event){
   var url = "{{ site.baseurl }}/{{ page.data }}";
@@ -72,6 +73,8 @@ document.addEventListener("DOMContentLoaded", function(event){
     'censored_date': '<span><b>删除</b></span>',
     'censored_msg': '<span><b>原因</b></span>',
     'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
+    'archive': '<i class="fa fa-globe" title="archive.today"></i>',
+    'time-machine': '<i class="fa fa-university" title="archive.org"></i>',
   }
   $.getJSON(url, function(json) {
     herolist = json;
@@ -98,7 +101,6 @@ document.addEventListener("DOMContentLoaded", function(event){
       thead_keys.map(key => {
         let td1 = document.createElement('td');
         if (key == 'view'){
-          let tempurl = `https://wechatscope.jmsc.hku.hk/api/html?fn=`
           td1.innerHTML += `<a href="${tempurl}${item['archive']}"><b>查看</b></a>`;
         }else if(key=='origin_url'){
           td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
@@ -114,6 +116,12 @@ document.addEventListener("DOMContentLoaded", function(event){
             let val = item[key] || 0
             td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
           }
+        }else if (key=='archive'){
+          let encodedurl = encodeURIComponent(`${tempurl}${item['archive']}`)
+          td1.innerHTML += `<a href="https://archive.today/?run=1&url=${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
+        }else if (key=='time-machine'){
+          let encodedurl = `${tempurl}${item['archive']}`
+          td1.innerHTML += `<a href="https://web.archive.org/save/${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
         }else{
           let val = item[key] || 0
           td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
