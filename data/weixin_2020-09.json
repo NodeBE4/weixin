@@ -2543,7 +2543,7 @@
         "archive": "gh_6768c4e761a2_2020-09-23_2656646655_VWtwAyG7On.y.tar.gz",
         "censored_date": "2020-09-24 01:17:21",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-24 13:11:43"
+        "update_date": "2020-09-25 18:07:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247497977&idx=1&sn=660a0b4e193c2da67d651d84877ad401",
@@ -2984,6 +2984,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652202145&idx=2&sn=35fb62102bcd494920c6874d3d4720d6",
         "title": "千亿芯片经费，变成美国豪宅",
+        "title_eng": "Hundreds of billions of chip funding has turned into an American mansion",
         "nickname": "大千世界",
         "created_at": "2020-09-23",
         "archive": "gh_a517719487ef_2020-09-23_2652202145_4q2PxQ7AdD.y.tar.gz",
@@ -2994,10 +2995,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=3&sn=538da457c57d27ff7fe3ff05c90e47d6",
         "title": "香港顶级富豪不为人知的秘密",
+        "title_eng": "The secrets of Hong Kong's top richest people",
         "nickname": "恒丰美林大投管",
         "created_at": "2020-09-25",
         "archive": "gh_dddf1591efa6_2020-09-25_2650012298_sdifA82rZ5.y.tar.gz",
         "censored_date": "2020-09-25 17:11:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=1&sn=05afd48c337305c2e5e901a2b8b7fc8d",
+        "title": "全球经济通往计划之路",
+        "title_eng": "The Global Economy's Road to Plan",
+        "nickname": "恒丰美林大投管",
+        "created_at": "2020-09-25",
+        "archive": "gh_dddf1591efa6_2020-09-25_2650012298_Ej38rwQUg6.y.tar.gz",
+        "censored_date": "2020-09-25 17:29:48",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=2&sn=b010d7f8ad9910d0eba65644409861cf",
+        "title": "经纬张颖：头部的时代，求变或“死”",
+        "nickname": "恒丰美林大投管",
+        "created_at": "2020-09-25",
+        "archive": "gh_dddf1591efa6_2020-09-25_2650012298_amsp4OrSgG.y.tar.gz",
+        "censored_date": "2020-09-25 17:30:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651227594&idx=1&sn=0b41c0e69bc94046de877bf60d93fb17",
+        "title": "雨雨雨雨雨！徐州气象发布天气提示！未来几天将......",
+        "nickname": "无线徐州",
+        "created_at": "2020-09-25",
+        "archive": "gh_c495954e1d95_2020-09-25_2651227594_w7ZAk9sp34.y.tar.gz",
+        "censored_date": "2020-09-25 17:40:52",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
