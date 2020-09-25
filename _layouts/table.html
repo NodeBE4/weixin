@@ -67,8 +67,7 @@ document.addEventListener("DOMContentLoaded", function(event){
   const thead_format = {
     'title': '<span><b>标题</b></span>',
     'nickname': '<i class="fa fa-at wechat" title="作者"></i>',
-    'created_at': '<i class="fa fa-check-circle wechat" title="发布时间"></i>',
-    'origin_url': '<i class="fa fa-weixin wechat" title="公众号原始链接"></i>',
+    'created_at': '<i class="fa fa-calendar wechat" title="发布时间"></i>',
     'censored_date': '<i class="fa fa-ban weibo" title="删除时间"></i>',
     'censored_msg': '<i class="fa fa-question-circle weibo" title="删除原因"></i>',
     'snapshot': '<i class="fa fa-camera vk" title="缓存(只保留一周)"></i>',
@@ -125,6 +124,10 @@ document.addEventListener("DOMContentLoaded", function(event){
           let decodedurl = `${tempurl}${item['archive']}`
           td1.innerHTML += `<a href="https://web.archive.org/save/${decodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
           td1.innerHTML += `&nbsp<a href="https://web.archive.org/web/*/${decodedurl}"  style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`
+        }else if (key=='title'){
+          let val = item[key] || 0
+          td1.innerHTML += `<a href="https://${item.url}" style="font-size: 12px;" target="_blank"><i class="fa fa-weixin wechat" title="公众号原始链接"></i></a>`
+          td1.innerHTML += `&nbsp<i style="font-size: 12px;">${val}</i>`
         }else{
           let val = item[key] || 0
           td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
