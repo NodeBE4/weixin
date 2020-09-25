@@ -3159,10 +3159,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTE2NDUwMA==&mid=2657126007&idx=1&sn=f5846afe9289f5a609823e9807287fea",
         "title": "张又侠在出席全军“双争”活动试点试行工作交流会",
+        "title_eng": "Zhang Youxia is attending the pilot work exchange meeting for the double struggle activity of the whole army",
         "nickname": "解放军报",
         "created_at": "2020-09-25",
         "archive": "gh_44a7747bcd60_2020-09-25_2657126007_aFMHzV5Xg7.y.tar.gz",
         "censored_date": "2020-09-25 23:14:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-26 00:23:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDA0NDA4NA==&mid=2651217318&idx=1&sn=01d2af8bba0ee7fe5eef54124d61bd5d",
+        "title": "突发！华为一在建工地起火，官方回应",
+        "nickname": "长安街知事",
+        "created_at": "2020-09-25",
+        "archive": "gh_4226ad5d721f_2020-09-25_2651217318_401vrkdKPD.y.tar.gz",
+        "censored_date": "2020-09-25 23:39:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
