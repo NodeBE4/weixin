@@ -3212,7 +3212,8 @@
         "created_at": "2020-09-25",
         "archive": "gh_00e66b7f0a40_2020-09-25_2247519172_Lrbl56ZmW3.y.tar.gz",
         "censored_date": "2020-09-26 03:56:10",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-26 23:01:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247533290&idx=8&sn=eeb923b46d45765fb5b097a6652bf17c",
@@ -3311,11 +3312,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247502768&idx=1&sn=d01ef095e0a1b80c58c093b67a845b87",
         "title": "朝鲜的教材，别笑，差不多少！",
+        "title_eng": "North Korean textbooks, don’t laugh, almost a few!",
         "nickname": "遮眼看天",
         "created_at": "2020-09-24",
         "archive": "gh_b984621ff266_2020-09-24_2247502768_pQwNZd2jn4.y.tar.gz",
         "censored_date": "2020-09-26 22:13:31",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-09-26 03:43:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651872100&idx=2&sn=9fe4c1c0cabaae22746794ad7f76ffcc",
+        "title": "给市长写信！无锡百年老校学子，“办”成了件骄傲事",
+        "nickname": "江南晚报",
+        "created_at": "2020-09-25",
+        "archive": "gh_b6899e873133_2020-09-25_2651872100_sFjS3fwT4W.y.tar.gz",
+        "censored_date": "2020-09-26 22:57:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-25 01:31:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655269413&idx=2&sn=0363e0490e240b251afe3d94e7911769",
+        "title": "青岛最新通报：51份阳性！",
+        "nickname": "中国基金报",
+        "created_at": "2020-09-25",
+        "archive": "gh_a4a87df43a4c_2020-09-25_2655269413_WtVEjCQNni.y.tar.gz",
+        "censored_date": "2020-09-26 23:21:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-25 19:36:48"
     }
 ]
