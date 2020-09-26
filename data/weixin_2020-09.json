@@ -2792,7 +2792,7 @@
         "archive": "gh_e7ec33b5ef38_2020-09-24_2247485302_qH4W2tXgxZ.y.tar.gz",
         "censored_date": "2020-09-24 23:32:32",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-26 04:05:08"
+        "update_date": "2020-09-26 23:36:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTY0MTQzNg==&mid=2650247164&idx=1&sn=ff18eaee85b5cd74dfae02fcbb237615",
@@ -2803,7 +2803,7 @@
         "archive": "gh_e42462eb0fd1_2020-09-24_2650247164_VpWoa9wQeU.y.tar.gz",
         "censored_date": "2020-09-25 00:02:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 04:05:31"
+        "update_date": "2020-09-26 23:37:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODU1MTIyMw==&mid=2247533112&idx=1&sn=fc34c1d0922f847d69af09d127b95905",
@@ -3323,6 +3323,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651872100&idx=2&sn=9fe4c1c0cabaae22746794ad7f76ffcc",
         "title": "给市长写信！无锡百年老校学子，“办”成了件骄傲事",
+        "title_eng": "Write to the mayor! For the students from the century-old school in Wuxi, run has become a matter of pride",
         "nickname": "江南晚报",
         "created_at": "2020-09-25",
         "archive": "gh_b6899e873133_2020-09-25_2651872100_sFjS3fwT4W.y.tar.gz",
@@ -3333,6 +3334,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655269413&idx=2&sn=0363e0490e240b251afe3d94e7911769",
         "title": "青岛最新通报：51份阳性！",
+        "title_eng": "Qingdao's latest notification: 51 positive!",
         "nickname": "中国基金报",
         "created_at": "2020-09-25",
         "archive": "gh_a4a87df43a4c_2020-09-25_2655269413_WtVEjCQNni.y.tar.gz",
