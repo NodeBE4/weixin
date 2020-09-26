@@ -3015,7 +3015,8 @@
         "created_at": "2020-09-25",
         "archive": "gh_dddf1591efa6_2020-09-25_2650012298_Ej38rwQUg6.y.tar.gz",
         "censored_date": "2020-09-25 17:29:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-27 06:43:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=2&sn=b010d7f8ad9910d0eba65644409861cf",
@@ -3169,7 +3170,7 @@
         "archive": "gh_44a7747bcd60_2020-09-25_2657126007_aFMHzV5Xg7.y.tar.gz",
         "censored_date": "2020-09-25 23:14:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 14:23:59"
+        "update_date": "2020-09-27 07:02:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDA0NDA4NA==&mid=2651217318&idx=1&sn=01d2af8bba0ee7fe5eef54124d61bd5d",
@@ -3180,7 +3181,7 @@
         "archive": "gh_4226ad5d721f_2020-09-25_2651217318_401vrkdKPD.y.tar.gz",
         "censored_date": "2020-09-25 23:39:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 14:41:02"
+        "update_date": "2020-09-27 06:40:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651894967&idx=1&sn=a97439c9119f6de670dbd23a107c795d",
@@ -3340,7 +3341,7 @@
         "archive": "gh_a4a87df43a4c_2020-09-25_2655269413_WtVEjCQNni.y.tar.gz",
         "censored_date": "2020-09-26 23:21:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-25 19:36:48"
+        "update_date": "2020-09-27 06:52:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTQ2MTAxMA==&mid=2650245778&idx=2&sn=9d6316f985b14ba97dede20aa8e0f50d",
@@ -3484,11 +3485,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653012027&idx=3&sn=e491d901173b5d8c2be00736d37d10e6",
         "title": "让张文宏们消失。。。",
+        "title_eng": "Let Zhang Wenhong disappear. . .",
         "nickname": "财经要参",
         "created_at": "2020-09-25",
         "archive": "gh_34471e1f4b56_2020-09-25_2653012027_QAN2iR08l3.y.tar.gz",
         "censored_date": "2020-09-27 05:39:41",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-26 01:49:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTI3NzExNg==&mid=2651267253&idx=1&sn=5964d878a06b880394916032791579ee",
+        "title": "中美观察 | 美国商务部公布TikTok及微信禁令细则的启示【走出去智库】",
+        "nickname": "走出去智库CGGT",
+        "created_at": "2020-09-24",
+        "archive": "gh_e3492e7cf881_2020-09-24_2651267253_KAlROzWjq1.y.tar.gz",
+        "censored_date": "2020-09-27 06:33:20",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-25 23:52:22"
     }
 ]
