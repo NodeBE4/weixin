@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       thead_keys.map(key => {
         let td1 = document.createElement('td');
         if (key == 'snapshot'){
-          td1.innerHTML += `<a href="${tempurl}${item['archive']}"><b>查看</b></a>`;
+          td1.innerHTML += `<a href="${tempurl}${item['archive']}" target="_blank"><b>查看</b></a>`;
         }else if(key=='origin_url'){
           td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
         }else if(key=='censored_msg'){
