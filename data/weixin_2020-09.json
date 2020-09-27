@@ -3028,7 +3028,7 @@
         "archive": "gh_dddf1591efa6_2020-09-25_2650012298_amsp4OrSgG.y.tar.gz",
         "censored_date": "2020-09-25 17:30:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 19:58:23"
+        "update_date": "2020-09-27 20:54:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651227594&idx=1&sn=0b41c0e69bc94046de877bf60d93fb17",
@@ -3039,7 +3039,7 @@
         "archive": "gh_c495954e1d95_2020-09-25_2651227594_w7ZAk9sp34.y.tar.gz",
         "censored_date": "2020-09-25 17:40:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 19:58:45"
+        "update_date": "2020-09-27 21:01:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084520&idx=2&sn=efb6d25c56f0d7919fb134bd2de6bf3b",
@@ -3658,6 +3658,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzMxNjIzNQ==&mid=2654147396&idx=1&sn=28d4bf7607fb75e1c7e0cf99e94948b5",
         "title": "贵阳市通报七起违反中央八项规定精神典型问题",
+        "title_eng": "Guiyang City notified seven typical mental problems that violated the eight central regulations",
         "nickname": "贵阳发布",
         "created_at": "2020-09-27",
         "archive": "gh_17b5c2113f0d_2020-09-27_2654147396_kq5w3jZENf.y.tar.gz",
@@ -3667,6 +3668,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247490231&idx=1&sn=9e9ef6c1d5ef4abc59013572e6544fd3",
         "title": "即将上市的金龙鱼公司出大事，603吨食用油检出转基因却不标示",
+        "title_eng": "A major incident occurred in the upcoming Arowana company, 603 tons of edible oil detected genetically modified but not labeled",
         "nickname": "环球华人微刊",
         "created_at": "2020-09-26",
         "archive": "gh_0e52cf0e55c4_2020-09-26_2247490231_1djQcDuX3H.y.tar.gz",
@@ -3684,5 +3686,14 @@
         "censored_date": "2020-09-27 19:51:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-26 21:32:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247503041&idx=1&sn=46e047abff7f72567332b5b4d40d698c",
+        "title": "重要公告！重点大学开放招生，免试入学！最快1年半学完！教育部备案！9.26日22:00报名截止！",
+        "nickname": "洛阳人事",
+        "created_at": "2020-09-25",
+        "archive": "gh_afad949b93dd_2020-09-25_2247503041_k1HYnq9jTw.y.tar.gz",
+        "censored_date": "2020-09-27 21:15:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
