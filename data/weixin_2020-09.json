@@ -3700,6 +3700,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247505168&idx=2&sn=5b19afea886f36ab68f4b75a70058d55",
         "title": "“接盘侠”许家印",
+        "title_eng": "Pan Xia Xu Jiayin",
         "nickname": "天狐观察",
         "created_at": "2020-09-27",
         "archive": "gh_fd5f7267524b_2020-09-27_2247505168_pTLaSqzkJe.y.tar.gz",
@@ -3709,10 +3710,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI5OTI1OA==&mid=2652927697&idx=2&sn=615a5734946c5c77e2217c6d34c19796",
         "title": "郭晶晶儿子天价幼儿园曝光：8岁以前不培养孩子这一点，砸再多钱也没用！",
+        "title_eng": "Guo Jingjing’s son’s high-priced kindergarten exposes: It’s useless to spend more money if you don’t nurture children before the age of 8!",
         "nickname": "李月亮",
         "created_at": "2020-09-26",
         "archive": "gh_0d184b37505f_2020-09-26_2652927697_218kwZTno3.y.tar.gz",
         "censored_date": "2020-09-28 00:00:47",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485344&idx=2&sn=b2260bb1fdb5dc744b04dc2a0fc27b10",
+        "title": "以色列全境驱除黑人",
+        "nickname": "平民新世界",
+        "created_at": "2020-09-26",
+        "archive": "gh_2f53a9e900c6_2020-09-26_2247485344_Aaw3QeWlgK.y.tar.gz",
+        "censored_date": "2020-09-28 00:38:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-26 20:59:47"
     }
 ]
