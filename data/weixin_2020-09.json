@@ -3596,6 +3596,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653324992&idx=6&sn=63dc843d9921d09edb8ca9031c3a946e",
         "title": "这几种面相的人,一生富贵命,运气好到让人嫉妒!",
+        "title_eng": "People with these kinds of faces are rich and rich in their lives, and luck is so good that they make people jealous!",
         "nickname": "画友文学天地",
         "created_at": "2020-09-25",
         "archive": "gh_e4d7b38fb8a3_2020-09-25_2653324992_UgQ3LBxmSq.y.tar.gz",
@@ -3605,10 +3606,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653235694&idx=1&sn=a06ae9f97188b64b9da397cc5e87a473",
         "title": "内蒙古自治区第十二次妇女代表大会今日开幕！",
+        "title_eng": "The Twelfth Women's Congress of the Inner Mongolia Autonomous Region opened today!",
         "nickname": "内蒙古日报",
         "created_at": "2020-09-27",
         "archive": "gh_b7047f0cbe74_2020-09-27_2653235694_Smp05AcFVD.y.tar.gz",
         "censored_date": "2020-09-27 17:19:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjMwMTQ1Mg==&mid=2655942881&idx=1&sn=81ada018799a945b7a44a46a12197b94",
+        "title": "时隔1年，这位北大博士后再度履新",
+        "nickname": "政知圈",
+        "created_at": "2020-09-25",
+        "archive": "gh_981edbe27236_2020-09-25_2655942881_B9rcJl3VQ0.y.tar.gz",
+        "censored_date": "2020-09-27 17:35:24",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
