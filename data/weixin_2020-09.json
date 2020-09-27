@@ -3005,7 +3005,8 @@
         "created_at": "2020-09-25",
         "archive": "gh_dddf1591efa6_2020-09-25_2650012298_sdifA82rZ5.y.tar.gz",
         "censored_date": "2020-09-25 17:11:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-27 14:55:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=1&sn=05afd48c337305c2e5e901a2b8b7fc8d",
@@ -3016,7 +3017,7 @@
         "archive": "gh_dddf1591efa6_2020-09-25_2650012298_Ej38rwQUg6.y.tar.gz",
         "censored_date": "2020-09-25 17:29:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-27 06:43:16"
+        "update_date": "2020-09-27 14:56:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650012298&idx=2&sn=b010d7f8ad9910d0eba65644409861cf",
@@ -3552,6 +3553,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488621&idx=2&sn=ba024c25ffddc48ec4ff0eafc6a61d1a",
         "title": "关节痛、腰痛、肩颈痛反复无常？快帮爸妈收藏！很快见效！",
+        "title_eng": "Joint pain, low back pain, shoulder and neck pain erratic? Quickly help parents collect! Effective soon!",
         "nickname": "世纪观察",
         "created_at": "2020-09-26",
         "archive": "gh_26762a56c129_2020-09-26_2247488621_ikqgHdcYQA.y.tar.gz",
@@ -3561,11 +3563,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247535313&idx=2&sn=62123d00b9420efca20b991e812e1483",
         "title": "秋已凉，就用它泡水喝！祛秋燥、化痰止咳，轻松甩掉大肚子...医生都推荐！",
+        "title_eng": "Autumn is cold, so soak in water to drink! Eliminate autumn dryness, relieve phlegm and relieve cough, easily get rid of big belly... Doctors recommend!",
         "nickname": "演讲与人生",
         "created_at": "2020-09-26",
         "archive": "gh_e525ae7f03af_2020-09-26_2247535313_Etf2JzmPBS.y.tar.gz",
         "censored_date": "2020-09-27 13:40:28",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-09-26 09:18:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247526460&idx=6&sn=932a3cec3aed8dd5f8fd3da9e72be08d",
+        "title": "厉害的人都不动声色地关注了这些公众号",
+        "nickname": "浪潮工作室",
+        "created_at": "2020-09-26",
+        "archive": "gh_0199c7d26b97_2020-09-26_2247526460_aMgCEqRm58.y.tar.gz",
+        "censored_date": "2020-09-27 14:55:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-27 15:05:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247526460&idx=7&sn=169955b03f712462a6468ef2a71b5b78",
+        "title": "不要再羡慕别人了，这份工作可以天天刷微博",
+        "nickname": "浪潮工作室",
+        "created_at": "2020-09-26",
+        "archive": "gh_0199c7d26b97_2020-09-26_2247526460_O5rCDyb281.y.tar.gz",
+        "censored_date": "2020-09-27 14:55:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-27 15:07:06"
     }
 ]
