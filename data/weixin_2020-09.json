@@ -3312,7 +3312,7 @@
         "archive": "gh_d1dd2906a77a_2020-09-25_2247488605_s0Gi0FPwYV.y.tar.gz",
         "censored_date": "2020-09-26 17:05:46",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-25 18:52:29"
+        "update_date": "2020-09-28 05:27:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247502768&idx=1&sn=d01ef095e0a1b80c58c093b67a845b87",
@@ -3737,7 +3737,8 @@
         "created_at": "2020-09-26",
         "archive": "gh_0538c4e6a15c_2020-09-26_2247495952_LvEOCFzZst.y.tar.gz",
         "censored_date": "2020-09-28 02:32:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-28 05:26:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247505156&idx=1&sn=b7f2d39eb8bf0d68f17ba0310890efb9",
@@ -3764,6 +3765,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084524&idx=2&sn=e24a59078790e861ce419955185a0644",
         "title": "教你这样喝茶，肚子小了，睡眠好了，3 高降了……",
+        "title_eng": "Teach you to drink tea like this, the stomach is small, the sleep is better, the 3 is higher and lower...",
         "nickname": "掌心大同",
         "created_at": "2020-09-24",
         "archive": "gh_69043f48c02f_2020-09-24_2650084524_TbhSs9YAN7.y.tar.gz",
@@ -3774,6 +3776,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084528&idx=2&sn=87ca6fef0b56442d3b73e62e9d3ea547",
         "title": "关节痛别再去踩坑了，科技新突破，从此告别关节反复疼痛！",
+        "title_eng": "Don't step on the pit anymore for joint pain, new breakthroughs in technology, say goodbye to repeated joint pain!",
         "nickname": "掌心大同",
         "created_at": "2020-09-25",
         "archive": "gh_69043f48c02f_2020-09-25_2650084528_ZOEn5M0gU7.y.tar.gz",
@@ -3784,6 +3787,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652891202&idx=1&sn=f473e9fc5dceef34179f1c0d33c13679",
         "title": "耒阳大型地摊夜市落户合兴城市广场——集美食、啤酒、音乐、地摊于一体，10月1日盛大启幕，全民发放消费券！",
+        "title_eng": "Leiyang's large-scale street stall night market settled in Hexing City Plaza-a collection of food, beer, music, and street stalls. The grand opening ceremony will be held on October 1st. Consumer vouchers will be issued to all people!",
         "nickname": "耒阳社区",
         "created_at": "2020-09-26",
         "archive": "gh_40f2418747aa_2020-09-26_2652891202_BJGcZga2vk.y.tar.gz",
@@ -3794,11 +3798,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzQ1Mjg1NQ==&mid=2652661641&idx=1&sn=c9c65526e2c1d4a27419d6d620b8f528",
         "title": "突发，最新发布",
+        "title_eng": "Burst, latest release",
         "nickname": "科技先锋",
         "created_at": "2020-09-26",
         "archive": "gh_8f9bccc0abb0_2020-09-26_2652661641_ElYdSIDKPO.y.tar.gz",
         "censored_date": "2020-09-28 04:44:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-26 08:51:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650156748&idx=1&sn=1fa488304a9d935f61afcf427914bdd9",
+        "title": "如果调控永远不放松，房子还能投资吗？",
+        "title_eng": "If the regulation never relaxes, can the house still be invested?",
+        "nickname": "经济学博士",
+        "created_at": "2020-09-25",
+        "archive": "gh_e1a04d0a7b17_2020-09-25_2650156748_DbcArUSmdR.y.tar.gz",
+        "censored_date": "2020-09-28 05:28:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-26 09:33:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTY1MTA4MA==&mid=2671590379&idx=2&sn=58e25bdd43c4741477797857365876af",
+        "title": "恒大事件：一次谣言的精准袭击",
+        "nickname": "思想潮",
+        "created_at": "2020-09-25",
+        "archive": "gh_ccb3f3d60cdb_2020-09-25_2671590379_mX6qQiEOrg.y.tar.gz",
+        "censored_date": "2020-09-28 05:59:19",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-27 04:56:17"
     }
 ]
