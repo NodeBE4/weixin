@@ -3690,7 +3690,7 @@
         "archive": "gh_610312e22ed3_2020-09-26_2247490992_y1EfzIlZV4.y.tar.gz",
         "censored_date": "2020-09-27 19:51:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 21:32:48"
+        "update_date": "2020-09-29 00:08:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247503041&idx=1&sn=46e047abff7f72567332b5b4d40d698c",
@@ -3961,6 +3961,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDk2NzczMQ==&mid=2651248795&idx=1&sn=0d2d584f75a93f111789d94a40064bfc",
         "title": "俄罗斯联邦国家安全战略（2009-2010）",
+        "title_eng": "National Security Strategy of the Russian Federation (2009-2010)",
         "nickname": "法意读书",
         "created_at": "2020-09-28",
         "archive": "gh_491e65fdbff7_2020-09-28_2651248795_jdPhBSxHRm.y.tar.gz",
@@ -3970,10 +3971,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjE3MTQ0NA==&mid=2247498903&idx=1&sn=2ed8543153af01d38c81064953a04e9a",
         "title": "刚刚，这位市委书记跻身省委常委",
+        "title_eng": "Just now, the secretary of the municipal party committee became a member of the provincial party committee",
         "nickname": "不是官话",
         "created_at": "2020-09-28",
         "archive": "gh_df94c5c63559_2020-09-28_2247498903_4UIRWxnpm3.y.tar.gz",
         "censored_date": "2020-09-28 23:04:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650422684&idx=4&sn=448183d5e718b02d2acf69d1a7246c5e",
+        "title": "南昌多地霸屏！这个女人到底什么来头？",
+        "nickname": "江南都市报",
+        "created_at": "2020-09-28",
+        "archive": "gh_b62058001651_2020-09-28_2650422684_dqHnNlTLbI.y.tar.gz",
+        "censored_date": "2020-09-28 23:54:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTA4NTYxMA==&mid=2247523957&idx=3&sn=06eed02d210691196cc5602cecb71e57",
+        "title": "陈锋任中国石油大学（北京）党委书记，山红红卸任",
+        "nickname": "政事儿",
+        "created_at": "2020-09-28",
+        "archive": "gh_3f3b4ee5d724_2020-09-28_2247523957_CpEUqJlIgV.y.tar.gz",
+        "censored_date": "2020-09-28 23:59:22",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
