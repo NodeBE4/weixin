@@ -3710,7 +3710,8 @@
         "created_at": "2020-09-27",
         "archive": "gh_fd5f7267524b_2020-09-27_2247505168_pTLaSqzkJe.y.tar.gz",
         "censored_date": "2020-09-28 00:09:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 01:10:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI5OTI1OA==&mid=2652927697&idx=2&sn=615a5734946c5c77e2217c6d34c19796",
@@ -3981,19 +3982,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650422684&idx=4&sn=448183d5e718b02d2acf69d1a7246c5e",
         "title": "南昌多地霸屏！这个女人到底什么来头？",
+        "title_eng": "Many places in Nanchang dominate the screen! What is the origin of this woman?",
         "nickname": "江南都市报",
         "created_at": "2020-09-28",
         "archive": "gh_b62058001651_2020-09-28_2650422684_dqHnNlTLbI.y.tar.gz",
         "censored_date": "2020-09-28 23:54:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 00:46:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTA4NTYxMA==&mid=2247523957&idx=3&sn=06eed02d210691196cc5602cecb71e57",
         "title": "陈锋任中国石油大学（北京）党委书记，山红红卸任",
+        "title_eng": "Chen Feng served as Party Secretary of China University of Petroleum (Beijing), Shan Honghong resigned",
         "nickname": "政事儿",
         "created_at": "2020-09-28",
         "archive": "gh_3f3b4ee5d724_2020-09-28_2247523957_CpEUqJlIgV.y.tar.gz",
         "censored_date": "2020-09-28 23:59:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 00:53:54"
     }
 ]
