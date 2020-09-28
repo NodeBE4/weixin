@@ -3733,7 +3733,7 @@
         "archive": "gh_2f53a9e900c6_2020-09-26_2247485344_Aaw3QeWlgK.y.tar.gz",
         "censored_date": "2020-09-28 00:38:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 20:59:47"
+        "update_date": "2020-09-29 04:26:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjMxNDQ1Ng==&mid=2247495952&idx=1&sn=a7760fa65856e239ed38491a5af9b3e9",
@@ -3948,7 +3948,8 @@
         "created_at": "2020-09-28",
         "archive": "gh_088decdf1338_2020-09-28_2649971892_4mKy02VHqu.y.tar.gz",
         "censored_date": "2020-09-28 21:39:24",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-29 05:20:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTE3NTM4Mw==&mid=2653015642&idx=3&sn=ea870b5c98062cfaa434adbab9f755ff",
@@ -4038,6 +4039,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486747&idx=1&sn=67600aa917a90d70cb1bcae5d7dfeb08",
         "title": "央视美女主持，陷性丑闻曝光...",
+        "title_eng": "CCTV beauty host, sex scandal exposed...",
         "nickname": "秘闻爆光",
         "created_at": "2020-09-27",
         "archive": "gh_94d9b14108ec_2020-09-27_2247486747_JYBAwKzGa7.y.tar.gz",
@@ -4048,11 +4050,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTA1MTMyMQ==&mid=2651863617&idx=1&sn=85d1a151f2a581450d24733eb73f0277",
         "title": "钟南山：母亲的自杀，是我永远难以言说的痛",
+        "title_eng": "Zhong Nanshan: Mother's suicide is a pain I can never say",
         "nickname": "最箴言",
         "created_at": "2020-09-27",
         "archive": "gh_96233a9afe6e_2020-09-27_2651863617_TmdqMz1hrG.y.tar.gz",
         "censored_date": "2020-09-29 04:20:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-28 00:30:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzU2ODE0NA==&mid=2247534113&idx=4&sn=a435834f255fc6092f8de79d8ceae29d",
+        "title": "大闸蟹吃到饱、花十几万装修鱼缸，这里不存在“下沉市场”",
+        "nickname": "燃财经",
+        "created_at": "2020-09-28",
+        "archive": "gh_0d3cd3b28734_2020-09-28_2247534113_v2Ww0bceSJ.y.tar.gz",
+        "censored_date": "2020-09-29 04:32:21",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2020-09-28 11:19:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653012432&idx=2&sn=32b113f0f73187544a2a28dfe0fc3f0d",
+        "title": "风向突变！美股传来大消息，特朗普或坐不住了！",
+        "nickname": "财经要参",
+        "created_at": "2020-09-27",
+        "archive": "gh_34471e1f4b56_2020-09-27_2653012432_OMVqR6aA7g.y.tar.gz",
+        "censored_date": "2020-09-29 04:37:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-28 01:08:38"
     }
 ]
