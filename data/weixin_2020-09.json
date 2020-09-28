@@ -3635,7 +3635,7 @@
         "archive": "gh_45220e40f13c_2020-09-26_2649994292_2yzMUmstYg.y.tar.gz",
         "censored_date": "2020-09-27 18:43:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 19:09:34"
+        "update_date": "2020-09-28 22:57:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247499593&idx=5&sn=cd0fa0f0be34a99d1f598ba153a49776",
@@ -3646,7 +3646,7 @@
         "archive": "gh_1aecabdf0add_2020-09-25_2247499593_NmY82K9PFs.y.tar.gz",
         "censored_date": "2020-09-27 18:59:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-26 19:16:44"
+        "update_date": "2020-09-28 23:02:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247493257&idx=3&sn=c88df3a0565205e0eeb5d0e817c9419e",
@@ -3656,7 +3656,8 @@
         "created_at": "2020-09-26",
         "archive": "gh_ccf6a72b140a_2020-09-26_2247493257_A05L7kHczV.y.tar.gz",
         "censored_date": "2020-09-27 19:20:42",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-28 22:57:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzMxNjIzNQ==&mid=2654147396&idx=1&sn=28d4bf7607fb75e1c7e0cf99e94948b5",
@@ -3940,6 +3941,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2649971892&idx=2&sn=c79b59f4d1ad92d037aa68ce384d0d85",
         "title": "假设拜登当选，市场会怎样？",
+        "title_eng": "Assuming Biden is elected, what will happen to the market?",
         "nickname": "智谷趋势",
         "created_at": "2020-09-28",
         "archive": "gh_088decdf1338_2020-09-28_2649971892_4mKy02VHqu.y.tar.gz",
@@ -3949,10 +3951,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTE3NTM4Mw==&mid=2653015642&idx=3&sn=ea870b5c98062cfaa434adbab9f755ff",
         "title": "时代来临！部署近1.3万颗卫星，中国低轨巨型星座国际申报开启",
+        "title_eng": "The time is coming! Nearly 13,000 satellites are deployed, and the international declaration for China's low-orbit giant constellation opens",
         "nickname": "讲武堂",
         "created_at": "2020-09-28",
         "archive": "gh_1a2a82f301d1_2020-09-28_2653015642_NjhpELaw30.y.tar.gz",
         "censored_date": "2020-09-28 22:13:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDk2NzczMQ==&mid=2651248795&idx=1&sn=0d2d584f75a93f111789d94a40064bfc",
+        "title": "俄罗斯联邦国家安全战略（2009-2010）",
+        "nickname": "法意读书",
+        "created_at": "2020-09-28",
+        "archive": "gh_491e65fdbff7_2020-09-28_2651248795_jdPhBSxHRm.y.tar.gz",
+        "censored_date": "2020-09-28 23:14:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjE3MTQ0NA==&mid=2247498903&idx=1&sn=2ed8543153af01d38c81064953a04e9a",
+        "title": "刚刚，这位市委书记跻身省委常委",
+        "nickname": "不是官话",
+        "created_at": "2020-09-28",
+        "archive": "gh_df94c5c63559_2020-09-28_2247498903_4UIRWxnpm3.y.tar.gz",
+        "censored_date": "2020-09-28 23:04:10",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
