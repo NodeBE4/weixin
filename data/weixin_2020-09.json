@@ -4298,7 +4298,8 @@
         "created_at": "2020-09-29",
         "archive": "gh_40f2418747aa_2020-09-29_2652892176_LzOmY9RQhf.y.tar.gz",
         "censored_date": "2020-09-29 23:01:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-30 17:46:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247499699&idx=2&sn=9aa7017e5d1e7522647de84997312d3b",
@@ -4483,6 +4484,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489388&idx=1&sn=37713e5c71201d347e0f83ca169ea8cd",
         "title": "美国公务员工资表",
+        "title_eng": "U.S. Public Employee Salary",
         "nickname": "海外独立频道",
         "created_at": "2020-09-28",
         "archive": "gh_fe6bb4bdd14d_2020-09-28_2247489388_PtvgeWpBo1.y.tar.gz",
@@ -4504,6 +4506,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQyMjAyMg==&mid=2649991418&idx=3&sn=79b1198cba65fff3860ea9918d332b33",
         "title": "省疾控中心发布“十一”假期出行提示",
+        "title_eng": "Provincial Center for Disease Control and Prevention Issues Travel Reminders on the 11th Holiday",
         "nickname": "哈尔滨日报",
         "created_at": "2020-09-28",
         "archive": "gh_100a698b17e3_2020-09-28_2649991418_A36qUvYrMR.y.tar.gz",
