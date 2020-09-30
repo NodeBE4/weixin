@@ -4256,7 +4256,8 @@
         "created_at": "2020-09-29",
         "archive": "gh_3d6bfdcee280_2020-09-29_2702346776_w7TkrzBbNK.y.tar.gz",
         "censored_date": "2020-09-29 20:41:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-30 20:09:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTEzODczMQ==&mid=2702346776&idx=3&sn=c846ab38940d0226db9a5b13c92018f2",
@@ -4513,5 +4514,15 @@
         "censored_date": "2020-09-30 17:21:14",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-29 03:44:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247503274&idx=2&sn=6f502a38865ef1049c7256e411b8fb7a",
+        "title": "洛阳北控水务集团有限公司招聘公告",
+        "title_eng": "Luoyang Beikong Water Group Co., Ltd. Recruitment Announcement",
+        "nickname": "洛阳人事",
+        "created_at": "2020-09-30",
+        "archive": "gh_afad949b93dd_2020-09-30_2247503274_4qB0QiGnSf.y.tar.gz",
+        "censored_date": "2020-09-30 20:23:01",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
