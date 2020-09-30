@@ -4429,6 +4429,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651228904&idx=2&sn=95f6382ef7159c8d28a6e6ca8c9fd6af",
         "title": "璞樾门第联排实体样板间 即将惊艳绽放！",
+        "title_eng": "The Puyuemen No. 1 Entity Model Room is about to bloom!",
         "nickname": "无线徐州",
         "created_at": "2020-09-28",
         "archive": "gh_c495954e1d95_2020-09-28_2651228904_FUwYijGPnc.y.tar.gz",
@@ -4461,6 +4462,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3ODUzMDA2Nw==&mid=2247553583&idx=1&sn=0a1d8d646674981b8715b80352f983d2",
         "title": "那个每天给“女友”转账666元的男子，烧炭自杀了",
+        "title_eng": "The man who transferred 666 yuan to his girlfriend every day burned charcoal and committed suicide",
         "nickname": "奔波儿灞与灞波儿奔",
         "created_at": "2020-09-29",
         "archive": "gh_12737ce9af5b_2020-09-29_2247553583_0gX1xpdAlQ.y.tar.gz",
@@ -4470,11 +4472,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mjk2NjEyNw==&mid=2651613193&idx=1&sn=43a4ee60f3c60d02fab8d563a0d3042e",
         "title": "垮 掉",
+        "title_eng": "Collapse",
         "nickname": "格林威治嬉皮研究公社",
         "created_at": "2020-09-28",
         "archive": "gh_929de71f2df8_2020-09-28_2651613193_HMG5XwRIqu.y.tar.gz",
         "censored_date": "2020-09-30 16:15:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-09-29 01:40:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489388&idx=1&sn=37713e5c71201d347e0f83ca169ea8cd",
+        "title": "美国公务员工资表",
+        "nickname": "海外独立频道",
+        "created_at": "2020-09-28",
+        "archive": "gh_fe6bb4bdd14d_2020-09-28_2247489388_PtvgeWpBo1.y.tar.gz",
+        "censored_date": "2020-09-30 16:30:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-28 17:33:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDA4MTYxMQ==&mid=2651874687&idx=2&sn=b210856d818a3cd60d99bbafe76e197d",
+        "title": "中国妻子出轨率全球最高？专家：7.5个妻子中就有一位不忠！",
+        "title_eng": "Chinese wife cheating rate is highest in the world? Expert: One in 7.5 wives is unfaithful!",
+        "nickname": "摆古论今",
+        "created_at": "2020-09-28",
+        "archive": "gh_957c1d902646_2020-09-28_2651874687_6cvfHZPBML.y.tar.gz",
+        "censored_date": "2020-09-30 16:27:16",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-29 15:33:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQyMjAyMg==&mid=2649991418&idx=3&sn=79b1198cba65fff3860ea9918d332b33",
+        "title": "省疾控中心发布“十一”假期出行提示",
+        "nickname": "哈尔滨日报",
+        "created_at": "2020-09-28",
+        "archive": "gh_100a698b17e3_2020-09-28_2649991418_A36qUvYrMR.y.tar.gz",
+        "censored_date": "2020-09-30 17:21:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 03:44:33"
     }
 ]
