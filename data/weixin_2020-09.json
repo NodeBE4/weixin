@@ -4541,6 +4541,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653220594&idx=1&sn=94930dc1ce39b963f2bcf937ff6f66df",
         "title": "中美之争 —— 其实已经失去了悬念 (深度好文)",
+        "title_eng": "The Sino-U.S. dispute-actually has lost the suspense (in-depth article)",
         "nickname": "腾飞讲史",
         "created_at": "2020-09-29",
         "archive": "gh_8492bb8e8be7_2020-09-29_2653220594_tZS0xrs4TP.y.tar.gz",
@@ -4551,6 +4552,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489389&idx=2&sn=1b0653d27a0299a038e7db997bb9dce3",
         "title": "她的生影响了&quot;全世界&quot;，她的死更是震惊了全球！今天不能不说她.....",
+        "title_eng": "Her life affected",
         "nickname": "海外独立频道",
         "created_at": "2020-09-29",
         "archive": "gh_fe6bb4bdd14d_2020-09-29_2247489389_EmxHCbYoKX.y.tar.gz",
@@ -4560,6 +4562,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489388&idx=3&sn=7d4da9447c3776f895989f29384cd6fa",
         "title": "911之后经最糟糕的噩梦！飞美航班亚裔男劫机：我有炸弹！",
+        "title_eng": "The worst nightmare after 9/11! Asian male hijacks a flight to the US: I have a bomb!",
         "nickname": "海外独立频道",
         "created_at": "2020-09-28",
         "archive": "gh_fe6bb4bdd14d_2020-09-28_2247489388_aIyuokzHTL.y.tar.gz",
@@ -4570,6 +4573,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489389&idx=5&sn=2cca04871bc79c71a32ba3283aa87103",
         "title": "台湾女子赤身大闹健身房、殴打谩骂教练，网友：天啊...太尴尬了吧！",
+        "title_eng": "Taiwanese women rioted in the gym naked, beat and abused their coaches, netizens: Oh my God...it's so embarrassing!",
         "nickname": "海外独立频道",
         "created_at": "2020-09-29",
         "archive": "gh_fe6bb4bdd14d_2020-09-29_2247489389_u1aRt3TgEB.y.tar.gz",
@@ -4579,10 +4583,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489388&idx=2&sn=d6be26eb3f00481f45674fc4970dd875",
         "title": "“中国又好发财女生又好睡？”，CBA外援晒不雅照侮辱中国女性，很多次了！",
+        "title_eng": "Chinese girls are so rich and sleepy?, CBA foreign aid insulted Chinese women many times!",
         "nickname": "海外独立频道",
         "created_at": "2020-09-28",
         "archive": "gh_fe6bb4bdd14d_2020-09-28_2247489388_zqLEaj9KPW.y.tar.gz",
         "censored_date": "2020-09-30 22:10:03",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650842096&idx=2&sn=f07776549e341a330687e661deb08728",
+        "title": "推荐一篇文章：《华为再放大招！》",
+        "nickname": "新闻早餐",
+        "created_at": "2020-09-29",
+        "archive": "gh_11d6ef0dd9d4_2020-09-29_2650842096_Ky8vqclSg0.y.tar.gz",
+        "censored_date": "2020-09-30 22:35:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 09:32:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650842096&idx=4&sn=336cbbd531e4a09a6d828ed50695f62c",
+        "title": "癌症在发作前的2年征兆，放到圈子很多人会感激你一辈子！",
+        "nickname": "新闻早餐",
+        "created_at": "2020-09-29",
+        "archive": "gh_11d6ef0dd9d4_2020-09-29_2650842096_P2Ksym6CJH.y.tar.gz",
+        "censored_date": "2020-09-30 22:37:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 09:23:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652296951&idx=1&sn=87c000f1b8ecbbf20b99e167bf919a07",
+        "title": "花58元桂林三日游，你将遭遇什么？记者报进“低价团”后，经历了这一切",
+        "nickname": "广西新闻频道",
+        "created_at": "2020-09-28",
+        "archive": "gh_002f84048bd4_2020-09-28_2652296951_g7DFuOMI8T.y.tar.gz",
+        "censored_date": "2020-09-30 22:46:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-29 07:21:11"
     }
 ]
