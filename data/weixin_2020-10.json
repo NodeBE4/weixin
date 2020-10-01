@@ -1696,7 +1696,7 @@
         "archive": "gh_0199c7d26b97_2020-09-29_2247526799_1XZJG54d0p.y.tar.gz",
         "censored_date": "2020-09-30 15:29:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-30 15:39:56"
+        "update_date": "2020-10-02 06:37:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247526799&idx=6&sn=a2ee0679bf1963e4eee6ea620e904ea4",
@@ -1707,7 +1707,7 @@
         "archive": "gh_0199c7d26b97_2020-09-29_2247526799_Z6cr92UD5z.y.tar.gz",
         "censored_date": "2020-09-30 15:28:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-09-30 15:39:08"
+        "update_date": "2020-10-02 06:38:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3ODUzMDA2Nw==&mid=2247553583&idx=1&sn=0a1d8d646674981b8715b80352f983d2",
@@ -1880,7 +1880,7 @@
         "archive": "gh_64f3ed922c33_2020-09-30_2247498006_zEcURBkXKW.y.tar.gz",
         "censored_date": "2020-10-01 15:55:49",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-09-30 22:49:46"
+        "update_date": "2020-10-02 07:07:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655272530&idx=1&sn=826e6239faf11dbedd089d171dad0fde",
@@ -2095,5 +2095,16 @@
         "censored_date": "2020-10-02 03:38:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-01 13:07:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651343863&idx=2&sn=a37797b6a7530a5f5f2b1feb84971f4f",
+        "title": "中国想自力打造光刻机，ASML工程师：天方夜谭",
+        "title_eng": "China wants to build its own lithography machine, ASML engineer: a fantasy",
+        "nickname": "百姓关注话题",
+        "created_at": "2020-09-29",
+        "archive": "gh_a0b79e79b274_2020-09-29_2651343863_PoF3zr2pSI.y.tar.gz",
+        "censored_date": "2020-10-02 06:27:02",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-30 17:03:21"
     }
 ]
