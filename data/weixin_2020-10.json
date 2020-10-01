@@ -1976,6 +1976,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247517703&idx=6&sn=13de3ef34185a181712f351f19a8a841",
         "title": "每日书讯",
+        "title_eng": "Daily Book News",
         "nickname": "叙拉古之惑",
         "created_at": "2020-09-30",
         "archive": "gh_c9984a3987c1_2020-09-30_2247517703_xDkoZI5F9S.y.tar.gz",
@@ -1986,6 +1987,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655620212&idx=1&sn=28cb1a68c255e5bf8c0bf5c47d5200b7",
         "title": "《我和我的家乡》，不太行",
+        "title_eng": "My Hometown and Me, not so good",
         "nickname": "虎嗅APP",
         "created_at": "2020-10-01",
         "archive": "wxid_7620846208112_2020-10-01_2655620212_esxw3piFlC.y.tar.gz",
@@ -1995,6 +1997,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650143815&idx=1&sn=56ec4482ac83a4c306a1e751d36174b6",
         "title": "李时珍称它为“肾黄金”，十斤腰子不如它，年过30要常吃，精神焕发劲头足！",
+        "title_eng": "Li Shizhen called it Kidney Gold. It is not as good as a kidney of ten catties. If you are over 30, you should eat it frequently, and you will be refreshed!",
         "nickname": "云石",
         "created_at": "2020-09-30",
         "archive": "gh_cffa19ce8f37_2020-09-30_2650143815_Yl3vztgW47.y.tar.gz",
@@ -2005,6 +2008,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247498794&idx=2&sn=e5142fe8972d78f9bd9e417c69f3ace9",
         "title": "64岁张国立又出事，已无法安享晚年，网友：苦命男人",
+        "title_eng": "64-year-old Zhang Guoli had another accident and he could no longer enjoy his old age. Netizen: a man who fate",
         "nickname": "国学文化优选",
         "created_at": "2020-09-30",
         "archive": "gh_b67f4a684fd9_2020-09-30_2247498794_OpIaWS9t2Y.y.tar.gz",
@@ -2015,6 +2019,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODQzODQ1Mw==&mid=2247485716&idx=6&sn=a1e0958a6fb8cd21ed22c01464059bd1",
         "title": "中国想自力打造光刻机，ASML工程师：天方夜谭",
+        "title_eng": "China wants to build its own lithography machine, ASML engineer: a fantasy",
         "nickname": "世界华人杂谈",
         "created_at": "2020-09-29",
         "archive": "gh_4398a0eeb2f3_2020-09-29_2247485716_u1kpmzAhDO.y.tar.gz",
@@ -2025,11 +2030,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODA5NTI4Mg==&mid=2656651954&idx=1&sn=86f81354246f83d65f446f755b84afe6",
         "title": "纳粹一体化浪潮下的学术变色龙现象：典型代表、群体规模、道德责任",
+        "title_eng": "The academic chameleon phenomenon under the wave of Nazi integration: typical representatives, group size, moral responsibility",
         "nickname": "经济观察报书评",
         "created_at": "2020-10-01",
         "archive": "gh_e1bb55b2ce3f_2020-10-01_2656651954_gPnYaj4TV5.y.tar.gz",
         "censored_date": "2020-10-01 22:41:36",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-01 23:14:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649806645&idx=2&sn=c3f61c068ae408c83a4324eb7e8fe0cc",
+        "title": "微信必备的35个公众号，只有1%的人知道",
+        "nickname": "近现代史论",
+        "created_at": "2020-09-28",
+        "archive": "gh_ef9695b6d53c_2020-09-28_2649806645_oDvu1qYiGV.y.tar.gz",
+        "censored_date": "2020-10-02 00:06:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-30 10:55:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362413&idx=1&sn=2613cbcea7280b45582912d4527ece73",
+        "title": "俄突然在中俄边境部署重兵-意欲何为？",
+        "nickname": "乐诚坊",
+        "created_at": "2020-09-30",
+        "archive": "gh_42435e819eef_2020-09-30_2650362413_YVMWtJsePz.y.tar.gz",
+        "censored_date": "2020-10-01 23:35:39",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-09-30 13:47:32"
     }
 ]
