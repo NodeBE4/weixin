@@ -1839,6 +1839,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA3MjAwMg==&mid=2651939351&idx=1&sn=28c35f2e21e831749eeb5e3122eaeabf",
         "title": "喜报 | 平度市妇联等两单位荣获抗击新冠肺炎疫情全国三八红旗集体表彰",
+        "title_eng": "Good news | Pingdu City Women's Federation and other two units won the National March 8th Red Flag collective commendation for fighting the new crown pneumonia",
         "nickname": "青岛市妇联",
         "created_at": "2020-10-01",
         "archive": "gh_2e72f0f99ffe_2020-10-01_2651939351_pzC0vB9uWt.y.tar.gz",
@@ -1849,10 +1850,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247509269&idx=3&sn=e759e36bd0ba6028d28f6a1249dab8b8",
         "title": "九月再见，十月你好",
+        "title_eng": "See you in September and hello in October",
         "nickname": "柏举居士",
         "created_at": "2020-10-01",
         "archive": "gh_c1335a131ff4_2020-10-01_2247509269_P6fVpHX0z5.y.tar.gz",
         "censored_date": "2020-10-01 13:19:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649759226&idx=1&sn=b3441ab039730209c0ce5bfb92868197",
+        "title": "定了！房价下跌已成定局，国内突传大消息，令人彻夜难眠！",
+        "nickname": "华哥读报",
+        "created_at": "2020-09-30",
+        "archive": "gh_7a402e27f818_2020-09-30_2649759226_1MvKO8X5bU.y.tar.gz",
+        "censored_date": "2020-10-01 13:33:24",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
