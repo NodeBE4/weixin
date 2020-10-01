@@ -2041,6 +2041,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649806645&idx=2&sn=c3f61c068ae408c83a4324eb7e8fe0cc",
         "title": "微信必备的35个公众号，只有1%的人知道",
+        "title_eng": "Only 1% of people know about 35 WeChat official accounts",
         "nickname": "近现代史论",
         "created_at": "2020-09-28",
         "archive": "gh_ef9695b6d53c_2020-09-28_2649806645_oDvu1qYiGV.y.tar.gz",
@@ -2051,11 +2052,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362413&idx=1&sn=2613cbcea7280b45582912d4527ece73",
         "title": "俄突然在中俄边境部署重兵-意欲何为？",
+        "title_eng": "Russia suddenly deployed heavy troops on the Sino-Russian border-what does it intend?",
         "nickname": "乐诚坊",
         "created_at": "2020-09-30",
         "archive": "gh_42435e819eef_2020-09-30_2650362413_YVMWtJsePz.y.tar.gz",
         "censored_date": "2020-10-01 23:35:39",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-09-30 13:47:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247499774&idx=5&sn=30f298c5aaf03e9f4efcbf99efe9439e",
+        "title": "奇异的凶案背后",
+        "nickname": "难得视界",
+        "created_at": "2020-09-28",
+        "archive": "gh_1c6cefeca9ab_2020-09-28_2247499774_pzNVceft3C.y.tar.gz",
+        "censored_date": "2020-10-02 01:12:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-09-30 09:13:40"
     }
 ]
