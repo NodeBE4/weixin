@@ -2044,7 +2044,7 @@
         "archive": "gh_e1bb55b2ce3f_2020-10-01_2656651954_gPnYaj4TV5.y.tar.gz",
         "censored_date": "2020-10-01 22:41:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-03 04:11:30"
+        "update_date": "2020-10-03 18:18:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649806645&idx=2&sn=c3f61c068ae408c83a4324eb7e8fe0cc",
@@ -2187,7 +2187,7 @@
         "archive": "gh_2f53a9e900c6_2020-10-02_2247485360_6GAariOyMC.y.tar.gz",
         "censored_date": "2020-10-02 21:16:26",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-02 18:40:32"
+        "update_date": "2020-10-03 18:21:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651317890&idx=1&sn=9d8830f595f7e2beecff154911e6a5d3",
@@ -2362,10 +2362,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDQ1MTg5Mw==&mid=2657399898&idx=1&sn=2bf475bd67c65b0a7887506deb1b368c",
         "title": "我有点敬佩川普了",
+        "title_eng": "I admire Trump",
         "nickname": "梁惠王的云梦之泽",
         "created_at": "2020-10-03",
         "archive": "gh_87b419c5c930_2020-10-03_2657399898_ihZjwWDCem.y.tar.gz",
         "censored_date": "2020-10-03 17:13:51",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488641&idx=2&sn=9967c009bfba4aab508de244017d3fa3",
+        "title": "我6岁跟随父亲来到缅甸边境，祖上做玉雕加工从小就接触翡翠，今天我来说说翡翠",
+        "nickname": "世纪观察",
+        "created_at": "2020-10-02",
+        "archive": "gh_26762a56c129_2020-10-02_2247488641_CLbJlRK2fZ.y.tar.gz",
+        "censored_date": "2020-10-03 18:22:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-02 14:10:32"
     }
 ]
