@@ -2357,7 +2357,8 @@
         "created_at": "2020-10-03",
         "archive": "gh_2f53a9e900c6_2020-10-03_2247485364_NiYzLOu3en.y.tar.gz",
         "censored_date": "2020-10-03 16:18:14",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-04 14:25:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDQ1MTg5Mw==&mid=2657399898&idx=1&sn=2bf475bd67c65b0a7887506deb1b368c",
@@ -2441,5 +2442,15 @@
         "archive": "gh_ef9695b6d53c_2020-10-03_2649806786_8sa0YxAF15.y.tar.gz",
         "censored_date": "2020-10-04 11:58:05",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247517844&idx=8&sn=5fb5b9b1f1cbb61cca74c072492a0e73",
+        "title": "每日书讯",
+        "nickname": "叙拉古之惑",
+        "created_at": "2020-10-03",
+        "archive": "gh_c9984a3987c1_2020-10-03_2247517844_y4aN3IZYEX.y.tar.gz",
+        "censored_date": "2020-10-04 13:48:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-03 15:27:35"
     }
 ]
