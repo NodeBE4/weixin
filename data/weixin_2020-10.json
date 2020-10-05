@@ -2520,7 +2520,7 @@
         "archive": "gh_5189ed7a15c7_2020-10-04_2651246012_x6gImae5yk.y.tar.gz",
         "censored_date": "2020-10-05 08:50:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-04 23:57:46"
+        "update_date": "2020-10-05 19:34:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTY0NjA4MQ==&mid=2650114090&idx=5&sn=f4b96d460367cde5137e6583b34e0787",
@@ -2622,10 +2622,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzAyMzM2MA==&mid=2650587547&idx=3&sn=bd1c8222161337711831e4d0473cb7df",
         "title": "惨烈！悉尼出现大批危房！墙壁开裂、地面下沉！居民高价买房却不能住!",
+        "title_eng": "Tragic! A large number of dilapidated houses in Sydney! The walls are cracking and the ground is sinking! Residents buy houses at high prices but cannot live!",
         "nickname": "微悉尼",
         "created_at": "2020-10-05",
         "archive": "gh_ce418127869a_2020-10-05_2650587547_UQ2BM0br0G.y.tar.gz",
         "censored_date": "2020-10-05 18:32:30",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491011&idx=1&sn=da233ed3b5d764fd489f922d6e925757",
+        "title": "刚刚，特朗普绝杀，新冠助攻，大选稳了！",
+        "title_eng": "Just now, Trump's lore, the new crown assists, and the election is stable!",
+        "nickname": "虎次郎",
+        "created_at": "2020-10-04",
+        "archive": "gh_610312e22ed3_2020-10-04_2247491011_lqOT6Skhaf.y.tar.gz",
+        "censored_date": "2020-10-05 20:22:57",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-05 06:43:57"
     }
 ]
