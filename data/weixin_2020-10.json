@@ -2731,6 +2731,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDcwMjAwMA==&mid=2247559028&idx=1&sn=31ae004feeda2b5fd70c04c0ae951228",
         "title": "特朗普还是赢了",
+        "title_eng": "Trump still won",
         "nickname": "商业周刊中文版",
         "created_at": "2020-10-05",
         "archive": "gh_c327186111f5_2020-10-05_2247559028_Rv7iVgtwre.y.tar.gz",
@@ -2741,11 +2742,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650813866&idx=8&sn=dc638933d42eaeabe3ebe18a224ea835",
         "title": "男人&quot;偷&quot;情是为了性，女人&quot;偷&quot;情是为了…",
+        "title_eng": "the man",
         "nickname": "环球局势洞见",
         "created_at": "2020-10-04",
         "archive": "gh_a217bb0c34bc_2020-10-04_2650813866_onP3W1flgj.y.tar.gz",
         "censored_date": "2020-10-06 03:10:01",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-04 08:36:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247497654&idx=1&sn=1f3e2d3173dc345e82e9fb1752a0d77f",
+        "title": "治理清真泛化，要不要“全国一盘棋”？",
+        "nickname": "西域都护",
+        "created_at": "2020-10-05",
+        "archive": "gh_5023d7e73573_2020-10-05_2247497654_BI7toRNpMg.y.tar.gz",
+        "censored_date": "2020-10-06 03:51:46",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
