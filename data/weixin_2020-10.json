@@ -2402,7 +2402,7 @@
         "archive": "gh_644f262a3d2c_2020-10-03_2650951739_YkaBTJeXb3.y.tar.gz",
         "censored_date": "2020-10-03 22:36:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-05 01:17:13"
+        "update_date": "2020-10-05 22:38:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247499981&idx=1&sn=7df9d292c4533ac0a48fed0f47065943",
@@ -2413,7 +2413,7 @@
         "archive": "gh_1c6cefeca9ab_2020-10-02_2247499981_vHG6NUqJao.y.tar.gz",
         "censored_date": "2020-10-04 00:23:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-05 01:50:50"
+        "update_date": "2020-10-05 22:54:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653381133&idx=1&sn=c390aa7158673201e41ff2f6269d4dff",
@@ -2675,11 +2675,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084608&idx=2&sn=a8ff6e8cb6f7a30213cb21ad394a54cf",
         "title": "10月重磅曝光：90后小伙把鲜花当面膜，皮肤变化让女生都受不了！秒杀昂贵神仙水...",
+        "title_eng": "Heavy exposure in October: The post-90s guys use flowers as a mask, and the skin changes make girls unbearable! Spike expensive fairy water...",
         "nickname": "掌心大同",
         "created_at": "2020-10-04",
         "archive": "gh_69043f48c02f_2020-10-04_2650084608_OlrJ2bnLKP.y.tar.gz",
         "censored_date": "2020-10-05 22:15:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-05 01:01:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491011&idx=3&sn=3abb51761bc66b85138f5bff4e965ef2",
+        "title": "特朗普健康状况恶化，美国人民跪地祷告！希望上帝能赐福于病中的总统…",
+        "nickname": "虎次郎",
+        "created_at": "2020-10-04",
+        "archive": "gh_610312e22ed3_2020-10-04_2247491011_woYs3872jP.y.tar.gz",
+        "censored_date": "2020-10-05 23:09:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-05 01:45:17"
     }
 ]
