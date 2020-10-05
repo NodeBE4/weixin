@@ -2643,6 +2643,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649760376&idx=4&sn=1b741ed8ef8f6105cceff78592985b82",
         "title": "特别关注|特朗普连任已经没有了悬念",
+        "title_eng": "Special attention | Trump's re-election has no suspense",
         "nickname": "华哥读报",
         "created_at": "2020-10-05",
         "archive": "gh_7a402e27f818_2020-10-05_2649760376_1dmkRO9qoC.y.tar.gz",
@@ -2652,6 +2653,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491011&idx=4&sn=8b1c19480610c4981d912286e0b37efc",
         "title": "2分钟盘点特朗普感染，各国政要的反应！",
+        "title_eng": "Take a 2 minute inventory of Trump's infection and the reactions of politicians in various countries",
         "nickname": "虎次郎",
         "created_at": "2020-10-04",
         "archive": "gh_610312e22ed3_2020-10-04_2247491011_j1UwhEKfY0.y.tar.gz",
@@ -2662,11 +2664,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491011&idx=7&sn=842566a38c60093665a63642e15ba187",
         "title": "美国新冠患者临死前视频：这不是一个玩笑！",
+        "title_eng": "Video before death of American new crown patient: This is not a joke!",
         "nickname": "虎次郎",
         "created_at": "2020-10-04",
         "archive": "gh_610312e22ed3_2020-10-04_2247491011_Fey0urIqMD.y.tar.gz",
         "censored_date": "2020-10-05 21:16:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-05 01:22:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084608&idx=2&sn=a8ff6e8cb6f7a30213cb21ad394a54cf",
+        "title": "10月重磅曝光：90后小伙把鲜花当面膜，皮肤变化让女生都受不了！秒杀昂贵神仙水...",
+        "nickname": "掌心大同",
+        "created_at": "2020-10-04",
+        "archive": "gh_69043f48c02f_2020-10-04_2650084608_OlrJ2bnLKP.y.tar.gz",
+        "censored_date": "2020-10-05 22:15:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-05 01:01:32"
     }
 ]
