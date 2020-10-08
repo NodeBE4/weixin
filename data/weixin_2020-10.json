@@ -3129,7 +3129,7 @@
         "archive": "gh_06140cfad959_2020-10-06_2247509220_fJE1YlzwhW.y.tar.gz",
         "censored_date": "2020-10-07 21:37:15",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-06 22:51:04"
+        "update_date": "2020-10-08 19:49:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247504565&idx=2&sn=d0b9fa392f094843f671ae13b25a2ce2",
@@ -3297,11 +3297,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTAxOTk1Ng==&mid=2650817109&idx=2&sn=ef93ced262bcff0ea79e700a8b6353b8",
         "title": "司法部权威公布(2020.9.21)：全国优秀律所和优秀律师(附名单)",
+        "title_eng": "Authoritative announcement by the Ministry of Justice (2020.9.21): National Excellent Law Firms and Excellent Lawyers (list attached)",
         "nickname": "法务之家",
         "created_at": "2020-10-07",
         "archive": "gh_14a1cef1825d_2020-10-07_2650817109_zPdH8CAsou.y.tar.gz",
         "censored_date": "2020-10-08 19:19:37",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-07 23:54:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTY0NjA4MQ==&mid=2650114230&idx=7&sn=44611cdce091ddbdffb2726a79f0bb2d",
+        "title": "【关注】宣导“无压生活”的奇易时光是何来历，揭底沙棘虫草片的发展之道",
+        "title_eng": "[Follow] What is the origin of the adventurous time to promote the pressureless life, and reveal the development of seabuckthorn cordyceps tablets",
+        "nickname": "反传联盟",
+        "created_at": "2020-10-07",
+        "archive": "gh_65c37a6436e8_2020-10-07_2650114230_ACBGiES0uh.y.tar.gz",
+        "censored_date": "2020-10-08 20:28:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-07 14:45:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650763819&idx=2&sn=c1f3222064694d998f754104ad22a1ae",
+        "title": "18人死亡：吉林扶余车祸背后，300万亩玉米的抢收压力",
+        "title_eng": "18 dead: Behind the car accident in Fuyu, Jilin, pressure to harvest 3 million mu of corn",
+        "nickname": "三联生活周刊",
+        "created_at": "2020-10-07",
+        "archive": "wxid_1ytkcyvr0m0g11_2020-10-07_2650763819_Z2pKWa5kCs.y.tar.gz",
+        "censored_date": "2020-10-08 20:00:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-08 00:29:59"
     }
 ]
