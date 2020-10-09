@@ -3282,7 +3282,8 @@
         "created_at": "2020-10-07",
         "archive": "gh_a0c22034cce0_2020-10-07_2247536421_z3Hr7Mev0d.y.tar.gz",
         "censored_date": "2020-10-08 18:16:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-09 23:19:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362470&idx=2&sn=ccdce1f5df8a1b7bad17263eb4ffc86a",
@@ -3558,6 +3559,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652423492&idx=3&sn=487d74dd7421ca93b4fc3b9e8abe48a1",
         "title": "严选课 | 焦虑、忧郁、暴躁，负能量爆棚怎么办？哈佛心理学专家这么说...",
+        "title_eng": "Strictly Selected Courses | What to do if you are anxious, melancholic, irritable and overwhelming with negative energy? Harvard psychologists say so...",
         "nickname": "南方周末",
         "created_at": "2020-10-08",
         "archive": "nanfangzhoumo_2020-10-08_2652423492_rZtkPpXWaM.y.tar.gz",
@@ -3568,6 +3570,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDA5NDcyMA==&mid=2651790034&idx=2&sn=4fb3a3f42a36b0529403f66cab29aa69",
         "title": "“甜宠网文”的规则里，可以暴力，不可以有前女友",
+        "title_eng": "According to the rules of Sweet Pets, violence is allowed, ex-girlfriends are not allowed",
         "nickname": "Vista看天下",
         "created_at": "2020-10-08",
         "archive": "gh_52a264d06413_2020-10-08_2651790034_94KH2bgUP0.y.tar.gz",
@@ -3578,11 +3581,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc4NTgzMA==&mid=2650690117&idx=1&sn=d2cc81067c77bf8bd27fd1b41332b7ad",
         "title": "“女鉴黄师”每天干什么？阅片无数，视觉冲击，恶心想吐",
+        "title_eng": "What does Female Mirror Yellow Master do every day? Read countless films, visual impact, nausea",
         "nickname": "探索者",
         "created_at": "2020-10-07",
         "archive": "gh_715befbd50ba_2020-10-07_2650690117_Zxg1njl68O.y.tar.gz",
         "censored_date": "2020-10-09 21:53:06",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-08 05:30:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652894269&idx=3&sn=2db4cf3988c3f7bd9c64fa7df232d0ff",
+        "title": "湖南耒阳向教师摊派献血指标且与绩效挂钩？当地回应",
+        "nickname": "耒阳社区",
+        "created_at": "2020-10-09",
+        "archive": "gh_40f2418747aa_2020-10-09_2652894269_QudwKXMUVo.y.tar.gz",
+        "censored_date": "2020-10-09 23:20:34",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
