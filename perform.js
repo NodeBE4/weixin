@@ -28,8 +28,8 @@ async function backup(articles){
     state: 'closed'
   })
 
-  let leftover = data.filter(issue => {
-    let temp = articles.filter(item => {
+  let leftover = articles.filter(item => {
+    let temp = data.filter(issue => {
       return issue.body.includes(item['archive'])
     })
     return temp.length === 0
