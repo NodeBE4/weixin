@@ -1,3 +1,5 @@
+name: duty-machine-action
+
 on:
   schedule:
     - cron:  '*/5 * * * *'
