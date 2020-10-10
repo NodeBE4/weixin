@@ -1,5 +1,5 @@
 {
-  "name": "chinadigitaltimes-latest",
+  "name": "weixin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duty-machine/chinadigitaltimes-latest.git"
+    "url": "git+https://github.com/NodeBE4/weixin.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duty-machine/chinadigitaltimes-latest/issues"
+    "url": "https://github.com/NodeBE4/weixin/issues"
   },
-  "homepage": "https://github.com/duty-machine/chinadigitaltimes-latest#readme",
+  "homepage": "https://github.com/NodeBE4/weixin#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "@octokit/rest": "^17.11.0",
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"

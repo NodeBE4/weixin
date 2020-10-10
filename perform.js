@@ -1,10 +1,52 @@
 let fs = require('fs')
 const fetch = require('node-fetch')
+const { Octokit } = require("@octokit/rest")
 
 let data_url = 'https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days='
 const CORS_PROXY = "https://cors-anywhere.herokuapp.com/"
 
 let settings = { method: "Get" }
+
+require('dotenv').config()
+
+let TOKEN = process.env.TOKEN
+let REPOSITORY = process.env.REPOSITORY
+
+let [owner, repo] = REPOSITORY.split('/')
+
+let octokit = new Octokit({
+  auth: TOKEN
+})
+
+
+async function backup(articles){
+  const tempurl = `https://wechatscope.jmsc.hku.hk/api/html?fn=`
+
+  let { data } = await octokit.issues.listForRepo({
+    owner: owner,
+    repo: repo,
+    state: 'closed'
+  })
+
+  let leftover = data.filter(issue => {
+    let temp = articles.filter(item => {
+      return issue.body.includes(item['archive'])
+    })
+    return temp.length === 0
+  })
+
+  for (i=0;i<leftover.length;i++){
+    let response = await octokit.issues.create({
+      owner,
+      repo,
+      title: 'archive_request',
+      body: tempurl+leftover[i]['archive']
+    })
+
+    await new Promise(resolve => setTimeout(resolve, 1000))
+  }
+}
+
 
 async function perform() {
   let articles = []
@@ -51,6 +93,12 @@ data: "data/weixin_${thismonth}.json"
     fs.writeFileSync(postname, md)
     console.log(`add ${postname}`)
   }
+
+  banned = articles.filter(item => {
+    return !item['censored_msg'].includes('deleted by the author')
+  })
+
+  backup(banned)
 
 }
 
