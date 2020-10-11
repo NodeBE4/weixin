@@ -24,7 +24,11 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-node-
 
-    - run: |
+    - name: main actions
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ github.repository }}
+      run: |
         npm install
         node perform.js
         node clean.js
