@@ -58,7 +58,7 @@ async function subscribe() {
   let postname = `./_posts/${thismonth}-01-weixin_subscriptions.md`
   if (fs.existsSync(filename)) {
     let rawtext = fs.readFileSync(filename, {encoding:'utf8', flag:'r'})
-    articles = JSON.parse(rawtext)
+    oldarticles = JSON.parse(rawtext)
   }
 
   await fetch(data_url, settings)
@@ -105,8 +105,8 @@ data: "data/weixin_subs_${thismonth}.json"
     console.log(`add ${postname}`)
   }
 
-  let newitems = oldarticles.filter(item => {
-    let temp = articles.filter(ban => {
+  let newitems = articles.filter(item => {
+    let temp = oldarticles.filter(ban => {
       return ban['url'] == item['url']
     })
     return temp.length == 0
