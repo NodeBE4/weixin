@@ -3787,7 +3787,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650435277&idx=1&sn=c1d25ebd5c091b8ba6918d257b44a76c",
         "title": "散户在A股究竟靠什么赚钱?",
-        "title_eng": "What do retail investors rely on to make money in A shares?",
+        "title_eng": "What exactly do retail investors rely on to make money in A shares?",
         "nickname": "经济时代刊",
         "created_at": "2020-10-09",
         "archive": "gh_e1b15dc41ffc_2020-10-09_2650435277_40kCL6psrX.y.tar.gz",
@@ -4157,6 +4157,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247491930&idx=3&sn=8839e51d256cc2430a35336514cdc218",
         "title": "周永康的女人们：横死、被判刑、被调查",
+        "title_eng": "Zhou Yongkang's women: died, sentenced, and investigated",
         "nickname": "历史微时刻",
         "created_at": "2020-10-09",
         "archive": "gh_31930173e92d_2020-10-09_2247491930_dJL21X6x3B.y.tar.gz",
@@ -4177,6 +4178,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247501196&idx=1&sn=4b7d986e73d35682bd1380a447643cd2",
         "title": "散户在A股究竟靠什么赚钱?",
+        "title_eng": "What exactly do retail investors rely on to make money in A shares?",
         "nickname": "海外财经",
         "created_at": "2020-10-10",
         "archive": "gh_8f29429f71d7_2020-10-10_2247501196_CRFWVPiLKB.y.tar.gz",
@@ -4187,11 +4189,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650487679&idx=2&sn=6b8aad0206e6bb3fc703bc92f3f4cbe7",
         "title": "360推出Tuber可直接上油管的浏览器！",
+        "title_eng": "360 launches Tuber browser that can be directly connected to the tubing!",
         "nickname": "黑白之道",
         "created_at": "2020-10-11",
         "archive": "gh_886b94872294_2020-10-11_2650487679_PHBcDtp75A.y.tar.gz",
         "censored_date": "2020-10-12 06:03:09",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-11 13:11:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651800042&idx=2&sn=5deb86a49d9595448b082501175bafe1",
+        "title": "铜仁文化大讲坛丨第一讲 铜仁历史上的人才自信（上）",
+        "title_eng": "Tongren Cultural Forum丨Lecture 1 Talent Confidence in the History of Tongren (Part 1)",
+        "nickname": "微铜仁",
+        "created_at": "2020-10-10",
+        "archive": "gh_93185b95671c_2020-10-10_2651800042_w3PkaD8rZb.y.tar.gz",
+        "censored_date": "2020-10-12 06:26:59",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247494545&idx=4&sn=0799749e5a57947c7022e44774646707",
+        "title": "都说莆田鞋水深，我找到原因了",
+        "nickname": "凭海观潮A",
+        "created_at": "2020-10-10",
+        "archive": "gh_728dda09b5fa_2020-10-10_2247494545_VfNSXaidpW.y.tar.gz",
+        "censored_date": "2020-10-12 07:02:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-11 00:40:29"
     }
 ]
