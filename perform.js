@@ -99,8 +99,8 @@ data: "data/weixin_${thismonth}.json"
     return !item['censored_msg'].includes('deleted by the author')
   })
 
-  let newbanned = oldarticles.filter(item => {
-    let temp = banned.filter(ban => {
+  let newbanned = banned.filter(item => {
+    let temp = oldarticles.filter(ban => {
       return ban['url'] == item['url']
     })
     return temp.length == 0
