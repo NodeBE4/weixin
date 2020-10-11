@@ -32,7 +32,7 @@ async function backup(articles){
     let temp = data.filter(issue => {
       return issue.body.includes(item['archive'])
     })
-    return temp.length === 0
+    return temp.length == 0
   })
 
   for (i=0;i<leftover.length;i++){
