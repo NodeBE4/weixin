@@ -50,6 +50,7 @@ async function backup(articles){
 
 async function perform() {
   let articles = []
+  let oldarticles = []
   let newarticles = []
   let today = new Date()
   let thismonth = today.toISOString().substring(0,7)
@@ -57,7 +58,7 @@ async function perform() {
   let postname = `./_posts/${thismonth}-01-weixin_censored_articles.md`
   if (fs.existsSync(filename)) {
     let rawtext = fs.readFileSync(filename, {encoding:'utf8', flag:'r'})
-    articles = JSON.parse(rawtext)
+    oldarticles = JSON.parse(rawtext)
   }
 
   await fetch(data_url, settings)
@@ -67,7 +68,7 @@ async function perform() {
       newarticles = JSON.parse(jsontext)
     });
 
-  articles = articles.concat(newarticles)
+  articles = oldarticles.concat(newarticles)
 
   // remove duplicates
   articles = removeDuplicates(articles, 'url')
@@ -94,11 +95,18 @@ data: "data/weixin_${thismonth}.json"
     console.log(`add ${postname}`)
   }
 
-  banned = articles.filter(item => {
+  let banned = articles.filter(item => {
     return !item['censored_msg'].includes('deleted by the author')
   })
 
-  backup(banned)
+  let newbanned = oldarticles.filter(item => {
+    let temp = banned.filter(ban => {
+      return ban['url'] == item['url']
+    })
+    return temp.length == 0
+  })
+
+  backup(newbanned)
 
 }
 

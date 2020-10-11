@@ -24,8 +24,7 @@ async function backup(articles){
 
   let { data } = await octokit.issues.listForRepo({
     owner: owner,
-    repo: repo,
-    state: 'all'
+    repo: repo
   })
 
   let leftover = articles.filter(item => {
@@ -50,6 +49,7 @@ async function backup(articles){
 
 async function subscribe() {
   let articles = []
+  let oldarticles = []
   let newarticles = []
   let author
   let today = new Date()
@@ -78,7 +78,7 @@ async function subscribe() {
       console.log(newarticles)
     });
 
-  articles = articles.concat(newarticles)
+  articles = oldarticles.concat(newarticles)
 
   // remove duplicates
   articles = removeDuplicates(articles, 'url')
@@ -105,7 +105,14 @@ data: "data/weixin_subs_${thismonth}.json"
     console.log(`add ${postname}`)
   }
 
-  backup(articles)
+  let newitems = oldarticles.filter(item => {
+    let temp = articles.filter(ban => {
+      return ban['url'] == item['url']
+    })
+    return temp.length == 0
+  })
+
+  backup(newitems)
 
 }
 
