@@ -25,7 +25,7 @@ async function backup(articles){
   let { data } = await octokit.issues.listForRepo({
     owner: owner,
     repo: repo,
-    state: 'closed'
+    state: 'all'
   })
 
   let leftover = articles.filter(item => {
