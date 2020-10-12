@@ -4318,6 +4318,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzY4NTQyMw==&mid=2651288658&idx=1&sn=894ed6871ddb267bdc17425679f5a0bd",
         "title": "这才是中国最厉害的地方，读懂者寥寥无几！",
+        "title_eng": "This is the most powerful place in China, and few people understand it!",
         "nickname": "水木然学社",
         "created_at": "2020-10-11",
         "archive": "gh_8494fbcc965f_2020-10-11_2651288658_QPbOl1vMrW.y.tar.gz",
@@ -4327,11 +4328,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247492255&idx=1&sn=08a1a9eabcc8391a69edf9a038e789c2",
         "title": "劝君莫骂金政委，为何忒多两面人？",
+        "title_eng": "Do not persuade the king to scold political commissar Jin, why are there so many two-faced people?",
         "nickname": "毛有话说",
         "created_at": "2020-10-11",
         "archive": "gh_097268c5ef0e_2020-10-11_2247492255_J6YZNGrCqV.y.tar.gz",
         "censored_date": "2020-10-13 02:55:24",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-11 23:20:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzMyMDE3Mw==&mid=2652216577&idx=1&sn=b8d26fa30a0e1863e93905898704386a",
+        "title": "长租公寓又暴雷：小鹰找房跑路涉租金超亿元，关联企业将赴美上市",
+        "nickname": "财经天下周刊",
+        "created_at": "2020-10-12",
+        "archive": "gh_4182b91375f9_2020-10-12_2652216577_VbtQJhxFB3.y.tar.gz",
+        "censored_date": "2020-10-13 03:51:47",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-12 09:30:16"
     }
 ]
