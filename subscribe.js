@@ -4,6 +4,7 @@ const { Octokit } = require("@octokit/rest")
 let JSSoup = require('jssoup').default;
 
 let data_url = 'http://www.myzaker.com/channel/23090'
+// 'https://m.allnow.com/column/199'
 const CORS_PROXY = "https://cors-anywhere.herokuapp.com/"
 
 let settings = { method: "Get" }
