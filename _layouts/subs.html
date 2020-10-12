@@ -69,7 +69,8 @@ document.addEventListener("DOMContentLoaded", function(event){
     'title': '<span><b>标题</b></span>',
     'nickname': '<i class="fa fa-at wechat" title="作者"></i>',
     'created_at': '<i class="fa fa-calendar wechat" title="发布时间"></i>',
-    'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
+    'issue': '<i class="fa fa-camera vk" title="缓存(只保留一周)"></i>',
+    // 'duty-machine': '<i class="fa fa-github github" title="永久保存到duty-machine"></i>',
     'archive': '<i class="fa fa-globe chrome" title="永久保存到archive.today"></i>',
     'time-machine': '<i class="fa fa-university chrome" title="永久保存到archive.org"></i>',
   }
@@ -97,8 +98,8 @@ document.addEventListener("DOMContentLoaded", function(event){
       tbody.appendChild(tr)
       thead_keys.map(key => {
         let td1 = document.createElement('td');
-        if (key == 'snapshot'){
-          td1.innerHTML += `<a href="${item['url']}" target="_blank"><b>查看</b></a>`;
+        if (key == 'issue'){
+          td1.innerHTML += `<a href="https://github.com/NodeBE4/weixin/issues/${item['issue']}" target="_blank"><b>查看</b></a>`;
         }else if(key=='origin_url'){
           td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
         }else if(key=='censored_msg'){
