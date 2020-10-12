@@ -46,6 +46,24 @@ async function backup(articles){
   }
 }
 
+async function backupNo(articles){
+
+  for (i=0;i<articles.length;i++){
+    if ('issue' in articles[i]){
+      continue
+    }else {
+      let response = await octokit.issues.create({
+        owner,
+        repo,
+        title: 'archive_request',
+        body: articles[i]['url']
+      })
+      articles[i]['issue'] = response.data.number
+      await new Promise(resolve => setTimeout(resolve, 1000))
+    }
+  }
+  return articles
+}
 
 async function subscribe() {
   let articles = []
@@ -83,6 +101,8 @@ async function subscribe() {
   // remove duplicates
   articles = removeDuplicates(articles, 'url')
 
+  articles = await backupNo(articles)
+
   let content = JSON.stringify(articles, undefined, 4)
   fs.writeFileSync(filename, content)
 
@@ -105,14 +125,14 @@ data: "data/weixin_subs_${thismonth}.json"
     console.log(`add ${postname}`)
   }
 
-  let newitems = articles.filter(item => {
-    let temp = oldarticles.filter(ban => {
-      return ban['url'] == item['url']
-    })
-    return temp.length == 0
-  })
+  // let newitems = articles.filter(item => {
+  //   let temp = oldarticles.filter(ban => {
+  //     return ban['url'] == item['url']
+  //   })
+  //   return temp.length == 0
+  // })
 
-  backup(newitems)
+  // backup(newitems)
 
 }
 
