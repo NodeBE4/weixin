@@ -72,7 +72,7 @@ async function subscribe() {
   let author
   let today = new Date()
   let thismonth = today.toISOString().substring(0,7)
-  let filename = `./data/weixin_subs_${thismonth}.json`
+  let filename = `./data/weixin_subscriptions.json`
   let postname = `./_posts/${thismonth}-01-weixin_subscriptions.md`
   if (fs.existsSync(filename)) {
     let rawtext = fs.readFileSync(filename, {encoding:'utf8', flag:'r'})
@@ -116,7 +116,7 @@ author: "${author}"
 from: "${data_url}"
 tags: [ 微信公众号 ]
 categories: [ 微信公众号 ]
-data: "data/weixin_subs_${thismonth}.json"
+data: "data/weixin_subscriptions.json"
 ---
 `
   md = header 
