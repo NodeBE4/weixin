@@ -94,13 +94,13 @@ async function subscribe() {
       newarticles = as.map(item => {
         return {"title": item.attrs.title, "nickname": author, "url": 'http:'+item.attrs.href, "created_at": today.toISOString().substring(0,10)}
       })
-      console.log(newarticles)
     });
 
-  articles = oldarticles.concat(newarticles)
+  articles = newarticles.concat(oldarticles)
 
   // remove duplicates
   articles = removeDuplicates(articles, 'url')
+  console.log(articles)
 
   articles = await backupNo(articles)
 
