@@ -4405,6 +4405,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjE2MDI0OTk2MQ==&mid=2650904477&idx=2&sn=31b41a6ec0f16b838219c43629affce2",
         "title": "想和小南成为同事吗？快来！ | 招聘",
+        "title_eng": "Want to be colleagues with Xiaonan? Come on! | Recruitment",
         "nickname": "南都周刊",
         "created_at": "2020-10-13",
         "archive": "wxid_5455324566712_2020-10-13_2650904477_MBO2XwnQu7.y.tar.gz",
@@ -4414,11 +4415,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362569&idx=5&sn=4737f4f6d2dccaca1bed002ae9dee67a",
         "title": "戒烟太难怎么办？这个方法火爆全网了。",
+        "title_eng": "What should I do if it is too difficult to quit smoking? This method is popular all over the network.",
         "nickname": "乐诚坊",
         "created_at": "2020-10-11",
         "archive": "gh_42435e819eef_2020-10-11_2650362569_87duYbKSWm.y.tar.gz",
         "censored_date": "2020-10-13 13:00:36",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-11 18:52:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501007&idx=1&sn=706cdb00e163ba8b48597e70b9f65d26",
+        "title": "100城房价月涨幅排名重要变动......",
+        "title_eng": "Important changes in the ranking of monthly housing prices in 100 cities...",
+        "nickname": "环球冷眼",
+        "created_at": "2020-10-11",
+        "archive": "gh_1aecabdf0add_2020-10-11_2247501007_IXEw6MTacU.y.tar.gz",
+        "censored_date": "2020-10-13 13:26:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-12 21:10:04"
     }
 ]
