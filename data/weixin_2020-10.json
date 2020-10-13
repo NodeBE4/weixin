@@ -4495,6 +4495,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247529796&idx=6&sn=54b71b226aa39a3c7b85067cb7413095",
         "title": "善于学习的人，都在关注这几个公众号",
+        "title_eng": "People who are good at learning are paying attention to these public accounts",
         "nickname": "浪潮工作室",
         "created_at": "2020-10-11",
         "archive": "gh_0199c7d26b97_2020-10-11_2247529796_HL1ibZT5sD.y.tar.gz",
@@ -4505,6 +4506,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652424015&idx=3&sn=51297e8e6fa1d1448e8b5436cc94190a",
         "title": "严选课 | 普通人怎么做副业？39个副业赚钱金点子，只能帮你到这里了",
+        "title_eng": "Select Courses | How do ordinary people do side jobs? 39 side business ideas to make money, can only help you get here",
         "nickname": "南方周末",
         "created_at": "2020-10-11",
         "archive": "nanfangzhoumo_2020-10-11_2652424015_Pm7e190hQI.y.tar.gz",
@@ -4515,11 +4517,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651800257&idx=2&sn=449bc5912d347fe609bbcd993bcc0ce1",
         "title": "【铜仁文化大讲坛】红色文化第二讲 周逸群的初心本色",
+        "title_eng": "[Tongren Cultural Forum] Red Culture Lecture 2 Zhou Yiqun’s Original Instinct",
         "nickname": "微铜仁",
         "created_at": "2020-10-12",
         "archive": "gh_93185b95671c_2020-10-12_2651800257_xBmKuECQj1.y.tar.gz",
         "censored_date": "2020-10-13 22:25:26",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-13 00:01:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTczNTA4MA==&mid=2247494950&idx=1&sn=a91e3fc4978381ab5b8016ea02e27071",
+        "title": "空前绝后！北大博士20万字论文：中县干部升迁调查报告",
+        "nickname": "海外博士学者圈子",
+        "created_at": "2020-10-12",
+        "archive": "gh_5adc0787d242_2020-10-12_2247494950_05dUqQH7yv.y.tar.gz",
+        "censored_date": "2020-10-13 23:08:46",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-13 00:27:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MTk0MDA3Nw==&mid=2247493407&idx=1&sn=3b68c05da9e0ccf3e01d7ddc566ba69b",
+        "title": "除了性生活只剩打麻将：中国2000多个县城生活实录",
+        "nickname": "周蓬安的公号",
+        "created_at": "2020-10-13",
+        "archive": "gh_dca32f4cf833_2020-10-13_2247493407_QnJfcw0DzO.y.tar.gz",
+        "censored_date": "2020-10-13 23:24:23",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4ODk2ODU1MQ==&mid=2651780043&idx=1&sn=0ad70c8ac9e94deee7ab0d5a3452d71e",
+        "title": "为什么有些女人到中年，还能时刻保持漂亮？你要学会这样做！",
+        "nickname": "世界之声",
+        "created_at": "2020-10-12",
+        "archive": "gh_4fef990d00b9_2020-10-12_2651780043_pQ6VNgbDXM.y.tar.gz",
+        "censored_date": "2020-10-13 22:48:41",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
