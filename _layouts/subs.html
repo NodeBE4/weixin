@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function(event){
         if (key == 'issue'){
           td1.innerHTML += `<a href="https://github.com/NodeBE4/weixin/issues/${item['issue']}" target="_blank"><b>查看</b></a>`;
         }else if(key=='origin_url'){
-          td1.innerHTML += `<a href="https://${item.url}"><i class="fa fa-link"></i></a>`
+          td1.innerHTML += `<a href="${item.url}"><i class="fa fa-link"></i></a>`
         }else if(key=='censored_msg'){
           if (item[key].includes('deleted by the author')){
             td1.innerHTML += `<i style="font-size: 12px;">被作者删除</i>`
@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", function(event){
           td1.innerHTML += `&nbsp<a href="https://web.archive.org/web/*/${decodedurl}"  style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`
         }else if (key=='title'){
           let val = item[key] || 0
-          td1.innerHTML += `<a href="https://${item.url}" style="font-size: 12px;" target="_blank"><i class="fa fa-weixin wechat" title="公众号原始链接"></i></a>`
+          td1.innerHTML += `<a href="${item.url}" style="font-size: 12px;" target="_blank"><i class="fa fa-weixin wechat" title="公众号原始链接"></i></a>`
           td1.innerHTML += `&nbsp<i style="font-size: 12px;">${val}</i>`
         }else{
           let val = item[key] || 0
@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       tr2.appendChild(th)
     });
     $('#add-hero-form').DataTable( {
-        "order": [[ 3, "desc" ]],
+        "order": [[ 2, "desc" ]],
         "language": {
             "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Chinese.json"
         }
