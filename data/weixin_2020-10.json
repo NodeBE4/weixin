@@ -5217,6 +5217,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501115&idx=4&sn=7290b059b5fee35da2ea43b3d0ac1101",
         "title": "郑州告诉厦门，昆明告诉大连，澳洲告诉全世界...",
+        "title_eng": "Zhengzhou told Xiamen, Kunming told Dalian, Australia told the world...",
         "nickname": "环球冷眼",
         "created_at": "2020-10-13",
         "archive": "gh_1aecabdf0add_2020-10-13_2247501115_L45WjFCxn3.y.tar.gz",
@@ -5227,11 +5228,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501115&idx=3&sn=28973896a50264ece401a45ffa1b6322",
         "title": "江苏，真狠啊",
+        "title_eng": "Jiangsu, really ruthless",
         "nickname": "环球冷眼",
         "created_at": "2020-10-13",
         "archive": "gh_1aecabdf0add_2020-10-13_2247501115_nE2cLgYPQe.y.tar.gz",
         "censored_date": "2020-10-15 20:59:34",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-15 03:56:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247486315&idx=2&sn=faf57da9bab98f70f666179d3e045593",
+        "title": "突发大丑闻!美国总统候选人或退出......",
+        "title_eng": "A big scandal broke out! The US presidential candidate may withdraw...",
+        "nickname": "精英世界",
+        "created_at": "2020-10-15",
+        "archive": "gh_34694b68f48f_2020-10-15_2247486315_jBNG9vgzf0.y.tar.gz",
+        "censored_date": "2020-10-15 22:26:23",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-15 20:27:10"
     }
 ]
