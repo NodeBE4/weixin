@@ -4741,7 +4741,7 @@
         "archive": "gh_26762a56c129_2020-10-13_2247488696_0AKuFp1wIj.y.tar.gz",
         "censored_date": "2020-10-14 10:14:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-14 10:31:56"
+        "update_date": "2020-10-16 07:35:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652583993&idx=2&sn=d6bd7a4f068539bbb788ac3e52e93278",
@@ -5391,6 +5391,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247504014&idx=1&sn=c26e5d7ed51b80b458b9a8ce347be2f3",
         "title": "重大突破? 以色列科学家宣称癌症可几周内彻底治愈, 成本低廉, 几乎无副作用",
+        "title_eng": "Major breakthrough? Israeli scientists claim that cancer can be completely cured within a few weeks, with low cost and almost no side effects",
         "nickname": "遮眼看天",
         "created_at": "2020-10-14",
         "archive": "gh_b984621ff266_2020-10-14_2247504014_cYQAlaRTKG.y.tar.gz",
@@ -5401,11 +5402,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjA3OTkzNw==&mid=2650228429&idx=7&sn=6ed50c25b0de4f47e0baba2a6d0d8734",
         "title": "12周岁！最低刑责年龄拟下调",
+        "title_eng": "12 years old! Minimum age of criminal responsibility to be lowered",
         "nickname": "最爱大北京",
         "created_at": "2020-10-14",
         "archive": "gh_0a801cef3469_2020-10-14_2650228429_Kv60HNOFwI.y.tar.gz",
         "censored_date": "2020-10-16 07:07:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-14 09:33:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDcwNjUwNQ==&mid=2676725790&idx=1&sn=b9d1648bbab36d7ba2b3815771195714",
+        "title": "气亏体虚！还在傻傻喝枸杞？每天早上三克它，可惜很多人不知道！",
+        "title_eng": "Qi and physical weakness! Still drinking wolfberry foolishly? Three grams of it every morning, unfortunately many people don't know!",
+        "nickname": "中国艺术家",
+        "created_at": "2020-10-14",
+        "archive": "gh_3fbdbe5bbc36_2020-10-14_2676725790_p7Hw2OGVzu.y.tar.gz",
+        "censored_date": "2020-10-16 08:00:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-14 10:57:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247486847&idx=2&sn=63b65468aeb2d1a61b54c84d20da2efe",
+        "title": "千万别再乱吃海参了，我是认真的，良心人士发现海参市场真相！",
+        "nickname": "实事聚焦",
+        "created_at": "2020-10-14",
+        "archive": "gh_28a27f6c0472_2020-10-14_2247486847_u0PN081zTg.y.tar.gz",
+        "censored_date": "2020-10-16 09:06:26",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDk2NzczMQ==&mid=2651249184&idx=2&sn=2ad29f7553dea099eabf1e3a7343e8b4",
+        "title": "赵高雅 | 不要让欲望和激情打扰你的理性",
+        "nickname": "法意读书",
+        "created_at": "2020-10-14",
+        "archive": "gh_491e65fdbff7_2020-10-14_2651249184_vhZ3PocIGV.y.tar.gz",
+        "censored_date": "2020-10-16 09:10:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-14 12:06:37"
     }
 ]
