@@ -5327,7 +5327,8 @@
         "created_at": "2020-10-12",
         "archive": "gh_34471e1f4b56_2020-10-12_2653015972_0doesUCg5P.y.tar.gz",
         "censored_date": "2020-10-16 03:00:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-17 03:43:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjA3OTkzNw==&mid=2650228740&idx=6&sn=7364cffcd1aaa2e35f825b5bf767ed89",
@@ -5360,7 +5361,7 @@
         "archive": "gh_fd5f7267524b_2020-10-15_2247506363_HefiVjhw2t.y.tar.gz",
         "censored_date": "2020-10-16 04:29:30",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-15 23:35:29"
+        "update_date": "2020-10-17 04:09:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486833&idx=1&sn=250464199d39bfd519ad7e59448d1fd6",
@@ -5586,7 +5587,7 @@
         "archive": "gh_a4a87df43a4c_2020-10-15_2655278537_ztne10wYbo.y.tar.gz",
         "censored_date": "2020-10-16 20:08:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-15 18:32:19"
+        "update_date": "2020-10-17 03:53:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2649575990&idx=1&sn=bc5161079e037340154ba2bc61050ef3",
@@ -5687,6 +5688,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247506670&idx=1&sn=24604a1130ed4d63532d5de3b743df89",
         "title": "台湾传来的消息，美囯万万没想到！",
+        "title_eng": "The news from Taiwan, the United States never expected!",
         "nickname": "前沿观察网",
         "created_at": "2020-10-15",
         "archive": "gh_da91e6008b7f_2020-10-15_2247506670_JfoFetT1Cr.y.tar.gz",
@@ -5697,6 +5699,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247519420&idx=8&sn=050f0d84f12025aace8c2d95af12cef3",
         "title": "嘘！二哈带你看电影",
+        "title_eng": "Hush! Erha takes you to the movies",
         "nickname": "叙拉古之惑",
         "created_at": "2020-10-15",
         "archive": "gh_c9984a3987c1_2020-10-15_2247519420_8jtRZ4g3Cd.y.tar.gz",
