@@ -5424,6 +5424,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247486847&idx=2&sn=63b65468aeb2d1a61b54c84d20da2efe",
         "title": "千万别再乱吃海参了，我是认真的，良心人士发现海参市场真相！",
+        "title_eng": "Don't eat sea cucumbers indiscriminately. I am serious. People of conscience have discovered the truth about the sea cucumber market!",
         "nickname": "实事聚焦",
         "created_at": "2020-10-14",
         "archive": "gh_28a27f6c0472_2020-10-14_2247486847_u0PN081zTg.y.tar.gz",
@@ -5433,11 +5434,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDk2NzczMQ==&mid=2651249184&idx=2&sn=2ad29f7553dea099eabf1e3a7343e8b4",
         "title": "赵高雅 | 不要让欲望和激情打扰你的理性",
+        "title_eng": "Zhao Gaoya | Don't let desire and passion disturb your reason",
         "nickname": "法意读书",
         "created_at": "2020-10-14",
         "archive": "gh_491e65fdbff7_2020-10-14_2651249184_vhZ3PocIGV.y.tar.gz",
         "censored_date": "2020-10-16 09:10:14",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-14 12:06:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzE0Mzg2OQ==&mid=2653013117&idx=2&sn=e940ed82df9c005c2ca490274b99e814",
+        "title": "公大早读（10月16日 周五）",
+        "title_eng": "University of Hong Kong Early Reading (Friday, October 16)",
+        "nickname": "公大资讯",
+        "created_at": "2020-10-16",
+        "archive": "gh_1fe7c8e2027b_2020-10-16_2653013117_KbS1DXuTVF.y.tar.gz",
+        "censored_date": "2020-10-16 09:23:43",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650437422&idx=2&sn=b7c4f16d2e68e0697aa81c542e0c28eb",
+        "title": "​揭秘：原来银壶直供这么便宜，可惜只有少数人知道！",
+        "nickname": "南师国学堂",
+        "created_at": "2020-10-14",
+        "archive": "gh_45de294b7642_2020-10-14_2650437422_ULusMbR0rh.y.tar.gz",
+        "censored_date": "2020-10-16 09:31:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-14 09:28:19"
     }
 ]
