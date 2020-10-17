@@ -5727,7 +5727,7 @@
         "archive": "gh_69043f48c02f_2020-10-15_2650084695_aqvhDG4W0K.y.tar.gz",
         "censored_date": "2020-10-17 04:52:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-15 18:31:07"
+        "update_date": "2020-10-17 23:37:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4OTcxMDA0MQ==&mid=2247496339&idx=3&sn=a7963baeaf73619e827f41c2ef189a5f",
@@ -6029,6 +6029,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501277&idx=2&sn=d0cd52e675e07507e6a67321bbecef66",
         "title": "很庆幸，在这个时代还能读到奥威尔。",
+        "title_eng": "Fortunately, Orwell can still be read in this era.",
         "nickname": "环球冷眼",
         "created_at": "2020-10-15",
         "archive": "gh_1aecabdf0add_2020-10-15_2247501277_n4S0Fpkc7G.y.tar.gz",
@@ -6039,11 +6040,45 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501277&idx=3&sn=b1ab3f0d86d8708d5d6e41675bbb1098",
         "title": "为了卖房，开发商不止伪造了一个地铁站！",
+        "title_eng": "In order to sell the house, the developer not only forged a subway station!",
         "nickname": "环球冷眼",
         "created_at": "2020-10-15",
         "archive": "gh_1aecabdf0add_2020-10-15_2247501277_30a8IjMPuH.y.tar.gz",
         "censored_date": "2020-10-17 23:24:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-17 07:52:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501217&idx=3&sn=1873c45f163b6fa688df4f570e93074b",
+        "title": "真以为大涨是好事儿？醒醒吧！",
+        "title_eng": "Really think that the big increase is a good thing? wake up!",
+        "nickname": "环球冷眼",
+        "created_at": "2020-10-14",
+        "archive": "gh_1aecabdf0add_2020-10-14_2247501217_mU5sT7YVeR.y.tar.gz",
+        "censored_date": "2020-10-17 23:26:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-17 07:53:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501277&idx=1&sn=4cf09802d1a5f55794e10796903ab38d",
+        "title": "深圳表彰名单大有深意：王石不在列，一个房地产商都没有......",
+        "title_eng": "The Shenzhen commendation list is very meaningful: Wang Shi is not on the list, and there is no real estate company...",
+        "nickname": "环球冷眼",
+        "created_at": "2020-10-15",
+        "archive": "gh_1aecabdf0add_2020-10-15_2247501277_zQyWagD083.y.tar.gz",
+        "censored_date": "2020-10-18 00:29:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-16 06:29:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA==&mid=2652886486&idx=1&sn=e983248abd954969075de0dc22c5441e",
+        "title": "接连两封绝命书",
+        "title_eng": "Two suicide books in a row",
+        "nickname": "呦呦鹿鸣",
+        "created_at": "2020-10-16",
+        "archive": "gh_228524cee8a6_2020-10-16_2652886486_g7JqUui1va.y.tar.gz",
+        "censored_date": "2020-10-17 23:36:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-16 08:24:30"
     }
 ]
