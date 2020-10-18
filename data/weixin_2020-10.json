@@ -6210,6 +6210,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247537483&idx=3&sn=9e85c75f69c20ba08edd81cbc82e9dc9",
         "title": "省长说茶，寥寥数语，意境很深，真性情中人！",
+        "title_eng": "The governor said tea with a few words, with a deep artistic conception and a true temperament!",
         "nickname": "演讲与人生",
         "created_at": "2020-10-17",
         "archive": "gh_e525ae7f03af_2020-10-17_2247537483_gTNM9WqC6v.y.tar.gz",
@@ -6220,6 +6221,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247511210&idx=1&sn=d20aa76403de901a89f8c916e03b1231",
         "title": "翻车了！抗疫女护士和兵哥哥的爱情故事，演变“小三配渣男” ！",
+        "title_eng": "It's overturned! The love story between the anti-epidemic female nurse and the soldier's brother has evolved into a small three with a scumbag!",
         "nickname": "柏举居士",
         "created_at": "2020-10-16",
         "archive": "gh_c1335a131ff4_2020-10-16_2247511210_YuOTNiUkA7.y.tar.gz",
@@ -6229,10 +6231,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247498122&idx=1&sn=6d5afbc679b0e2c119994767c763ed63",
         "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and thousands of yuan, you don’t believe it!",
         "nickname": "西域都护",
         "created_at": "2020-10-17",
         "archive": "gh_5023d7e73573_2020-10-17_2247498122_LMg2v9xyRT.y.tar.gz",
         "censored_date": "2020-10-18 23:13:07",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTczNTA4MA==&mid=2247495084&idx=2&sn=34014757778a9b132e208576927bdb42",
+        "title": "拜登突然大脑短路！忘记自己在竞选总统，美国人：大选已失去悬念",
+        "title_eng": "Biden suddenly shorted his brain! Forget that you are running for president, Americans: the election has lost suspense",
+        "nickname": "海外博士学者圈子",
+        "created_at": "2020-10-17",
+        "archive": "gh_5adc0787d242_2020-10-17_2247495084_U1HdixjepE.y.tar.gz",
+        "censored_date": "2020-10-18 23:55:57",
         "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
