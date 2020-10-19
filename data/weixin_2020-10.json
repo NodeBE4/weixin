@@ -6247,7 +6247,8 @@
         "created_at": "2020-10-17",
         "archive": "gh_5adc0787d242_2020-10-17_2247495084_U1HdixjepE.y.tar.gz",
         "censored_date": "2020-10-18 23:55:57",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-19 13:35:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247502649&idx=2&sn=62f8bd11c8478d9ad4dbf5001ba962ba",
@@ -6474,5 +6475,15 @@
         "censored_date": "2020-10-19 10:04:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-17 17:19:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzIwMTA2NA==&mid=2650282240&idx=2&sn=6530d30addb20e1ca52c27fc35a5a477",
+        "title": "这款超大袋综合蔬果干，好吃到忍不住嗦手指！",
+        "title_eng": "This super large bag of integrated dried fruits and vegetables is so delicious that you can't help but linger!",
+        "nickname": "beebee星球",
+        "created_at": "2020-10-18",
+        "archive": "gh_e435cb2e3b5d_2020-10-18_2650282240_y5BkWrKj2V.y.tar.gz",
+        "censored_date": "2020-10-19 14:06:23",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
