@@ -5979,7 +5979,7 @@
         "archive": "gh_9d08db2ba921_2020-10-17_2655371663_0BaAmZItTN.y.tar.gz",
         "censored_date": "2020-10-17 18:40:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-18 17:35:01"
+        "update_date": "2020-10-19 08:07:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTA3NDM1MzUwMQ==&mid=2652007589&idx=1&sn=21d4746d6539005d184233ac7ca99408",
@@ -6356,6 +6356,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247500944&idx=3&sn=80e652c9727fb9dc308ee983bdc3b87c",
         "title": "钟院士终于宣布板蓝根对新冠病毒有效了",
+        "title_eng": "Academician Zhong finally announced that Banlangen is effective against the new crown virus",
         "nickname": "难得视界",
         "created_at": "2020-10-17",
         "archive": "gh_1c6cefeca9ab_2020-10-17_2247500944_ERoH2nS1c5.y.tar.gz",
@@ -6366,6 +6367,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501354&idx=5&sn=260644c4f90f400dedecaa9de53d27ce",
         "title": "突发！广州发现1例无症状感染者，最新通报！新冠疫苗接种也来了，2针400元…",
+        "title_eng": "Burst! 1 case of asymptomatic infection was found in Guangzhou, the latest report! The new crown vaccination is also here, 400 yuan for 2 shots...",
         "nickname": "环球冷眼",
         "created_at": "2020-10-16",
         "archive": "gh_1aecabdf0add_2020-10-16_2247501354_9nt7pl4D5u.y.tar.gz",
@@ -6376,6 +6378,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247505818&idx=3&sn=8f5bf9179f0e0683dc616b7a837e8696",
         "title": "用这颗小胶囊来刷牙，戴口罩也没口气，笑起来都比别人好看几分。",
+        "title_eng": "I use this small capsule to brush my teeth, and I don’t breathe in a mask. I laugh a little better than others.",
         "nickname": "万小刀",
         "created_at": "2020-10-17",
         "archive": "gh_db3c2486e7de_2020-10-17_2247505818_1BlvJwWL0r.y.tar.gz",
@@ -6386,6 +6389,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247505818&idx=1&sn=94dfd1ae05460b9649ccf5fe5ba8f504",
         "title": "香港巨头的发家往事",
+        "title_eng": "The fortunes of Hong Kong giants",
         "nickname": "万小刀",
         "created_at": "2020-10-17",
         "archive": "gh_db3c2486e7de_2020-10-17_2247505818_rXlzj6tEp9.y.tar.gz",
@@ -6396,11 +6400,44 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652424699&idx=2&sn=1c6d3065015ac4e69e9f921e0fa1cf05",
         "title": "严选课 | 冯唐：30岁以后想要逆袭，必须明白这个道理",
+        "title_eng": "Strictly Selected Courses | Feng Tang: If you want to counterattack after 30, you must understand this truth",
         "nickname": "南方周末",
         "created_at": "2020-10-16",
         "archive": "nanfangzhoumo_2020-10-16_2652424699_k9Jvf5h4m2.y.tar.gz",
         "censored_date": "2020-10-19 06:47:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-17 15:22:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247505818&idx=2&sn=dab32abbf550ebf75a5ef3ec6daa67a7",
+        "title": "“假靳东”恋上61岁已婚大妈？真相没那么简单！",
+        "nickname": "万小刀",
+        "created_at": "2020-10-17",
+        "archive": "gh_db3c2486e7de_2020-10-17_2247505818_uVwqdRhC06.y.tar.gz",
+        "censored_date": "2020-10-19 08:55:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-17 15:33:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247496868&idx=4&sn=feb14327af259fb5fb28887b65ba894e",
+        "title": "这些危险又奇葩的蠢事，在过去竟然是合法的",
+        "title_eng": "These dangerous and weird stupid things turned out to be legal in the past",
+        "nickname": "微思时代",
+        "created_at": "2020-10-17",
+        "archive": "gh_b28632ea9ab2_2020-10-17_2247496868_4r0CTjR7QZ.y.tar.gz",
+        "censored_date": "2020-10-19 07:38:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-17 13:38:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247506845&idx=2&sn=0b0e3adc6067e1e5906e5280f11eceaf",
+        "title": "最新“铁饭碗”排名，教师排第9，第一名你肯定猜不到……",
+        "title_eng": "The latest Iron Rice Bowl ranking, the teachers ranked 9th, you must not guess the first place...",
+        "nickname": "前沿观察网",
+        "created_at": "2020-10-17",
+        "archive": "gh_da91e6008b7f_2020-10-17_2247506845_0BvRP0914y.y.tar.gz",
+        "censored_date": "2020-10-19 07:55:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-17 17:37:52"
     }
 ]
