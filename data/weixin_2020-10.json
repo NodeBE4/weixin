@@ -6258,7 +6258,8 @@
         "created_at": "2020-10-18",
         "archive": "gh_85ceeb96c96a_2020-10-18_2247502649_bRosuVz7wL.y.tar.gz",
         "censored_date": "2020-10-19 01:10:53",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-19 17:53:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247603052&idx=5&sn=e7794496752b8496c35202c77de757e7",
@@ -6518,5 +6519,26 @@
         "censored_date": "2020-10-19 16:04:06",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-19 04:22:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650486710&idx=1&sn=8d600acd83e4427b2c5a7cec67d8498d",
+        "title": "鹏华聚鑫资管计划违约追踪：48%本金已转为工行理财，免销售手续费",
+        "title_eng": "Penghua Juxin Asset Management Plan default tracking: 48% of the principal has been converted to ICBC wealth management, free of sales handling fees",
+        "nickname": "界面新闻",
+        "created_at": "2020-10-18",
+        "archive": "gh_93119cc8064a_2020-10-18_2650486710_1rm0clzgka.y.tar.gz",
+        "censored_date": "2020-10-19 17:28:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-18 21:32:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzEzNzEwNw==&mid=2651090754&idx=1&sn=64ecd1f5e9478489b2fb29db0541df19",
+        "title": "谷歌前CEO：击败中国，美国须“不惜一切代价”",
+        "nickname": "四月网",
+        "created_at": "2020-10-18",
+        "archive": "gh_456a492c2af5_2020-10-18_2651090754_c5ymNSKz6s.y.tar.gz",
+        "censored_date": "2020-10-19 18:06:40",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-19 01:52:46"
     }
 ]
