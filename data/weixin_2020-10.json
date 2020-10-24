@@ -7069,6 +7069,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247520330&idx=7&sn=9b3f4da5f5171f770a58ab43caa52d87",
         "title": "嘘！二哈带你看电影",
+        "title_eng": "Hush! Erha takes you to the movies",
         "nickname": "叙拉古之惑",
         "created_at": "2020-10-21",
         "archive": "gh_c9984a3987c1_2020-10-21_2247520330_gJ4rTyKm7i.y.tar.gz",
@@ -7078,10 +7079,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247520056&idx=2&sn=faa5a1994fed7307d8203f6b22097dcf",
         "title": "娱乐至死的年代，我想推荐这几个严肃公众号",
+        "title_eng": "In the age of entertainment to death, I want to recommend these serious public accounts",
         "nickname": "叙拉古之惑",
         "created_at": "2020-10-20",
         "archive": "gh_c9984a3987c1_2020-10-20_2247520056_DxYyTo3aqQ.y.tar.gz",
         "censored_date": "2020-10-24 07:12:01",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247494860&idx=2&sn=ef60df8159f87f8482387978c6917b0b",
+        "title": "又来！美国再对6家中国媒体下手，已达15家，中方强烈谴责",
+        "title_eng": "Come again! The United States has attacked 6 Chinese media, which has reached 15 and China strongly condemns",
+        "nickname": "凭海观潮A",
+        "created_at": "2020-10-22",
+        "archive": "gh_728dda09b5fa_2020-10-22_2247494860_SKvILmCxw5.y.tar.gz",
+        "censored_date": "2020-10-24 07:29:44",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
