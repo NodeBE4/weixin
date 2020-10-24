@@ -7324,6 +7324,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MDIwOTEwNw==&mid=2247527173&idx=5&sn=e2de234502df0e86aedaed146397aaf3",
         "title": "特朗普与拜登相继被踢爆与中国相关的丑闻",
+        "title_eng": "Trump and Biden have been kicked out of scandals related to China",
         "nickname": "新加坡红蚂蚁",
         "created_at": "2020-10-24",
         "archive": "gh_b41ef7c2cea1_2020-10-24_2247527173_NrFV8o9T40.y.tar.gz",
@@ -7333,6 +7334,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247507642&idx=1&sn=f8befeea3a70cb38e2bb13bca1fda513",
         "title": "现在美国日本都抢着用，被誉为‘’生命之源‘’国内很多人还不知道！",
+        "title_eng": "Now the United States and Japan are rushing to use it, and it is hailed as the'source of life'. Many people in China still don't know it!",
         "nickname": "前沿观察网",
         "created_at": "2020-10-23",
         "archive": "gh_da91e6008b7f_2020-10-23_2247507642_it9XqVzKDd.y.tar.gz",
@@ -7343,10 +7345,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247486891&idx=1&sn=f757d444877b32f2a3c109a16c94a851",
         "title": "CCTV：它被曝光了！长期喝的人身体发生了惊人变化……",
+        "title_eng": "CCTV: It was exposed! The body of people who drink for a long time has undergone amazing changes...",
         "nickname": "实事聚焦",
         "created_at": "2020-10-23",
         "archive": "gh_28a27f6c0472_2020-10-23_2247486891_DSVquRJBl3.y.tar.gz",
         "censored_date": "2020-10-25 04:10:55",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247501748&idx=1&sn=0d42a0fd305e9bf1fd4d052033a84972",
+        "title": "冷眼：大隐患，压不住了......",
+        "title_eng": "Cold eyes: a big hidden danger, can't hold it...",
+        "nickname": "环球冷眼",
+        "created_at": "2020-10-23",
+        "archive": "gh_1aecabdf0add_2020-10-23_2247501748_5YNb697PT0.y.tar.gz",
+        "censored_date": "2020-10-25 04:29:58",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2650908563&idx=2&sn=45f63694a8fc0680cde19dc90acd3b15",
+        "title": "人民日报紧急通知：大家千万记得收藏此文，关键时刻能救命！",
+        "title_eng": "Urgent notice from the People’s Daily: Please remember to bookmark this article, it can help you at a critical moment!",
+        "nickname": "新老人",
+        "created_at": "2020-10-23",
+        "archive": "gh_2ff5d816ea7a_2020-10-23_2650908563_fImuUF56LK.y.tar.gz",
+        "censored_date": "2020-10-25 04:28:21",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzEzNzQ3MQ==&mid=2650222795&idx=3&sn=e42e18b443e7e56b7b3f62f2bd0400df",
+        "title": "“住在ICU的一周，我妈每天靠吃‘伟哥’活命”成小号爆款，“果然，毛洪涛已经在热搜消失了”在看数破万|每日爆文",
+        "nickname": "微果酱",
+        "created_at": "2020-10-23",
+        "archive": "gh_dc40b0299132_2020-10-23_2650222795_OwaUBGcltK.y.tar.gz",
+        "censored_date": "2020-10-25 05:01:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-23 22:35:54"
     }
 ]
