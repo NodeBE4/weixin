@@ -7057,7 +7057,7 @@
         "archive": "gh_b984621ff266_2020-10-22_2247504757_P01RLDuzQX.y.tar.gz",
         "censored_date": "2020-10-24 03:04:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-24 03:06:12"
+        "update_date": "2020-10-25 19:27:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MjMwNjUxMA==&mid=2247502468&idx=2&sn=f4d6a99fb44babb5260e8ff71cd607a7",
@@ -7525,6 +7525,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247535236&idx=5&sn=b2492433e9788b2e85a22beeb3891ffb",
         "title": "藏在朋友圈里的 “人生密码 ”，确定不看看么",
+        "title_eng": "The password of life hidden in the circle of friends, are you sure not to check it out",
         "nickname": "浪潮工作室",
         "created_at": "2020-10-23",
         "archive": "gh_0199c7d26b97_2020-10-23_2247535236_V2W7EZ5S0d.y.tar.gz",
@@ -7535,6 +7536,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247535236&idx=6&sn=252916e8186c4cf1df1cff3d8b8cb177",
         "title": "关注这几个公众号涨点真知识",
+        "title_eng": "Pay attention to the real knowledge of these public accounts",
         "nickname": "浪潮工作室",
         "created_at": "2020-10-23",
         "archive": "gh_0199c7d26b97_2020-10-23_2247535236_lXQCRW9mZB.y.tar.gz",
@@ -7545,11 +7547,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwMjg5Mg==&mid=2656968261&idx=2&sn=12818daa7e545da451f782b563fb29f0",
         "title": "王朔谈黑人和黑人文化，可谓是一针见血：我们不歧视黑人，但有些东西我们是真的怕",
+        "title_eng": "When Wang Shuo talked about black people and black culture, it can be said that it hit the nail on the head: We do not discriminate against black people, but we are really afraid of some things.",
         "nickname": "老刘的心灵鸡汤",
         "created_at": "2020-10-24",
         "archive": "gh_0bec3fbedf6b_2020-10-24_2656968261_HDQm4VJ00v.y.tar.gz",
         "censored_date": "2020-10-25 18:52:46",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-24 02:22:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247516363&idx=3&sn=84719ece96cc4402907f5dd1fc05de1c",
+        "title": "管好自己的嘴，不要说这些话...",
+        "title_eng": "Take care of your own mouth, don't say these things...",
+        "nickname": "牧者讲道",
+        "created_at": "2020-10-22",
+        "archive": "gh_ab6c4e04286d_2020-10-22_2247516363_CPQbrehNWu.y.tar.gz",
+        "censored_date": "2020-10-25 19:29:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-24 03:06:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653221055&idx=1&sn=cb5e0d1610b309eb20c7612380cda631",
+        "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and thousands of yuan, you don’t believe it!",
+        "nickname": "腾飞讲史",
+        "created_at": "2020-10-24",
+        "archive": "gh_8492bb8e8be7_2020-10-24_2653221055_RFjf7rxn1v.y.tar.gz",
+        "censored_date": "2020-10-25 20:23:02",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-24 08:12:01"
     }
 ]
