@@ -6853,7 +6853,7 @@
         "archive": "gh_50ff51071597_2020-10-22_2650894914_eoRUk4SBw0.y.tar.gz",
         "censored_date": "2020-10-23 19:23:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-23 11:03:36"
+        "update_date": "2020-10-25 09:17:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDUwMzc3Mg==&mid=2649370500&idx=4&sn=abadfa9310dae7d2a5536400da7419ad",
@@ -6864,7 +6864,7 @@
         "archive": "gh_cd87b379e261_2020-10-23_2649370500_XGM04wr1xm.y.tar.gz",
         "censored_date": "2020-10-23 18:52:43",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-25 01:12:48"
+        "update_date": "2020-10-25 09:18:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652710224&idx=2&sn=401334c424e50dd93556376bf564dc0f",
@@ -7245,7 +7245,7 @@
         "archive": "gh_bf54f24b2e87_2020-10-23_2247505181_nhe3jcERZ0.y.tar.gz",
         "censored_date": "2020-10-24 19:25:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-23 19:36:21"
+        "update_date": "2020-10-25 09:36:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc2OTA1NQ==&mid=2651546912&idx=3&sn=053fee5e474bfc90a051e7b683bb6ab9",
@@ -7396,11 +7396,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362697&idx=4&sn=cf90be3a4217ff3711223876bf20b725",
         "title": "今年贼便宜的景德瓷器，正是入手的好时机！！",
+        "title_eng": "This year's cheap Jingde porcelain is a good time to start! !",
         "nickname": "乐诚坊",
         "created_at": "2020-10-22",
         "archive": "gh_42435e819eef_2020-10-22_2650362697_0Xk7GSCctJ.y.tar.gz",
         "censored_date": "2020-10-25 09:10:14",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-23 19:26:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjIxODQwOQ==&mid=2654267560&idx=1&sn=35a8857448ad4c6f6a52b561dc683dbe",
+        "title": "李辉同志安排部署全市打击治理电信网络新型违法犯罪工作",
+        "title_eng": "Comrade Li Hui arranges the deployment of the city's work on cracking down on new types of illegal and criminal telecommunication networks",
+        "nickname": "金昌公安",
+        "created_at": "2020-10-23",
+        "archive": "gh_aec0c30e47cc_2020-10-23_2654267560_dgAQ3qESu1.y.tar.gz",
+        "censored_date": "2020-10-25 10:25:06",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
