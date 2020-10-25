@@ -7768,6 +7768,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486865&idx=3&sn=c910432b35292e206303746d45958c10",
         "title": "酒是一级致癌物（深度揭秘",
+        "title_eng": "Liquor is a first-class carcinogen (deep secret",
         "nickname": "秘闻爆光",
         "created_at": "2020-10-22",
         "archive": "gh_94d9b14108ec_2020-10-22_2247486865_fMsdqzF0g6.y.tar.gz",
@@ -7778,6 +7779,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486865&idx=4&sn=ef49adab5aaeeb1f45b28e8884eca77f",
         "title": "现在知道为什么会被卡脖子了",
+        "title_eng": "Now I know why I got stuck",
         "nickname": "秘闻爆光",
         "created_at": "2020-10-22",
         "archive": "gh_94d9b14108ec_2020-10-22_2247486865_xCupWA9U65.y.tar.gz",
@@ -7788,11 +7790,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362741&idx=5&sn=e35f5a49e25ebe71f7f9e734d81f5bc5",
         "title": "2020年，股市还是楼市，这个关键问题决定你未来十年",
+        "title_eng": "In 2020, the stock market or the property market, this key issue determines your next ten years",
         "nickname": "乐诚坊",
         "created_at": "2020-10-24",
         "archive": "gh_42435e819eef_2020-10-24_2650362741_2eXPCrsaGM.y.tar.gz",
         "censored_date": "2020-10-26 04:26:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-24 14:26:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247512687&idx=4&sn=3744f48501d62bc197877302f8180971",
+        "title": "疫情之下外出用餐安全吗？日本节目实测8大餐厅病毒传播处！菜单、餐巾纸、门把等...",
+        "nickname": "柏举居士",
+        "created_at": "2020-10-24",
+        "archive": "gh_c1335a131ff4_2020-10-24_2247512687_PMpv3NmYqA.y.tar.gz",
+        "censored_date": "2020-10-26 04:57:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653325257&idx=6&sn=936ade8de077dee128ec73c6b7b9d148",
+        "title": "几个低调却很实用的公众号，第一个就没听说过！",
+        "nickname": "画友文学天地",
+        "created_at": "2020-10-24",
+        "archive": "gh_e4d7b38fb8a3_2020-10-24_2653325257_vrpyW2YhQ6.y.tar.gz",
+        "censored_date": "2020-10-26 05:17:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-24 15:11:02"
     }
 ]
