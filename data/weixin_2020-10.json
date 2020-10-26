@@ -7523,7 +7523,8 @@
         "created_at": "2020-10-25",
         "archive": "gh_610312e22ed3_2020-10-25_2247491052_HiMmDkN1fx.y.tar.gz",
         "censored_date": "2020-10-25 16:45:22",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-26 07:31:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247535236&idx=5&sn=b2492433e9788b2e85a22beeb3891ffb",
@@ -7822,11 +7823,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI0NTUwNQ==&mid=2653961568&idx=2&sn=2680e451c68fc6563691d361a0712eae",
         "title": "95%的女性曾自慰过，超过一半感到羞耻：我们何时才能大方谈性？",
+        "title_eng": "95% of women have masturbated, and more than half feel ashamed: when can we talk about sex openly?",
         "nickname": "书房记",
         "created_at": "2020-10-25",
         "archive": "gh_a35521027098_2020-10-25_2653961568_L74fhCsSeH.y.tar.gz",
         "censored_date": "2020-10-26 06:44:35",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-10-25 02:51:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652204538&idx=3&sn=7dcb637c96ed153320425bfad56e0687",
+        "title": "美大选终场辩论全程直播",
+        "title_eng": "U.S. election final debate live broadcast",
+        "nickname": "大千世界",
+        "created_at": "2020-10-24",
+        "archive": "gh_a517719487ef_2020-10-24_2652204538_S5RyzXUGlh.y.tar.gz",
+        "censored_date": "2020-10-26 07:34:13",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
