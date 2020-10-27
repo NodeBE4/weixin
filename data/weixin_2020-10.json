@@ -8010,7 +8010,7 @@
         "archive": "gh_d2e34f79fa6b_2020-10-26_2649628136_rsCo0VeGJk.y.tar.gz",
         "censored_date": "2020-10-26 15:31:15",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-26 18:23:25"
+        "update_date": "2020-10-27 19:56:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651344251&idx=2&sn=86f94a8f0462f70454ab55fe4bdedb38",
@@ -8128,7 +8128,7 @@
         "archive": "gh_3572175bfb4e_2020-10-25_2649468744_POrUv7I1j8.y.tar.gz",
         "censored_date": "2020-10-26 22:36:08",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-25 17:39:52"
+        "update_date": "2020-10-27 19:43:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488711&idx=2&sn=acd078689347d16f78b7213bafd21909",
@@ -8488,6 +8488,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247503543&idx=1&sn=cfab727a3ce468fa4e369979faae7c2a",
         "title": "提个醒：鸡蛋与此物同吃，肝干净了，眼睛明亮了，睡眠好了，现在吃最好！（建议收藏）",
+        "title_eng": "A reminder: Eat eggs with this food, the liver is clean, the eyes are brighter, and the sleep is better. It's best to eat now! (Recommended collection)",
         "nickname": "潇湘经略",
         "created_at": "2020-10-24",
         "archive": "gh_30b5796604e2_2020-10-24_2247503543_FRkalKY9oh.y.tar.gz",
@@ -8498,6 +8499,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650910132&idx=2&sn=6be638caf5def3584d8be67294e98b55",
         "title": "普洱茶，切忌不懂装懂（建议收藏）",
+        "title_eng": "Pu'er tea, do not know how to pretend to understand (recommend collection)",
         "nickname": "天下说法",
         "created_at": "2020-10-25",
         "archive": "gh_9d4eb92add23_2020-10-25_2650910132_4EpD8CaXRu.y.tar.gz",
@@ -8508,11 +8510,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247536518&idx=6&sn=703c0e879297d54a6daff5c243172c3e",
         "title": "哪些东西坚持做会有巨大改变",
+        "title_eng": "What things will change dramatically",
         "nickname": "浪潮工作室",
         "created_at": "2020-10-25",
         "archive": "gh_0199c7d26b97_2020-10-25_2247536518_QWvb7x6iNZ.y.tar.gz",
         "censored_date": "2020-10-27 18:58:10",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-26 13:49:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652710622&idx=2&sn=45bcda67da1a1cd85d10f2a8ac8b95cb",
+        "title": "午安，打工人！今天你还吃外卖吗？",
+        "title_eng": "Good afternoon, hit the workers! Do you still eat takeaway today?",
+        "nickname": "8号风曝",
+        "created_at": "2020-10-25",
+        "archive": "gh_a0404706a1d9_2020-10-25_2652710622_RYqgZcrBbd.y.tar.gz",
+        "censored_date": "2020-10-27 19:27:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-26 22:00:45"
     }
 ]
