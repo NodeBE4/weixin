@@ -7483,7 +7483,7 @@
         "archive": "gh_91d203bd2a8d_2020-10-24_2247502528_enZsWd97cx.y.tar.gz",
         "censored_date": "2020-10-25 15:45:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-26 03:57:55"
+        "update_date": "2020-10-27 16:15:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489373&idx=1&sn=e4bec1ffbc6162d2176fd7a7c9487c18",
@@ -8395,6 +8395,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NTM4NjM3OQ==&mid=2247499743&idx=4&sn=affd3b969bc6a3fb8411336f4f499eca",
         "title": "省委巡视组长一心扑在工作上，忘了家中2亿现金已发霉",
+        "title_eng": "The inspection team leader of the provincial party committee devoted himself to work and forgot that the 200 million cash at home was moldy",
         "nickname": "郭一平赤路行动",
         "created_at": "2020-10-25",
         "archive": "gh_a2b44f72c451_2020-10-25_2247499743_x2yRMb8jWZ.y.tar.gz",
@@ -8404,6 +8405,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650276047&idx=2&sn=a6a9cdd24cc64c7b019b7fca8c10d338",
         "title": "高安隔壁丰城全面启动测体温、查戴口罩",
+        "title_eng": "Fengcheng, next door to Gaoan, fully started taking body temperature and wearing masks",
         "nickname": "高安百事通",
         "created_at": "2020-10-25",
         "archive": "gh_1d97537c840d_2020-10-25_2650276047_ycv0UFdBoj.y.tar.gz",
@@ -8413,10 +8415,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MjY2NTQ1OQ==&mid=2247495856&idx=2&sn=2d8cfa442bca1b81769e9e62400f4382",
         "title": "恶毒至极！管虎电影《金刚川》竟这样诋毁英烈、影射伟人！",
+        "title_eng": "Extremely vicious! Guanhu's movie King Kong River actually slandered heroes and insinuated great men like this!",
         "nickname": "环球看热点",
         "created_at": "2020-10-25",
         "archive": "gh_6897b8d2258f_2020-10-25_2247495856_o5z04buawH.y.tar.gz",
         "censored_date": "2020-10-27 15:13:17",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzIwMTA2NA==&mid=2650282706&idx=2&sn=6ed3a7a01393387f4591b45f792625db",
+        "title": "这双狠袜，能让你的双足如暖玉般不惧严寒！",
+        "title_eng": "This pair of ruthless socks can keep your feet as warm as jade from the cold!",
+        "nickname": "beebee星球",
+        "created_at": "2020-10-25",
+        "archive": "gh_e435cb2e3b5d_2020-10-25_2650282706_n0KeJ9yjGp.y.tar.gz",
+        "censored_date": "2020-10-27 16:11:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247493353&idx=2&sn=6d2cd8dd05916f82a8a08aaeace865e2",
+        "title": "马云，昨天“大放厥词”…",
+        "title_eng": "Jack Ma, Big talk yesterday...",
+        "nickname": "北斗局",
+        "created_at": "2020-10-25",
+        "archive": "gh_ccf6a72b140a_2020-10-25_2247493353_jgcI1i5vOt.y.tar.gz",
+        "censored_date": "2020-10-27 16:17:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-26 03:59:57"
     }
 ]
