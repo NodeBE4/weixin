@@ -7933,7 +7933,7 @@
         "archive": "gh_53cda55276ab_2020-10-26_2650508728_Uj4ieKYsCN.y.tar.gz",
         "censored_date": "2020-10-26 11:20:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-26 18:40:52"
+        "update_date": "2020-10-28 10:33:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTMyNTQwNw==&mid=2650508728&idx=6&sn=77597abdeadc639972ed8047e07c57c7",
@@ -7944,7 +7944,7 @@
         "archive": "gh_53cda55276ab_2020-10-26_2650508728_kzr7odVfJ5.y.tar.gz",
         "censored_date": "2020-10-26 11:21:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 14:07:23"
+        "update_date": "2020-10-28 10:33:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTMyNTQwNw==&mid=2650508728&idx=1&sn=341373c9b42c158803668da255df5a72",
@@ -8650,5 +8650,15 @@
         "censored_date": "2020-10-28 08:22:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-27 18:14:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247514742&idx=1&sn=a90b510efcacb472edfde5bbe3bb5edc",
+        "title": "马云捅了“马蜂窝”",
+        "title_eng": "Ma Yun stabbed the hornet's nest",
+        "nickname": "华尔街见闻",
+        "created_at": "2020-10-26",
+        "archive": "gh_64b9211187ab_2020-10-26_2247514742_QMYIfwgchD.y.tar.gz",
+        "censored_date": "2020-10-28 09:42:04",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
