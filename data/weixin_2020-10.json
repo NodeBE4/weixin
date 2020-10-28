@@ -8713,7 +8713,8 @@
         "created_at": "2020-10-27",
         "archive": "gh_afad949b93dd_2020-10-27_2247504208_LcYM0CAmZk.y.tar.gz",
         "censored_date": "2020-10-28 14:34:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 06:36:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzExODYzNw==&mid=2667512810&idx=1&sn=aabeefd8dc43264b8e0712a0b89a1e17",
@@ -9028,6 +9029,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTk5ODI4NQ==&mid=2655343304&idx=4&sn=a1745b395f9841c4ff48543ba1863b15",
         "title": "深圳女教师捐工资打仗？强烈要求她全家去中印边境夺回国土",
+        "title_eng": "Shenzhen female teachers donate wages to fight? Strongly request her family to go to the Sino-Indian border to retake the land",
         "nickname": "您懂的",
         "created_at": "2020-10-28",
         "archive": "gh_8f7ba5d0b6e2_2020-10-28_2655343304_nNDiG7yQJo.y.tar.gz",
@@ -9038,6 +9040,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496659&idx=6&sn=ae6271851f24fdcf0fd3271e2602b610",
         "title": "“3斤人参”不如它？秋冬吃它养身温补，一步到“胃”",
+        "title_eng": "Is 3 Jin Ginseng not as good as it? Eat it in autumn and winter to nourish your body and nourish your body.",
         "nickname": "中西ABC",
         "created_at": "2020-10-28",
         "archive": "gh_fc276be154e5_2020-10-28_2247496659_TtYWZNfUyR.y.tar.gz",
@@ -9048,11 +9051,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655786076&idx=1&sn=87763745e2f4b40bf1c4d8a59c2d36d0",
         "title": "跨越大洋的中西医药对话：保健品研发也应遵循循证医学",
+        "title_eng": "A dialogue between Chinese and Western medicine across the ocean: the research and development of health products should also follow evidence-based medicine",
         "nickname": "药渡",
         "created_at": "2020-10-28",
         "archive": "gh_b4e5fabd7680_2020-10-28_2655786076_vcAoZVEk5t.y.tar.gz",
         "censored_date": "2020-10-29 06:17:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-28 09:49:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651392197&idx=2&sn=42fe34f6b8aa4a5fc47755588a5b402f",
+        "title": "横山：消费扶贫为幸福生活“下单”",
+        "nickname": "横山宣传",
+        "created_at": "2020-10-28",
+        "archive": "gh_2f772f88268b_2020-10-28_2651392197_XVMiIRFksW.y.tar.gz",
+        "censored_date": "2020-10-29 07:25:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-28 08:05:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496659&idx=7&sn=a316dc58c689721471d20f655cfd704e",
+        "title": "5天不洗头也不油、不痒的秘密，竟藏在了这五个人均80+的高龄老人手里！",
+        "nickname": "中西ABC",
+        "created_at": "2020-10-28",
+        "archive": "gh_fc276be154e5_2020-10-28_2247496659_VZIFul090D.y.tar.gz",
+        "censored_date": "2020-10-29 06:33:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-28 15:29:37"
     }
 ]
