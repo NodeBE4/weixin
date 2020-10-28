@@ -7911,7 +7911,7 @@
         "archive": "gh_53cda55276ab_2020-10-26_2650508728_S0zxVwuCEc.y.tar.gz",
         "censored_date": "2020-10-26 11:18:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 03:53:39"
+        "update_date": "2020-10-28 20:21:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTMyNTQwNw==&mid=2650508728&idx=7&sn=4718b886a73bd378c8271f88796f07ca",
@@ -7922,7 +7922,7 @@
         "archive": "gh_53cda55276ab_2020-10-26_2650508728_67e3SENLyq.y.tar.gz",
         "censored_date": "2020-10-26 11:20:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 03:54:49"
+        "update_date": "2020-10-28 20:21:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTMyNTQwNw==&mid=2650508728&idx=4&sn=17ddbe3b3d5d91b3a79f054271a76a76",
@@ -7966,7 +7966,7 @@
         "archive": "gh_53cda55276ab_2020-10-26_2650508728_z0HotxG0S3.y.tar.gz",
         "censored_date": "2020-10-26 11:22:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 01:33:13"
+        "update_date": "2020-10-28 19:43:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDA4MTYxMQ==&mid=2651874795&idx=1&sn=3d6078cbb45f29f41c68fdab5c86ae48",
@@ -8298,7 +8298,7 @@
         "archive": "gh_42435e819eef_2020-10-27_2650362753_gk3rea8iYp.y.tar.gz",
         "censored_date": "2020-10-27 12:13:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-28 00:37:32"
+        "update_date": "2020-10-28 19:54:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486867&idx=4&sn=df703b380edc6f36072c41a7b9f20a40",
@@ -8782,10 +8782,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODkxNzgzNg==&mid=2651662375&idx=2&sn=3439a1eacd92d8f5b5bdd6a33f4ef762",
         "title": "敢拍“打工人”？果然被禁播了",
+        "title_eng": "Dare to beat the workers? Sure enough, it was banned",
         "nickname": "蝉创意",
         "created_at": "2020-10-26",
         "archive": "gh_797a6fa90bf0_2020-10-26_2651662375_E54ZQIk8Dq.y.tar.gz",
         "censored_date": "2020-10-28 18:47:44",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247507884&idx=2&sn=c93f9fb0ca88b5330867928b0f5bf4c7",
+        "title": "太疯狂！马云“ 破口大骂 ”！全网都在刷屏......",
+        "title_eng": "so crazy! Ma Yun swears! The whole network is refreshing...",
+        "nickname": "前沿观察网",
+        "created_at": "2020-10-26",
+        "archive": "gh_da91e6008b7f_2020-10-26_2247507884_z09aXrW4ZU.y.tar.gz",
+        "censored_date": "2020-10-28 19:59:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-27 02:59:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362748&idx=3&sn=dcdc58bc64c1645e238d991b0980d9ee",
+        "title": "从朝鲜战争看武统台湾的代价",
+        "title_eng": "Viewing the Cost of Military Control of Taiwan from the Korean War",
+        "nickname": "乐诚坊",
+        "created_at": "2020-10-26",
+        "archive": "gh_42435e819eef_2020-10-26_2650362748_xMW09sTRc3.y.tar.gz",
+        "censored_date": "2020-10-28 20:22:22",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-10-27 03:55:35"
     }
 ]
