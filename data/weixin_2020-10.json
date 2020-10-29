@@ -8877,7 +8877,7 @@
         "archive": "gh_8dd3af29215d_2020-10-27_2751380834_JlP7cyavps.y.tar.gz",
         "censored_date": "2020-10-29 00:07:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 10:34:08"
+        "update_date": "2020-10-29 22:33:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDgyMjQ2OQ==&mid=2650344375&idx=1&sn=c2e834f2068404ad501d05d27c2a46ec",
@@ -8888,7 +8888,7 @@
         "archive": "gh_900dd2893a42_2020-10-27_2650344375_uihqaFT8tp.y.tar.gz",
         "censored_date": "2020-10-29 00:06:12",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-27 10:32:27"
+        "update_date": "2020-10-29 22:31:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247495655&idx=2&sn=a14056b6407a9b4c08b5d518ca02769d",
@@ -8931,7 +8931,8 @@
         "created_at": "2020-10-28",
         "archive": "gh_e76b6086b960_2020-10-28_2247538238_ZmGD1t730u.y.tar.gz",
         "censored_date": "2020-10-29 02:28:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 23:21:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NjA3NzU4OQ==&mid=2658057474&idx=1&sn=3aae1819e0c5a558226977e91bd04067",
@@ -8941,7 +8942,8 @@
         "created_at": "2020-10-27",
         "archive": "gh_8b7375e4a41e_2020-10-27_2658057474_Xc18JktUgW.y.tar.gz",
         "censored_date": "2020-10-29 01:32:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 22:48:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650440190&idx=2&sn=a48307aa7154c4989f795a72bdbb3fd0",
@@ -8952,7 +8954,7 @@
         "archive": "gh_45de294b7642_2020-10-27_2650440190_gM0BVfhITu.y.tar.gz",
         "censored_date": "2020-10-29 01:32:55",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-27 10:46:18"
+        "update_date": "2020-10-29 23:27:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650430734&idx=1&sn=0b0f7ef311a29b9f1f012b43e6f81871",
@@ -9387,6 +9389,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTk0MjA2Mw==&mid=2247499983&idx=1&sn=0a91ac29f08b739d606902c3046b7996",
         "title": "我买了点这个～",
+        "title_eng": "I bought some of this~",
         "nickname": "卫斯理观察",
         "created_at": "2020-10-28",
         "archive": "gh_4481ed4b2d9b_2020-10-28_2247499983_RQ0A35SnL1.y.tar.gz",
@@ -9397,6 +9400,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247531939&idx=2&sn=7c7d54b3be41189fcca47127f24edbca",
         "title": "遂川农民放映员刘腾芳的21载“光影人生”",
+        "title_eng": "21 Years of Light and Shadow Life by Liu Tengfang, a farmer projectionist in Suichuan",
         "nickname": "吉安发布",
         "created_at": "2020-10-28",
         "archive": "gh_dc5fb6fdb9c6_2020-10-28_2247531939_L4kARvdzDF.y.tar.gz",
@@ -9406,6 +9410,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247516408&idx=2&sn=546f37b0e62c0eb30416c28d413acd5e",
         "title": "基督徒凡事顺利平安的秘诀是什么？做好这一件事就足够了！这是《圣经》的应许！",
+        "title_eng": "What is the secret of a Christian's success and peace? Doing this thing well is enough! This is the promise of the Bible!",
         "nickname": "牧者讲道",
         "created_at": "2020-10-26",
         "archive": "gh_ab6c4e04286d_2020-10-26_2247516408_ohJctj6R8l.y.tar.gz",
@@ -9416,6 +9421,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653325303&idx=6&sn=52b74ec0b124b9fb4f955e2c0b068759",
         "title": "你的气质里，藏着你读过的公众号",
+        "title_eng": "In your temperament, there are public accounts you have read",
         "nickname": "画友文学天地",
         "created_at": "2020-10-28",
         "archive": "gh_e4d7b38fb8a3_2020-10-28_2653325303_cyui8pAGmX.y.tar.gz",
@@ -9433,5 +9439,15 @@
         "censored_date": "2020-10-29 21:50:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-29 01:17:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651344303&idx=7&sn=f335154bf4611eba4549c742e9b97d7d",
+        "title": "访朝全程，从未公开！",
+        "title_eng": "The entire visit to North Korea was never made public!",
+        "nickname": "百姓关注话题",
+        "created_at": "2020-10-28",
+        "archive": "gh_a0b79e79b274_2020-10-28_2651344303_WD8EJir6d3.y.tar.gz",
+        "censored_date": "2020-10-29 23:09:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
