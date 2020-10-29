@@ -9453,6 +9453,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488717&idx=2&sn=136592e9cc30c4233ccedab71e399e11",
         "title": "白酒虽好，可太多人不懂，到底该如何品鉴白酒？",
+        "title_eng": "Although liquor is good, too many people don't understand, how to taste liquor?",
         "nickname": "世纪观察",
         "created_at": "2020-10-27",
         "archive": "gh_26762a56c129_2020-10-27_2247488717_0ZHdsbrOIe.y.tar.gz",
@@ -9463,6 +9464,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2653999971&idx=4&sn=471fb987e8300595c66f3fc17a94420a",
         "title": "美媒：特朗普对华贸易战已然失败",
+        "title_eng": "US media: Trump's trade war with China has failed",
         "nickname": "参考消息",
         "created_at": "2020-10-27",
         "archive": "gh_2837b93c1976_2020-10-27_2653999971_WQLeY2C9sE.y.tar.gz",
@@ -9473,6 +9475,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjEwNzE2NA==&mid=2653959458&idx=2&sn=b66148e172e5b212f62cb93d637e2b4a",
         "title": "美国大选最可能的结局",
+        "title_eng": "The most likely outcome of the U.S. election",
         "nickname": "正商阅读",
         "created_at": "2020-10-25",
         "archive": "gh_cf1a21955c3c_2020-10-25_2653959458_H749ETiGb3.y.tar.gz",
@@ -9483,10 +9486,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAyMTYyMg==&mid=2658328946&idx=1&sn=c1afbf0c8b21b324fda795c39c949486",
         "title": "支付宝上市干翻茅台！马云再放惊人言论：“不懂赚趋势的钱，你注定是个穷人”",
+        "title_eng": "Alipay's listing on Maotai! Jack Ma made another startling statement: If you don't understand the trend of making money, you are destined to be a poor man",
         "nickname": "创业财经汇",
         "created_at": "2020-10-27",
         "archive": "gh_f8d73b28357d_2020-10-27_2658328946_P0cmo0sYnU.y.tar.gz",
         "censored_date": "2020-10-30 01:07:36",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649553897&idx=2&sn=54f3d8811fadcfbf71d0dd9052f95535",
+        "title": "金茂踩“红线”：钱荒来袭，最要紧的是降负债",
+        "nickname": "观点",
+        "created_at": "2020-10-28",
+        "archive": "gh_2ac9b41ee17c_2020-10-28_2649553897_P7dxe8Q4aE.y.tar.gz",
+        "censored_date": "2020-10-30 02:15:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 01:33:49"
     }
 ]
