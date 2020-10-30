@@ -9783,7 +9783,7 @@
         "archive": "gh_c1335a131ff4_2020-10-29_2247513517_IPziW7ber0.y.tar.gz",
         "censored_date": "2020-10-31 01:25:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-29 12:51:05"
+        "update_date": "2020-10-31 04:47:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247498018&idx=1&sn=dc5b1866fa6ef022c20ec01f60afcd82",
@@ -9794,7 +9794,7 @@
         "archive": "gh_b28632ea9ab2_2020-10-29_2247498018_D56FbHCfiU.y.tar.gz",
         "censored_date": "2020-10-31 01:41:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-29 12:59:40"
+        "update_date": "2020-10-31 04:54:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247497743&idx=2&sn=58de0fc9501143f9d25e5987dce28ed7",
@@ -9805,7 +9805,7 @@
         "archive": "gh_b28632ea9ab2_2020-10-27_2247497743_zZk4n9tjmq.y.tar.gz",
         "censored_date": "2020-10-31 01:46:41",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-29 13:34:12"
+        "update_date": "2020-10-31 04:57:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDAxNzA2NA==&mid=2654912844&idx=5&sn=6a7b571aeac323b458e7451d0cccee78",
@@ -9821,6 +9821,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247495039&idx=4&sn=e8de5eb99c0713fa1f7fd33626b8fe77",
         "title": "她是拳王背后的女人，靠财商一路稳赢：看清这一点，让钱主动来找你",
+        "title_eng": "She is the woman behind the boxing champion, and she wins all the way through financial business: see this clearly and let the money come to you",
         "nickname": "凭海观潮A",
         "created_at": "2020-10-29",
         "archive": "gh_728dda09b5fa_2020-10-29_2247495039_Hg2oEsVS4w.y.tar.gz",
@@ -9831,11 +9832,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651287322&idx=1&sn=379cb00a31a2395c92cff505bdc355c2",
         "title": "歌厅枪杀19岁女孩后他还当了25年检察干部，家中多人进政法系统",
+        "title_eng": "After the 19-year-old girl was shot and killed in the karaoke room, he was also a procuratorial officer for 25 years, and many of his family members entered the political and legal system.",
         "nickname": "中国新闻周刊",
         "created_at": "2020-10-29",
         "archive": "gh_a7bbb71d655c_2020-10-29_2651287322_E3fp0QUsiM.y.tar.gz",
         "censored_date": "2020-10-31 04:05:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-29 09:50:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDAxNzA2NA==&mid=2654912844&idx=4&sn=3020097bcb91d09555aced1b0c9cbc73",
+        "title": "苏东坡：人生哪有完美，不过看开一点",
+        "nickname": "德国优才计划",
+        "created_at": "2020-10-28",
+        "archive": "gh_e4a86c912099_2020-10-28_2654912844_9NICzYmqdJ.y.tar.gz",
+        "censored_date": "2020-10-31 04:33:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 08:34:40"
     }
 ]
