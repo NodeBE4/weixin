@@ -9097,7 +9097,7 @@
         "archive": "gh_2f772f88268b_2020-10-28_2651392197_UKa9fIsQRi.y.tar.gz",
         "censored_date": "2020-10-29 07:51:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-28 08:08:18"
+        "update_date": "2020-10-30 14:47:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651392197&idx=1&sn=768182b92e8106e9b0c46dfa40a75530",
@@ -9108,7 +9108,7 @@
         "archive": "gh_2f772f88268b_2020-10-28_2651392197_5c027JLBCT.y.tar.gz",
         "censored_date": "2020-10-29 07:43:33",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-28 08:07:08"
+        "update_date": "2020-10-30 14:47:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651392197&idx=6&sn=b32f8353d21f59c649442c9b85e34820",
@@ -9119,7 +9119,7 @@
         "archive": "gh_2f772f88268b_2020-10-28_2651392197_MN4PG3CdyB.y.tar.gz",
         "censored_date": "2020-10-29 07:57:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-28 08:09:28"
+        "update_date": "2020-10-30 14:48:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485454&idx=2&sn=069aa1963c5c6f7c1b5079c5fd51a2e7",
@@ -9598,6 +9598,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjE1NTYyOQ==&mid=2247486142&idx=1&sn=213c3159ef4f173974b1ce46c308bd3f",
         "title": "重磅：新的行业来袭，迎接财富新风暴.一场改变人生的商业革命即将来临!",
+        "title_eng": "Heavyweight: New industries are coming, and a new storm of wealth is coming. A life-changing business revolution is coming!",
         "nickname": "杂家LTHY",
         "created_at": "2020-10-29",
         "archive": "gh_f4799cbb60f0_2020-10-29_2247486142_EByDmKVpwG.y.tar.gz",
@@ -9608,11 +9609,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247495677&idx=2&sn=4910ae4aeabe06860db336db174e7722",
         "title": "做动态图表，没有数据？用Python就能获取！",
+        "title_eng": "Do dynamic charts, no data? Get it with Python!",
         "nickname": "冰川思享号",
         "created_at": "2020-10-28",
         "archive": "gh_e80b5c3c8b87_2020-10-28_2247495677_mUfvDo1aXE.y.tar.gz",
         "censored_date": "2020-10-30 13:59:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-29 07:19:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MjM2MzE2OQ==&mid=2652889810&idx=1&sn=f68e30d40983d668d7672f39cfa4cbc3",
+        "title": "提个醒：营养是鸡蛋的14倍，是牛奶的7.5倍，秋天多喝，增强免疫力！全家受益！",
+        "nickname": "老歌回放",
+        "created_at": "2020-10-28",
+        "archive": "gh_81a0e7cec153_2020-10-28_2652889810_rojcdpHPhX.y.tar.gz",
+        "censored_date": "2020-10-30 14:54:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 08:38:18"
     }
 ]
