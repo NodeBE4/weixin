@@ -9866,6 +9866,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247498342&idx=1&sn=cef0ce93e541825b7ef92f010bd1503d",
         "title": "深圳发布应急清单，战争阴霾笼罩两岸",
+        "title_eng": "Shenzhen releases emergency list, war hazes across the strait",
         "nickname": "微思时代",
         "created_at": "2020-10-31",
         "archive": "gh_b28632ea9ab2_2020-10-31_2247498342_WpqrZxiTUa.y.tar.gz",
@@ -9875,10 +9876,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2656992076&idx=1&sn=dbec5b2d88afaa9ace4283a235995406",
         "title": "15年后，中国什么样？",
+        "title_eng": "15 years later, what will China look like?",
         "nickname": "央视新闻",
         "created_at": "2020-10-31",
         "archive": "wxid_pzhf43hmwizd11_2020-10-31_2656992076_H892eJ15Pg.y.tar.gz",
         "censored_date": "2020-10-31 13:07:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247513542&idx=1&sn=ace3400192bc4cad07c862deb09815e3",
+        "title": "号外！重磅，突发！亨特.拜登已自首，证人目前由海豹突击队保护!",
+        "nickname": "魏雅华",
+        "created_at": "2020-10-31",
+        "archive": "gh_d965d8fa0c72_2020-10-31_2247513542_7pYDHjQwEW.y.tar.gz",
+        "censored_date": "2020-10-31 14:07:55",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650143294&idx=1&sn=fa4aa0bd258b2c93facd241a50961ccf",
+        "title": "中国社会科学院党组传达学习党的十九届五中全会精神",
+        "nickname": "中国社会科学网",
+        "created_at": "2020-10-31",
+        "archive": "gh_60e26bf6d108_2020-10-31_2650143294_sCMHYoJL8l.y.tar.gz",
+        "censored_date": "2020-10-31 13:35:40",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
