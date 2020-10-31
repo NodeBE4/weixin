@@ -10163,10 +10163,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzI1ODEzNA==&mid=2650456019&idx=3&sn=eba9096ecbc89b656224a17a9f76c9ea",
         "title": "谁希望特朗普连任？",
+        "title_eng": "Who wants Trump to be re-elected?",
         "nickname": "财经",
         "created_at": "2020-10-31",
         "archive": "gh_cdc8f0652ff7_2020-10-31_2650456019_9PIt7rGkFa.y.tar.gz",
         "censored_date": "2020-11-01 04:51:31",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247516442&idx=2&sn=3bc984b84e90ddfd5eb394496f87f92c",
+        "title": "妻子当怎样敬重丈夫？",
+        "nickname": "牧者讲道",
+        "created_at": "2020-10-29",
+        "archive": "gh_ab6c4e04286d_2020-10-29_2247516442_IXfgbqKOrk.y.tar.gz",
+        "censored_date": "2020-11-01 06:01:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-31 07:49:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804579&idx=5&sn=339330f99fd0ca70a029553a11655905",
+        "title": "一批民工偷渡边境谋生被捕，中越边境建起数百公里围墙",
+        "title_eng": "A group of migrant workers were arrested for smuggling across the border to make a living, and a wall of hundreds of kilometers was built on the Sino-Vietnamese border",
+        "nickname": "冷眼文摘",
+        "created_at": "2020-10-30",
+        "archive": "gh_0d903ba9d2be_2020-10-30_2651804579_wlfiM8rUdk.y.tar.gz",
+        "censored_date": "2020-11-01 06:09:16",
         "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
