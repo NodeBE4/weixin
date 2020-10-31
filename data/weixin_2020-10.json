@@ -9886,6 +9886,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247513542&idx=1&sn=ace3400192bc4cad07c862deb09815e3",
         "title": "号外！重磅，突发！亨特.拜登已自首，证人目前由海豹突击队保护!",
+        "title_eng": "Extra! Heavy, sudden! Hunter Biden has surrendered and the witness is currently protected by the SEALs!",
         "nickname": "魏雅华",
         "created_at": "2020-10-31",
         "archive": "gh_d965d8fa0c72_2020-10-31_2247513542_7pYDHjQwEW.y.tar.gz",
@@ -9895,10 +9896,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650143294&idx=1&sn=fa4aa0bd258b2c93facd241a50961ccf",
         "title": "中国社会科学院党组传达学习党的十九届五中全会精神",
+        "title_eng": "The Party Group of the Chinese Academy of Social Sciences conveys and learns the spirit of the Fifth Plenary Session of the 19th Central Committee of the Party",
         "nickname": "中国社会科学网",
         "created_at": "2020-10-31",
         "archive": "gh_60e26bf6d108_2020-10-31_2650143294_sCMHYoJL8l.y.tar.gz",
         "censored_date": "2020-10-31 13:35:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485421&idx=4&sn=52b81c9a26c926c41f63083df6fe2d31",
+        "title": "难以置信！韩国刚刚突然宣布！！",
+        "title_eng": "incredible! South Korea just announced suddenly! !",
+        "nickname": "国际局势解读",
+        "created_at": "2020-10-30",
+        "archive": "gh_e7ec33b5ef38_2020-10-30_2247485421_vZ0P1AkEs6.y.tar.gz",
+        "censored_date": "2020-10-31 14:21:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247521469&idx=6&sn=005db7d4f6a877f665fff3d21fe1392c",
+        "title": "每日书讯",
+        "title_eng": "Daily Book News",
+        "nickname": "叙拉古之惑",
+        "created_at": "2020-10-29",
+        "archive": "gh_c9984a3987c1_2020-10-29_2247521469_sIE0gvOzWZ.y.tar.gz",
+        "censored_date": "2020-10-31 14:25:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
