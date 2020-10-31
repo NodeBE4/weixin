@@ -9773,7 +9773,8 @@
         "created_at": "2020-10-29",
         "archive": "gh_31930173e92d_2020-10-29_2247492064_fFaIRPhbiZ.y.tar.gz",
         "censored_date": "2020-10-31 01:15:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-31 20:02:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247513517&idx=1&sn=993586852dcbeebc8a1ad581974decb9",
@@ -9932,5 +9933,26 @@
         "archive": "gh_3d946794572e_2020-10-29_2651187221_wcYlkeCrzb.y.tar.gz",
         "censored_date": "2020-10-31 16:07:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjE3MDEyOA==&mid=2650895248&idx=3&sn=1e8e94d3d793be898f36c767414d7bd5",
+        "title": "4亿美元债违约后续，交银信托管辖权之争胜诉！",
+        "title_eng": "Following the default of the US$400 million debt, the dispute over the jurisdiction of Bank of Communications Trust won!",
+        "nickname": "上海信托圈",
+        "created_at": "2020-10-31",
+        "archive": "gh_50ff51071597_2020-10-31_2650895248_ql18Ug0uwa.y.tar.gz",
+        "censored_date": "2020-10-31 19:22:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-31 12:11:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502138&idx=5&sn=2b3d4ba7d7b41b2af196c1f3cf190696",
+        "title": "果然炸了！开启年度造富盛宴的蚂蚁，究竟贵不贵？",
+        "nickname": "环球冷眼",
+        "created_at": "2020-10-29",
+        "archive": "gh_1aecabdf0add_2020-10-29_2247502138_4A7yCbflYx.y.tar.gz",
+        "censored_date": "2020-10-31 19:38:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-29 19:13:57"
     }
 ]
