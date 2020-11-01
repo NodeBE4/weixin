@@ -2068,7 +2068,7 @@
         "archive": "gh_a0b79e79b274_2020-10-30_2651344339_djIfSGhuT2.y.tar.gz",
         "censored_date": "2020-11-01 00:24:16",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-30 17:31:56"
+        "update_date": "2020-11-01 20:07:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyOTU4NDUyNw==&mid=2247496208&idx=1&sn=d428481c4647fc214bdb81795ceaa4d5",
@@ -2088,7 +2088,8 @@
         "created_at": "2020-10-30",
         "archive": "gh_610312e22ed3_2020-10-30_2247491062_8IXVt6Ckqb.y.tar.gz",
         "censored_date": "2020-11-01 00:32:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-01 20:16:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650488135&idx=2&sn=b828f3033fe44642bc26dab1daefb37e",
@@ -2400,11 +2401,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzY2ODA1MQ==&mid=2649473639&idx=3&sn=066068c36e73de2807699bed133a63a4",
         "title": "护肤别忘记脖子，好用的澳洲颈霜，还你天鹅颈",
+        "title_eng": "Don’t forget your neck for skin care, an easy-to-use Australian neck cream, return your swan neck",
         "nickname": "bookface",
         "created_at": "2020-10-30",
         "archive": "gh_42e7953b2a7a_2020-10-30_2649473639_EqDmScfPV1.y.tar.gz",
         "censored_date": "2020-11-01 18:59:28",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-30 14:29:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzY2ODA1MQ==&mid=2649473513&idx=3&sn=ea76b9b8e01ffed50dde8c1ab946cb7f",
+        "title": "每天1元钱，缓解咳嗽，这个秋冬再也不怕感冒啦！",
+        "nickname": "bookface",
+        "created_at": "2020-10-29",
+        "archive": "gh_42e7953b2a7a_2020-10-29_2649473513_d4e9MHERkV.y.tar.gz",
+        "censored_date": "2020-11-01 19:43:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-10-31 23:42:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362766&idx=5&sn=4077242f02de7149cb9106be294b4807",
+        "title": "打呼噜、呼吸不畅有救了！鼻子上带上它，再也不打呼噜了！睡眠好伴侣，防打呼神器，不吃药，让鼾声学会自己静止！",
+        "nickname": "乐诚坊",
+        "created_at": "2020-10-30",
+        "archive": "gh_42435e819eef_2020-10-30_2650362766_jSCYGkZ8bX.y.tar.gz",
+        "censored_date": "2020-11-01 20:17:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-01 01:32:11"
     }
 ]
