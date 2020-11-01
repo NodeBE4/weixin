@@ -1695,7 +1695,7 @@
         "archive": "gh_60e26bf6d108_2020-10-31_2650143294_sCMHYoJL8l.y.tar.gz",
         "censored_date": "2020-10-31 13:35:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-01 22:45:24"
+        "update_date": "2020-11-02 00:46:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247513542&idx=1&sn=ace3400192bc4cad07c862deb09815e3",
@@ -1706,7 +1706,7 @@
         "archive": "gh_d965d8fa0c72_2020-10-31_2247513542_7pYDHjQwEW.y.tar.gz",
         "censored_date": "2020-10-31 14:07:55",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-01 22:45:46"
+        "update_date": "2020-11-02 00:46:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485421&idx=4&sn=52b81c9a26c926c41f63083df6fe2d31",
@@ -1716,7 +1716,8 @@
         "created_at": "2020-10-30",
         "archive": "gh_e7ec33b5ef38_2020-10-30_2247485421_vZ0P1AkEs6.y.tar.gz",
         "censored_date": "2020-10-31 14:21:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-02 00:57:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODg0MzI1MA==&mid=2655955126&idx=2&sn=bf7bade5419817d24583b39160ddfef6",
@@ -2123,7 +2124,7 @@
         "archive": "gh_ef9695b6d53c_2020-10-30_2649807810_02ME6GuoQV.y.tar.gz",
         "censored_date": "2020-11-01 01:25:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-10-30 10:57:04"
+        "update_date": "2020-11-02 00:32:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650440578&idx=2&sn=ba82db588fb15d94b15f690e6e522af8",
@@ -2458,6 +2459,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247558948&idx=2&sn=d49de7a3e5db4a06ff3cadbd6fb65fb4",
         "title": "延迟膝盖30年寿命！告别冬季老寒腿，专业运动员都在用它！",
+        "title_eng": "Delay the life of the knee by 30 years! Say goodbye to the old cold legs in winter, professional athletes are using it!",
         "nickname": "摇滚客",
         "created_at": "2020-10-26",
         "archive": "gh_bcae3e46c50c_2020-10-26_2247558948_8H9bZs2Lrx.y.tar.gz",
