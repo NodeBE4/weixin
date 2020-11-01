@@ -1693,7 +1693,8 @@
         "created_at": "2020-10-31",
         "archive": "gh_60e26bf6d108_2020-10-31_2650143294_sCMHYoJL8l.y.tar.gz",
         "censored_date": "2020-10-31 13:35:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-01 22:45:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247513542&idx=1&sn=ace3400192bc4cad07c862deb09815e3",
@@ -1703,7 +1704,8 @@
         "created_at": "2020-10-31",
         "archive": "gh_d965d8fa0c72_2020-10-31_2247513542_7pYDHjQwEW.y.tar.gz",
         "censored_date": "2020-10-31 14:07:55",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-01 22:45:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485421&idx=4&sn=52b81c9a26c926c41f63083df6fe2d31",
@@ -2434,6 +2436,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247538706&idx=6&sn=e995a77508fbdadb86263e3054b4be79",
         "title": "学点Python，让你的求职简历更有含金量！",
+        "title_eng": "Learn Python to make your job resume more valuable!",
         "nickname": "演讲与人生",
         "created_at": "2020-10-31",
         "archive": "gh_e525ae7f03af_2020-10-31_2247538706_2LJv3H5Iy7.y.tar.gz",
