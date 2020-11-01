@@ -2454,7 +2454,8 @@
         "created_at": "2020-10-31",
         "archive": "gh_3c3083a27d8e_2020-10-31_2247510380_Uz4kauQPC6.y.tar.gz",
         "censored_date": "2020-11-01 21:30:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-02 02:40:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247558948&idx=2&sn=d49de7a3e5db4a06ff3cadbd6fb65fb4",
@@ -2469,6 +2470,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247493403&idx=1&sn=bffb3719eba246c1d083035888b02743",
         "title": "就在昨天，西安市和南方周末打起来了",
+        "title_eng": "Just yesterday, Xi'an and Southern Weekend fought",
         "nickname": "北斗局",
         "created_at": "2020-11-01",
         "archive": "gh_ccf6a72b140a_2020-11-01_2247493403_Lycb0nvZGj.y.tar.gz",
@@ -2479,11 +2481,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362776&idx=5&sn=157236ce9597dba280904cf865873a8f",
         "title": "腰疼、腿麻久治不愈试一下就灵！腰突病人都爱用它，止疼有奇效！",
+        "title_eng": "Back pain, leg numbness is not healed for a long time, just a try! Patients with lumbar protrusion love to use it, and it has a miraculous effect on pain relief!",
         "nickname": "乐诚坊",
         "created_at": "2020-10-31",
         "archive": "gh_42435e819eef_2020-10-31_2650362776_741KUW9Tax.y.tar.gz",
         "censored_date": "2020-11-02 01:57:56",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-10-31 16:40:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247545531&idx=2&sn=f162d09a83c8632cbb5cefa9df9ffb02",
+        "title": "警方通报“男子持刀伤2人后跳楼自杀”，知情医生透露更多细节",
+        "nickname": "红星新闻",
+        "created_at": "2020-10-31",
+        "archive": "gh_1ede6c42db01_2020-10-31_2247545531_09i5D7OJuT.y.tar.gz",
+        "censored_date": "2020-11-02 02:53:53",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
