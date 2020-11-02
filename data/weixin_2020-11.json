@@ -2254,7 +2254,7 @@
         "archive": "gh_d965d8fa0c72_2020-10-31_2247513542_8RGeJS1aTl.y.tar.gz",
         "censored_date": "2020-11-01 03:33:08",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-10-31 14:08:46"
+        "update_date": "2020-11-02 19:25:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzI1ODEzNA==&mid=2650456019&idx=3&sn=eba9096ecbc89b656224a17a9f76c9ea",
@@ -2264,7 +2264,8 @@
         "created_at": "2020-10-31",
         "archive": "gh_cdc8f0652ff7_2020-10-31_2650456019_9PIt7rGkFa.y.tar.gz",
         "censored_date": "2020-11-01 04:51:31",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-02 19:32:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804579&idx=5&sn=339330f99fd0ca70a029553a11655905",
@@ -2622,6 +2623,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NjA3NzU4OQ==&mid=2658058577&idx=4&sn=533817b33f6c80bc9ebfca187fd6b79a",
         "title": "23个“医生知道、百姓糊涂”的健康知识！别再盲目养生了，做错反伤身",
+        "title_eng": "23 doctors know, people confused health knowledge! Don't blindly maintain health anymore, make mistakes and hurt your body",
         "nickname": "北京大妈有话说",
         "created_at": "2020-11-02",
         "archive": "gh_8b7375e4a41e_2020-11-02_2658058577_yqb8O6n5lg.y.tar.gz",
@@ -2642,6 +2644,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502211&idx=5&sn=f8828997ed0e09fd091e188903e2f425",
         "title": "广深双城汇，跑出湾区加速度",
+        "title_eng": "Guangzhou-Shenzhen Shuangchenghui, running out of the Bay Area to accelerate",
         "nickname": "环球冷眼",
         "created_at": "2020-10-30",
         "archive": "gh_1aecabdf0add_2020-10-30_2247502211_aypMkiRxIV.y.tar.gz",
@@ -2652,6 +2655,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MjMwNjUxMA==&mid=2247502682&idx=3&sn=4156d06845d64e7a66d6dbdc914bd832",
         "title": "西南联大英文课",
+        "title_eng": "Southwest United University English Class",
         "nickname": "永远的少数派",
         "created_at": "2020-11-01",
         "archive": "gh_91d203bd2a8d_2020-11-01_2247502682_7PchLTVfrt.y.tar.gz",
@@ -2662,6 +2666,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mjk2NjEyNw==&mid=2651613282&idx=1&sn=2c35e9831a42d771f7f2f1e5609347fb",
         "title": "限 时 粉 皮 书",
+        "title_eng": "Limited Time Pink Paper",
         "nickname": "格林威治嬉皮研究公社",
         "created_at": "2020-11-01",
         "archive": "gh_929de71f2df8_2020-11-01_2651613282_9x3cEPe4hs.y.tar.gz",
@@ -2671,11 +2676,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502211&idx=4&sn=96a1996390feca1da6de86a2ed5f08c7",
         "title": "惊雷？苹果突然暴跌5%！库克：充满信心！这个巨头财报“见光死”",
+        "title_eng": "Thunder? Apple suddenly plunged 5%! Cook: Full of confidence! This giant's financial report sees the light to die",
         "nickname": "环球冷眼",
         "created_at": "2020-10-30",
         "archive": "gh_1aecabdf0add_2020-10-30_2247502211_sTMGP2aByn.y.tar.gz",
         "censored_date": "2020-11-02 19:03:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-01 01:11:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTk5ODI4NQ==&mid=2655343701&idx=2&sn=c6490f2c009fb1fc3abb16fb488dd3ca",
+        "title": "大数据告诉你：2020大选谁能赢",
+        "nickname": "您懂的",
+        "created_at": "2020-11-02",
+        "archive": "gh_8f7ba5d0b6e2_2020-11-02_2655343701_Vty2Ce6vQT.y.tar.gz",
+        "censored_date": "2020-11-02 19:57:04",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-02 12:30:40"
     }
 ]
