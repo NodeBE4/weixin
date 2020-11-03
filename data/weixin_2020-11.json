@@ -2794,7 +2794,7 @@
         "archive": "gh_0908bc7f934f_2020-11-01_2247492918_QC96A4f7EJ.y.tar.gz",
         "censored_date": "2020-11-02 22:26:57",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-01 13:07:39"
+        "update_date": "2020-11-03 21:22:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247505599&idx=1&sn=980205bd6f966e895cc8530149f3f38a",
@@ -2869,7 +2869,8 @@
         "created_at": "2020-11-02",
         "archive": "gh_ea2d35f012ee_2020-11-02_2649997287_wQD189tjiP.y.tar.gz",
         "censored_date": "2020-11-03 02:31:03",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-03 22:00:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNDc5MzUzOQ==&mid=2247503340&idx=1&sn=f61b34dcf2315ce8d6ee8558888c3267",
@@ -2879,7 +2880,8 @@
         "created_at": "2020-11-02",
         "archive": "gh_22b6939eea11_2020-11-02_2247503340_KcZyXPgqm0.y.tar.gz",
         "censored_date": "2020-11-03 02:46:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-03 22:12:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODEwMDY3OA==&mid=2651450970&idx=1&sn=c53711b793850f86520eb3e60a42c075",
@@ -3019,6 +3021,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362833&idx=3&sn=52caf40017b61615b71d83593eb749ae",
         "title": "牛x乌鲁木齐副市长有多牛-----",
+        "title_eng": "Niu x How good is the deputy mayor of Urumqi-----",
         "nickname": "乐诚坊",
         "created_at": "2020-11-02",
         "archive": "gh_42435e819eef_2020-11-02_2650362833_K4BIloE800.y.tar.gz",
@@ -3036,5 +3039,15 @@
         "censored_date": "2020-11-03 20:26:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-02 10:14:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NjA3NzU4OQ==&mid=2658058577&idx=2&sn=74187f8821c10db063bc02fac72f6c70",
+        "title": "脚寒百病侵！冬天穿上它，暖和的再也不想脱！",
+        "nickname": "北京大妈有话说",
+        "created_at": "2020-11-02",
+        "archive": "gh_8b7375e4a41e_2020-11-02_2658058577_e3KrpbzEvN.y.tar.gz",
+        "censored_date": "2020-11-03 21:43:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-02 12:10:52"
     }
 ]
