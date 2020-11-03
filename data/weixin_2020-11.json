@@ -3064,6 +3064,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MTk0MDA3Nw==&mid=2247495443&idx=2&sn=f73ece8b6090dcd17186ce6c30e986c5",
         "title": "非洲黑人在广州成立黑社会组织，专门敲诈中国人，还收保护费",
+        "title_eng": "Black Africans set up triad organizations in Guangzhou to blackmail Chinese people and collect protection fees",
         "nickname": "周蓬安的公号",
         "created_at": "2020-11-02",
         "archive": "gh_dca32f4cf833_2020-11-02_2247495443_q0v5FOEbzR.y.tar.gz",
@@ -3073,6 +3074,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652735265&idx=1&sn=5869d9e1452d30de713ce5e4b699751c",
         "title": "华为杀入芯片制造！传将在上海建厂，2022年能产20nm芯",
+        "title_eng": "Huawei enters chip manufacturing! Rumored to build a factory in Shanghai, capable of producing 20nm cores in 2022",
         "nickname": "智东西",
         "created_at": "2020-11-02",
         "archive": "gh_06a331376c81_2020-11-02_2652735265_oyC30DbRPs.y.tar.gz",
@@ -3082,10 +3084,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247522044&idx=5&sn=2d179a83dfb3009d0cc33a9f701e5d0b",
         "title": "每日书讯",
+        "title_eng": "Daily Book News",
         "nickname": "叙拉古之惑",
         "created_at": "2020-11-02",
         "archive": "gh_c9984a3987c1_2020-11-02_2247522044_9MHJZUeziG.y.tar.gz",
         "censored_date": "2020-11-03 22:38:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488728&idx=3&sn=fa738a2e429b85cac8933d62b23468e6",
+        "title": "“我，工资3000，一年存下了20万”：学会理财，让我少奋斗十年",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-02",
+        "archive": "gh_26762a56c129_2020-11-02_2247488728_blKXc1N5Am.y.tar.gz",
+        "censored_date": "2020-11-04 00:34:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-02 20:18:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247486832&idx=2&sn=19e3c5a2332d97ef23b71a26e9030fce",
+        "title": "我是一名风水师，从小与死人打交道，有次不小心掉进棺材，结果.......",
+        "title_eng": "I am a feng shui master, I have dealt with dead people since I was young, and once accidentally fell into the coffin, the result...",
+        "nickname": "阅天下百事",
+        "created_at": "2020-11-02",
+        "archive": "gh_8508f826af1e_2020-11-02_2247486832_BKWiau0Ycs.y.tar.gz",
+        "censored_date": "2020-11-03 23:30:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-02 21:44:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488728&idx=2&sn=5fba83f9a758cc9f77322fc3d28e791c",
+        "title": "白酒之间区别很大,什么样才是既好喝又不贵的酒? 赶紧来看下",
+        "title_eng": "There is a big difference between white wine, what kind of wine is both delicious and not expensive?",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-02",
+        "archive": "gh_26762a56c129_2020-11-02_2247488728_CosYbxdkKJ.y.tar.gz",
+        "censored_date": "2020-11-04 00:27:37",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-02 20:16:00"
     }
 ]
