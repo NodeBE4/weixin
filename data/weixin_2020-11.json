@@ -2564,7 +2564,7 @@
         "archive": "gh_8f7ba5d0b6e2_2020-11-02_2655343701_2EgWm094Pp.y.tar.gz",
         "censored_date": "2020-11-02 13:56:19",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-02 11:29:05"
+        "update_date": "2020-11-03 07:59:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDQ4OTYxNA==&mid=2655607872&idx=2&sn=39ef66a0fae8c26a7019a409da151b05",
@@ -2886,6 +2886,34 @@
         "created_at": "2020-11-01",
         "archive": "gh_24f69528a8d4_2020-11-01_2651450970_fbFyhp0nHl.y.tar.gz",
         "censored_date": "2020-11-03 03:36:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2656992888&idx=2&sn=b4d8c9f0256ac104a1f429c1b8b795e9",
+        "title": "伤医案再发生！被砍医生曾支援武汉，医院安保形同虚设",
+        "title_eng": "The injury medical case happened again! The hacked doctor once supported Wuhan, and the hospital security was in vain",
+        "nickname": "央视新闻",
+        "created_at": "2020-11-01",
+        "archive": "wxid_pzhf43hmwizd11_2020-11-01_2656992888_ihKwyRsBMe.y.tar.gz",
+        "censored_date": "2020-11-03 07:48:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNzc5ODc5NA==&mid=2247570105&idx=2&sn=7c55a88344f479c60341d37cb1993ea4",
+        "title": "提前供暖！临沂这家公司刚刚宣布！",
+        "nickname": "琅琊新闻网",
+        "created_at": "2020-11-01",
+        "archive": "gh_00aa5c03743f_2020-11-01_2247570105_EmB57S9kJM.y.tar.gz",
+        "censored_date": "2020-11-03 08:34:25",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651237296&idx=2&sn=4256c7c8d0bbf30b071736ae6874aca6",
+        "title": "服务发展排头兵 攻坚改革先行军",
+        "nickname": "无线徐州",
+        "created_at": "2020-11-01",
+        "archive": "gh_c495954e1d95_2020-11-01_2651237296_uzOrX9c1aD.y.tar.gz",
+        "censored_date": "2020-11-03 08:43:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
