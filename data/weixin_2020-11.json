@@ -2587,7 +2587,7 @@
         "archive": "gh_8e14a2cc7d73_2020-11-02_2650412695_VfKr0ItZen.y.tar.gz",
         "censored_date": "2020-11-02 16:20:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-03 09:18:24"
+        "update_date": "2020-11-04 06:19:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxMTg3OA==&mid=2247521120&idx=1&sn=343c9edb4000cf02bce847e304c48c4e",
@@ -3169,6 +3169,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362833&idx=5&sn=745759d1ef5b5eceb0a5ced60d787420",
         "title": "为何她能活到132岁？探访世界最长寿女性之谜！",
+        "title_eng": "Why can she live to be 132 years old? Explore the mystery of the world's oldest woman!",
         "nickname": "乐诚坊",
         "created_at": "2020-11-02",
         "archive": "gh_42435e819eef_2020-11-02_2650362833_cf9jBIlD4p.y.tar.gz",
@@ -3179,11 +3180,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDcwNjUwNQ==&mid=2676730320&idx=1&sn=5fedd599f4c41a3dc5f9a9cc3ff8705d",
         "title": "这位“婆婆”不一般！画的歇后语又逗又俏皮，引人狂点赞",
+        "title_eng": "This mother-in-law is extraordinary! The allegorical remarks in the painting are funny and playful, madly praise",
         "nickname": "中国艺术家",
         "created_at": "2020-11-02",
         "archive": "gh_3fbdbe5bbc36_2020-11-02_2676730320_0zaAKNT5PQ.y.tar.gz",
         "censored_date": "2020-11-04 05:03:10",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-02 21:51:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTU5NDUzMg==&mid=2655628851&idx=7&sn=bc3af437d404d9606852eeea2cc13210",
+        "title": "外媒：华为将自建芯片工厂绕开美国禁令，2022年产出20纳米芯片组",
+        "nickname": "米国时刻",
+        "created_at": "2020-11-03",
+        "archive": "gh_0c916a43c801_2020-11-03_2655628851_AQfTMwivcs.y.tar.gz",
+        "censored_date": "2020-11-04 06:02:09",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-03 12:51:47"
     }
 ]
