@@ -2846,7 +2846,8 @@
         "created_at": "2020-11-02",
         "archive": "gh_222a507c7767_2020-11-02_2650744737_rQ2zgRd6KO.y.tar.gz",
         "censored_date": "2020-11-03 01:00:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-03 18:14:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651353836&idx=1&sn=5b771391e6cca65e4fce090e754ec389",
@@ -2974,6 +2975,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDAzODg3NA==&mid=2650240157&idx=3&sn=d3516c8ed148979c9059139b646dfc28",
         "title": "【技术】降低精梳机落棉率的措施",
+        "title_eng": "[Technology] Measures to reduce noil rate of combing machine",
         "nickname": "中国纱线网",
         "created_at": "2020-11-02",
         "archive": "gh_74628836ab1f_2020-11-02_2650240157_b6G5ziD3pJ.y.tar.gz",
@@ -2983,6 +2985,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0MDYzMzIxNA==&mid=2247503884&idx=1&sn=4d2d05107abc6ac3e305abced74ac79e",
         "title": "总站动态 | 中国工程院吴丰昌院士应邀做客总站“生态环境监测大家讲坛”",
+        "title_eng": "Terminus News | Academician Wu Fengchang of the Chinese Academy of Engineering was invited to be a guest at the terminus Ecological Environment Monitoring Forum",
         "nickname": "中国环境监测",
         "created_at": "2020-11-03",
         "archive": "gh_fbf78f223631_2020-11-03_2247503884_gcYz2OkfhG.y.tar.gz",
