@@ -3210,7 +3210,8 @@
         "created_at": "2020-11-03",
         "archive": "gh_b1dc53661818_2020-11-03_2247508264_K47aOPzStC.y.tar.gz",
         "censored_date": "2020-11-04 09:25:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 02:24:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMzA4ODU2NA==&mid=2650635838&idx=2&sn=98f722d1bc43966ab8dbaea7a76f0ed0",
@@ -3418,6 +3419,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjMxNTM0NzE0MQ==&mid=2653353031&idx=1&sn=635fed83d253b76463918e744aae3f0d",
         "title": "卖猪肉不成做灯泡，他年销4.5亿，赢下非洲市场",
+        "title_eng": "Selling pork can’t make light bulbs. He sells 450 million a year and wins the African market.",
         "nickname": "天下网商",
         "created_at": "2020-11-04",
         "archive": "wxid_4332343323311_2020-11-04_2653353031_GcNsiO58K0.y.tar.gz",
@@ -3439,11 +3441,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488732&idx=2&sn=7d4035bbe4f3dea5c37849a9a070279c",
         "title": "多动症害惨了中国孩子，道破玄机：原因竟然是……",
+        "title_eng": "ADHD has hurt Chinese children miserably, and the mystery: The reason is...",
         "nickname": "世纪观察",
         "created_at": "2020-11-03",
         "archive": "gh_26762a56c129_2020-11-03_2247488732_mH4T50qC3V.y.tar.gz",
         "censored_date": "2020-11-05 01:47:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-03 19:30:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247514566&idx=3&sn=c6955c61bfdc4bc7a63bad4aab5c20ff",
+        "title": "为什么用“银壶”煮水的人容易长寿？不是迷信，请认真记住！",
+        "title_eng": "Why do people who use silver pots boil water easily live longer? Not superstition, please remember!",
+        "nickname": "柏举居士",
+        "created_at": "2020-11-03",
+        "archive": "gh_c1335a131ff4_2020-11-03_2247514566_LuVGWaQZfk.y.tar.gz",
+        "censored_date": "2020-11-05 02:23:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-03 20:39:14"
     }
 ]
