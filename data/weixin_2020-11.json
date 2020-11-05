@@ -3409,7 +3409,7 @@
         "archive": "gh_63e439b69de5_2020-11-03_2651028495_i04VoD3gKJ.y.tar.gz",
         "censored_date": "2020-11-04 23:43:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-03 15:05:01"
+        "update_date": "2020-11-05 13:12:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084839&idx=3&sn=5cc724721f45457b75982ca91ae1cf47",
@@ -3542,10 +3542,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjMyNzgxNg==&mid=2650299009&idx=2&sn=63714252ceae5b2946d877ca8313974e",
         "title": "小马智行最新估值达60亿美元，累计完成融资超10亿美元！",
+        "title_eng": "The latest valuation of Xiaoma Zhixing reached US$6 billion, and the accumulated financing completed exceeded US$1 billion!",
         "nickname": "广州南沙发布",
         "created_at": "2020-11-03",
         "archive": "gh_c4bedb58c8ba_2020-11-03_2650299009_4bsXjdxN1R.y.tar.gz",
         "censored_date": "2020-11-05 11:53:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247522138&idx=5&sn=75337272959b4e6ead73f2decdfbb412",
+        "title": "姊妹号：历史与秩序",
+        "nickname": "叙拉古之惑",
+        "created_at": "2020-11-04",
+        "archive": "gh_c9984a3987c1_2020-11-04_2247522138_H9wYOlNGro.y.tar.gz",
+        "censored_date": "2020-11-05 12:33:45",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
