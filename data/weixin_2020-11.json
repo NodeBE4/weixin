@@ -3645,6 +3645,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NDM3NDgxNQ==&mid=2247494248&idx=1&sn=3737d08f145bb5dd26088dd3060d4441",
         "title": "大选终局，拉开新时代序幕",
+        "title_eng": "The end of the general election, kicking off a new era",
         "nickname": "历史之瞳",
         "created_at": "2020-11-04",
         "archive": "gh_55faaf3c54e9_2020-11-04_2247494248_iRLz1e3v9C.y.tar.gz",
@@ -3655,11 +3656,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODUxNTA4NA==&mid=2247508264&idx=1&sn=d2b3cac53893c12df0551206f5e5b17f",
         "title": "一堂拯救股民的公开课",
+        "title_eng": "An open class to rescue investors",
         "nickname": "时代观察团",
         "created_at": "2020-11-03",
         "archive": "gh_b1dc53661818_2020-11-03_2247508264_WX15p306BQ.y.tar.gz",
         "censored_date": "2020-11-05 16:16:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-04 07:05:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651880516&idx=2&sn=d0428cbd5f296aea4d8c5d8d46d8b12f",
+        "title": "紧急提醒！【蚕丝被被电视台曝光了】！夫妻俩长期盖蚕丝被发生了惊人变化……没看的赶紧看看吧",
+        "nickname": "江南晚报",
+        "created_at": "2020-11-04",
+        "archive": "gh_b6899e873133_2020-11-04_2651880516_D2GZSCogh9.y.tar.gz",
+        "censored_date": "2020-11-05 17:06:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 15:37:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2650911349&idx=8&sn=5f6da71b5be1b3711bda11e057bea6d4",
+        "title": "老艺术家近况令人揪心：人生下半场，最挥霍不起的是健康！",
+        "nickname": "新老人",
+        "created_at": "2020-11-04",
+        "archive": "gh_2ff5d816ea7a_2020-11-04_2650911349_fnwgH0RE7W.y.tar.gz",
+        "censored_date": "2020-11-05 16:57:53",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
