@@ -3574,6 +3574,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA0OTM2MA==&mid=2651351167&idx=1&sn=3a7a172b81aee132d9d17bd7ab91e212",
         "title": "注意啦！明年4月起，梅城自来水价格将分两次上调！",
+        "title_eng": "Attention! Starting from April next year, the price of tap water in Meicheng will be raised twice!",
         "nickname": "梅州日报民生一线",
         "created_at": "2020-11-03",
         "archive": "gh_e85c24829900_2020-11-03_2651351167_QoSLw854CA.y.tar.gz",
@@ -3583,6 +3584,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE3MTQyMQ==&mid=2650856717&idx=2&sn=6df29374d3a22bc3f8a7cd9c035ea439",
         "title": "恭喜股民，A股要变天了",
+        "title_eng": "Congratulations to investors, A shares are about to change",
         "nickname": "金融八卦女频道",
         "created_at": "2020-11-04",
         "archive": "gh_dc1887970158_2020-11-04_2650856717_0vOVX9ldbB.y.tar.gz",
@@ -3592,6 +3594,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA0OTM2MA==&mid=2651351167&idx=2&sn=a5d4c62a30cdd366c8dec2c17e45e8f0",
         "title": "猪肉市场价格下跌啦！至10月末，我市生猪价格已跌至年内低位",
+        "title_eng": "The pork market price has fallen! By the end of October, the price of live pigs in our city has fallen to a low level during the year",
         "nickname": "梅州日报民生一线",
         "created_at": "2020-11-03",
         "archive": "gh_e85c24829900_2020-11-03_2651351167_HTzFNRslM7.y.tar.gz",
@@ -3601,10 +3604,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486891&idx=1&sn=76b90039939a6bbedf72d563415dae37",
         "title": "好消息！今年不用打工也有收入啦！刚刚确认，网友直呼：以前想多不敢想......",
+        "title_eng": "good news! This year you can earn income without having to work! Just confirmed, the netizen called out: I didn’t dare to think too much before...",
         "nickname": "秘闻爆光",
         "created_at": "2020-11-03",
         "archive": "gh_94d9b14108ec_2020-11-03_2247486891_IA0TmrRJ1s.y.tar.gz",
         "censored_date": "2020-11-05 14:02:09",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653877086&idx=4&sn=861673a0c95e58c880c11fbe65f9e91f",
+        "title": "青瓜味的沐浴露也太好闻了，洗完留香一整天！",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2020-11-02",
+        "archive": "gh_50a31d057fec_2020-11-02_2653877086_5g8ovuK3AI.y.tar.gz",
+        "censored_date": "2020-11-05 14:49:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653877086&idx=2&sn=569099e7e6268b5931c29b087203921a",
+        "title": "每天3分钟，颈椎爽到爆！运动员力推的按摩牵引器",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2020-11-02",
+        "archive": "gh_50a31d057fec_2020-11-02_2653877086_TkMcFC5yAs.y.tar.gz",
+        "censored_date": "2020-11-05 14:49:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488735&idx=2&sn=fed2308b3d08e282df64f9d59bae1fdc",
+        "title": "十人九湿，每天坚持用它泡一泡脚，七天排出体内10年湿毒！",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-04",
+        "archive": "gh_26762a56c129_2020-11-04_2247488735_BzLVkhTEAW.y.tar.gz",
+        "censored_date": "2020-11-05 15:07:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-04 11:42:12"
     }
 ]
