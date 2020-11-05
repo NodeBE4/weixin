@@ -3364,7 +3364,8 @@
         "created_at": "2020-11-03",
         "archive": "gh_0cfd33f7cbee_2020-11-03_2651059855_DgCTHtncpw.y.tar.gz",
         "censored_date": "2020-11-04 21:21:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 08:01:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652027806&idx=3&sn=f4ffb8116e633076b92c95e8b592342b",
@@ -3374,7 +3375,8 @@
         "created_at": "2020-11-03",
         "archive": "gh_e06f5843f7ac_2020-11-03_2652027806_JkKD13GtHa.y.tar.gz",
         "censored_date": "2020-11-04 21:59:58",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-05 08:27:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084822&idx=2&sn=19b21a261d7f5170d403d7c169e25e21",
@@ -3385,7 +3387,7 @@
         "archive": "gh_69043f48c02f_2020-11-02_2650084822_tXj6i508sE.y.tar.gz",
         "censored_date": "2020-11-04 22:07:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-03 17:43:33"
+        "update_date": "2020-11-05 08:30:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652711651&idx=2&sn=c4cd69f19f87e95e5cce66d99994f49a",
@@ -3494,5 +3496,26 @@
         "censored_date": "2020-11-05 06:27:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-04 01:56:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NDM3NDgxNQ==&mid=2247494248&idx=2&sn=26988727114ce06e643cbf8dd5761b22",
+        "title": "无一纸文凭的他，如何成为清华教授？",
+        "title_eng": "How can he become a Tsinghua professor without a diploma?",
+        "nickname": "历史之瞳",
+        "created_at": "2020-11-04",
+        "archive": "gh_55faaf3c54e9_2020-11-04_2247494248_p0aYwq1uyl.y.tar.gz",
+        "censored_date": "2020-11-05 08:15:59",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2020-11-04 12:48:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NDM3NDgxNQ==&mid=2247494139&idx=2&sn=c74b2b6412caa45e8147e0ce86661918",
+        "title": "诺贝尔文学奖为何选择他：人这一生，必须要读一次石黑一雄！",
+        "nickname": "历史之瞳",
+        "created_at": "2020-11-03",
+        "archive": "gh_55faaf3c54e9_2020-11-03_2247494139_4zpVJDCrI0.y.tar.gz",
+        "censored_date": "2020-11-05 08:43:59",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2020-11-04 02:15:53"
     }
 ]
