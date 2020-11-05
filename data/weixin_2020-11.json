@@ -3732,6 +3732,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTUxNjAzMw==&mid=2651838569&idx=2&sn=0977b5b984cc9920f88193166dcf9102",
         "title": "台风“天鹅”将登陆越南！“艾莎尼”会不会影响海南？",
+        "title_eng": "Typhoon Swan will land in Vietnam! Will Aishani affect Hainan?",
         "nickname": "海南头条NEWS",
         "created_at": "2020-11-04",
         "archive": "gh_6ee763b1ab93_2020-11-04_2651838569_xkSJw2ypgh.y.tar.gz",
@@ -3753,11 +3754,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650141887&idx=5&sn=530c319ca8e8518ef4241e124b808a3b",
         "title": "夜市丨等了一年，这个郎朗都在用的电子琴终于特价了！限量抢购",
+        "title_eng": "Night market丨After waiting for a year, this electronic piano that Lang Lang is using is finally on sale! Limited buying",
         "nickname": "酷玩实验室",
         "created_at": "2020-11-02",
         "archive": "gh_f33ea5eaf126_2020-11-02_2650141887_rji2qVnXwo.y.tar.gz",
         "censored_date": "2020-11-05 19:05:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-04 01:17:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NjcxNTIyNg==&mid=2650667061&idx=1&sn=f6e124fa0cce68a1ea46a1030ca9ca6c",
+        "title": "聚划算明星直播方法论：如何复制N个“刘涛”",
+        "nickname": "娱乐资本论",
+        "created_at": "2020-11-03",
+        "archive": "gh_2eb77c1bf9be_2020-11-03_2650667061_j5w3sUC9kn.y.tar.gz",
+        "censored_date": "2020-11-05 19:38:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-04 03:31:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODUyNjIzMw==&mid=2247498464&idx=1&sn=3b893e98b36136cd9b49da6c8ab183ed",
+        "title": "长期被湿气缠身的人，大概会有6个表现！希望你没有",
+        "nickname": "最高办案指南",
+        "created_at": "2020-11-04",
+        "archive": "gh_2bb3ecda50f1_2020-11-04_2247498464_WEwOejCBVt.y.tar.gz",
+        "censored_date": "2020-11-05 20:05:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-04 08:29:35"
     }
 ]
