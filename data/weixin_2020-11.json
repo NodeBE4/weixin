@@ -4173,6 +4173,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502479&idx=1&sn=b2d259964310de584510894661d57921",
         "title": "放大招！马云被约谈的真正原因……",
+        "title_eng": "Zoom in! The real reason Ma Yun was interviewed...",
         "nickname": "环球冷眼",
         "created_at": "2020-11-03",
         "archive": "gh_1aecabdf0add_2020-11-03_2247502479_FqI9GWjETf.y.tar.gz",
@@ -4183,6 +4184,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658687145&idx=1&sn=4acd33cae84a3997bb7decbdc8fa47a5",
         "title": "美国能回归正常吗？没希望",
+        "title_eng": "Can the United States return to normal? no hope",
         "nickname": "半月谈",
         "created_at": "2020-11-04",
         "archive": "gh_e3ae8ac3dd21_2020-11-04_2658687145_EJ6fDVG0p8.y.tar.gz",
@@ -4192,10 +4194,38 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247501997&idx=5&sn=5332b3ceb850933bdf57a0ed1f0fc9b5",
         "title": "大升迁",
+        "title_eng": "Big promotion",
         "nickname": "难得视界",
         "created_at": "2020-11-04",
         "archive": "gh_1c6cefeca9ab_2020-11-04_2247501997_0f03TcJupD.y.tar.gz",
         "censored_date": "2020-11-06 20:18:40",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247498358&idx=1&sn=32075937cc35ec02a2a87b528a146dde",
+        "title": "一堂拯救股民的公开课",
+        "nickname": "8090军事独家纵览",
+        "created_at": "2020-11-05",
+        "archive": "gh_ed7d58d184ae_2020-11-05_2247498358_0gOtfwDKjS.y.tar.gz",
+        "censored_date": "2020-11-06 20:40:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658971348&idx=3&sn=da1e186b14f1770073090d4991b30922",
+        "title": "天明的远见......",
+        "nickname": "金脑袋营销策划",
+        "created_at": "2020-11-04",
+        "archive": "gh_dda6a93672f5_2020-11-04_2658971348_qhg1MeVZ95.y.tar.gz",
+        "censored_date": "2020-11-06 21:16:28",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658971348&idx=1&sn=7f47ac683dc020b977423cdd78c249a2",
+        "title": "善讯：揭露秀书香的真实面目",
+        "nickname": "金脑袋营销策划",
+        "created_at": "2020-11-04",
+        "archive": "gh_dda6a93672f5_2020-11-04_2658971348_JoLbd5W32O.y.tar.gz",
+        "censored_date": "2020-11-06 21:16:51",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
