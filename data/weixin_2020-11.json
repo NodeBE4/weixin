@@ -3807,7 +3807,7 @@
         "archive": "gh_c9984a3987c1_2020-11-04_2247522138_rRW0yg5BNG.y.tar.gz",
         "censored_date": "2020-11-05 21:25:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-04 14:07:04"
+        "update_date": "2020-11-06 15:46:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODA3NzQ0MQ==&mid=2247504026&idx=2&sn=8443f0f624b5867f8671861c83e15100",
@@ -3959,6 +3959,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362849&idx=3&sn=04363eab41dbce2cb8140015b2c88de2",
         "title": "大选之夜-重要看点及注意事项 ! ! !",
+        "title_eng": "Election night-important points and precautions!!!",
         "nickname": "乐诚坊",
         "created_at": "2020-11-04",
         "archive": "gh_42435e819eef_2020-11-04_2650362849_dnwHtb40UJ.y.tar.gz",
@@ -3989,6 +3990,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3Nzk3NzYxOQ==&mid=2650961702&idx=2&sn=cb2a8189d3780640bf45e430ed837afc",
         "title": "会场都布置好了！却被被暂缓上市？蚂蚁莫非要凉了？",
+        "title_eng": "The venue is all set up! Was the listing suspended? Does the ant have to be cold?",
         "nickname": "齐俊杰看财经",
         "created_at": "2020-11-04",
         "archive": "gh_7c1e674cacab_2020-11-04_2650961702_JKUgmR6d0Y.y.tar.gz",
@@ -3999,11 +4001,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzY2ODA1MQ==&mid=2649474202&idx=2&sn=3c6952c1342894b99b87d2f1237684a8",
         "title": "头发稀疏，发际线后退，试试它，真材实料，坚固发根，强韧发丝",
+        "title_eng": "Thinning hair, receding hairline, try it, real material, firm roots, strong hair strands",
         "nickname": "bookface",
         "created_at": "2020-11-03",
         "archive": "gh_42e7953b2a7a_2020-11-03_2649474202_qIRKv0DJ0k.y.tar.gz",
         "censored_date": "2020-11-06 15:15:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-05 20:25:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247544868&idx=6&sn=d45afae8344066f4f7836e5499027545",
+        "title": "上百万人偷偷置顶的微信号，今天分享给你",
+        "nickname": "浪潮工作室",
+        "created_at": "2020-11-04",
+        "archive": "gh_0199c7d26b97_2020-11-04_2247544868_RY7fPhsx3w.y.tar.gz",
+        "censored_date": "2020-11-06 16:02:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 21:42:31"
     }
 ]
