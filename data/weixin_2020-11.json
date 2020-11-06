@@ -4121,6 +4121,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652711701&idx=2&sn=1adde77a65c2705aa9d266ca2579a011",
         "title": "红了那么多年，她一点儿也没老",
+        "title_eng": "She has been red for so many years, she is not old at all",
         "nickname": "8号风曝",
         "created_at": "2020-11-03",
         "archive": "gh_a0404706a1d9_2020-11-03_2652711701_BjA7X8ra0w.y.tar.gz",
@@ -4130,6 +4131,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485487&idx=2&sn=578fea9e4a6f16743df955191d5c0e1e",
         "title": "感觉拜登要赢了（拭目以待",
+        "title_eng": "I feel that Biden is going to win (wait and see",
         "nickname": "平民新世界",
         "created_at": "2020-11-05",
         "archive": "gh_2f53a9e900c6_2020-11-05_2247485487_y6MoezITbA.y.tar.gz",
@@ -4139,6 +4141,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247503990&idx=1&sn=b01365c2f0f6b44cadc3385ac1a85844",
         "title": "特朗普要连任了，中国须做好更坏打算",
+        "title_eng": "Trump is about to be re-elected, and China must plan for the worse",
         "nickname": "潇湘经略",
         "created_at": "2020-11-04",
         "archive": "gh_30b5796604e2_2020-11-04_2247503990_EYR8A2zTrM.y.tar.gz",
@@ -4149,6 +4152,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502530&idx=3&sn=70f60881fed35772725352b758179f27",
         "title": "幽默笑话：《小老婆》",
+        "title_eng": "Humorous joke: Little Wife",
         "nickname": "国学文化优选",
         "created_at": "2020-11-05",
         "archive": "gh_b67f4a684fd9_2020-11-05_2247502530_4FVJwl8TWR.y.tar.gz",
@@ -4159,10 +4163,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMjY3NjEzNA==&mid=2650836771&idx=1&sn=c4f2a038133dd31fb6b9ee8877b5394e",
         "title": "月薪3000和月入3W的人差距在哪里？",
+        "title_eng": "What is the gap between the monthly salary of 3000 and the monthly income of 3W?",
         "nickname": "心眼探世界",
         "created_at": "2020-11-05",
         "archive": "gh_a8b95b3ea1a1_2020-11-05_2650836771_VpN9z01YWx.y.tar.gz",
         "censored_date": "2020-11-06 18:57:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502479&idx=1&sn=b2d259964310de584510894661d57921",
+        "title": "放大招！马云被约谈的真正原因……",
+        "nickname": "环球冷眼",
+        "created_at": "2020-11-03",
+        "archive": "gh_1aecabdf0add_2020-11-03_2247502479_FqI9GWjETf.y.tar.gz",
+        "censored_date": "2020-11-06 19:51:57",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-04 18:26:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658687145&idx=1&sn=4acd33cae84a3997bb7decbdc8fa47a5",
+        "title": "美国能回归正常吗？没希望",
+        "nickname": "半月谈",
+        "created_at": "2020-11-04",
+        "archive": "gh_e3ae8ac3dd21_2020-11-04_2658687145_EJ6fDVG0p8.y.tar.gz",
+        "censored_date": "2020-11-06 20:17:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247501997&idx=5&sn=5332b3ceb850933bdf57a0ed1f0fc9b5",
+        "title": "大升迁",
+        "nickname": "难得视界",
+        "created_at": "2020-11-04",
+        "archive": "gh_1c6cefeca9ab_2020-11-04_2247501997_0f03TcJupD.y.tar.gz",
+        "censored_date": "2020-11-06 20:18:40",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
