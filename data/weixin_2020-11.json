@@ -4073,7 +4073,8 @@
         "created_at": "2020-11-03",
         "archive": "gh_e435cb2e3b5d_2020-11-03_2650283424_7HuXwDxrNQ.y.tar.gz",
         "censored_date": "2020-11-06 18:06:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 21:42:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485482&idx=1&sn=0fbbd55a05ec116f8a1fd76983a7ced5",
@@ -4095,7 +4096,7 @@
         "archive": "gh_610312e22ed3_2020-11-05_2247491140_f4UCucK1Gw.y.tar.gz",
         "censored_date": "2020-11-06 18:24:17",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-05 12:14:47"
+        "update_date": "2020-11-06 22:03:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489433&idx=3&sn=6817a60dd5a4dec21582059456aa6774",
@@ -4105,7 +4106,8 @@
         "created_at": "2020-11-05",
         "archive": "gh_65f5271d2a21_2020-11-05_2247489433_WhdXnD4Ig0.y.tar.gz",
         "censored_date": "2020-11-06 18:33:33",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-06 22:16:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247493414&idx=1&sn=5d9606f2907101dc7d78f011060f2025",
@@ -4126,7 +4128,8 @@
         "created_at": "2020-11-03",
         "archive": "gh_a0404706a1d9_2020-11-03_2652711701_BjA7X8ra0w.y.tar.gz",
         "censored_date": "2020-11-06 18:35:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 22:15:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485487&idx=2&sn=578fea9e4a6f16743df955191d5c0e1e",
@@ -4204,6 +4207,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247498358&idx=1&sn=32075937cc35ec02a2a87b528a146dde",
         "title": "一堂拯救股民的公开课",
+        "title_eng": "An open class to rescue investors",
         "nickname": "8090军事独家纵览",
         "created_at": "2020-11-05",
         "archive": "gh_ed7d58d184ae_2020-11-05_2247498358_0gOtfwDKjS.y.tar.gz",
@@ -4213,6 +4217,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658971348&idx=3&sn=da1e186b14f1770073090d4991b30922",
         "title": "天明的远见......",
+        "title_eng": "Tianming's vision...",
         "nickname": "金脑袋营销策划",
         "created_at": "2020-11-04",
         "archive": "gh_dda6a93672f5_2020-11-04_2658971348_qhg1MeVZ95.y.tar.gz",
@@ -4222,10 +4227,48 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658971348&idx=1&sn=7f47ac683dc020b977423cdd78c249a2",
         "title": "善讯：揭露秀书香的真实面目",
+        "title_eng": "Good news: reveal the true face of Xiu Shuxiang",
         "nickname": "金脑袋营销策划",
         "created_at": "2020-11-04",
         "archive": "gh_dda6a93672f5_2020-11-04_2658971348_JoLbd5W32O.y.tar.gz",
         "censored_date": "2020-11-06 21:16:51",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651562851&idx=1&sn=1913be17ddbe4bf7738919dbd1dd3173",
+        "title": "再见了，特朗普！",
+        "nickname": "她言他语",
+        "created_at": "2020-11-04",
+        "archive": "gh_ec6dcd28a470_2020-11-04_2651562851_9bXTFGNxfi.y.tar.gz",
+        "censored_date": "2020-11-06 21:30:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895217&idx=3&sn=219e05de2e5262880a50b3aa66a450da",
+        "title": "果然，俩人都说要赢！",
+        "nickname": "维基解迷",
+        "created_at": "2020-11-04",
+        "archive": "gh_a2e05cde0069_2020-11-04_2651895217_moGcTK8SjD.y.tar.gz",
+        "censored_date": "2020-11-06 21:37:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895217&idx=1&sn=fac69bbe829a1aad0acb3cf08f062d0b",
+        "title": "稳了，特朗普连任已成定局！",
+        "nickname": "维基解迷",
+        "created_at": "2020-11-04",
+        "archive": "gh_a2e05cde0069_2020-11-04_2651895217_Mh2kOS4li5.y.tar.gz",
+        "censored_date": "2020-11-06 21:37:49",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMDU5MTcyMA==&mid=2247516307&idx=2&sn=240016e8d625b19e2d7828af4712437e",
+        "title": "完美风暴，快手在2020",
+        "nickname": "AI蓝媒汇",
+        "created_at": "2020-11-05",
+        "archive": "gh_41de06bef088_2020-11-05_2247516307_vYzqM1P0jW.y.tar.gz",
+        "censored_date": "2020-11-06 22:08:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 00:31:38"
     }
 ]
