@@ -4280,6 +4280,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084899&idx=1&sn=f32cbbbbd8258f1f280a686fb40effce",
         "title": "大同一新楼盘门前被拉白条横幅！",
+        "title_eng": "White banners were drawn in front of the new real estate in Datong!",
         "nickname": "掌心大同",
         "created_at": "2020-11-05",
         "archive": "gh_69043f48c02f_2020-11-05_2650084899_3T2sRjrbdX.y.tar.gz",
@@ -4289,6 +4290,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502479&idx=2&sn=a520ca9e106ce89f329311b32ceda287",
         "title": "从两个数学公式，看高房价的宿命",
+        "title_eng": "Look at the fate of high housing prices from two mathematical formulas",
         "nickname": "环球冷眼",
         "created_at": "2020-11-03",
         "archive": "gh_1aecabdf0add_2020-11-03_2247502479_IpYm34Xos9.y.tar.gz",
@@ -4299,10 +4301,63 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650002469&idx=4&sn=ccbf10cea3620600b2f02e7e90efba40",
         "title": "为什么TT总是摆在收银台附近？",
+        "title_eng": "Why is TT always placed near the cash register?",
         "nickname": "吐槽星君",
         "created_at": "2020-11-05",
         "archive": "gh_45220e40f13c_2020-11-05_2650002469_BzXT1icAgI.y.tar.gz",
         "censored_date": "2020-11-06 23:10:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502530&idx=1&sn=872a3c4986935836602993dab5823135",
+        "title": "风向变了！官方痛批马云",
+        "title_eng": "The wind direction has changed! Officials criticize Jack Ma",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-05",
+        "archive": "gh_b67f4a684fd9_2020-11-05_2247502530_68R4oxwutd.y.tar.gz",
+        "censored_date": "2020-11-07 00:24:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 08:07:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649808039&idx=4&sn=903767ebf715cf5ce3bc2d0751be820d",
+        "title": "Excel一小时，Python五分钟，确定不考虑一下？",
+        "nickname": "近现代史论",
+        "created_at": "2020-11-05",
+        "archive": "gh_ef9695b6d53c_2020-11-05_2649808039_UdDg41xkqI.y.tar.gz",
+        "censored_date": "2020-11-07 00:31:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 01:13:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502499&idx=2&sn=68a24bb8c33d75120cb1c653b48c1c4c",
+        "title": "天津铁路桥坍塌8人遇难，死者身份让人泪崩：若不是生活所迫，谁愿意以命相搏？",
+        "title_eng": "Eight people were killed in the collapse of the Tianjin railway bridge, and the identity of the dead made people tears: If life is not forced, who would fight with their lives?",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-04",
+        "archive": "gh_b67f4a684fd9_2020-11-04_2247502499_k5MnZJcPCT.y.tar.gz",
+        "censored_date": "2020-11-06 23:39:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502530&idx=4&sn=6672add317bab769b58867085e0717b9",
+        "title": "新华社强烈推荐：《 我的单位观！》",
+        "title_eng": "Xinhua News Agency strongly recommends: My View on Unit! 》",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-05",
+        "archive": "gh_b67f4a684fd9_2020-11-05_2247502530_O01ioFeqp5.y.tar.gz",
+        "censored_date": "2020-11-06 23:40:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 23:42:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2ODExNzg5OQ==&mid=2653634730&idx=1&sn=ba5d17fdaa8f2c70c9a48f80d53262a5",
+        "title": "被“打断”的童年",
+        "title_eng": "Interrupted childhood",
+        "nickname": "剥洋葱people",
+        "created_at": "2020-11-06",
+        "archive": "gh_1f860dfaa572_2020-11-06_2653634730_Xy2wFVz4Lx.y.tar.gz",
+        "censored_date": "2020-11-07 00:23:56",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
