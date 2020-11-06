@@ -4118,7 +4118,7 @@
         "archive": "gh_ccf6a72b140a_2020-11-05_2247493414_mTzNZVwCEy.y.tar.gz",
         "censored_date": "2020-11-06 19:01:41",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-05 13:50:49"
+        "update_date": "2020-11-06 22:47:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652711701&idx=2&sn=1adde77a65c2705aa9d266ca2579a011",
@@ -4139,7 +4139,8 @@
         "created_at": "2020-11-05",
         "archive": "gh_2f53a9e900c6_2020-11-05_2247485487_y6MoezITbA.y.tar.gz",
         "censored_date": "2020-11-06 18:42:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 22:32:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247503990&idx=1&sn=b01365c2f0f6b44cadc3385ac1a85844",
@@ -4161,7 +4162,7 @@
         "archive": "gh_b67f4a684fd9_2020-11-05_2247502530_4FVJwl8TWR.y.tar.gz",
         "censored_date": "2020-11-06 18:57:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-05 08:06:35"
+        "update_date": "2020-11-06 22:46:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMjY3NjEzNA==&mid=2650836771&idx=1&sn=c4f2a038133dd31fb6b9ee8877b5394e",
@@ -4171,7 +4172,8 @@
         "created_at": "2020-11-05",
         "archive": "gh_a8b95b3ea1a1_2020-11-05_2650836771_VpN9z01YWx.y.tar.gz",
         "censored_date": "2020-11-06 18:57:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 22:46:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502479&idx=1&sn=b2d259964310de584510894661d57921",
@@ -4237,6 +4239,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651562851&idx=1&sn=1913be17ddbe4bf7738919dbd1dd3173",
         "title": "再见了，特朗普！",
+        "title_eng": "Goodbye, Trump!",
         "nickname": "她言他语",
         "created_at": "2020-11-04",
         "archive": "gh_ec6dcd28a470_2020-11-04_2651562851_9bXTFGNxfi.y.tar.gz",
@@ -4246,6 +4249,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895217&idx=3&sn=219e05de2e5262880a50b3aa66a450da",
         "title": "果然，俩人都说要赢！",
+        "title_eng": "Sure enough, both of them said they wanted to win!",
         "nickname": "维基解迷",
         "created_at": "2020-11-04",
         "archive": "gh_a2e05cde0069_2020-11-04_2651895217_moGcTK8SjD.y.tar.gz",
@@ -4255,6 +4259,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895217&idx=1&sn=fac69bbe829a1aad0acb3cf08f062d0b",
         "title": "稳了，特朗普连任已成定局！",
+        "title_eng": "Stable, Trump's re-election is a foregone conclusion!",
         "nickname": "维基解迷",
         "created_at": "2020-11-04",
         "archive": "gh_a2e05cde0069_2020-11-04_2651895217_Mh2kOS4li5.y.tar.gz",
@@ -4264,11 +4269,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMDU5MTcyMA==&mid=2247516307&idx=2&sn=240016e8d625b19e2d7828af4712437e",
         "title": "完美风暴，快手在2020",
+        "title_eng": "Perfect storm, fast hand in 2020",
         "nickname": "AI蓝媒汇",
         "created_at": "2020-11-05",
         "archive": "gh_41de06bef088_2020-11-05_2247516307_vYzqM1P0jW.y.tar.gz",
         "censored_date": "2020-11-06 22:08:36",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-06 00:31:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084899&idx=1&sn=f32cbbbbd8258f1f280a686fb40effce",
+        "title": "大同一新楼盘门前被拉白条横幅！",
+        "nickname": "掌心大同",
+        "created_at": "2020-11-05",
+        "archive": "gh_69043f48c02f_2020-11-05_2650084899_3T2sRjrbdX.y.tar.gz",
+        "censored_date": "2020-11-06 22:51:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502479&idx=2&sn=a520ca9e106ce89f329311b32ceda287",
+        "title": "从两个数学公式，看高房价的宿命",
+        "nickname": "环球冷眼",
+        "created_at": "2020-11-03",
+        "archive": "gh_1aecabdf0add_2020-11-03_2247502479_IpYm34Xos9.y.tar.gz",
+        "censored_date": "2020-11-06 23:06:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-04 16:51:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650002469&idx=4&sn=ccbf10cea3620600b2f02e7e90efba40",
+        "title": "为什么TT总是摆在收银台附近？",
+        "nickname": "吐槽星君",
+        "created_at": "2020-11-05",
+        "archive": "gh_45220e40f13c_2020-11-05_2650002469_BzXT1icAgI.y.tar.gz",
+        "censored_date": "2020-11-06 23:10:37",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
