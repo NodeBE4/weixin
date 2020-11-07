@@ -4811,6 +4811,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247508811&idx=1&sn=1fc518eedac259814d35e04262628b34",
         "title": "特朗普突然宣布大消息，最不可思议的一幕发生了！",
+        "title_eng": "Trump suddenly announced the big news, and the most incredible scene happened!",
         "nickname": "前沿观察网",
         "created_at": "2020-11-06",
         "archive": "gh_da91e6008b7f_2020-11-06_2247508811_S3gYuit1ph.y.tar.gz",
@@ -4821,6 +4822,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247508811&idx=2&sn=a14a232d86277aa430b4759b778725cd",
         "title": "今天，美国内乱开始了！",
+        "title_eng": "Today, the American civil strife has begun!",
         "nickname": "前沿观察网",
         "created_at": "2020-11-06",
         "archive": "gh_da91e6008b7f_2020-11-06_2247508811_yUlhbQ3SLo.y.tar.gz",
@@ -4831,10 +4833,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247493094&idx=1&sn=36b66567990c5ef6072e3d7a39e95d68",
         "title": "自由与福利：新冠疫苗该不该免费？",
+        "title_eng": "Freedom and welfare: should the new crown vaccine be free?",
         "nickname": "毛有话说",
         "created_at": "2020-11-06",
         "archive": "gh_097268c5ef0e_2020-11-06_2247493094_Kf58xOBvZE.y.tar.gz",
         "censored_date": "2020-11-07 19:54:32",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649767969&idx=1&sn=5017572eb947b734452a5237fc357f71",
+        "title": "今年贼便宜的龙泉剑，正是入手的好时机 !",
+        "nickname": "华哥读报",
+        "created_at": "2020-11-05",
+        "archive": "gh_7a402e27f818_2020-11-05_2649767969_zQcu7vjJdh.y.tar.gz",
+        "censored_date": "2020-11-07 20:49:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-07 13:02:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488746&idx=1&sn=1815c38ac02e5d91591e2b4842400547",
+        "title": "突然！特郎普出手了，结果出乎所有人预料！",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-06",
+        "archive": "gh_26762a56c129_2020-11-06_2247488746_cpJhLF1n3q.y.tar.gz",
+        "censored_date": "2020-11-07 21:05:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-07 13:44:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488741&idx=4&sn=ee75c62728defde2664b3a91360a112a",
+        "title": "7个防痴呆绕口令，读不完1个的，危险！",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-05",
+        "archive": "gh_26762a56c129_2020-11-05_2247488741_F8zqkKy62R.y.tar.gz",
+        "censored_date": "2020-11-07 21:07:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-07 13:45:16"
     }
 ]
