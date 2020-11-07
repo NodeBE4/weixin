@@ -4974,6 +4974,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247508425&idx=2&sn=534d6ce29b58ea5013ebda37342a179d",
         "title": "最后时刻，特朗普遭致命一击！",
+        "title_eng": "At the last moment, Trump received a fatal blow!",
         "nickname": "前沿观察网",
         "created_at": "2020-11-03",
         "archive": "gh_da91e6008b7f_2020-11-03_2247508425_1dlZ0oXvqM.y.tar.gz",
@@ -4984,6 +4985,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485487&idx=1&sn=69bfef643e3f2342745f5149258507b8",
         "title": "快讯：川普竞选团队在费城召开新闻发布会",
+        "title_eng": "News: Trump campaign team held a press conference in Philadelphia",
         "nickname": "平民新世界",
         "created_at": "2020-11-05",
         "archive": "gh_2f53a9e900c6_2020-11-05_2247485487_eWgZ0ysbkC.y.tar.gz",
@@ -5001,5 +5003,26 @@
         "censored_date": "2020-11-08 01:21:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-06 05:40:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502530&idx=2&sn=e9bb00590e3353c04dfe73161470c6e3",
+        "title": "元气不足、经络不通是百病之源！老中医献方，最有效的方法竟是它！",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-05",
+        "archive": "gh_b67f4a684fd9_2020-11-05_2247502530_tgZDn5aIQf.y.tar.gz",
+        "censored_date": "2020-11-08 03:02:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-05 23:40:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzkxMDA0OA==&mid=2651995114&idx=3&sn=96ab37b8d04e1b166b7d1b25c5e2b901",
+        "title": "安徽9部作品入选文旅部重点扶持计划名单！",
+        "title_eng": "Nine works from Anhui were selected into the list of key support programs of the Ministry of Culture and Tourism!",
+        "nickname": "安徽发布",
+        "created_at": "2020-11-05",
+        "archive": "gh_a99d3b7ea9fa_2020-11-05_2651995114_X3h5S1My8L.y.tar.gz",
+        "censored_date": "2020-11-08 02:25:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-06 07:59:52"
     }
 ]
