@@ -3905,7 +3905,7 @@
         "archive": "gh_79ddf4ffac70_2020-11-06_2652004723_jZhP5O0uLY.y.tar.gz",
         "censored_date": "2020-11-06 09:29:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-07 15:39:58"
+        "update_date": "2020-11-08 15:25:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895217&idx=2&sn=39c1da7d02515385e04f529b9c8fc400",
@@ -5248,6 +5248,17 @@
         "created_at": "2020-11-08",
         "archive": "gh_93523c0a552d_2020-11-08_2247488068_NOzlx42n1m.y.tar.gz",
         "censored_date": "2020-11-08 14:00:51",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-08 16:04:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2666364994&idx=1&sn=a2668be19cc4958986e1fec85924df84",
+        "title": "“曦”有好物，今晚等你下单！",
+        "nickname": "人民日报",
+        "created_at": "2020-11-07",
+        "archive": "gh_363b924965e9_2020-11-07_2666364994_r41QLsxepR.y.tar.gz",
+        "censored_date": "2020-11-08 15:53:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-07 17:24:56"
     }
 ]
