@@ -4675,7 +4675,8 @@
         "created_at": "2020-11-06",
         "archive": "gh_e3ae8ac3dd21_2020-11-06_2658687481_CDPifWq16V.y.tar.gz",
         "censored_date": "2020-11-07 11:46:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-08 13:53:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488746&idx=2&sn=d49b29027ca6897e3635ca51d7567bf0",
@@ -5224,15 +5225,26 @@
         "created_at": "2020-11-07",
         "archive": "gh_89a83c14a54d_2020-11-07_2247603267_CNjldFpXcb.y.tar.gz",
         "censored_date": "2020-11-08 11:45:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-08 14:21:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODQxNjMwMA==&mid=2653626258&idx=1&sn=92859d647ab2d9bfe41c9d8fe1689d48",
         "title": "黄冈3名干部未经批准私自出国，被给予严重警告处分",
+        "title_eng": "Three officials from Huanggang went abroad without permission and were given serious warnings",
         "nickname": "遗爱网",
         "created_at": "2020-11-08",
         "archive": "gh_efb8a134bb93_2020-11-08_2653626258_4mg3UQtrlO.y.tar.gz",
         "censored_date": "2020-11-08 12:51:50",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyMTgzNzc1NQ==&mid=2247488068&idx=1&sn=408d38e2fb6e225f9fdd59237a0e6645",
+        "title": "不行就是不行，马已经服也不行",
+        "nickname": "真理规划局",
+        "created_at": "2020-11-08",
+        "archive": "gh_93523c0a552d_2020-11-08_2247488068_NOzlx42n1m.y.tar.gz",
+        "censored_date": "2020-11-08 14:00:51",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
