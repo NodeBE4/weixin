@@ -5680,15 +5680,18 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDA5NDcyMA==&mid=2651811101&idx=2&sn=f10cd733d5e685a054a85c1427d48a8b",
         "title": "为什么直男的电脑都奇形怪状，还闪着七彩光？",
+        "title_eng": "Why are straight men’s computers all weird and shining with colorful lights?",
         "nickname": "Vista看天下",
         "created_at": "2020-11-09",
         "archive": "gh_52a264d06413_2020-11-09_2651811101_qE0vGZdokt.y.tar.gz",
         "censored_date": "2020-11-10 02:06:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-10 03:08:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODUwMDczMg==&mid=2650728128&idx=3&sn=8e2b3e8fe82eef27a31d732f642073c9",
         "title": "南昌县一主管部门下“征订令”，私账收转数百万元征订款",
+        "title_eng": "A competent authority in Nanchang County issued a subscription order to collect and transfer millions of yuan in private accounts",
         "nickname": "大江网",
         "created_at": "2020-11-08",
         "archive": "gh_85d6229687a6_2020-11-08_2650728128_0ypvCQsL0d.y.tar.gz",
@@ -5699,10 +5702,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjMwMTQ1Mg==&mid=2655943759&idx=1&sn=714197d11227dde4be499e3a52a0d7de",
         "title": "全国政法队伍教育整顿试点工作结束8天后，这里挖出“蛰伏之徒”",
+        "title_eng": "Eight days after the completion of the pilot work for the education and rectification of the national political and legal teams, dormant people were dug up here.",
         "nickname": "政知圈",
         "created_at": "2020-11-08",
         "archive": "gh_981edbe27236_2020-11-08_2655943759_PATiUI0vE3.y.tar.gz",
         "censored_date": "2020-11-10 02:15:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDExMzcyMQ==&mid=2672278324&idx=2&sn=743ab7d3a7d96dca5c93cace2f08a911",
+        "title": "每天嚼一嚼， 排出体内12斤垃圾！裤子松到往下掉…",
+        "nickname": "读心先生",
+        "created_at": "2020-11-08",
+        "archive": "gh_764542393f16_2020-11-08_2672278324_b7JnG29dTz.y.tar.gz",
+        "censored_date": "2020-11-10 02:32:40",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-09 02:24:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTE1MDExNA==&mid=2652233555&idx=2&sn=325044d8b3214eefe2a3554797916d5b",
+        "title": "“据不认输”的特朗普还能撑多久？",
+        "nickname": "长江新闻号",
+        "created_at": "2020-11-09",
+        "archive": "gh_955cd183e192_2020-11-09_2652233555_Mqwz7FBina.y.tar.gz",
+        "censored_date": "2020-11-10 02:35:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-10 03:09:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653020928&idx=2&sn=0014f7a988a067378ffea4b22471b492",
+        "title": "特朗普败选？！下周这些股票或将报复性反弹！",
+        "title_eng": "Trump loses the election? ! These stocks may rebound in revenge next week!",
+        "nickname": "财经要参",
+        "created_at": "2020-11-08",
+        "archive": "gh_34471e1f4b56_2020-11-08_2653020928_F0gJ2ZOECv.y.tar.gz",
+        "censored_date": "2020-11-10 02:28:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 01:39:53"
     }
 ]
