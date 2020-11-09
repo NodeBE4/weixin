@@ -5640,6 +5640,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDgxMjEwMQ==&mid=2650992032&idx=1&sn=f5461b3bc1ddce261fe7ae55d97b7ee5",
         "title": "第二届世界科技与发展论坛在京召开",
+        "title_eng": "The 2nd World Forum on Technology and Development was held in Beijing",
         "nickname": "科协改革进行时",
         "created_at": "2020-11-08",
         "archive": "gh_3e7c18694931_2020-11-08_2650992032_lLoG1z2EwA.y.tar.gz",
@@ -5649,6 +5650,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMjEwOTkyOQ==&mid=2247524559&idx=2&sn=50e771f758bc6cb7b5c4ec9d9ea74735",
         "title": "为了能吃上外卖居然当众叫爸爸？！看看网友的那些灵魂备注哈哈哈哈",
+        "title_eng": "In order to be able to eat takeaway, you call your father in public? ! Look at those soul remarks of netizens hahahaha",
         "nickname": "尸人",
         "created_at": "2020-11-09",
         "archive": "gh_cfb5087c307a_2020-11-09_2247524559_I4QMq3A2GZ.y.tar.gz",
@@ -5658,6 +5660,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651563046&idx=3&sn=851e23a58dbd6f5087630027fa2f623f",
         "title": "这支口红，女人看了脸红心跳，男人却发现不了，一个人用爽翻了！",
+        "title_eng": "With this lipstick, the woman saw her blush and her heartbeat, but the man couldn't find it.",
         "nickname": "她言他语",
         "created_at": "2020-11-08",
         "archive": "gh_ec6dcd28a470_2020-11-08_2651563046_MiXctl45WH.y.tar.gz",
@@ -5667,10 +5670,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE1NTc4Nw==&mid=2655656054&idx=2&sn=b56039afcc4a70de359faac749e51c74",
         "title": "从惊心动魄的总统大选，见证美国民主的“程序公正”",
+        "title_eng": "Witness the procedural justice of American democracy from the thrilling presidential election",
         "nickname": "美国华人",
         "created_at": "2020-11-09",
         "archive": "gh_fdb17c00ce9f_2020-11-09_2655656054_ANxfRHvPDM.y.tar.gz",
         "censored_date": "2020-11-10 01:09:52",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDA5NDcyMA==&mid=2651811101&idx=2&sn=f10cd733d5e685a054a85c1427d48a8b",
+        "title": "为什么直男的电脑都奇形怪状，还闪着七彩光？",
+        "nickname": "Vista看天下",
+        "created_at": "2020-11-09",
+        "archive": "gh_52a264d06413_2020-11-09_2651811101_qE0vGZdokt.y.tar.gz",
+        "censored_date": "2020-11-10 02:06:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODUwMDczMg==&mid=2650728128&idx=3&sn=8e2b3e8fe82eef27a31d732f642073c9",
+        "title": "南昌县一主管部门下“征订令”，私账收转数百万元征订款",
+        "nickname": "大江网",
+        "created_at": "2020-11-08",
+        "archive": "gh_85d6229687a6_2020-11-08_2650728128_0ypvCQsL0d.y.tar.gz",
+        "censored_date": "2020-11-10 01:56:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 01:18:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjMwMTQ1Mg==&mid=2655943759&idx=1&sn=714197d11227dde4be499e3a52a0d7de",
+        "title": "全国政法队伍教育整顿试点工作结束8天后，这里挖出“蛰伏之徒”",
+        "nickname": "政知圈",
+        "created_at": "2020-11-08",
+        "archive": "gh_981edbe27236_2020-11-08_2655943759_PATiUI0vE3.y.tar.gz",
+        "censored_date": "2020-11-10 02:15:12",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
