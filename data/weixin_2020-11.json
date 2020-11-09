@@ -5251,7 +5251,7 @@
         "archive": "gh_93523c0a552d_2020-11-08_2247488068_NOzlx42n1m.y.tar.gz",
         "censored_date": "2020-11-08 14:00:51",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-09 10:13:52"
+        "update_date": "2020-11-10 06:51:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2666364994&idx=1&sn=a2668be19cc4958986e1fec85924df84",
@@ -5400,7 +5400,7 @@
         "archive": "gh_a2e05cde0069_2020-11-08_2651895223_3tmUDXrjLP.y.tar.gz",
         "censored_date": "2020-11-09 10:20:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-08 17:03:31"
+        "update_date": "2020-11-10 06:59:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492103&idx=5&sn=03ab9f908ec1b294664b67e5796101c0",
@@ -5756,11 +5756,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247539193&idx=1&sn=daf87a66ad06c31f0738c3430b370ce4",
         "title": "金一南最新演讲：中国人不可不知的抗美援朝真相！",
+        "title_eng": "Jin Yinan's latest speech: The truth that Chinese people must know to resist US aggression and aid Korea!",
         "nickname": "演讲与人生",
         "created_at": "2020-11-09",
         "archive": "gh_e525ae7f03af_2020-11-09_2247539193_EP0aCNjHTS.y.tar.gz",
         "censored_date": "2020-11-10 06:07:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-09 09:22:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084907&idx=2&sn=11bd800d166fa1078145538d9eb9f309",
+        "title": "“敷面膜”这个美容谎言，为什么女人却心甘情愿被骗？",
+        "nickname": "掌心大同",
+        "created_at": "2020-11-07",
+        "archive": "gh_69043f48c02f_2020-11-07_2650084907_QW6ET0cjoC.y.tar.gz",
+        "censored_date": "2020-11-10 07:03:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 10:45:30"
     }
 ]
