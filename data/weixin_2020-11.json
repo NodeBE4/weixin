@@ -5811,6 +5811,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649808218&idx=5&sn=3782816af19d9343e681946e350117a1",
         "title": "硕博士强烈建议掌握的高效论文工具",
+        "title_eng": "Efficient thesis tools strongly recommended for masters and doctors",
         "nickname": "近现代史论",
         "created_at": "2020-11-08",
         "archive": "gh_ef9695b6d53c_2020-11-08_2649808218_tU5FKsy0oN.y.tar.gz",
@@ -5821,11 +5822,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247498825&idx=1&sn=1b5c33ab2d1b0ea754fd13659cf58215",
         "title": "6108亿！华为突然宣布，5G互联网下将诞生大批千万富翁...",
+        "title_eng": "610.8 billion! Huawei suddenly announced that a large number of multimillionaires will be born under the 5G Internet...",
         "nickname": "微思时代",
         "created_at": "2020-11-06",
         "archive": "gh_b28632ea9ab2_2020-11-06_2247498825_bBfhEsg87t.y.tar.gz",
         "censored_date": "2020-11-10 14:52:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-09 06:03:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247486845&idx=2&sn=3822f67b48e53a149f07768e522a19ee",
+        "title": "“人养玉三年，玉养人一生”是有道理的!",
+        "title_eng": "People raise jade for three years, and jade raises one's life is reasonable!",
+        "nickname": "阅天下百事",
+        "created_at": "2020-11-07",
+        "archive": "gh_8508f826af1e_2020-11-07_2247486845_ef8mEF0zrg.y.tar.gz",
+        "censored_date": "2020-11-10 15:21:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 06:50:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4MjMwNjUxMA==&mid=2247502822&idx=2&sn=f3739260ea6162cca3db0b612c542b4c",
+        "title": "70岁外国大妈画国画，是惊艳还是惊悚？​",
+        "nickname": "永远的少数派",
+        "created_at": "2020-11-08",
+        "archive": "gh_91d203bd2a8d_2020-11-08_2247502822_ASNsu3wVyt.y.tar.gz",
+        "censored_date": "2020-11-10 15:48:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 07:40:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502706&idx=3&sn=b75632cf63268a422c35218412f9a2da",
+        "title": "如何不浪费掉上班路上的时间？",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-07",
+        "archive": "gh_b67f4a684fd9_2020-11-07_2247502706_OW1ThLv9Zs.y.tar.gz",
+        "censored_date": "2020-11-10 15:41:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-10 14:28:43"
     }
 ]
