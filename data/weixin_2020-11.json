@@ -6249,6 +6249,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658687872&idx=1&sn=6b32cbb355db94cb4b10b4aef8bd383d",
         "title": "一个“碰瓷户”，耗住好几个扶贫干部",
+        "title_eng": "A touch porcelain household consumes several poverty alleviation cadres",
         "nickname": "半月谈",
         "created_at": "2020-11-10",
         "archive": "gh_e3ae8ac3dd21_2020-11-10_2658687872_tmUQnyHBJ6.y.tar.gz",
@@ -6258,11 +6259,51 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTYyODg3Mg==&mid=2247491415&idx=1&sn=d1c1a102206b8ce2c7fcc33e5e6ee801",
         "title": "再.见了，马.云！！！",
+        "title_eng": "Goodbye, Ma Yun! ! !",
         "nickname": "华人蓝天",
         "created_at": "2020-11-09",
         "archive": "gh_b8daf85c7cd9_2020-11-09_2247491415_YTy3iaL6ED.y.tar.gz",
         "censored_date": "2020-11-11 21:49:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-10 20:14:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652712065&idx=2&sn=5e0fd8f26dd61b0a99ae7868dc4e98f2",
+        "title": "21天效应，每个人都该学起来",
+        "nickname": "8号风曝",
+        "created_at": "2020-11-08",
+        "archive": "gh_a0404706a1d9_2020-11-08_2652712065_T0Uj1piXEt.y.tar.gz",
+        "censored_date": "2020-11-11 22:44:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-10 21:37:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652712145&idx=2&sn=734fc108b7152c1e7d5064d4cbacb224",
+        "title": "闻香识女人，这话一点也不假",
+        "nickname": "8号风曝",
+        "created_at": "2020-11-09",
+        "archive": "gh_a0404706a1d9_2020-11-09_2652712145_aLp0X4VDKq.y.tar.gz",
+        "censored_date": "2020-11-11 22:45:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-09 14:33:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjEwNjI0NzM4MQ==&mid=2670312482&idx=3&sn=1758aa7cde3f98fc31f2f5b08f864016",
+        "title": "小霸王破产迷雾：一场游戏一场梦",
+        "nickname": "南方日报",
+        "created_at": "2020-11-09",
+        "archive": "wxid_2439084392221_2020-11-09_2670312482_CRPwrQNEFj.y.tar.gz",
+        "censored_date": "2020-11-11 23:14:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODA4MjUyMA==&mid=2247510852&idx=2&sn=0d14c9b716e0e111d65ceb8e2a36a68b",
+        "title": "刀郎怎么了？",
+        "nickname": "海豚学社",
+        "created_at": "2020-11-09",
+        "archive": "gh_3c3083a27d8e_2020-11-09_2247510852_c53KaOs7Di.y.tar.gz",
+        "censored_date": "2020-11-11 22:33:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-10 21:26:23"
     }
 ]
