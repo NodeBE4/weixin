@@ -6116,6 +6116,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTkzMTYwMw==&mid=2751381598&idx=1&sn=86fff3f65a5933984b43ccfcd9c199fa",
         "title": "@葫芦岛人免费！包邮！！每人50只口罩，更多福利送不停！",
+        "title_eng": "@胡芦岛人 For free! Free shipping! ! 50 masks per person, more benefits will not stop!",
         "nickname": "葫芦岛都市网",
         "created_at": "2020-11-10",
         "archive": "gh_8dd3af29215d_2020-11-10_2751381598_6E0mgcnO4C.y.tar.gz",
@@ -6125,10 +6126,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247514542&idx=2&sn=7e781ce0f5fc4e257c8cddd0c8e0f2b0",
         "title": "突发! 宾州选举人票已从拜登得票总数中拿掉。拜登目前只有259票！",
+        "title_eng": "Suddenly! Pennsylvania's electoral votes have been removed from Biden's total votes. Biden currently has only 259 votes!",
         "nickname": "魏雅华",
         "created_at": "2020-11-10",
         "archive": "gh_d965d8fa0c72_2020-11-10_2247514542_Ip1Lfmws0F.y.tar.gz",
         "censored_date": "2020-11-11 15:50:16",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTYyODMwOTMwMQ==&mid=2650364369&idx=1&sn=e6c0355e4cc955efeb77db70426c0656",
+        "title": "【外国网红解码幸福中国】老外网红在北京当了一天桃农，评价就两字",
+        "title_eng": "[Foreign Internet celebrities decode Happiness China] Foreign Internet celebrities have been a peach farmer in Beijing for a day, and the evaluation is only two words",
+        "nickname": "国际在线",
+        "created_at": "2020-11-11",
+        "archive": "wxid_8784487845511_2020-11-11_2650364369_HveOAEcNqz.y.tar.gz",
+        "censored_date": "2020-11-11 16:24:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTUzMDQzNjMwMQ==&mid=2652847580&idx=1&sn=b29b12ac3aa6bb408bc000da64987dfb",
+        "title": "习近平的四次浦东行",
+        "nickname": "新民周刊",
+        "created_at": "2020-11-11",
+        "archive": "wxid_8889478894411_2020-11-11_2652847580_R9Ml37exwB.y.tar.gz",
+        "censored_date": "2020-11-11 17:18:33",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
