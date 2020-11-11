@@ -6161,7 +6161,8 @@
         "created_at": "2020-11-10",
         "archive": "gh_c225404568b3_2020-11-10_2247507931_KwGIjhalz6.y.tar.gz",
         "censored_date": "2020-11-11 17:37:44",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-12 00:43:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651344510&idx=3&sn=9fa01bb1b368ad706d944617138fff3a",
@@ -6328,6 +6329,15 @@
         "created_at": "2020-11-08",
         "archive": "gh_1aecabdf0add_2020-11-08_2247502723_bsyIgG5ZVc.y.tar.gz",
         "censored_date": "2020-11-11 23:47:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653242086&idx=2&sn=ed495dbcd47a7e60460e0eb29d7ab7a5",
+        "title": "咦， 咋都这么认真？",
+        "nickname": "内蒙古日报",
+        "created_at": "2020-11-09",
+        "archive": "gh_b7047f0cbe74_2020-11-09_2653242086_0OTUiA14PK.y.tar.gz",
+        "censored_date": "2020-11-12 00:54:39",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
