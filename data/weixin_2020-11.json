@@ -6156,6 +6156,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0OTcwMTc4Ng==&mid=2247507931&idx=4&sn=92862fb05ae488b7dc2b236c379e7610",
         "title": "美国总统大选，中国男人的春晚。",
+        "title_eng": "The US presidential election, the Spring Festival Gala for Chinese men.",
         "nickname": "今日防务观察",
         "created_at": "2020-11-10",
         "archive": "gh_c225404568b3_2020-11-10_2247507931_KwGIjhalz6.y.tar.gz",
@@ -6185,6 +6186,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654807068&idx=1&sn=14c91991aa0b131515ff4b817a0ab052",
         "title": "华为拟千亿出售荣耀手机业务？",
+        "title_eng": "Huawei plans to sell its Honor mobile phone business for 100 billion yuan?",
         "nickname": "观察者网",
         "created_at": "2020-11-10",
         "archive": "gh_5c9e0938601d_2020-11-10_2654807068_8XvEqFjr92.y.tar.gz",
@@ -6194,6 +6196,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTA3NDM1MzUwMQ==&mid=2652010086&idx=4&sn=901072d7d96e8a9be08195911b308865",
         "title": "快手背后那只手",
+        "title_eng": "The hand behind Kuaishou",
         "nickname": "i黑马",
         "created_at": "2020-11-11",
         "archive": "wxid_2965349653612_2020-11-11_2652010086_hlG0fV3PX1.y.tar.gz",
@@ -6203,6 +6206,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MTk2NTg3Mg==&mid=2247508691&idx=1&sn=8fa6b30ab1a29c48ed74fa0b9c452b68",
         "title": "炫富高级模式“凡尔赛文学”是怎么炼成的",
+        "title_eng": "How was the advanced mode of showing off wealth Versailles Literature made",
         "nickname": "骚客文艺",
         "created_at": "2020-11-10",
         "archive": "gh_64365b45f489_2020-11-10_2247508691_pzLxy1Z0Fi.y.tar.gz",
@@ -6212,11 +6216,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTk5ODI4NQ==&mid=2655344159&idx=1&sn=4cc3d79995037621570b2b4213592e27",
         "title": "紧急提醒！【蚕丝被被媒体曝光了】长期盖蚕丝被的夫妻发生了惊人变化...没看的赶紧看看吧",
+        "title_eng": "Urgent reminder! [Silk quilt was exposed by the media] Surprising changes have taken place in the couples who have covered silk quilts for a long time.",
         "nickname": "您懂的",
         "created_at": "2020-11-10",
         "archive": "gh_8f7ba5d0b6e2_2020-11-10_2655344159_DgdsyauxPk.y.tar.gz",
         "censored_date": "2020-11-11 18:15:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-11 07:22:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488772&idx=2&sn=257189e30a420bcc72054ee042af4e77",
+        "title": "“老公工资两万，我全职在家月入五万”：再好的婚姻，都要谈钱",
+        "nickname": "世纪观察",
+        "created_at": "2020-11-10",
+        "archive": "gh_26762a56c129_2020-11-10_2247488772_k2chQ3G1xw.y.tar.gz",
+        "censored_date": "2020-11-11 19:10:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-11 08:29:04"
     }
 ]
