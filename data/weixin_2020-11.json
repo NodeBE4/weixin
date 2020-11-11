@@ -5811,7 +5811,7 @@
         "archive": "gh_411fab3b8525_2020-11-10_2649530622_i0qPL5XtjJ.y.tar.gz",
         "censored_date": "2020-11-10 14:03:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-11 16:15:18"
+        "update_date": "2020-11-11 23:27:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649808218&idx=5&sn=3782816af19d9343e681946e350117a1",
@@ -5866,7 +5866,7 @@
         "archive": "gh_b67f4a684fd9_2020-11-07_2247502706_OW1ThLv9Zs.y.tar.gz",
         "censored_date": "2020-11-10 15:41:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-11 16:13:15"
+        "update_date": "2020-11-11 23:27:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651392645&idx=1&sn=fd9fff6c00d82bacd0b08f547099f693",
@@ -6270,6 +6270,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652712065&idx=2&sn=5e0fd8f26dd61b0a99ae7868dc4e98f2",
         "title": "21天效应，每个人都该学起来",
+        "title_eng": "21-day effect, everyone should learn",
         "nickname": "8号风曝",
         "created_at": "2020-11-08",
         "archive": "gh_a0404706a1d9_2020-11-08_2652712065_T0Uj1piXEt.y.tar.gz",
@@ -6280,6 +6281,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652712145&idx=2&sn=734fc108b7152c1e7d5064d4cbacb224",
         "title": "闻香识女人，这话一点也不假",
+        "title_eng": "Smell the fragrance to know a woman, it’s not fake at all",
         "nickname": "8号风曝",
         "created_at": "2020-11-09",
         "archive": "gh_a0404706a1d9_2020-11-09_2652712145_aLp0X4VDKq.y.tar.gz",
@@ -6290,6 +6292,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjEwNjI0NzM4MQ==&mid=2670312482&idx=3&sn=1758aa7cde3f98fc31f2f5b08f864016",
         "title": "小霸王破产迷雾：一场游戏一场梦",
+        "title_eng": "Cassidy's bankruptcy fog: a game and a dream",
         "nickname": "南方日报",
         "created_at": "2020-11-09",
         "archive": "wxid_2439084392221_2020-11-09_2670312482_CRPwrQNEFj.y.tar.gz",
@@ -6299,11 +6302,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODA4MjUyMA==&mid=2247510852&idx=2&sn=0d14c9b716e0e111d65ceb8e2a36a68b",
         "title": "刀郎怎么了？",
+        "title_eng": "What happened to Daolang?",
         "nickname": "海豚学社",
         "created_at": "2020-11-09",
         "archive": "gh_3c3083a27d8e_2020-11-09_2247510852_c53KaOs7Di.y.tar.gz",
         "censored_date": "2020-11-11 22:33:34",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-10 21:26:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503021&idx=2&sn=5681f30e51fa980521b1ab08b9104822",
+        "title": "冷眼：大危局......",
+        "title_eng": "Cold eyes: the big crisis...",
+        "nickname": "海外财经",
+        "created_at": "2020-11-09",
+        "archive": "gh_8f29429f71d7_2020-11-09_2247503021_xoHRLfcQwd.y.tar.gz",
+        "censored_date": "2020-11-11 23:45:25",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502723&idx=1&sn=1839e372e884b8f66f85548b77d79bd7",
+        "title": "再不上就晚了！",
+        "title_eng": "It will be too late!",
+        "nickname": "环球冷眼",
+        "created_at": "2020-11-08",
+        "archive": "gh_1aecabdf0add_2020-11-08_2247502723_bsyIgG5ZVc.y.tar.gz",
+        "censored_date": "2020-11-11 23:47:50",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
