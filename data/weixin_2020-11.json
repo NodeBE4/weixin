@@ -6375,6 +6375,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjA5NDI3Ng==&mid=2690726271&idx=1&sn=8a5bbf42afa7fda47210538a60dd3201",
         "title": "漳平市领导开展第七次全国人口普查登记工作调研",
+        "title_eng": "Zhangping City Leaders Launched Investigation of the Seventh National Census Registration Work",
         "nickname": "漳平融媒体",
         "created_at": "2020-11-10",
         "archive": "gh_57533e17ec66_2020-11-10_2690726271_rfK8zSbdcm.y.tar.gz",
@@ -6394,6 +6395,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDExMjUwOA==&mid=2649964479&idx=2&sn=4433bd2295b95102c66584c28f6903db",
         "title": "终终终于来了！！｜新经典招聘",
+        "title_eng": "It's finally here! ! ｜New Classic Recruitment",
         "nickname": "做書",
         "created_at": "2020-11-10",
         "archive": "gh_965149974efc_2020-11-10_2649964479_eG9BAVoDl7.y.tar.gz",
@@ -6403,11 +6405,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTY0Nzg4MQ==&mid=2247490712&idx=1&sn=e4b9e76f77e1c8ba6a90c47ada86b30d",
         "title": "放心吧，谁舞弊，谁坐牢",
+        "title_eng": "Don't worry, who cheats, who goes to jail",
         "nickname": "政经观潮",
         "created_at": "2020-11-10",
         "archive": "gh_6464e9dc9910_2020-11-10_2247490712_ChAkn5XsEB.y.tar.gz",
         "censored_date": "2020-11-12 04:04:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-10 13:44:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjAxMzE5OTMyMQ==&mid=2654129850&idx=1&sn=340df49e0ae159e43292465c5693f764",
+        "title": "@大连人！足不出户就可以摆摊创业，还有津贴拿！这福利领不领？",
+        "title_eng": "@Dalian people! You can set up a business stall without leaving your house, and get an allowance! Can you get this benefit?",
+        "nickname": "半岛晨报",
+        "created_at": "2020-11-10",
+        "archive": "wxid_4942649426112_2020-11-10_2654129850_BA8aH05Nol.y.tar.gz",
+        "censored_date": "2020-11-12 04:27:27",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
