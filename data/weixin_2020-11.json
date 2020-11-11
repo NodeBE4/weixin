@@ -6334,10 +6334,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653242086&idx=2&sn=ed495dbcd47a7e60460e0eb29d7ab7a5",
         "title": "咦， 咋都这么认真？",
+        "title_eng": "Huh, why are you so serious?",
         "nickname": "内蒙古日报",
         "created_at": "2020-11-09",
         "archive": "gh_b7047f0cbe74_2020-11-09_2653242086_0OTUiA14PK.y.tar.gz",
         "censored_date": "2020-11-12 00:54:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651392715&idx=1&sn=853fedc0462c1acc00dd2f5b052f9f67",
+        "title": "习近平：科学技术应该造福全人类",
+        "nickname": "横山宣传",
+        "created_at": "2020-11-10",
+        "archive": "gh_2f772f88268b_2020-11-10_2651392715_RMQC3kgYsw.y.tar.gz",
+        "censored_date": "2020-11-12 02:10:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
