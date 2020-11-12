@@ -6202,7 +6202,7 @@
         "archive": "gh_5c9e0938601d_2020-11-10_2654807068_8XvEqFjr92.y.tar.gz",
         "censored_date": "2020-11-11 17:32:39",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-12 18:54:27"
+        "update_date": "2020-11-13 01:19:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTA3NDM1MzUwMQ==&mid=2652010086&idx=4&sn=901072d7d96e8a9be08195911b308865",
@@ -6213,7 +6213,7 @@
         "archive": "wxid_2965349653612_2020-11-11_2652010086_hlG0fV3PX1.y.tar.gz",
         "censored_date": "2020-11-11 17:35:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-12 18:59:37"
+        "update_date": "2020-11-13 01:20:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MTk2NTg3Mg==&mid=2247508691&idx=1&sn=8fa6b30ab1a29c48ed74fa0b9c452b68",
@@ -6744,6 +6744,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247522898&idx=6&sn=87b585d95645ae53ceeb35543c16754b",
         "title": "每日书讯",
+        "title_eng": "Daily Book News",
         "nickname": "叙拉古之惑",
         "created_at": "2020-11-10",
         "archive": "gh_c9984a3987c1_2020-11-10_2247522898_75h2s8odUl.y.tar.gz",
@@ -6754,6 +6755,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODUyNjIzMw==&mid=2247498859&idx=5&sn=732022a45ec7b080a27a557dd16f0c6a",
         "title": "女律师发抖音被司法局处罚：以不正当手段承揽业务！",
+        "title_eng": "Female lawyer was punished by the Bureau of Justice for making Douyin: undertaking business by improper means!",
         "nickname": "最高办案指南",
         "created_at": "2020-11-11",
         "archive": "gh_2bb3ecda50f1_2020-11-11_2247498859_4n0PRkHArY.y.tar.gz",
@@ -6763,11 +6765,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650361042&idx=1&sn=d9e00ec9738c082d925d8e56c3520cea",
         "title": "小霸王，再见！",
+        "title_eng": "Goodbye, Xiaobawang!",
         "nickname": "网易科技",
         "created_at": "2020-11-10",
         "archive": "gh_19363204056b_2020-11-10_2650361042_jR3clYwhXv.y.tar.gz",
         "censored_date": "2020-11-13 01:02:45",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-12 04:12:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247502469&idx=4&sn=f02428a8922723122a1d01e10a53b0c8",
+        "title": "美国总务署长拒绝拜登进行权力交接 美司法部长授权对投票违规进行调查",
+        "nickname": "难得视界",
+        "created_at": "2020-11-10",
+        "archive": "gh_1c6cefeca9ab_2020-11-10_2247502469_ptFLlOESvm.y.tar.gz",
+        "censored_date": "2020-11-13 01:58:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502988&idx=1&sn=dbe355bc9ed14cde325141931de17a54",
+        "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "nickname": "环球冷眼",
+        "created_at": "2020-11-11",
+        "archive": "gh_1aecabdf0add_2020-11-11_2247502988_WcCGRFoUD7.y.tar.gz",
+        "censored_date": "2020-11-13 02:10:49",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247533295&idx=4&sn=d7f43e085d2ff44db32f449fdd139483",
+        "title": "速看！吉安市人民检察院通报公益诉讼成绩单！",
+        "nickname": "吉安发布",
+        "created_at": "2020-11-11",
+        "archive": "gh_dc5fb6fdb9c6_2020-11-11_2247533295_DP493a5jei.y.tar.gz",
+        "censored_date": "2020-11-13 01:37:05",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
