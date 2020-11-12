@@ -6505,6 +6505,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247486859&idx=1&sn=14b99b501d560341280a223078d7d114",
         "title": "马云已放话，人类有了它，将能活到200岁",
+        "title_eng": "Ma Yun has already said that human beings will live to 200 years old with it",
         "nickname": "阅天下百事",
         "created_at": "2020-11-11",
         "archive": "gh_8508f826af1e_2020-11-11_2247486859_2rPoBZI9eK.y.tar.gz",
@@ -6515,11 +6516,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650434869&idx=1&sn=a62c84d8ecd2e97872d0b35d697913ed",
         "title": "@南昌人！足不出户就可以摆摊创业，还有津贴拿！这福利领不领？",
+        "title_eng": "@南昌人! You can set up a business stall without leaving your house, and get an allowance! Can you get this benefit?",
         "nickname": "江南都市报",
         "created_at": "2020-11-11",
         "archive": "gh_b62058001651_2020-11-11_2650434869_6KNMq48Trs.y.tar.gz",
         "censored_date": "2020-11-12 13:05:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-11 13:53:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5OTQyMDgyOQ==&mid=2652599472&idx=2&sn=eae3ab4256e76cffa173806f2af120ce",
+        "title": "今日聚焦：惊！华为剥离“荣耀”！断臂求生？还是……",
+        "nickname": "冯站长之家",
+        "created_at": "2020-11-12",
+        "archive": "gh_ba6105d7c051_2020-11-12_2652599472_ZScD3iYQwA.y.tar.gz",
+        "censored_date": "2020-11-12 13:58:33",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-12 09:37:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk2NTAyNA==&mid=2650671749&idx=1&sn=485a8058e97559b1818b5eddbfb9d6b6",
+        "title": "人民日报、新华社老社长履新全国人大",
+        "title_eng": "The old president of People's Daily and Xinhua News Agency serves as the new National People's Congress",
+        "nickname": "观媒智库",
+        "created_at": "2020-11-12",
+        "archive": "gh_c695be0e45ae_2020-11-12_2650671749_enRKES4tP1.y.tar.gz",
+        "censored_date": "2020-11-12 13:25:49",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
