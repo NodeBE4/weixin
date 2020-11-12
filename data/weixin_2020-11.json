@@ -6223,7 +6223,8 @@
         "created_at": "2020-11-10",
         "archive": "gh_64365b45f489_2020-11-10_2247508691_pzLxy1Z0Fi.y.tar.gz",
         "censored_date": "2020-11-11 17:56:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-12 19:31:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTk5ODI4NQ==&mid=2655344159&idx=1&sn=4cc3d79995037621570b2b4213592e27",
@@ -6519,7 +6520,7 @@
         "archive": "gh_8508f826af1e_2020-11-11_2247486859_2rPoBZI9eK.y.tar.gz",
         "censored_date": "2020-11-12 12:41:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-11 14:36:11"
+        "update_date": "2020-11-12 20:17:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650434869&idx=1&sn=a62c84d8ecd2e97872d0b35d697913ed",
@@ -6607,6 +6608,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804606&idx=1&sn=1d06f597a8373234a73dcb5c84160c18",
         "title": "重新计票后拜登跌落270票，总统2日游或成为全世界笑柄",
+        "title_eng": "After recounting the votes, Biden dropped 270 votes, the president's 2-day tour may become the laughing stock of the world",
         "nickname": "冷眼文摘",
         "created_at": "2020-11-11",
         "archive": "gh_0d903ba9d2be_2020-11-11_2651804606_yRc9m5d6Xa.y.tar.gz",
@@ -6616,10 +6618,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492121&idx=5&sn=1ebf40669c98b4c0d6734c62b6fa2a1b",
         "title": "老茶人:“煮水以银壶为贵”,下一句才是精髓,却鲜为人知!",
+        "title_eng": "Old tea person: Boiled water is expensive for silver pots. The next sentence is the essence, but it is little known!",
         "nickname": "历史微时刻",
         "created_at": "2020-11-11",
         "archive": "gh_31930173e92d_2020-11-11_2247492121_oOZlrWHxi0.y.tar.gz",
         "censored_date": "2020-11-12 18:30:30",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650442368&idx=2&sn=94b910962eb46d11a00e99262389d661",
+        "title": "泡脚你以为只是祛湿寒？看后令人震惊，要告诉全家人！",
+        "nickname": "南师国学堂",
+        "created_at": "2020-11-10",
+        "archive": "gh_45de294b7642_2020-11-10_2650442368_S7LGpUyZmh.y.tar.gz",
+        "censored_date": "2020-11-12 19:55:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-11 08:23:47"
     }
 ]
