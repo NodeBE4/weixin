@@ -6776,6 +6776,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247502469&idx=4&sn=f02428a8922723122a1d01e10a53b0c8",
         "title": "美国总务署长拒绝拜登进行权力交接 美司法部长授权对投票违规进行调查",
+        "title_eng": "U.S. Director of General Services refuses Biden to transfer power, U.S. Attorney General authorizes investigation into voting violations",
         "nickname": "难得视界",
         "created_at": "2020-11-10",
         "archive": "gh_1c6cefeca9ab_2020-11-10_2247502469_ptFLlOESvm.y.tar.gz",
@@ -6785,6 +6786,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502988&idx=1&sn=dbe355bc9ed14cde325141931de17a54",
         "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and a few thousand yuan, you don’t believe it!",
         "nickname": "环球冷眼",
         "created_at": "2020-11-11",
         "archive": "gh_1aecabdf0add_2020-11-11_2247502988_WcCGRFoUD7.y.tar.gz",
@@ -6794,10 +6796,49 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247533295&idx=4&sn=d7f43e085d2ff44db32f449fdd139483",
         "title": "速看！吉安市人民检察院通报公益诉讼成绩单！",
+        "title_eng": "Quick look! Ji'an People's Procuratorate notified the public interest litigation report card!",
         "nickname": "吉安发布",
         "created_at": "2020-11-11",
         "archive": "gh_dc5fb6fdb9c6_2020-11-11_2247533295_DP493a5jei.y.tar.gz",
         "censored_date": "2020-11-13 01:37:05",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTgzMTE5Ng==&mid=2651248270&idx=4&sn=c921d60ad50133efbd68b61ca52e1547",
+        "title": "拜登的中国政策班底，都有哪些人？",
+        "nickname": "陆家嘴制高点",
+        "created_at": "2020-11-11",
+        "archive": "gh_49a4d3be672d_2020-11-11_2651248270_dfGy90kB5b.y.tar.gz",
+        "censored_date": "2020-11-13 02:35:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTM3MjM5Mg==&mid=2652367449&idx=1&sn=ec6533255f95af46436442c142612202",
+        "title": "2020中国公益年会开启在即，邀您共赴“社会公益的绽放时代”",
+        "nickname": "公益时报",
+        "created_at": "2020-11-11",
+        "archive": "gh_54f41521fd04_2020-11-11_2652367449_w7GT5fXRu1.y.tar.gz",
+        "censored_date": "2020-11-13 02:56:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489443&idx=1&sn=efca3a885faa9266c30ec5d0124c5bb0",
+        "title": "昨天，沈志华教授也被举报了！",
+        "title_eng": "Yesterday, Professor Shen Zhihua was also reported!",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-10",
+        "archive": "gh_65f5271d2a21_2020-11-10_2247489443_zPbcAay5wT.y.tar.gz",
+        "censored_date": "2020-11-13 02:25:28",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650361154&idx=1&sn=157bbab7499e4fb6ffd5e85e6b4b3820",
+        "title": "张小龙大战张一鸣",
+        "nickname": "网易科技",
+        "created_at": "2020-11-11",
+        "archive": "gh_19363204056b_2020-11-11_2650361154_ljgauBQC9M.y.tar.gz",
+        "censored_date": "2020-11-13 03:03:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-11 16:57:48"
     }
 ]
