@@ -6806,6 +6806,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTgzMTE5Ng==&mid=2651248270&idx=4&sn=c921d60ad50133efbd68b61ca52e1547",
         "title": "拜登的中国政策班底，都有哪些人？",
+        "title_eng": "Who are Biden's China policy team?",
         "nickname": "陆家嘴制高点",
         "created_at": "2020-11-11",
         "archive": "gh_49a4d3be672d_2020-11-11_2651248270_dfGy90kB5b.y.tar.gz",
@@ -6815,6 +6816,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTM3MjM5Mg==&mid=2652367449&idx=1&sn=ec6533255f95af46436442c142612202",
         "title": "2020中国公益年会开启在即，邀您共赴“社会公益的绽放时代”",
+        "title_eng": "The 2020 China Philanthropy Annual Conference is about to start. We invite you to the Blooming Era of Social Philanthropy",
         "nickname": "公益时报",
         "created_at": "2020-11-11",
         "archive": "gh_54f41521fd04_2020-11-11_2652367449_w7GT5fXRu1.y.tar.gz",
@@ -6834,11 +6836,52 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650361154&idx=1&sn=157bbab7499e4fb6ffd5e85e6b4b3820",
         "title": "张小龙大战张一鸣",
+        "title_eng": "Zhang Xiaolong vs. Zhang Yiming",
         "nickname": "网易科技",
         "created_at": "2020-11-11",
         "archive": "gh_19363204056b_2020-11-11_2650361154_ljgauBQC9M.y.tar.gz",
         "censored_date": "2020-11-13 03:03:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-11 16:57:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651239538&idx=2&sn=d2ab53742f880d7c3907d037874b3da0",
+        "title": "徐州妈妈花了近3万住月子中心，新生儿却得这个病进了医院……",
+        "nickname": "无线徐州",
+        "created_at": "2020-11-11",
+        "archive": "gh_c495954e1d95_2020-11-11_2651239538_eiCqsDcBzn.y.tar.gz",
+        "censored_date": "2020-11-13 03:53:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650476045&idx=1&sn=3fe555dab2fd16d08286a9be23776fab",
+        "title": "华为剥离荣耀，神州数码牵头收购？或再造一个OPPO",
+        "title_eng": "Huawei divested its glory and Digital China led the acquisition? Or make another OPPO",
+        "nickname": "中国企业家杂志",
+        "created_at": "2020-11-11",
+        "archive": "wxid_3544675449412_2020-11-11_2650476045_seGJzpMvu0.y.tar.gz",
+        "censored_date": "2020-11-13 03:27:30",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502834&idx=1&sn=a3941dc68dc3d5d02bdcc5ba122516bf",
+        "title": "双十一的最大骗局",
+        "title_eng": "The biggest scam of Double Eleven",
+        "nickname": "国学文化优选",
+        "created_at": "2020-11-11",
+        "archive": "gh_b67f4a684fd9_2020-11-11_2247502834_xnLZCRB0Sp.y.tar.gz",
+        "censored_date": "2020-11-13 03:21:04",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-11 09:46:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMzE5NDM5Nw==&mid=2453478378&idx=1&sn=d028d9f97cebf1b36924f6f0774d3b5c",
+        "title": "经济学家正本清源：马云不是垄断，国有银行才是垄断！",
+        "title_eng": "Economists are clearing the source: Jack Ma is not a monopoly, but state-owned banks are a monopoly!",
+        "nickname": "千贤投资",
+        "created_at": "2020-11-11",
+        "archive": "gh_25a5c3357f6d_2020-11-11_2453478378_ti8BrCJWTM.y.tar.gz",
+        "censored_date": "2020-11-13 03:23:26",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
