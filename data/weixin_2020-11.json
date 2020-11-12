@@ -6080,7 +6080,8 @@
         "created_at": "2020-11-10",
         "archive": "gh_28a27f6c0472_2020-11-10_2247486936_LHrxPifWmv.y.tar.gz",
         "censored_date": "2020-11-11 09:40:24",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-12 12:15:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODUxNTA4NA==&mid=2247509394&idx=3&sn=0c8c0e6d9dc043690c036d1446dcb58a",
@@ -6091,7 +6092,7 @@
         "archive": "gh_b1dc53661818_2020-11-10_2247509394_jrVR3bpaJ0.y.tar.gz",
         "censored_date": "2020-11-11 09:49:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-10 14:44:42"
+        "update_date": "2020-11-12 12:15:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362906&idx=5&sn=7e03b9fbae79070f00cbae523a5c60bd",
@@ -6102,7 +6103,7 @@
         "archive": "gh_42435e819eef_2020-11-09_2650362906_jh0IJVO128.y.tar.gz",
         "censored_date": "2020-11-11 10:01:09",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-10 12:07:52"
+        "update_date": "2020-11-12 12:14:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651857281&idx=4&sn=e158ff4923c173629fe18cf19cd692e9",
@@ -6471,11 +6472,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650489448&idx=1&sn=1ac1ca6ff4cad95719c5c06041fe6d5a",
         "title": "荣耀独立后管理层去向：万飙或任董事长，赵明或任CEO",
+        "title_eng": "Glory's management after independence: Wan Biao or chairman, Zhao Ming or CEO",
         "nickname": "界面新闻",
         "created_at": "2020-11-11",
         "archive": "gh_93119cc8064a_2020-11-11_2650489448_lBoAFnXJaT.y.tar.gz",
         "censored_date": "2020-11-12 10:59:05",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-11-11 13:08:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652599207&idx=2&sn=b125f6e341d0b2806b49f0d1456332cf",
+        "title": "荣耀完成使命，华为断臂求生？",
+        "nickname": "吴晓波频道",
+        "created_at": "2020-11-11",
+        "archive": "gh_b09cb640f644_2020-11-11_2652599207_HV1eBAnIZS.y.tar.gz",
+        "censored_date": "2020-11-12 11:42:57",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-11 09:51:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362915&idx=5&sn=f60cea21fbbf5639fb178f0bb11b1af5",
+        "title": "颈椎、腰椎肿痛反反复复，试试这个新方法!",
+        "title_eng": "Cervical and lumbar swelling and pain repeatedly, try this new method!",
+        "nickname": "乐诚坊",
+        "created_at": "2020-11-11",
+        "archive": "gh_42435e819eef_2020-11-11_2650362915_iOla8c3FE7.y.tar.gz",
+        "censored_date": "2020-11-12 11:22:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-11 12:01:10"
     }
 ]
