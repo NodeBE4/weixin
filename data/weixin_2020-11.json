@@ -7168,6 +7168,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTA4NTYxMA==&mid=2247525931&idx=5&sn=65f6438abdec23d8cf87d4cd6c683104",
         "title": "建行行长刘桂平，出任央行副行长",
+        "title_eng": "Liu Guiping, President of China Construction Bank, served as Deputy Governor of the Central Bank",
         "nickname": "政事儿",
         "created_at": "2020-11-11",
         "archive": "gh_3f3b4ee5d724_2020-11-11_2247525931_OaueWmZDpl.y.tar.gz",
@@ -7177,6 +7178,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTgzMTE5Ng==&mid=2651248270&idx=3&sn=ce8065421771c347c9aaee03b17f4136",
         "title": "警报再次拉响，国务院出手了！",
+        "title_eng": "The alarm sounded again, and the State Council took action!",
         "nickname": "陆家嘴制高点",
         "created_at": "2020-11-11",
         "archive": "gh_49a4d3be672d_2020-11-11_2651248270_LO0h7EXIbH.y.tar.gz",
@@ -7197,6 +7199,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247508727&idx=4&sn=afc9fbbca5e1635ee7053d329279339d",
         "title": "要反转？",
+        "title_eng": "Want to reverse?",
         "nickname": "天狐观察",
         "created_at": "2020-11-11",
         "archive": "gh_fd5f7267524b_2020-11-11_2247508727_JBWNrlPMF6.y.tar.gz",
@@ -7206,6 +7209,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247502988&idx=4&sn=eae9a7cf95ab1a20f932a255a48716cf",
         "title": "房东，你可长点心吧！",
+        "title_eng": "Landlord, can you have a snack!",
         "nickname": "环球冷眼",
         "created_at": "2020-11-11",
         "archive": "gh_1aecabdf0add_2020-11-11_2247502988_LUa79Wmh1V.y.tar.gz",
@@ -7242,5 +7246,15 @@
         "censored_date": "2020-11-14 00:15:26",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-13 08:26:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDAxNzA2NA==&mid=2654913352&idx=1&sn=8f70224c137b12d841a36f882d4f7431",
+        "title": "央视曝光&quot;皮肤鸦片&quot;，成瘾只需两周！85后小伙呼吁：千万别做被面膜毁掉的女人",
+        "nickname": "德国优才计划",
+        "created_at": "2020-11-11",
+        "archive": "gh_e4a86c912099_2020-11-11_2654913352_nOhiYKZruS.y.tar.gz",
+        "censored_date": "2020-11-14 00:50:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 07:16:34"
     }
 ]
