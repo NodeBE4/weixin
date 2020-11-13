@@ -6147,7 +6147,7 @@
         "archive": "wxid_8784487845511_2020-11-11_2650364369_HveOAEcNqz.y.tar.gz",
         "censored_date": "2020-11-11 16:24:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-12 17:25:34"
+        "update_date": "2020-11-13 16:48:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTUzMDQzNjMwMQ==&mid=2652847580&idx=1&sn=b29b12ac3aa6bb408bc000da64987dfb",
@@ -6566,7 +6566,7 @@
         "archive": "gh_151f5c3d488c_2020-11-12_2650105127_Tno3us6mRh.y.tar.gz",
         "censored_date": "2020-11-12 15:36:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-12 17:29:44"
+        "update_date": "2020-11-13 16:58:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650489513&idx=2&sn=52644572e50947a7a4143af608ecdc76",
@@ -6598,7 +6598,8 @@
         "created_at": "2020-11-11",
         "archive": "gh_541a7f1cf2c2_2020-11-11_2651112196_qLFjTNUGdx.y.tar.gz",
         "censored_date": "2020-11-12 17:31:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 16:59:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650651498&idx=1&sn=7c235f56f087354479ef6f4978831654",
@@ -7007,6 +7008,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084932&idx=2&sn=f4a1d2d7f3eab442da48b6b425d50685",
         "title": "“敷面膜”这个天大的美容谎言，为什么女人却心甘情愿被骗？",
+        "title_eng": "Applying a mask is such a big beauty lie, why are women willing to be deceived?",
         "nickname": "掌心大同",
         "created_at": "2020-11-11",
         "archive": "gh_69043f48c02f_2020-11-11_2650084932_SKhoUi9x8c.y.tar.gz",
@@ -7016,10 +7018,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDA2MDQwOA==&mid=2651018889&idx=1&sn=8990e08085ba7e2562647e585b6cf2b2",
         "title": "2020年藏传佛教教义阐释工作研讨会在京召开",
+        "title_eng": "2020 Seminar on Interpretation of Tibetan Buddhism Doctrines Held in Beijing",
         "nickname": "中国西藏网",
         "created_at": "2020-11-12",
         "archive": "gh_f078414c9e64_2020-11-12_2651018889_uRM8svb91c.y.tar.gz",
         "censored_date": "2020-11-13 16:19:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652028051&idx=6&sn=33fa3ef0523b4ddc720c45d7b85438c1",
+        "title": "拜登入驻白宫可谓十拿九稳，当大局已定，特朗普将会选择如何离场？",
+        "nickname": "米尔军事网",
+        "created_at": "2020-11-11",
+        "archive": "gh_e06f5843f7ac_2020-11-11_2652028051_CErL9e01Pb.y.tar.gz",
+        "censored_date": "2020-11-13 16:43:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
