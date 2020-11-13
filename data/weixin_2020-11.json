@@ -6876,7 +6876,7 @@
         "archive": "gh_b67f4a684fd9_2020-11-11_2247502834_xnLZCRB0Sp.y.tar.gz",
         "censored_date": "2020-11-13 03:21:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-11 09:46:34"
+        "update_date": "2020-11-13 21:26:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMzE5NDM5Nw==&mid=2453478378&idx=1&sn=d028d9f97cebf1b36924f6f0774d3b5c",
@@ -6929,7 +6929,8 @@
         "created_at": "2020-11-11",
         "archive": "gh_c7c17772d277_2020-11-11_2651227435_70qIGups08.y.tar.gz",
         "censored_date": "2020-11-13 04:28:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 22:02:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247505992&idx=1&sn=9942f6082e31e717c76194839a4fddb4",
@@ -7081,6 +7082,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651767074&idx=2&sn=bd5e9a788210b14f378c24fd0f2e19ac",
         "title": "【澎湃好物】一激动，我把一座故宫买回了家！",
+        "title_eng": "[Surging Good Things] I got excited, I bought a Forbidden City back home!",
         "nickname": "澎湃新闻",
         "created_at": "2020-11-11",
         "archive": "gh_d29e0d22a6f9_2020-11-11_2651767074_So69dl5kIu.y.tar.gz",
@@ -7090,6 +7092,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506058&idx=1&sn=e3628966458e3fb79406ec861ae8974e",
         "title": "大午医院看病记",
+        "title_eng": "Medical records of Dawu Hospital",
         "nickname": "遮眼看天",
         "created_at": "2020-11-12",
         "archive": "gh_b984621ff266_2020-11-12_2247506058_eIqTuvSMrw.y.tar.gz",
@@ -7100,11 +7103,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247516530&idx=1&sn=36ad079b59189680a25dc587100ede21",
         "title": "真正的人生，从五十岁开始",
+        "title_eng": "The real life starts at fifty",
         "nickname": "牧者讲道",
         "created_at": "2020-11-10",
         "archive": "gh_ab6c4e04286d_2020-11-10_2247516530_njz8uVUOYf.y.tar.gz",
         "censored_date": "2020-11-13 21:14:25",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-13 03:04:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NDA1MTE4MQ==&mid=2655464333&idx=1&sn=33f13be0307a1ab161fb003716417286",
+        "title": "男人出轨，并不是女人的末日！",
+        "title_eng": "Men cheating is not the end of women!",
+        "nickname": "陈见说",
+        "created_at": "2020-11-13",
+        "archive": "gh_755256f47807_2020-11-13_2655464333_agdFmAY0zJ.y.tar.gz",
+        "censored_date": "2020-11-13 21:24:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 10:07:55"
     }
 ]
