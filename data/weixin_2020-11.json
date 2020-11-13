@@ -6489,7 +6489,7 @@
         "archive": "gh_93119cc8064a_2020-11-11_2650489448_lBoAFnXJaT.y.tar.gz",
         "censored_date": "2020-11-12 10:59:05",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-11 13:08:11"
+        "update_date": "2020-11-13 11:41:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2652599207&idx=2&sn=b125f6e341d0b2806b49f0d1456332cf",
@@ -6511,7 +6511,7 @@
         "archive": "gh_42435e819eef_2020-11-11_2650362915_iOla8c3FE7.y.tar.gz",
         "censored_date": "2020-11-12 11:22:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-11 12:01:10"
+        "update_date": "2020-11-13 11:42:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247486859&idx=1&sn=14b99b501d560341280a223078d7d114",
@@ -6952,11 +6952,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247513693&idx=1&sn=d4cc31d9899aaedecd79ed15aa744e5d",
         "title": "热水泡脚，养生还是害己？看完这篇文章，你就明白了！",
+        "title_eng": "Soak your feet in hot water, is it good health or harmful to yourself? After reading this article, you will understand!",
         "nickname": "女律师札记",
         "created_at": "2020-11-12",
         "archive": "gh_06140cfad959_2020-11-12_2247513693_VAE6jW0ouk.y.tar.gz",
         "censored_date": "2020-11-13 11:18:14",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-12 14:24:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjAxMzE5OTMyMQ==&mid=2654130373&idx=2&sn=f25495759b66d06658e42878b080c7f4",
+        "title": "大连29岁研究生查出结肠癌，只因点了一段时间外卖？医生有话说...",
+        "nickname": "半岛晨报",
+        "created_at": "2020-11-12",
+        "archive": "wxid_4942649426112_2020-11-12_2654130373_5eF9sYxC0O.y.tar.gz",
+        "censored_date": "2020-11-13 11:58:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-12 14:56:35"
     }
 ]
