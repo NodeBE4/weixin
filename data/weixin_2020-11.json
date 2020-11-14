@@ -6951,7 +6951,8 @@
         "created_at": "2020-11-12",
         "archive": "gh_85d589687ef6_2020-11-12_2651243439_0ACmtuvDpR.y.tar.gz",
         "censored_date": "2020-11-13 08:07:51",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-14 14:06:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247513693&idx=1&sn=d4cc31d9899aaedecd79ed15aa744e5d",
@@ -7389,10 +7390,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650435657&idx=3&sn=41a0a2647329a2860376d9f7db6932a7",
         "title": "这地10个乡镇主要领导被约谈",
+        "title_eng": "The main leaders of 10 townships in this area were interviewed",
         "nickname": "江南都市报",
         "created_at": "2020-11-14",
         "archive": "gh_b62058001651_2020-11-14_2650435657_etXR4Fm3Lb.y.tar.gz",
         "censored_date": "2020-11-14 12:49:46",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247495653&idx=1&sn=0c16b1b17100250732c5055a94f10a43",
+        "title": "马云预言：中国正在进入下一个暴利行业，将造就大批量富翁，抓住机会就是抓住财遇....",
+        "title_eng": "Jack Ma predicted: China is entering the next lucrative industry, which will create a large number of rich people. To seize opportunities is to seize wealth...",
+        "nickname": "凭海观潮A",
+        "created_at": "2020-11-13",
+        "archive": "gh_728dda09b5fa_2020-11-13_2247495653_lXzEdgRas5.y.tar.gz",
+        "censored_date": "2020-11-14 13:19:59",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247550370&idx=7&sn=67a55765d8facd7f91db965274dc61e8",
+        "title": "25岁年轻人，同样面临职场危机",
+        "nickname": "浪潮工作室",
+        "created_at": "2020-11-13",
+        "archive": "gh_0199c7d26b97_2020-11-13_2247550370_TrNG2n89p1.y.tar.gz",
+        "censored_date": "2020-11-14 14:15:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NTMzMjExMw==&mid=2247497252&idx=1&sn=24cfcd82acd5d8e0c430b7fc8791f658",
+        "title": "升级版《走遍美国》78集，每天抽空看5分钟，英语水平赶超9成中国人！（内附资源）",
+        "nickname": "苍山夜语",
+        "created_at": "2020-11-13",
+        "archive": "gh_430799a6ef46_2020-11-13_2247497252_Kl9PkUfcNp.y.tar.gz",
+        "censored_date": "2020-11-14 14:17:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 13:21:43"
     }
 ]
