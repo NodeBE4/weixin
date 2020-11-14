@@ -6555,7 +6555,7 @@
         "archive": "gh_c695be0e45ae_2020-11-12_2650671749_enRKES4tP1.y.tar.gz",
         "censored_date": "2020-11-12 13:25:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-13 14:00:04"
+        "update_date": "2020-11-14 18:38:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDQ0NDQwMA==&mid=2650105127&idx=1&sn=92bebcb11d09dae9c6e1b5c07a6cef25",
@@ -6984,7 +6984,8 @@
         "created_at": "2020-11-13",
         "archive": "gh_63e439b69de5_2020-11-13_2651029433_KE2bZYASR6.y.tar.gz",
         "censored_date": "2020-11-13 13:33:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-14 18:59:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650489813&idx=3&sn=62f4ede40ccfb426649ff7e847c220e2",
@@ -7006,7 +7007,7 @@
         "archive": "gh_2ffdd6afb5d4_2020-11-12_2657170631_c9KuZEplUq.y.tar.gz",
         "censored_date": "2020-11-13 13:48:37",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-12 13:22:51"
+        "update_date": "2020-11-14 18:58:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084932&idx=2&sn=f4a1d2d7f3eab442da48b6b425d50685",
@@ -7549,11 +7550,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502971&idx=2&sn=8e4a18312e546b3349d6f3ec06220296",
         "title": "马云的至暗时刻",
+        "title_eng": "Jack Ma's darkest moment",
         "nickname": "国学文化优选",
         "created_at": "2020-11-13",
         "archive": "gh_b67f4a684fd9_2020-11-13_2247502971_OGmCMwHoYe.y.tar.gz",
         "censored_date": "2020-11-14 18:10:07",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-13 08:07:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247502638&idx=3&sn=83efe2d21e07a1307cdcb6dd5cc44af8",
+        "title": "红颜仕途",
+        "nickname": "难得视界",
+        "created_at": "2020-11-12",
+        "archive": "gh_1c6cefeca9ab_2020-11-12_2247502638_sd5tjH0xc6.y.tar.gz",
+        "censored_date": "2020-11-14 19:08:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
