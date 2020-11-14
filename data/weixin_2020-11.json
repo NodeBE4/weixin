@@ -7594,6 +7594,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247505949&idx=1&sn=161cf2796aac00ea2fda0c2c7e7a1745",
         "title": "刚刚，江华安被查！",
+        "title_eng": "Just now, Jiang Huaan was investigated!",
         "nickname": "法苑茶语",
         "created_at": "2020-11-14",
         "archive": "gh_bf54f24b2e87_2020-11-14_2247505949_OQy8ecPDtv.y.tar.gz",
@@ -7604,11 +7605,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTgzNzc1NQ==&mid=2247488171&idx=1&sn=ad680ec1948953cf7db4165b9cd3d366",
         "title": "如果有一天",
+        "title_eng": "If one day",
         "nickname": "真理规划局",
         "created_at": "2020-11-14",
         "archive": "gh_93523c0a552d_2020-11-14_2247488171_6PhBbWAiEs.y.tar.gz",
         "censored_date": "2020-11-14 22:12:21",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-11-14 12:29:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650910547&idx=1&sn=9dcd8e93fa81c1c75ebec55be2baceb0",
+        "title": "涉黑案件中的律师会见",
+        "nickname": "天下说法",
+        "created_at": "2020-11-14",
+        "archive": "gh_9d4eb92add23_2020-11-14_2650910547_802typjSC3.y.tar.gz",
+        "censored_date": "2020-11-14 22:41:19",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
