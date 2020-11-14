@@ -7357,6 +7357,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwMjg5Mg==&mid=2656974777&idx=2&sn=3295ded2fa99427cc5d79414dc479d08",
         "title": "重新计票后拜登跌落270票，总统2日游或成为全世界笑柄",
+        "title_eng": "After recounting the votes, Biden dropped 270 votes, the president's 2-day tour may become the laughing stock of the world",
         "nickname": "老刘的心灵鸡汤",
         "created_at": "2020-11-13",
         "archive": "gh_0bec3fbedf6b_2020-11-13_2656974777_KRVMnBI7TL.y.tar.gz",
@@ -7367,6 +7368,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTg0NDY1Mw==&mid=2653837785&idx=1&sn=db54e0e6b12f1286b6f6ac82fcf924f6",
         "title": "探访华为荣耀“新办公地”：安保力度加强",
+        "title_eng": "Visiting Huawei's Honor New Office: Security Strengthened",
         "nickname": "证券日报之声",
         "created_at": "2020-11-13",
         "archive": "gh_1a575253a9a1_2020-11-13_2653837785_Xstb4Epql6.y.tar.gz",
@@ -7377,10 +7379,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247502971&idx=1&sn=b0154b899037e145ce8c61a4715ef4b7",
         "title": "女性这个部位越黑，说明身体越脏，这个小伙教你怎么解决！",
+        "title_eng": "The darker the female part, the more dirty the body. This guy will teach you how to solve it!",
         "nickname": "国学文化优选",
         "created_at": "2020-11-13",
         "archive": "gh_b67f4a684fd9_2020-11-13_2247502971_KeY62msgiP.y.tar.gz",
         "censored_date": "2020-11-14 12:17:59",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650435657&idx=3&sn=41a0a2647329a2860376d9f7db6932a7",
+        "title": "这地10个乡镇主要领导被约谈",
+        "nickname": "江南都市报",
+        "created_at": "2020-11-14",
+        "archive": "gh_b62058001651_2020-11-14_2650435657_etXR4Fm3Lb.y.tar.gz",
+        "censored_date": "2020-11-14 12:49:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
