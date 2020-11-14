@@ -7703,6 +7703,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247503016&idx=2&sn=24687f266c23029ba1583446034f6038",
         "title": "接连炸出9宗新地王！这个强二线房价还要涨？",
+        "title_eng": "9 new land kings have been exploded one after another! Is this strong second-tier house price going to rise?",
         "nickname": "环球冷眼",
         "created_at": "2020-11-12",
         "archive": "gh_1aecabdf0add_2020-11-12_2247503016_VnIfjhrzDi.y.tar.gz",
@@ -7713,6 +7714,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247503016&idx=3&sn=1743091b67e8d95345d2d8a39c949ed9",
         "title": "“拜登时代”到来，但千万别高兴得太早！",
+        "title_eng": "The Biden Era is here, but don't be too happy!",
         "nickname": "环球冷眼",
         "created_at": "2020-11-12",
         "archive": "gh_1aecabdf0add_2020-11-12_2247503016_ByKZeJpdRV.y.tar.gz",
@@ -7722,11 +7724,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247503016&idx=5&sn=e46d335963ecbeda03e77e080576dd3e",
         "title": "微信支付，禁用！支付宝，禁用！多地公安出手：这些人摊上大事了…",
+        "title_eng": "WeChat Pay, disable! Alipay, disable! Public security in many places took action: These people have caused a big deal...",
         "nickname": "环球冷眼",
         "created_at": "2020-11-12",
         "archive": "gh_1aecabdf0add_2020-11-12_2247503016_x6Z7SgpQwy.y.tar.gz",
         "censored_date": "2020-11-15 04:48:28",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-14 21:41:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTQ3ODAyNA==&mid=2661684497&idx=1&sn=c1d0f794af17c86aa5087fa4cd4a7504",
+        "title": "中毒了？！贺州多人因皮疹、全身瘙痒前往医院就诊……",
+        "nickname": "贺州城事",
+        "created_at": "2020-11-13",
+        "archive": "gh_045f648a9533_2020-11-13_2661684497_RJNGBCpuQe.y.tar.gz",
+        "censored_date": "2020-11-15 06:13:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
