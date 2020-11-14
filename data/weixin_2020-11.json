@@ -6544,7 +6544,7 @@
         "archive": "gh_ba6105d7c051_2020-11-12_2652599472_ZScD3iYQwA.y.tar.gz",
         "censored_date": "2020-11-12 13:58:33",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-13 14:41:03"
+        "update_date": "2020-11-15 01:33:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk2NTAyNA==&mid=2650671749&idx=1&sn=485a8058e97559b1818b5eddbfb9d6b6",
@@ -7526,7 +7526,7 @@
         "archive": "gh_0199c7d26b97_2020-11-12_2247548861_VznpQ7uAJ3.y.tar.gz",
         "censored_date": "2020-11-14 16:28:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-13 14:18:13"
+        "update_date": "2020-11-15 01:32:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084948&idx=2&sn=a455feb09d67bcd76baca63fb4250abd",
@@ -7659,6 +7659,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247548060&idx=6&sn=64c753e6b2be77f3f88a425b42d1b41f",
         "title": "为什么越来越多人消失在朋友圈",
+        "title_eng": "Why more and more people disappear in the circle of friends",
         "nickname": "浪潮工作室",
         "created_at": "2020-11-11",
         "archive": "gh_0199c7d26b97_2020-11-11_2247548060_g0DYrpyoKM.y.tar.gz",
@@ -7669,11 +7670,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247548060&idx=5&sn=a802a97223a8e8640fc63a42628f23b8",
         "title": "为什么越来越多的人把朋友圈设为仅3天可见",
+        "title_eng": "Why do more and more people set Moments to be visible for only 3 days",
         "nickname": "浪潮工作室",
         "created_at": "2020-11-11",
         "archive": "gh_0199c7d26b97_2020-11-11_2247548060_B014iPv5zo.y.tar.gz",
         "censored_date": "2020-11-15 00:37:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-13 12:34:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247486507&idx=5&sn=3acdb97c37ee9c1d9257d2a80c128f3c",
+        "title": "民主党人视频实名举报大选舞弊",
+        "nickname": "精英世界",
+        "created_at": "2020-11-12",
+        "archive": "gh_34694b68f48f_2020-11-12_2247486507_GriCvd00Ss.y.tar.gz",
+        "censored_date": "2020-11-15 02:01:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 15:20:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654808083&idx=2&sn=15c7a2b581f8c2b09d3383113b7c44ab",
+        "title": "川藏铁路修20年太慢了？外国工程师曾估计要100年",
+        "nickname": "观察者网",
+        "created_at": "2020-11-13",
+        "archive": "gh_5c9e0938601d_2020-11-13_2654808083_iUMbD0nayW.y.tar.gz",
+        "censored_date": "2020-11-15 01:58:57",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
