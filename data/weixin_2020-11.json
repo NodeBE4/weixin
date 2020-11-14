@@ -6610,7 +6610,7 @@
         "archive": "gh_d96e48e19dc9_2020-11-12_2650651498_U41PMhbt6W.y.tar.gz",
         "censored_date": "2020-11-12 17:53:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-13 17:37:48"
+        "update_date": "2020-11-14 07:23:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804606&idx=1&sn=1d06f597a8373234a73dcb5c84160c18",
@@ -7284,10 +7284,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDExMjUwOA==&mid=2649965160&idx=1&sn=86d149bccfcfec2a89498fe6c3b68cf2",
         "title": "“买卖书号”再被叫停，以后出书会越来越难吗？",
+        "title_eng": "Selling ISBN is stopped again, will it become more and more difficult to publish books in the future?",
         "nickname": "做書",
         "created_at": "2020-11-12",
         "archive": "gh_965149974efc_2020-11-12_2649965160_Qau91DYFcX.y.tar.gz",
         "censored_date": "2020-11-14 07:09:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2247728892&idx=3&sn=cbb3552a5efa0a1ad82fa3ceb2fc3bf6",
+        "title": "11个交易日，暴跌84%！2000多亿债务压顶，这家清华校企债券接连重挫，3天后又有一笔钱要还",
+        "title_eng": "11 trading days, plummeted 84%! More than 200 billion debts are overwhelming, this Tsinghua school-enterprise bond has plummeted one after another, and three days later there is another sum of money to be paid",
+        "nickname": "每日经济新闻",
+        "created_at": "2020-11-12",
+        "archive": "gh_2424e6d48203_2020-11-12_2247728892_GTLkUIqaME.y.tar.gz",
+        "censored_date": "2020-11-14 07:50:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650278583&idx=4&sn=e0e28d9e1dcd43cd5a17ebdd27b16bf9",
+        "title": "明天开始报名！高安消防救援大队招聘36人！速看",
+        "title_eng": "Sign up tomorrow! Gaoan Fire Rescue Brigade recruits 36 people! Quick look",
+        "nickname": "高安百事通",
+        "created_at": "2020-11-12",
+        "archive": "gh_1d97537c840d_2020-11-12_2650278583_nFC98dak5t.y.tar.gz",
+        "censored_date": "2020-11-14 08:11:49",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
