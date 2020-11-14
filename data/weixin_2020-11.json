@@ -7395,7 +7395,8 @@
         "created_at": "2020-11-14",
         "archive": "gh_b62058001651_2020-11-14_2650435657_etXR4Fm3Lb.y.tar.gz",
         "censored_date": "2020-11-14 12:49:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-14 16:27:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247495653&idx=1&sn=0c16b1b17100250732c5055a94f10a43",
@@ -7495,6 +7496,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488786&idx=3&sn=3d021a7e8b0888a1037b7f34e36f1165",
         "title": "别再乱买龙泉剑了，源头直供才这个价",
+        "title_eng": "Stop buying Longquan swords randomly, the price is only for direct supply from the source",
         "nickname": "世纪观察",
         "created_at": "2020-11-13",
         "archive": "gh_26762a56c129_2020-11-13_2247488786_rOqscP09Jd.y.tar.gz",
@@ -7505,10 +7507,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247550370&idx=6&sn=53c0cb53215d5f178fef771204e10294",
         "title": "一直被模仿从未被超越的几个顶级公众号，值得你浪费时间",
+        "title_eng": "Several top official accounts that have been imitated and never surpassed are worth your time",
         "nickname": "浪潮工作室",
         "created_at": "2020-11-13",
         "archive": "gh_0199c7d26b97_2020-11-13_2247550370_T5YoGCqSb8.y.tar.gz",
         "censored_date": "2020-11-14 16:01:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247548861&idx=5&sn=31d4361b67f3e2ba18a9ec3db75cc0c9",
+        "title": "人生最宝贵的，是这些精神食粮",
+        "title_eng": "The most precious thing in life is these spiritual food",
+        "nickname": "浪潮工作室",
+        "created_at": "2020-11-12",
+        "archive": "gh_0199c7d26b97_2020-11-12_2247548861_VznpQ7uAJ3.y.tar.gz",
+        "censored_date": "2020-11-14 16:28:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-13 14:18:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084948&idx=2&sn=a455feb09d67bcd76baca63fb4250abd",
+        "title": "“投资第1年，还清15万欠款”：会挣钱的人，都活成什么样？",
+        "nickname": "掌心大同",
+        "created_at": "2020-11-13",
+        "archive": "gh_69043f48c02f_2020-11-13_2650084948_x5NE7grmRu.y.tar.gz",
+        "censored_date": "2020-11-14 17:01:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
