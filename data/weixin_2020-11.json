@@ -7629,7 +7629,8 @@
         "created_at": "2020-11-14",
         "archive": "gh_9d4eb92add23_2020-11-14_2650910547_802typjSC3.y.tar.gz",
         "censored_date": "2020-11-14 22:41:19",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-16 05:18:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247522973&idx=2&sn=a225fb41bb1de44cce41327910f738d4",
@@ -8046,6 +8047,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506199&idx=1&sn=c80bc5865b0461c277989d4ab6ff32e1",
         "title": "刚刚，特朗普，疯狂制裁31家中国企业（附清单）",
+        "title_eng": "Just now, Trump frantically sanctioned 31 Chinese companies (list attached)",
         "nickname": "遮眼看天",
         "created_at": "2020-11-14",
         "archive": "gh_b984621ff266_2020-11-14_2247506199_oVwrR8tmFA.y.tar.gz",
@@ -8063,5 +8065,16 @@
         "censored_date": "2020-11-16 05:14:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-15 03:00:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247539475&idx=6&sn=1eda3ad6409c79cedfa69d4a0337ef89",
+        "title": "如果你家孩子正处在4-15岁，请用心培养这一点，将来不吃亏！",
+        "title_eng": "If your child is between 4-15 years old, please cultivate this with your heart, so that you will not suffer in the future!",
+        "nickname": "演讲与人生",
+        "created_at": "2020-11-14",
+        "archive": "gh_e525ae7f03af_2020-11-14_2247539475_JU54KPLquQ.y.tar.gz",
+        "censored_date": "2020-11-16 05:29:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 02:34:14"
     }
 ]
