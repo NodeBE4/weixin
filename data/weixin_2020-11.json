@@ -7745,6 +7745,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503199&idx=1&sn=eb3c8a46cc2c7eae164eb7f026363d2c",
         "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and a few thousand yuan, you don’t believe it!",
         "nickname": "海外财经",
         "created_at": "2020-11-13",
         "archive": "gh_8f29429f71d7_2020-11-13_2247503199_spoY6xHhJz.y.tar.gz",
@@ -7754,6 +7755,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652900418&idx=4&sn=d6e87fc3eeb21e18e2a24744a8c41559",
         "title": "紧急寻人：耒阳初中生兄妹离家出走至今未归！",
+        "title_eng": "Urgent tracing: Leiyang junior high school siblings ran away from home and have not returned!",
         "nickname": "耒阳社区",
         "created_at": "2020-11-13",
         "archive": "gh_40f2418747aa_2020-11-13_2652900418_E7wVJxjaoP.y.tar.gz",
@@ -7763,10 +7765,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDE3MjY2Ng==&mid=2653515698&idx=1&sn=7c88f56298de88a682b3031e457e7bb3",
         "title": "提醒：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "Reminder: You don't believe the difference between tens of yuan and a few thousand yuan in liquor!",
         "nickname": "警笛",
         "created_at": "2020-11-13",
         "archive": "gh_2877643e575a_2020-11-13_2653515698_vbzaSnOQZe.y.tar.gz",
         "censored_date": "2020-11-15 07:07:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDA4ODE2Mw==&mid=2832501069&idx=2&sn=defb1b32b046f6a6c40339347c255652",
+        "title": "从“武术大师”到网络红人，马老师从人到梗的轮回",
+        "title_eng": "From martial arts master to internet celebrity, teacher Ma's reincarnation from person to stalk",
+        "nickname": "蓝鲸浑水",
+        "created_at": "2020-11-13",
+        "archive": "gh_f399ef0a1fb3_2020-11-13_2832501069_Oyvs9pKnRc.y.tar.gz",
+        "censored_date": "2020-11-15 07:37:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NDUyOTE4Ng==&mid=2247488805&idx=1&sn=1cc7a49f802c44db6529182b395ff28a",
+        "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and a few thousand yuan, you don’t believe it!",
+        "nickname": "华人讲堂",
+        "created_at": "2020-11-13",
+        "archive": "gh_c93c40faa998_2020-11-13_2247488805_uDl92oPXkh.y.tar.gz",
+        "censored_date": "2020-11-15 08:15:36",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
