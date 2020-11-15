@@ -7848,6 +7848,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDUyMjgyMw==&mid=2651852840&idx=2&sn=04fd55622ce3d7c879b96cc811bca044",
         "title": "超预期违约引发中国债市巨震 投资者担忧信用收缩及多米诺效应",
+        "title_eng": "Super-expected default triggers a huge shock in the Chinese bond market, investors worry about credit contraction and domino effect",
         "nickname": "彭博Bloomberg",
         "created_at": "2020-11-13",
         "archive": "gh_b0a4200dcde3_2020-11-13_2651852840_H2X3JPdkQa.y.tar.gz",
@@ -7857,6 +7858,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653395087&idx=3&sn=a8901d11ec9343307ef5985e058365d6",
         "title": "突发：“振华7号”商船遭海盗袭击，中国船员受枪伤",
+        "title_eng": "Suddenly: Zhenhua 7 merchant ship was attacked by pirates and Chinese crew members were shot",
         "nickname": "环球时报",
         "created_at": "2020-11-15",
         "archive": "gh_95b0feda9646_2020-11-15_2653395087_rHYS68yAtM.y.tar.gz",
@@ -7866,10 +7868,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTQzMTE0MjcyMQ==&mid=2666776143&idx=4&sn=91386365d7121d2f9aa38ae02b40fae6",
         "title": "海盗袭击“振华7号”商船，中国籍船员受枪伤",
+        "title_eng": "Pirates attacked Zhenhua No. 7 merchant ship, Chinese crew was shot",
         "nickname": "环球网",
         "created_at": "2020-11-15",
         "archive": "wxid_3718957189212_2020-11-15_2666776143_CqfsopwxlQ.y.tar.gz",
         "censored_date": "2020-11-15 14:53:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 15:25:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjEzNTMwMQ==&mid=2650748216&idx=1&sn=fc5c878425b210a7fd32a36a1bd7bdfd",
+        "title": "等了八年，TA终于来了！",
+        "nickname": "新华国际头条",
+        "created_at": "2020-11-15",
+        "archive": "gh_b34095ec4001_2020-11-15_2650748216_Hql8QsU0b2.y.tar.gz",
+        "censored_date": "2020-11-15 16:17:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652205623&idx=1&sn=eeee6a905ac7a2077f48eb547d14df36",
+        "title": "心脏支架从1万多降为700元又升回去，这波操作太神了！",
+        "nickname": "大千世界",
+        "created_at": "2020-11-14",
+        "archive": "gh_a517719487ef_2020-11-14_2652205623_Z9q648UjY7.y.tar.gz",
+        "censored_date": "2020-11-15 15:47:49",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
