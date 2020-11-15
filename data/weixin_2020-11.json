@@ -7608,7 +7608,7 @@
         "archive": "gh_bf54f24b2e87_2020-11-14_2247505949_OQy8ecPDtv.y.tar.gz",
         "censored_date": "2020-11-14 21:33:43",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-14 16:13:39"
+        "update_date": "2020-11-16 04:37:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTgzNzc1NQ==&mid=2247488171&idx=1&sn=ad680ec1948953cf7db4165b9cd3d366",
@@ -7619,7 +7619,7 @@
         "archive": "gh_93523c0a552d_2020-11-14_2247488171_6PhBbWAiEs.y.tar.gz",
         "censored_date": "2020-11-14 22:12:21",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-14 12:29:39"
+        "update_date": "2020-11-16 04:38:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650910547&idx=1&sn=9dcd8e93fa81c1c75ebec55be2baceb0",
@@ -8035,11 +8035,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTMxMTc4MA==&mid=2649529513&idx=2&sn=f3a3d754a4e1c325bd6376fe2b096d8d",
         "title": "可怜装哭之后，恒大分拆上市自救！",
+        "title_eng": "After pitiful pretending to cry, Evergrande split and went public to save itself!",
         "nickname": "ZAKER",
         "created_at": "2020-11-14",
         "archive": "gh_e3e018a7e41b_2020-11-14_2649529513_Zo1VS4cdQX.y.tar.gz",
         "censored_date": "2020-11-16 04:10:17",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-14 21:45:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506199&idx=1&sn=c80bc5865b0461c277989d4ab6ff32e1",
+        "title": "刚刚，特朗普，疯狂制裁31家中国企业（附清单）",
+        "nickname": "遮眼看天",
+        "created_at": "2020-11-14",
+        "archive": "gh_b984621ff266_2020-11-14_2247506199_oVwrR8tmFA.y.tar.gz",
+        "censored_date": "2020-11-16 05:13:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 03:03:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506199&idx=2&sn=2af9ae6f67308b49f9e09f4573742c87",
+        "title": "心脏支架从1万多降为700元又升回去，这波操作太神了！",
+        "title_eng": "The heart stent dropped from more than 10,000 yuan to 700 yuan and rose back again. This wave of operations is amazing!",
+        "nickname": "遮眼看天",
+        "created_at": "2020-11-14",
+        "archive": "gh_b984621ff266_2020-11-14_2247506199_EcdzV6Gur0.y.tar.gz",
+        "censored_date": "2020-11-16 05:14:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 03:00:01"
     }
 ]
