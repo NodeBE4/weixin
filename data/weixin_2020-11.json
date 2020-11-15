@@ -7400,7 +7400,7 @@
         "archive": "gh_b62058001651_2020-11-14_2650435657_etXR4Fm3Lb.y.tar.gz",
         "censored_date": "2020-11-14 12:49:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-15 20:42:12"
+        "update_date": "2020-11-16 01:37:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247495653&idx=1&sn=0c16b1b17100250732c5055a94f10a43",
@@ -7964,7 +7964,8 @@
         "created_at": "2020-11-13",
         "archive": "gh_45220e40f13c_2020-11-13_2650005018_4RS9p2QmvH.y.tar.gz",
         "censored_date": "2020-11-15 21:08:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 01:47:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488805&idx=2&sn=a0c61191ad551efa291a5e448aec89be",
@@ -8013,11 +8014,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653325534&idx=6&sn=c1e7bb83a4b56b03a48d896fb3f3b0b2",
         "title": "电影、电视频道免费在线观看",
+        "title_eng": "Watch movies and TV channels online for free",
         "nickname": "画友文学天地",
         "created_at": "2020-11-14",
         "archive": "gh_e4d7b38fb8a3_2020-11-14_2653325534_VfSiZgGsBH.y.tar.gz",
         "censored_date": "2020-11-16 00:57:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-15 18:45:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDIzNzAzMg==&mid=2650056966&idx=6&sn=ad277d0703873957d30fed92c8bb6249",
+        "title": "时代不允许他当主角了",
+        "nickname": "小彻小悟",
+        "created_at": "2020-11-15",
+        "archive": "gh_1304b5a2a3e7_2020-11-15_2650056966_Nntfy0DTUO.y.tar.gz",
+        "censored_date": "2020-11-16 02:08:50",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
