@@ -7543,7 +7543,7 @@
         "archive": "gh_69043f48c02f_2020-11-13_2650084948_x5NE7grmRu.y.tar.gz",
         "censored_date": "2020-11-14 17:01:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-15 20:11:20"
+        "update_date": "2020-11-16 19:23:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485514&idx=2&sn=1d277760af29fd7a95eceadee59da96a",
@@ -8202,6 +8202,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488809&idx=3&sn=20c3cbadfd95a9b6815bd10dfffe7ad1",
         "title": "多动症害惨了中国孩子，道破玄机：原因竟然是。",
+        "title_eng": "ADHD has hurt Chinese children miserably, and the mystery: The reason is unexpectedly.",
         "nickname": "世纪观察",
         "created_at": "2020-11-15",
         "archive": "gh_26762a56c129_2020-11-15_2247488809_Mca2qQJjro.y.tar.gz",
@@ -8212,11 +8213,85 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247488809&idx=2&sn=05c986d564c275231b491f889f0ba6e6",
         "title": "武大教授众筹30万治病引质疑：劝诫你保险千万别乱买！",
+        "title_eng": "Professor of Wuhan University raised 300,000 yuan for medical treatment and raised doubts: advise you not to buy insurance!",
         "nickname": "世纪观察",
         "created_at": "2020-11-15",
         "archive": "gh_26762a56c129_2020-11-15_2247488809_5KR78VLlxa.y.tar.gz",
         "censored_date": "2020-11-16 18:59:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-16 08:02:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489452&idx=1&sn=85d004e8e37422faa3976788580b0a6d",
+        "title": "陈佩斯道出了崔永元怒怼范冰冰的缘故，代价很大的！",
+        "title_eng": "Chen Peisi explained the reason why Cui Yongyuan was angry with Fan Bingbing, and it was very expensive!",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-14",
+        "archive": "gh_65f5271d2a21_2020-11-14_2247489452_rjfsbv9ZLc.y.tar.gz",
+        "censored_date": "2020-11-16 19:19:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 20:07:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489452&idx=2&sn=e1742f81b3440aa5f218d722b525b56b",
+        "title": "高！一句话打脸特朗普和拜登，还顺便踹了脚狗！",
+        "title_eng": "high! Slapped Trump and Biden in one sentence, and kicked the dog by the way!",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-14",
+        "archive": "gh_65f5271d2a21_2020-11-14_2247489452_huRqQ085FS.y.tar.gz",
+        "censored_date": "2020-11-16 19:25:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 20:13:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489450&idx=3&sn=64b1d2a13e0a1743726719de68933406",
+        "title": "涉港重大决定！国家再次出手，重创乱港分子",
+        "title_eng": "Major decision concerning Hong Kong! The state once again made a big blow to the Hong Kong chaos",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-13",
+        "archive": "gh_65f5271d2a21_2020-11-13_2247489450_TVnBbaOtsz.y.tar.gz",
+        "censored_date": "2020-11-16 19:26:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-14 17:26:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489452&idx=3&sn=3872b3ffc95507c1c52bcbd45e88f480",
+        "title": "经典！一位高人把真话说的如此一针见血！",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-14",
+        "archive": "gh_65f5271d2a21_2020-11-14_2247489452_fPSx8dGIuD.y.tar.gz",
+        "censored_date": "2020-11-16 20:02:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 21:19:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658971818&idx=3&sn=abb6b89f85f31760f4cb16f0c109a675",
+        "title": "央行：暂停支付宝二维码支付，并非针对哪家企业",
+        "nickname": "金脑袋营销策划",
+        "created_at": "2020-11-14",
+        "archive": "gh_dda6a93672f5_2020-11-14_2658971818_21MPFpXShf.y.tar.gz",
+        "censored_date": "2020-11-16 20:25:58",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489452&idx=4&sn=c6e132e8d531fe87048630f4c77383ba",
+        "title": "“拜登吹”的全部套路，帮大家整理好了！",
+        "title_eng": "All the routines of Biden Blow are organized for everyone!",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-14",
+        "archive": "gh_65f5271d2a21_2020-11-14_2247489452_GjTmZBq50z.y.tar.gz",
+        "censored_date": "2020-11-16 19:25:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 20:13:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489450&idx=2&sn=e162ac3043c483dd8e01cb994142672c",
+        "title": "武汉光谷闹市区大爆炸，惨烈视频曝光：别等到越过山丘，才发现无人守候！",
+        "title_eng": "There was a big explosion in the downtown area of ​​Optics Valley in Wuhan, and the tragic video was exposed: Don't wait until you cross the hills to find that no one is waiting!",
+        "nickname": "江南隐士",
+        "created_at": "2020-11-13",
+        "archive": "gh_65f5271d2a21_2020-11-13_2247489450_aeoZMOi6It.y.tar.gz",
+        "censored_date": "2020-11-16 19:24:33",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
