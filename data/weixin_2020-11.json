@@ -7334,7 +7334,7 @@
         "archive": "gh_a72cab17ba48_2020-11-14_2652426186_040Pr1w5QW.y.tar.gz",
         "censored_date": "2020-11-14 09:30:20",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-15 17:28:59"
+        "update_date": "2020-11-16 16:30:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506058&idx=3&sn=96287aa70dda0dac4ebeefa088e44908",
@@ -7928,7 +7928,7 @@
         "archive": "gh_ccf6a72b140a_2020-11-15_2247493420_tdnuElO26S.y.tar.gz",
         "censored_date": "2020-11-15 17:08:48",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-15 16:20:51"
+        "update_date": "2020-11-16 16:34:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzMyMjUxMw==&mid=2652855848&idx=1&sn=00517d74c29f88870819542c7546829d",
@@ -7960,7 +7960,8 @@
         "created_at": "2020-11-15",
         "archive": "gh_222a507c7767_2020-11-15_2650747807_8k4TXiJa75.y.tar.gz",
         "censored_date": "2020-11-15 17:05:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 16:35:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650005018&idx=4&sn=07944e9e0f820a855a37cc14c2a61aa1",
@@ -8149,6 +8150,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODg0MTg3Mw==&mid=2652036252&idx=4&sn=fb6143dfac00aef4754ff4d9dd417abc",
         "title": "太突然，TVB知名男星去世……",
+        "title_eng": "So suddenly, the famous TVB actor passed away...",
         "nickname": "城市零距离",
         "created_at": "2020-11-15",
         "archive": "gh_4c1998a4fd3c_2020-11-15_2652036252_sz2Efc9xGU.y.tar.gz",
@@ -8158,10 +8160,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDcwMjAwMA==&mid=2247561047&idx=2&sn=d79eb8823897733f681e4e8258587e90",
         "title": "刚刚 | 2021北京米其林指南揭晓，三星26家、二星2家、一星2家",
+        "title_eng": "Just now | 2021 Beijing Michelin Guide announced, 26 three-star, two two-star, two one-star",
         "nickname": "商业周刊中文版",
         "created_at": "2020-11-16",
         "archive": "gh_c327186111f5_2020-11-16_2247561047_lISnEFTrJ7.y.tar.gz",
         "censored_date": "2020-11-16 15:48:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491199&idx=1&sn=a993c82a07229ec4baf7a81e6bddc260",
+        "title": "突袭德意志！特朗普派兵端掉境外计票服务器、宣布“国家紧急状态”！开启“抵抗外国势力操纵政变”的战役…",
+        "title_eng": "Assault on Germany! Trump sent troops to end the overseas vote-counting server and declared a national emergency! Start the battle of resisting foreign forces manipulating a coup...",
+        "nickname": "虎次郎",
+        "created_at": "2020-11-15",
+        "archive": "gh_610312e22ed3_2020-11-15_2247491199_S9GWar0bF0.y.tar.gz",
+        "censored_date": "2020-11-16 16:33:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 16:43:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485458&idx=1&sn=b072dd9585cf6154ffb8e79f4f1838c5",
+        "title": "孙大午被抓，为何会受到如此关注？",
+        "nickname": "国际局势解读",
+        "created_at": "2020-11-15",
+        "archive": "gh_e7ec33b5ef38_2020-11-15_2247485458_2iVSjwmhvx.y.tar.gz",
+        "censored_date": "2020-11-16 16:35:31",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
