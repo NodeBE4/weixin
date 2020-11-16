@@ -7894,7 +7894,8 @@
         "created_at": "2020-11-15",
         "archive": "gh_b34095ec4001_2020-11-15_2650748216_Hql8QsU0b2.y.tar.gz",
         "censored_date": "2020-11-15 16:17:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 15:28:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652205623&idx=1&sn=eeee6a905ac7a2077f48eb547d14df36",
@@ -7905,7 +7906,7 @@
         "archive": "gh_a517719487ef_2020-11-14_2652205623_Z9q648UjY7.y.tar.gz",
         "censored_date": "2020-11-15 15:47:49",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-15 17:19:04"
+        "update_date": "2020-11-16 15:37:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247486525&idx=1&sn=5383fecedf5893f27e4564c849ca391d",
@@ -8127,6 +8128,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDI3Mzc0MA==&mid=2651876304&idx=1&sn=f9571f2679efb98459c1aeda7513e625",
         "title": "从RCEP签署看到的中日美",
+        "title_eng": "China, Japan and the U.S. Seen from RCEP Signing",
         "nickname": "日经中文网",
         "created_at": "2020-11-16",
         "archive": "gh_816c6243abda_2020-11-16_2651876304_MY0gwxRByE.y.tar.gz",
@@ -8137,10 +8139,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MjMwNjUxMA==&mid=2247502960&idx=2&sn=ce60e772b81dc960113c28f97f469664",
         "title": "当你感到迷茫的时候，强烈建议你做这件事",
+        "title_eng": "When you feel lost, I strongly recommend you to do this",
         "nickname": "永远的少数派",
         "created_at": "2020-11-15",
         "archive": "gh_91d203bd2a8d_2020-11-15_2247502960_qxevJ0M6Dw.y.tar.gz",
         "censored_date": "2020-11-16 15:18:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODg0MTg3Mw==&mid=2652036252&idx=4&sn=fb6143dfac00aef4754ff4d9dd417abc",
+        "title": "太突然，TVB知名男星去世……",
+        "nickname": "城市零距离",
+        "created_at": "2020-11-15",
+        "archive": "gh_4c1998a4fd3c_2020-11-15_2652036252_sz2Efc9xGU.y.tar.gz",
+        "censored_date": "2020-11-16 15:54:03",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDcwMjAwMA==&mid=2247561047&idx=2&sn=d79eb8823897733f681e4e8258587e90",
+        "title": "刚刚 | 2021北京米其林指南揭晓，三星26家、二星2家、一星2家",
+        "nickname": "商业周刊中文版",
+        "created_at": "2020-11-16",
+        "archive": "gh_c327186111f5_2020-11-16_2247561047_lISnEFTrJ7.y.tar.gz",
+        "censored_date": "2020-11-16 15:48:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
