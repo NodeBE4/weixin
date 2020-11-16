@@ -8386,6 +8386,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDQ0NDQwMA==&mid=2650105143&idx=1&sn=d9e76979d88c5a4df8dcd6732bd3d845",
         "title": "hashtag | 跨性别纪念日线下活动：《巴黎在燃烧》观影茶话会",
+        "title_eng": "hashtag | Offline transgender anniversary event: Paris is Burning movie watching tea party",
         "nickname": "酷儿论坛",
         "created_at": "2020-11-15",
         "archive": "gh_151f5c3d488c_2020-11-15_2650105143_1dUDk0zZCQ.y.tar.gz",
@@ -8395,6 +8396,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247506286&idx=1&sn=21f9b9b66950619dcd705c00bd92b7e1",
         "title": "孙大午被抓，为何会受到如此关注？",
+        "title_eng": "Sun Dawu was arrested, why did he receive such attention?",
         "nickname": "遮眼看天",
         "created_at": "2020-11-16",
         "archive": "gh_b984621ff266_2020-11-16_2247506286_oL4xpCEiOe.y.tar.gz",
@@ -8405,6 +8407,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650802422&idx=1&sn=be2b501316fe5726c14af64a4dadfc24",
         "title": "每人300万激励科学探索，北大谢涛、清华朱军等50人获奖，腾讯这个大奖公布",
+        "title_eng": "3 million per person to encourage scientific exploration, 50 people including Xie Tao of Peking University and Zhu Jun of Tsinghua University won the prize. Tencent's award was announced",
         "nickname": "机器之心",
         "created_at": "2020-11-15",
         "archive": "gh_dbc0a5474692_2020-11-15_2650802422_J2CgAcLVko.y.tar.gz",
@@ -8415,10 +8418,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247534318&idx=3&sn=0ffb49e70e243bf4039a02f2727407c5",
         "title": "244项！这一国家级奖项正式公布获奖名单",
+        "title_eng": "244 items! This national award officially announced the list of winners",
         "nickname": "青塔",
         "created_at": "2020-11-15",
         "archive": "gh_9eaf123d0c6f_2020-11-15_2247534318_jl5YZ6UNrA.y.tar.gz",
         "censored_date": "2020-11-17 02:18:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247515625&idx=4&sn=9af25c17abe21fcb4c1fb7a5ddf6137a",
+        "title": "引爆！美军在德国查获与Dominion投票软件相关联的服务器",
+        "nickname": "魏雅华",
+        "created_at": "2020-11-15",
+        "archive": "gh_d965d8fa0c72_2020-11-15_2247515625_xb79y6jHai.y.tar.gz",
+        "censored_date": "2020-11-17 03:05:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247515625&idx=1&sn=7e2c2f032327820d295e0b0d623e86a7",
+        "title": "爆炸性新闻！美军突袭德国弗兰克福，投票作弊软件被缴获！",
+        "nickname": "魏雅华",
+        "created_at": "2020-11-15",
+        "archive": "gh_d965d8fa0c72_2020-11-15_2247515625_6d7v0NA8qB.y.tar.gz",
+        "censored_date": "2020-11-17 03:06:58",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
