@@ -7895,7 +7895,7 @@
         "archive": "gh_b34095ec4001_2020-11-15_2650748216_Hql8QsU0b2.y.tar.gz",
         "censored_date": "2020-11-15 16:17:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-16 15:28:06"
+        "update_date": "2020-11-17 00:05:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652205623&idx=1&sn=eeee6a905ac7a2077f48eb547d14df36",
@@ -8331,6 +8331,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247523726&idx=6&sn=19b8fad5fbac91a7b580146fa09f9cac",
         "title": "每日书讯",
+        "title_eng": "Daily Book News",
         "nickname": "叙拉古之惑",
         "created_at": "2020-11-15",
         "archive": "gh_c9984a3987c1_2020-11-15_2247523726_Gryxm5IEXU.y.tar.gz",
@@ -8341,6 +8342,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084957&idx=2&sn=39cc91aefe400407fc5d074063bbba86",
         "title": "敷面膜的4个坏习惯，女生可最好要避开，浪费面膜不说，还伤脸！",
+        "title_eng": "Girls should avoid the 4 bad habits of applying facial masks. Not to mention wasting the mask, it will hurt your face!",
         "nickname": "掌心大同",
         "created_at": "2020-11-14",
         "archive": "gh_69043f48c02f_2020-11-14_2650084957_rm9b71LkOQ.y.tar.gz",
@@ -8351,11 +8353,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084961&idx=2&sn=a45b3da0a443fcb30523fcea77ea98a5",
         "title": "“我月薪3千月入5万”:不是你不会赚钱，而是你赚钱的方式有问题",
+        "title_eng": "My monthly salary is 3,000 and monthly income is 50,000: It is not that you can't make money, but the way you make money is wrong",
         "nickname": "掌心大同",
         "created_at": "2020-11-15",
         "archive": "gh_69043f48c02f_2020-11-15_2650084961_m3RMyuschn.y.tar.gz",
         "censored_date": "2020-11-16 23:07:45",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-16 14:30:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247503072&idx=1&sn=dfcc1a3feaf09c6d6f3c0342382a9663",
+        "title": "暴跌！崩了！这些巨头麻烦大了……",
+        "title_eng": "Plummet! Broke! These giants are in big trouble...",
+        "nickname": "环球冷眼",
+        "created_at": "2020-11-13",
+        "archive": "gh_1aecabdf0add_2020-11-13_2247503072_mbuRQhWF2r.y.tar.gz",
+        "censored_date": "2020-11-16 23:41:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 15:02:21"
     }
 ]
