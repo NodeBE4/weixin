@@ -7939,7 +7939,7 @@
         "archive": "gh_2b5188448a1f_2020-11-15_2652855848_HZoPuFzad1.y.tar.gz",
         "censored_date": "2020-11-15 17:17:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-16 14:23:34"
+        "update_date": "2020-11-16 23:00:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTYzNjk2MA==&mid=2651601494&idx=1&sn=6f459707d7c32b856c3a90279cc9bdf9",
@@ -8299,6 +8299,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247493418&idx=3&sn=571b20db30103f7eaa377ae1b7e21621",
         "title": "全面反攻！特朗普宾州诉讼获胜后开始在多个战场州发起新战役…",
+        "title_eng": "Full counterattack! After Trump won the Pennsylvania lawsuit, he began to launch new campaigns in multiple battlefield states...",
         "nickname": "北斗局",
         "created_at": "2020-11-14",
         "archive": "gh_ccf6a72b140a_2020-11-14_2247493418_pGf01MSeIi.y.tar.gz",
@@ -8326,5 +8327,35 @@
         "archive": "gh_ccf6a72b140a_2020-11-14_2247493418_UK9DN3wVih.y.tar.gz",
         "censored_date": "2020-11-16 21:43:31",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247523726&idx=6&sn=19b8fad5fbac91a7b580146fa09f9cac",
+        "title": "每日书讯",
+        "nickname": "叙拉古之惑",
+        "created_at": "2020-11-15",
+        "archive": "gh_c9984a3987c1_2020-11-15_2247523726_Gryxm5IEXU.y.tar.gz",
+        "censored_date": "2020-11-16 23:02:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 14:18:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084957&idx=2&sn=39cc91aefe400407fc5d074063bbba86",
+        "title": "敷面膜的4个坏习惯，女生可最好要避开，浪费面膜不说，还伤脸！",
+        "nickname": "掌心大同",
+        "created_at": "2020-11-14",
+        "archive": "gh_69043f48c02f_2020-11-14_2650084957_rm9b71LkOQ.y.tar.gz",
+        "censored_date": "2020-11-16 23:09:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 17:59:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650084961&idx=2&sn=a45b3da0a443fcb30523fcea77ea98a5",
+        "title": "“我月薪3千月入5万”:不是你不会赚钱，而是你赚钱的方式有问题",
+        "nickname": "掌心大同",
+        "created_at": "2020-11-15",
+        "archive": "gh_69043f48c02f_2020-11-15_2650084961_m3RMyuschn.y.tar.gz",
+        "censored_date": "2020-11-16 23:07:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 14:30:54"
     }
 ]
