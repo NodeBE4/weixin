@@ -7928,7 +7928,7 @@
         "archive": "gh_ccf6a72b140a_2020-11-15_2247493420_tdnuElO26S.y.tar.gz",
         "censored_date": "2020-11-15 17:08:48",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-16 16:34:15"
+        "update_date": "2020-11-17 01:02:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzMyMjUxMw==&mid=2652855848&idx=1&sn=00517d74c29f88870819542c7546829d",
@@ -7961,7 +7961,7 @@
         "archive": "gh_222a507c7767_2020-11-15_2650747807_8k4TXiJa75.y.tar.gz",
         "censored_date": "2020-11-15 17:05:23",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-16 16:35:07"
+        "update_date": "2020-11-17 01:03:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650005018&idx=4&sn=07944e9e0f820a855a37cc14c2a61aa1",
@@ -8186,7 +8186,8 @@
         "created_at": "2020-11-15",
         "archive": "gh_e7ec33b5ef38_2020-11-15_2247485458_2iVSjwmhvx.y.tar.gz",
         "censored_date": "2020-11-16 16:35:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-17 01:05:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5OTQyMDgyOQ==&mid=2652599685&idx=1&sn=1b9fdfb131b32854eb385f12cd62551e",
@@ -8371,5 +8372,14 @@
         "censored_date": "2020-11-16 23:41:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-16 15:02:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247495247&idx=1&sn=fe92d9017fcdce1590f0703f23c81886",
+        "title": "【视频】吃饭途中，漳州一餐饮店塌了！数人送医…",
+        "nickname": "闽南网漳州",
+        "created_at": "2020-11-16",
+        "archive": "gh_36c36bdef701_2020-11-16_2247495247_VMbL8Tc12W.y.tar.gz",
+        "censored_date": "2020-11-17 01:09:11",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
