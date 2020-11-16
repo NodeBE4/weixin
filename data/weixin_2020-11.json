@@ -7477,7 +7477,7 @@
         "archive": "gh_4226ad5d721f_2020-11-14_2651222419_qTr00opVm1.y.tar.gz",
         "censored_date": "2020-11-14 14:48:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-15 17:48:50"
+        "update_date": "2020-11-16 18:12:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362928&idx=5&sn=ed102a8c6c974658d7b5f0e65a10f799",
@@ -7521,7 +7521,7 @@
         "archive": "gh_0199c7d26b97_2020-11-13_2247550370_T5YoGCqSb8.y.tar.gz",
         "censored_date": "2020-11-14 16:01:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-15 18:08:48"
+        "update_date": "2020-11-16 18:16:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247548861&idx=5&sn=31d4361b67f3e2ba18a9ec3db75cc0c9",
@@ -8181,10 +8181,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485458&idx=1&sn=b072dd9585cf6154ffb8e79f4f1838c5",
         "title": "孙大午被抓，为何会受到如此关注？",
+        "title_eng": "Sun Dawu was arrested, why did he receive such attention?",
         "nickname": "国际局势解读",
         "created_at": "2020-11-15",
         "archive": "gh_e7ec33b5ef38_2020-11-15_2247485458_2iVSjwmhvx.y.tar.gz",
         "censored_date": "2020-11-16 16:35:31",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5OTQyMDgyOQ==&mid=2652599685&idx=1&sn=1b9fdfb131b32854eb385f12cd62551e",
+        "title": "提个醒：营养是鸡蛋的14倍，是牛奶的7.5倍，立冬后记得多吃，抵抗力倍增！",
+        "title_eng": "A reminder: The nutrition is 14 times that of eggs and 7.5 times that of milk. Remember to eat more after Lidong, and your resistance will double!",
+        "nickname": "冯站长之家",
+        "created_at": "2020-11-14",
+        "archive": "gh_ba6105d7c051_2020-11-14_2652599685_yohf0QMZ0x.y.tar.gz",
+        "censored_date": "2020-11-16 17:20:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-15 14:22:02"
     }
 ]
