@@ -7906,7 +7906,7 @@
         "archive": "gh_a517719487ef_2020-11-14_2652205623_Z9q648UjY7.y.tar.gz",
         "censored_date": "2020-11-15 15:47:49",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-16 15:37:49"
+        "update_date": "2020-11-17 15:28:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247486525&idx=1&sn=5383fecedf5893f27e4564c849ca391d",
@@ -8168,7 +8168,8 @@
         "created_at": "2020-11-16",
         "archive": "gh_c327186111f5_2020-11-16_2247561047_lISnEFTrJ7.y.tar.gz",
         "censored_date": "2020-11-16 15:48:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-17 16:18:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491199&idx=1&sn=a993c82a07229ec4baf7a81e6bddc260",
@@ -8580,6 +8581,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODA4OTIyMA==&mid=2651717290&idx=2&sn=f302e967a010a06abf9f2a4d500e171e",
         "title": "河南原阳一家6口被害，嫌犯尸体已被找到",
+        "title_eng": "6 members of a family in Yuanyang, Henan Province were killed, the suspect’s body has been found",
         "nickname": "中国新闻网",
         "created_at": "2020-11-16",
         "archive": "gh_80330ed4178a_2020-11-16_2651717290_NRAF3vOHkr.y.tar.gz",
@@ -8590,6 +8592,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ0OTIzNQ==&mid=2247506030&idx=1&sn=3d78b967a2084315501c121920c40fea",
         "title": "​RCEP签署，美国围堵中国的计划宣告破产",
+        "title_eng": "​RCEP signed, the US plan to contain China declared bankrupt",
         "nickname": "超级学爸",
         "created_at": "2020-11-15",
         "archive": "gh_5b2733a9764d_2020-11-15_2247506030_ISgK4TJVks.y.tar.gz",
@@ -8600,11 +8603,50 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwODIyOTc2MQ==&mid=2651819832&idx=1&sn=07748def95ebb346286e8ab606a5fed3",
         "title": "河南原阳一家6口被害，嫌疑人尸体已被找到！",
+        "title_eng": "Six members of a family in Yuanyang, Henan were killed, and the suspect's body has been found!",
         "nickname": "法制网",
         "created_at": "2020-11-16",
         "archive": "gh_a72294a4f14b_2020-11-16_2651819832_G5ms1W7wMi.y.tar.gz",
         "censored_date": "2020-11-17 15:07:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-16 16:26:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIxNjczNA==&mid=2652536439&idx=1&sn=42cf752f8c878a077a398b2ed9f6b1d6",
+        "title": "郝鹏在中国社会科学院国有经济研究智库成立仪式上的讲话",
+        "nickname": "国资小新",
+        "created_at": "2020-11-16",
+        "archive": "gh_162762a657a6_2020-11-16_2652536439_MdZNGU5bsV.y.tar.gz",
+        "censored_date": "2020-11-17 15:35:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-16 17:17:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485461&idx=1&sn=b9a7fc1290e4f76ef185886b6a252096",
+        "title": "​RCEP签署，美国围堵中国的计划宣告破产",
+        "title_eng": "​RCEP signed, the US plan to contain China declared bankrupt",
+        "nickname": "国际局势解读",
+        "created_at": "2020-11-16",
+        "archive": "gh_e7ec33b5ef38_2020-11-16_2247485461_mjR2TVuYLo.y.tar.gz",
+        "censored_date": "2020-11-17 15:37:01",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650788783&idx=2&sn=4b16d4ca9b325034e427e50a882d790c",
+        "title": "报名开启丨“2020中国5G+工业互联网大会”5G+医疗健康专题会议等你来",
+        "nickname": "中国信通院CAICT",
+        "created_at": "2020-11-16",
+        "archive": "gh_ccd6562d7551_2020-11-16_2650788783_kJ7c2OgIiN.y.tar.gz",
+        "censored_date": "2020-11-17 15:59:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjY1OTM4Mg==&mid=2650954325&idx=2&sn=95c78f658ab65f8ae04c600b369446db",
+        "title": "公开库车检察：听证架起“连心桥”，促进行政争议实质性化解",
+        "nickname": "新疆检察",
+        "created_at": "2020-11-17",
+        "archive": "gh_644f262a3d2c_2020-11-17_2650954325_X7pmF8NZ65.y.tar.gz",
+        "censored_date": "2020-11-17 16:01:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
