@@ -8834,10 +8834,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDAxOTczNw==&mid=2652591920&idx=5&sn=0dac9208846d2e99dc8ac065423d7176",
         "title": "太原发布重污染天气橙色预警",
+        "title_eng": "Taiyuan issued orange warning of heavy pollution weather",
         "nickname": "山西日报",
         "created_at": "2020-11-16",
         "archive": "gh_d2219b17684c_2020-11-16_2652591920_FbpG3fy9aD.y.tar.gz",
         "censored_date": "2020-11-18 03:43:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653242895&idx=1&sn=6e725eb28929076fa40697addeb37b91",
+        "title": "自治区政府党组召开2020年第14次扩大会议 布小林主持",
+        "nickname": "内蒙古日报",
+        "created_at": "2020-11-16",
+        "archive": "gh_b7047f0cbe74_2020-11-16_2653242895_eFyE2L64G5.y.tar.gz",
+        "censored_date": "2020-11-18 04:43:43",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
