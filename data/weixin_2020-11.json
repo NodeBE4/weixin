@@ -8824,10 +8824,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650144697&idx=1&sn=9176de35d38430d3079bb37507e5e943",
         "title": "人人可自学中医，不可错过！（建议收藏）",
+        "title_eng": "Everyone can learn Chinese medicine by themselves, not to be missed! (Recommended collection)",
         "nickname": "云石",
         "created_at": "2020-11-16",
         "archive": "gh_cffa19ce8f37_2020-11-16_2650144697_xUuJtWHjYp.y.tar.gz",
         "censored_date": "2020-11-18 02:48:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDAxOTczNw==&mid=2652591920&idx=5&sn=0dac9208846d2e99dc8ac065423d7176",
+        "title": "太原发布重污染天气橙色预警",
+        "nickname": "山西日报",
+        "created_at": "2020-11-16",
+        "archive": "gh_d2219b17684c_2020-11-16_2652591920_FbpG3fy9aD.y.tar.gz",
+        "censored_date": "2020-11-18 03:43:30",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
