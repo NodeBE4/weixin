@@ -8614,6 +8614,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIxNjczNA==&mid=2652536439&idx=1&sn=42cf752f8c878a077a398b2ed9f6b1d6",
         "title": "郝鹏在中国社会科学院国有经济研究智库成立仪式上的讲话",
+        "title_eng": "Speech by Hao Peng at the establishment ceremony of the State-owned Economic Research Think Tank of the Chinese Academy of Social Sciences",
         "nickname": "国资小新",
         "created_at": "2020-11-16",
         "archive": "gh_162762a657a6_2020-11-16_2652536439_MdZNGU5bsV.y.tar.gz",
@@ -8634,6 +8635,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650788783&idx=2&sn=4b16d4ca9b325034e427e50a882d790c",
         "title": "报名开启丨“2020中国5G+工业互联网大会”5G+医疗健康专题会议等你来",
+        "title_eng": "Registration opens丨 2020 China 5G Industrial Internet Conference 5G medical and health conference is waiting for you",
         "nickname": "中国信通院CAICT",
         "created_at": "2020-11-16",
         "archive": "gh_ccd6562d7551_2020-11-16_2650788783_kJ7c2OgIiN.y.tar.gz",
@@ -8643,10 +8645,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjY1OTM4Mg==&mid=2650954325&idx=2&sn=95c78f658ab65f8ae04c600b369446db",
         "title": "公开库车检察：听证架起“连心桥”，促进行政争议实质性化解",
+        "title_eng": "Public procuratorial work in Kuche: Hearings set up a bridge of heart to promote the substantial resolution of administrative disputes",
         "nickname": "新疆检察",
         "created_at": "2020-11-17",
         "archive": "gh_644f262a3d2c_2020-11-17_2650954325_X7pmF8NZ65.y.tar.gz",
         "censored_date": "2020-11-17 16:01:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247547950&idx=2&sn=75f8b3c94982ac5b171094ea15e2c332",
+        "title": "杀害一家6口的嫌犯尸体找到了",
+        "nickname": "红星新闻",
+        "created_at": "2020-11-16",
+        "archive": "gh_1ede6c42db01_2020-11-16_2247547950_GlKScDiTn5.y.tar.gz",
+        "censored_date": "2020-11-17 16:37:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMjMxNTE3Ng==&mid=2247521292&idx=1&sn=28143fd22b4bf7fd6dd0b3f6fcbb91c4",
+        "title": "民政部副部长詹成付：贯彻落实党的十九届五中全会部署，提高基层治理水平",
+        "nickname": "中国社会组织动态",
+        "created_at": "2020-11-17",
+        "archive": "gh_05fa4e3406c0_2020-11-17_2247521292_ZfXPcqYk7C.y.tar.gz",
+        "censored_date": "2020-11-17 16:41:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
