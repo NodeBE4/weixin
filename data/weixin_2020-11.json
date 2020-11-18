@@ -9154,6 +9154,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTEzODczMQ==&mid=2702355239&idx=2&sn=09d406462976c82f9990f37ae90f300b",
         "title": "曾在日本卖出18万元/个！这种瓜在增城试种成功，卖多少钱？",
+        "title_eng": "Sold 180,000 yuan/unit in Japan! This melon was successfully tested in Zengcheng. How much does it cost?",
         "nickname": "增城日报",
         "created_at": "2020-11-18",
         "archive": "gh_3d6bfdcee280_2020-11-18_2702355239_CpnKU605qA.y.tar.gz",
@@ -9163,11 +9164,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc5OTEwMA==&mid=2935066250&idx=1&sn=b4ff53a2eeaf03173988d8d78ad949a8",
         "title": "又是几内亚湾...一商船遭海盗袭击，中国船员受枪伤",
+        "title_eng": "It's the Gulf of Guinea again... a merchant ship was attacked by pirates and a Chinese crew member was shot.",
         "nickname": "航运在线",
         "created_at": "2020-11-15",
         "archive": "gh_7efeb0fac3ad_2020-11-15_2935066250_1LKPQXldVp.y.tar.gz",
         "censored_date": "2020-11-19 00:52:21",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-11-16 16:22:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NDgyMjQ2OQ==&mid=2650344413&idx=3&sn=472c4995c16eb2110e1fefcdf9971455",
+        "title": "阿塞拜疆一夜成强国！到底有多少无人机？一查难怪亚美尼亚扛不住！",
+        "nickname": "军事风云",
+        "created_at": "2020-11-15",
+        "archive": "gh_900dd2893a42_2020-11-15_2650344413_X79E01CJMx.y.tar.gz",
+        "censored_date": "2020-11-19 01:35:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-17 08:06:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzM1OTgyMA==&mid=2651990786&idx=2&sn=ff12536f65fa7b568df78a64e226de38",
+        "title": "正在公示！遂宁拟认定9家中小企业公共服务平台",
+        "title_eng": "Publicizing! Suining intends to identify 9 public service platforms for SMEs",
+        "nickname": "在遂宁",
+        "created_at": "2020-11-16",
+        "archive": "gh_472719844fd1_2020-11-16_2651990786_CNLPxcOkfY.y.tar.gz",
+        "censored_date": "2020-11-19 01:29:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-17 14:45:38"
     }
 ]
