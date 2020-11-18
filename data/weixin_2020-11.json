@@ -8524,7 +8524,7 @@
         "archive": "gh_2b00d0c19228_2020-11-17_2247533355_CMNx4K1i7h.y.tar.gz",
         "censored_date": "2020-11-17 08:58:43",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-18 14:23:33"
+        "update_date": "2020-11-18 21:44:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651885616&idx=2&sn=e22df6c5d39d73b882ded5def3309ef3",
@@ -8932,7 +8932,7 @@
         "archive": "gh_8f29429f71d7_2020-11-17_2247503459_7o9zUHtwG2.y.tar.gz",
         "censored_date": "2020-11-18 14:54:10",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-17 15:03:12"
+        "update_date": "2020-11-18 21:59:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650910623&idx=1&sn=b5f65c9905857c1bfaabe1db4178058c",
@@ -9029,5 +9029,23 @@
         "censored_date": "2020-11-18 19:48:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-18 10:40:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNjgwNTIwNA==&mid=2247485537&idx=2&sn=1887ab68cb58b5b91697578f19345ec0",
+        "title": "形势逆转！关键时刻黑石苏世民力挺川普",
+        "nickname": "平民新世界",
+        "created_at": "2020-11-17",
+        "archive": "gh_2f53a9e900c6_2020-11-17_2247485537_1vNxKLQCqj.y.tar.gz",
+        "censored_date": "2020-11-18 21:41:56",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649894331&idx=1&sn=b925db73192c904be940dbd152500a66",
+        "title": "信息技术的未来：人机物跨界融合",
+        "nickname": "人工智能学家",
+        "created_at": "2020-11-17",
+        "archive": "gh_3ed4b779ca77_2020-11-17_2649894331_ILTluihGnF.y.tar.gz",
+        "censored_date": "2020-11-18 21:46:16",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
