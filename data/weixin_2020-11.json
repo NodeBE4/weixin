@@ -8678,7 +8678,7 @@
         "archive": "gh_05fa4e3406c0_2020-11-17_2247521292_ZfXPcqYk7C.y.tar.gz",
         "censored_date": "2020-11-17 16:41:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-18 21:07:50"
+        "update_date": "2020-11-19 02:27:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyOTU4NDUyNw==&mid=2247496562&idx=1&sn=9abac8a9ee8ef4b14ae787e89de4bc40",
@@ -9040,7 +9040,8 @@
         "created_at": "2020-11-17",
         "archive": "gh_2f53a9e900c6_2020-11-17_2247485537_1vNxKLQCqj.y.tar.gz",
         "censored_date": "2020-11-18 21:41:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-19 03:02:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649894331&idx=1&sn=b925db73192c904be940dbd152500a66",
@@ -9050,7 +9051,8 @@
         "created_at": "2020-11-17",
         "archive": "gh_3ed4b779ca77_2020-11-17_2649894331_ILTluihGnF.y.tar.gz",
         "censored_date": "2020-11-18 21:46:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-19 03:06:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650362962&idx=4&sn=7ec88339396a9da146d883482ff47d7d",
@@ -9175,6 +9177,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDgyMjQ2OQ==&mid=2650344413&idx=3&sn=472c4995c16eb2110e1fefcdf9971455",
         "title": "阿塞拜疆一夜成强国！到底有多少无人机？一查难怪亚美尼亚扛不住！",
+        "title_eng": "Azerbaijan became a powerful nation overnight! How many drones are there? No wonder Armenia can't hold it!",
         "nickname": "军事风云",
         "created_at": "2020-11-15",
         "archive": "gh_900dd2893a42_2020-11-15_2650344413_X79E01CJMx.y.tar.gz",
@@ -9192,5 +9195,14 @@
         "censored_date": "2020-11-19 01:29:25",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-17 14:45:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652103572&idx=1&sn=edc0ae129d6de3b1b22587cb58f9e704",
+        "title": "看看美国人是怎样介绍马云的？",
+        "nickname": "人民视野2018",
+        "created_at": "2020-11-17",
+        "archive": "gh_4b9b0448fa81_2020-11-17_2652103572_REoXqC6AuT.y.tar.gz",
+        "censored_date": "2020-11-19 02:33:48",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
