@@ -8944,7 +8944,7 @@
         "archive": "gh_9d4eb92add23_2020-11-17_2650910623_et7ABNQ1fn.y.tar.gz",
         "censored_date": "2020-11-18 15:01:57",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-17 14:41:51"
+        "update_date": "2020-11-19 23:24:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247550835&idx=6&sn=543c8a6155cfed4d7c2215c34033c6d6",
@@ -9530,7 +9530,8 @@
         "created_at": "2020-11-18",
         "archive": "gh_be5c51ac4705_2020-11-18_2652562581_dlV7Ij196Q.y.tar.gz",
         "censored_date": "2020-11-19 20:36:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-19 23:17:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODE3MjkwMw==&mid=2651761648&idx=1&sn=68cd4651ef250d968cebeac0d7676e0f",
@@ -9545,6 +9546,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657537199&idx=1&sn=9f45432e1dd1ef5533ea1f0f6d2ff4a6",
         "title": "新发展格局下，在华外企机遇何在？关心哪些问题？",
+        "title_eng": "Under the new development pattern, what are the opportunities for foreign companies in China? What issues do you care about?",
         "nickname": "经济日报",
         "created_at": "2020-11-16",
         "archive": "gh_a09deab6adec_2020-11-16_2657537199_ENAPnl3gGs.y.tar.gz",
@@ -9555,11 +9557,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzQwMTQ3OQ==&mid=2649491866&idx=1&sn=7c4b8d9e0a69122c02fa0a553941e2df",
         "title": "惊曝！涉嫌舞弊的大选计票服务器，被美国陆军查封！涉案人寝食难安...",
+        "title_eng": "Shocked! The vote-counting server suspected of fraud was blocked by the US Army! The person involved has trouble sleeping and eating...",
         "nickname": "洛杉矶华人圈",
         "created_at": "2020-11-15",
         "archive": "gh_179ef88e69be_2020-11-15_2649491866_thrC3qF0od.y.tar.gz",
         "censored_date": "2020-11-19 22:19:34",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-11-18 12:52:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMDA1ODE4MA==&mid=2650108981&idx=1&sn=4b28fd017965b53e9692c6c81fd11ea4",
+        "title": "龙帅归来，竟不顾一切娶全城第一丑女... 第二天，岳父看到女婿的文件后吓得瑟瑟发抖..",
+        "nickname": "武山圈子",
+        "created_at": "2020-11-17",
+        "archive": "gh_055421be661a_2020-11-17_2650108981_tEFdq8DV3v.y.tar.gz",
+        "censored_date": "2020-11-19 22:33:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-18 13:15:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247514398&idx=1&sn=f0a36daabff50777ec6e7aa0bcbfeb1a",
+        "title": "废掉一个人最狠的方式，就是让他一直忙",
+        "nickname": "女律师札记",
+        "created_at": "2020-11-17",
+        "archive": "gh_06140cfad959_2020-11-17_2247514398_y7Z3Gk9HrA.y.tar.gz",
+        "censored_date": "2020-11-19 23:09:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-18 14:32:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzUyOTkyNQ==&mid=2247494262&idx=1&sn=dabf4f31a91142385e865e3e80f18637",
+        "title": "南方周末特稿：抓捕孙大午（黄道、黑道与正道）",
+        "title_eng": "Southern Weekend Feature: Capture Sun Dayu (Zodiac, Underworld and Righteous Path)",
+        "nickname": "新顶尖悦读",
+        "created_at": "2020-11-17",
+        "archive": "gh_88e9499896f5_2020-11-17_2247494262_luS0hT1i6n.y.tar.gz",
+        "censored_date": "2020-11-19 22:30:01",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-18 13:12:13"
     }
 ]
