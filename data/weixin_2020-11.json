@@ -9472,7 +9472,8 @@
         "created_at": "2020-11-19",
         "archive": "gh_50ff51071597_2020-11-19_2650895973_AfmKdBEDwC.y.tar.gz",
         "censored_date": "2020-11-19 15:23:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-20 21:42:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODEwMDY3OA==&mid=2651453826&idx=1&sn=43ef7ebb24a5b17e447240c4798319d3",
@@ -9972,7 +9973,7 @@
         "archive": "gh_e1eebb77452d_2020-11-19_2247491024_K34tf6xjb7.y.tar.gz",
         "censored_date": "2020-11-20 19:35:58",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-11-19 17:03:00"
+        "update_date": "2020-11-20 21:58:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzAyMzM2MA==&mid=2650601629&idx=1&sn=c2f0144aab01c4f7808948dfcabebcff",
@@ -10003,11 +10004,12 @@
         "archive": "gh_b0f015892c4a_2020-11-19_2652974223_GWyDuK7Lgx.y.tar.gz",
         "censored_date": "2020-11-20 19:54:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-19 17:13:10"
+        "update_date": "2020-11-20 22:15:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247506142&idx=1&sn=114912cc5091d4ed2fe9b7c69ed6221a",
         "title": "马云赵薇都膜拜的神棍，忽悠大半个中国，离奇死亡的背后……",
+        "title_eng": "The god-stick that Ma Yun and Zhao Wei worshipped, fooled most of China, behind the bizarre death...",
         "nickname": "法苑茶语",
         "created_at": "2020-11-19",
         "archive": "gh_bf54f24b2e87_2020-11-19_2247506142_BQWqYmNwM7.y.tar.gz",
@@ -10018,6 +10020,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650439382&idx=1&sn=bf64103b3404ad752e5aa0dacca59fca",
         "title": "突然宣布！今晚，炒房的要哭了！！",
+        "title_eng": "Suddenly announced! Tonight, the real estate speculators are about to cry! !",
         "nickname": "经济时代刊",
         "created_at": "2020-11-19",
         "archive": "gh_e1b15dc41ffc_2020-11-19_2650439382_IdS6st1L7Y.y.tar.gz",
@@ -10028,6 +10031,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650439382&idx=4&sn=43b2f5f85306a2553e0862279fef0c9f",
         "title": "两大中国首富双双被重挫，释放信号强烈",
+        "title_eng": "The two richest men in China were both hit hard, releasing strong signals",
         "nickname": "经济时代刊",
         "created_at": "2020-11-19",
         "archive": "gh_e1b15dc41ffc_2020-11-19_2650439382_lj3wRgOh1c.y.tar.gz",
@@ -10038,6 +10042,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650439265&idx=2&sn=d8e9479c0637760be404e1e450fb2c11",
         "title": "深度 | 特朗普是助力RCEP的功臣 ？很多人蠢到没脑子！",
+        "title_eng": "Depth | Trump is the hero of RCEP? Many people are too stupid!",
         "nickname": "经济时代刊",
         "created_at": "2020-11-18",
         "archive": "gh_e1b15dc41ffc_2020-11-18_2650439265_cNB5kzT12e.y.tar.gz",
@@ -10054,5 +10059,15 @@
         "censored_date": "2020-11-20 20:55:08",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-11-19 16:47:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247485470&idx=3&sn=b3815c9f26106ccee37f81cc435b764f",
+        "title": "华为断腕自救！！任正非悲壮发声：除了胜利，华为无路可走！",
+        "nickname": "国际局势解读",
+        "created_at": "2020-11-19",
+        "archive": "gh_e7ec33b5ef38_2020-11-19_2247485470_0H9QCmJ4DA.y.tar.gz",
+        "censored_date": "2020-11-20 22:08:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-19 17:38:48"
     }
 ]
