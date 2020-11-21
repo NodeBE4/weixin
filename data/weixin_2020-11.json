@@ -10431,6 +10431,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247509139&idx=2&sn=c9654a62270444e5f61cb26187509143",
         "title": "提个醒：营养是鸡蛋的14倍，是牛奶的7.5倍，现在多吃，抵抗力提高10倍！全家受益！",
+        "title_eng": "A reminder: The nutrition is 14 times that of eggs and 7.5 times that of milk. Now eat more and your resistance will increase 10 times! The whole family benefits!",
         "nickname": "万小刀",
         "created_at": "2020-11-21",
         "archive": "gh_db3c2486e7de_2020-11-21_2247509139_S5BnIAYL7H.y.tar.gz",
@@ -10440,10 +10441,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjAxMzE5OTMyMQ==&mid=2654132026&idx=1&sn=bc256dca839211927b7058d31000a74e",
         "title": "@大连人 速来领取冬天的第一个温暖，免费送口罩、保温杯啦！",
+        "title_eng": "@大连人 Come and receive the first warmth of winter, free masks and thermos!",
         "nickname": "半岛晨报",
         "created_at": "2020-11-20",
         "archive": "wxid_4942649426112_2020-11-20_2654132026_HuOQcSbIWl.y.tar.gz",
         "censored_date": "2020-11-21 17:46:32",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjMxNTM0NzE0MQ==&mid=2653356604&idx=1&sn=8e7af074879d93d093cacd44ecdec280",
+        "title": "淘宝群引导成交破亿？商家私域消费者运营，藏着巨大机会",
+        "title_eng": "Taobao group leads the turnover to break 100 million? Business private domain consumer operation, hiding huge opportunities",
+        "nickname": "天下网商",
+        "created_at": "2020-11-21",
+        "archive": "wxid_4332343323311_2020-11-21_2653356604_OjTRQSc076.y.tar.gz",
+        "censored_date": "2020-11-21 18:21:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDUwNTkzMA==&mid=2247485911&idx=1&sn=c99edf96d1bebfef4ed160ec13b8bade",
+        "title": "卢跃刚：史德和史识",
+        "nickname": "丁东小群",
+        "created_at": "2020-11-20",
+        "archive": "gh_6980a686f2d6_2020-11-20_2247485911_IxZ2urLYhn.y.tar.gz",
+        "censored_date": "2020-11-21 18:33:18",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-11-20 13:05:43"
     }
 ]
