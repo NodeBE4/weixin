@@ -11060,6 +11060,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653221649&idx=1&sn=d5d7c4ca892408d4c70e7eac8889f082",
         "title": "有处小院，品雕、赏香，看风景",
+        "title_eng": "There is a small courtyard where you can enjoy sculptures, incense and see the scenery",
         "nickname": "腾飞讲史",
         "created_at": "2020-11-20",
         "archive": "gh_8492bb8e8be7_2020-11-20_2653221649_VCoWzKk4l2.y.tar.gz",
@@ -11070,6 +11071,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489465&idx=2&sn=ba527e2d8715eec7c04e8eeaff49da92",
         "title": "指望欧盟反击美国，母猪都能上树了！",
+        "title_eng": "Count on the European Union to fight back against the United States, and sows will be able to climb the tree!",
         "nickname": "江南隐士",
         "created_at": "2020-11-21",
         "archive": "gh_65f5271d2a21_2020-11-21_2247489465_Fz70KRtb3A.y.tar.gz",
@@ -11080,6 +11082,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247506280&idx=1&sn=2fcbc20e28bbd89660168cfe1fbced84",
         "title": "干部任前公示（2020年11月22日）",
+        "title_eng": "Announcement before appointment of cadres (November 22, 2020)",
         "nickname": "法苑茶语",
         "created_at": "2020-11-22",
         "archive": "gh_bf54f24b2e87_2020-11-22_2247506280_gZP0RnOjYJ.y.tar.gz",
@@ -11090,6 +11093,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247506280&idx=6&sn=e331770c6f4885ca43e9fd631a9cfe67",
         "title": "从一个烟头来分析基层干部……绝了！",
+        "title_eng": "From a cigarette butt to analyze the grassroots cadres...absolutely!",
         "nickname": "法苑茶语",
         "created_at": "2020-11-22",
         "archive": "gh_bf54f24b2e87_2020-11-22_2247506280_xXCqWcwpAB.y.tar.gz",
@@ -11100,11 +11104,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496825&idx=7&sn=2fa363f7fac4ac6ac3d470687fd8fd73",
         "title": "羽绒服洗一次少穿3年！这样做，30秒污渍自动消失，衣服干净如新",
+        "title_eng": "Wash down jackets and wear them for 3 years less! Do this, the stain will disappear automatically within 30 seconds, and the clothes will be as clean as new",
         "nickname": "中西ABC",
         "created_at": "2020-11-21",
         "archive": "gh_fc276be154e5_2020-11-21_2247496825_0eRWoCl6Mi.y.tar.gz",
         "censored_date": "2020-11-23 23:19:07",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-22 17:43:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650279618&idx=2&sn=f0b39d2ef0ddcf6198c182b454afe765",
+        "title": "高安蓝坊成功抓捕万载重大刑事案件逃犯！目击者讲述落网细节",
+        "title_eng": "Gaoan Lanfang successfully arrested the fugitive from Wanzai's major criminal case! Witnesses tell the details of the arrest",
+        "nickname": "高安百事通",
+        "created_at": "2020-11-22",
+        "archive": "gh_1d97537c840d_2020-11-22_2650279618_EmKCqxNvih.y.tar.gz",
+        "censored_date": "2020-11-23 23:52:01",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
