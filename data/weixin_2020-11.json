@@ -10825,7 +10825,8 @@
         "created_at": "2020-11-22",
         "archive": "gh_26762a56c129_2020-11-22_2247488875_yxmXigwzFW.y.tar.gz",
         "censored_date": "2020-11-23 10:05:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-23 14:31:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247518674&idx=3&sn=99c4f53e290aa699c0e3a359876399d9",
@@ -10896,6 +10897,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649808879&idx=3&sn=bb98c9d3878a3b9df94cc9594ba70b50",
         "title": "硕博士都在学的Python神技，有大神带！",
+        "title_eng": "The Python magic skills that masters and doctors are learning, there are great gods!",
         "nickname": "近现代史论",
         "created_at": "2020-11-21",
         "archive": "gh_ef9695b6d53c_2020-11-21_2649808879_f8Xs0Vwnet.y.tar.gz",
@@ -10906,6 +10908,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI0NTUwNQ==&mid=2653966224&idx=2&sn=1d870415c3c32c1e659545d79ccd2971",
         "title": "她10年前惨遭男友抛弃，46岁迷倒20岁小鲜肉：越活越美的女人，都做到了这一点",
+        "title_eng": "She was tragically abandoned by her boyfriend 10 years ago. At the age of 46, she fell in love with the 20-year-old young meat: the more beautiful women, they have done this",
         "nickname": "书房记",
         "created_at": "2020-11-22",
         "archive": "gh_a35521027098_2020-11-22_2653966224_Bph3ZzHxug.y.tar.gz",
@@ -10923,5 +10926,16 @@
         "censored_date": "2020-11-23 13:44:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-22 11:10:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5NjU0NDU1OA==&mid=2247564020&idx=2&sn=88b2efd7f253ba7fbcb72f1e46b2498d",
+        "title": "特约 | 风暴来临！房价突发大调整，2020新的暴力行业即将出现...",
+        "title_eng": "Special offer | The storm is coming! There is a sudden big adjustment in housing prices, and new violent industries are about to emerge in 2020...",
+        "nickname": "新三届",
+        "created_at": "2020-11-23",
+        "archive": "gh_4c1810cb0fcf_2020-11-23_2247564020_WC4Qs9Je0w.y.tar.gz",
+        "censored_date": "2020-11-23 14:29:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-23 14:49:34"
     }
 ]
