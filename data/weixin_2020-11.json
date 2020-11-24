@@ -11381,6 +11381,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjE3MTQ0NA==&mid=2247501756&idx=4&sn=bfdf338c3fb761af088db2f5b0d884bd",
         "title": "新任副省长，已任省政府党组书记",
+        "title_eng": "Newly appointed deputy governor, has served as secretary of the provincial government",
         "nickname": "不是官话",
         "created_at": "2020-11-22",
         "archive": "gh_df94c5c63559_2020-11-22_2247501756_8Lg0VDu67H.y.tar.gz",
@@ -11390,6 +11391,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650152587&idx=1&sn=c3a512b8d0a76a53b3441a38ccc4a9b0",
         "title": "调查|大午集团再涉刑案背后：土地争议由何而来",
+        "title_eng": "Investigation|Behind Dawu Group's Criminal Case Again: Where did the land dispute come from?",
         "nickname": "财新网",
         "created_at": "2020-11-22",
         "archive": "caixinwang_2020-11-22_2650152587_rMKFyCInTg.y.tar.gz",
@@ -11399,10 +11401,65 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjE3MTQ0NA==&mid=2247501756&idx=1&sn=32627ea6ec943fc2888ecc495a15d84a",
         "title": "“敢言”的省委副书记，出任省政府党组书记",
+        "title_eng": "Dare to speak the deputy secretary of the provincial party committee, serving as the secretary of the provincial government party group",
         "nickname": "不是官话",
         "created_at": "2020-11-22",
         "archive": "gh_df94c5c63559_2020-11-22_2247501756_KcdxfozGtV.y.tar.gz",
         "censored_date": "2020-11-24 21:42:41",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496839&idx=7&sn=875d64d63acd117f31de28ec48f83a81",
+        "title": "冬季必备这个除毛衣球的黑科技，一秒除毛，干净利落！",
+        "nickname": "中西ABC",
+        "created_at": "2020-11-23",
+        "archive": "gh_fc276be154e5_2020-11-23_2247496839_U10jVQ6e5Y.y.tar.gz",
+        "censored_date": "2020-11-24 22:30:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-24 13:19:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496839&idx=5&sn=1bdf3b0bae8c48e848c5f7f81d5606b5",
+        "title": "家道（深度好文）",
+        "title_eng": "Family Dao (In-depth Good Writing)",
+        "nickname": "中西ABC",
+        "created_at": "2020-11-23",
+        "archive": "gh_fc276be154e5_2020-11-23_2247496839_v0oPQZbzWj.y.tar.gz",
+        "censored_date": "2020-11-24 22:29:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-24 13:18:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496839&idx=3&sn=d8710a8dc87c6c091d5e1e59b6342efa",
+        "title": "一家四口从华山跳崖死亡：人为财死，鸟为食亡！",
+        "title_eng": "A family of four died by jumping off the cliff from Mount Hua: people died for money, and birds died for food!",
+        "nickname": "中西ABC",
+        "created_at": "2020-11-23",
+        "archive": "gh_fc276be154e5_2020-11-23_2247496839_cU7x3pF8ts.y.tar.gz",
+        "censored_date": "2020-11-24 22:28:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-24 13:17:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496839&idx=1&sn=c6f542f3c1ef926eec61bff1926fefd8",
+        "title": "重磅！美政府宣布将开始全民免费接种新冠疫苗！加拿大人均10支",
+        "title_eng": "Heavy! The U.S. government announced that it will start free vaccinations for all people! 10 per capita in Canada",
+        "nickname": "中西ABC",
+        "created_at": "2020-11-23",
+        "archive": "gh_fc276be154e5_2020-11-23_2247496839_029F1eElh8.y.tar.gz",
+        "censored_date": "2020-11-24 22:28:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-24 13:17:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247496839&idx=6&sn=193748bf9f2aa5d1d07c2648ea4d79b7",
+        "title": "小雪养生：吃好三样，喝好三样，做好三样",
+        "title_eng": "Xiaoxue Health: Eat three well, drink three well, make three well",
+        "nickname": "中西ABC",
+        "created_at": "2020-11-23",
+        "archive": "gh_fc276be154e5_2020-11-23_2247496839_045BaCe9mU.y.tar.gz",
+        "censored_date": "2020-11-24 22:29:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-23 15:40:43"
     }
 ]
