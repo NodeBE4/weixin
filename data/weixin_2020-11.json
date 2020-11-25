@@ -11721,6 +11721,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649808942&idx=1&sn=55f40dc6803093e2fdb93a9744024b54",
         "title": "取代房子，这才是未来五年最好的投资...",
+        "title_eng": "Replace the house, this is the best investment in the next five years...",
         "nickname": "近现代史论",
         "created_at": "2020-11-23",
         "archive": "gh_ef9695b6d53c_2020-11-23_2649808942_4fbTUuypZJ.y.tar.gz",
@@ -11752,6 +11753,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650085012&idx=2&sn=5ce12bda060a941e7990acb0c49b22f6",
         "title": "娃的湿疹、痱子、蚊子包有救了！轻轻抹上它，消肿又止痒！",
+        "title_eng": "The baby’s eczema, prickly heat, and mosquitoes are saved! Apply it gently to reduce swelling and itching!",
         "nickname": "掌心大同",
         "created_at": "2020-11-23",
         "archive": "gh_69043f48c02f_2020-11-23_2650085012_gEFuPAVpbQ.y.tar.gz",
@@ -11762,11 +11764,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247555943&idx=6&sn=dc9137051333a5222b34f860ff11cba4",
         "title": "人丑就要多读书",
+        "title_eng": "If you are ugly, read more",
         "nickname": "浪潮工作室",
         "created_at": "2020-11-22",
         "archive": "gh_0199c7d26b97_2020-11-22_2247555943_Wurz0MkJF4.y.tar.gz",
         "censored_date": "2020-11-26 01:05:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-23 14:26:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650491163&idx=2&sn=a5e2cfce57979d5f9475febac13ccd3c",
+        "title": "蚂蚁小贷100亿ABS获放行？上交所辟谣：还没通过",
+        "nickname": "界面新闻",
+        "created_at": "2020-11-24",
+        "archive": "gh_93119cc8064a_2020-11-24_2650491163_1pqs7APudO.y.tar.gz",
+        "censored_date": "2020-11-26 01:39:58",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
