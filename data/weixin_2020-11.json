@@ -11262,7 +11262,7 @@
         "archive": "gh_e7ec33b5ef38_2020-11-23_2247485489_Iv4ft751Ob.y.tar.gz",
         "censored_date": "2020-11-24 14:05:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-11-23 16:05:34"
+        "update_date": "2020-11-25 17:55:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652206046&idx=4&sn=75b6ac2ef1740c4cc00c316f9152c0f5",
@@ -11608,6 +11608,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDAzODg3NA==&mid=2650244170&idx=5&sn=d60795a0b7230dcd78899215221bafc9",
         "title": "【图片新闻】总投资超百万 赛得利年产50万吨莱赛尔项目开工…………今天纺织圈有大事！",
+        "title_eng": "[Picture News] The total investment exceeds one million. Sateri's 500,000-ton-a-year Lyocell project has started............ There is a major event in the textile industry today!",
         "nickname": "中国纱线网",
         "created_at": "2020-11-24",
         "archive": "gh_74628836ab1f_2020-11-24_2650244170_u3NV8ltLsn.y.tar.gz",
@@ -11618,11 +11619,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660461659&idx=2&sn=4815477fa3ffe654dfb4eb878fdb182c",
         "title": "选对圈子，一切都对了|徐瑾私塾第0期内测",
+        "title_eng": "Choose the right circle, everything is right | Xu Jin Private School Phase 0 Beta",
         "nickname": "徐瑾经济人",
         "created_at": "2020-11-24",
         "archive": "gh_1137e6936d9f_2020-11-24_2660461659_Dnz4hO6lAU.y.tar.gz",
         "censored_date": "2020-11-25 16:51:24",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-24 16:33:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247489829&idx=1&sn=36edde60f7b50f4078c270eb7f2b9edb",
+        "title": "白酒的奥秘：几十元和几千元白酒的区别， 说出来你都不信！",
+        "title_eng": "The mystery of liquor: the difference between tens of yuan and thousands of yuan, you don’t believe it!",
+        "nickname": "海外独立频道",
+        "created_at": "2020-11-24",
+        "archive": "gh_fe6bb4bdd14d_2020-11-24_2247489829_oE1DbxAm7l.y.tar.gz",
+        "censored_date": "2020-11-25 17:55:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyMzE4Njc3Mg==&mid=2247540292&idx=1&sn=a417ad39b64c945a45bd5d77b51ef01f",
+        "title": "突发！特朗普认输，接受拜登胜选，开始交接程序，大选尘埃落定",
+        "nickname": "加拿大中文报",
+        "created_at": "2020-11-24",
+        "archive": "gh_d8ee703d4de1_2020-11-24_2247540292_V6tQpkanAL.y.tar.gz",
+        "censored_date": "2020-11-25 18:11:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-24 14:56:55"
     }
 ]
