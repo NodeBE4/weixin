@@ -12364,6 +12364,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247540308&idx=6&sn=0621e039ab3024dcbbf3fd2f773856d6",
         "title": "我，普通会计，月薪6000，用2年时间考过CPA，实现人生逆袭！",
+        "title_eng": "I, a general accountant, have a monthly salary of 6000. I have taken the CPA test in 2 years to achieve a counterattack in life!",
         "nickname": "演讲与人生",
         "created_at": "2020-11-25",
         "archive": "gh_e525ae7f03af_2020-11-25_2247540308_T9IcDkutBq.y.tar.gz",
@@ -12374,11 +12375,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652715062&idx=3&sn=16ee57c857608b4ebe93c5a9332b9df7",
         "title": "冬日穿搭，没它不行",
+        "title_eng": "Wear it in winter, it won't work without it",
         "nickname": "8号风曝",
         "created_at": "2020-11-25",
         "archive": "gh_a0404706a1d9_2020-11-25_2652715062_b5lFJUjXMA.y.tar.gz",
         "censored_date": "2020-11-28 03:46:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-25 15:30:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2OTYzNTYzNg==&mid=2247489332&idx=1&sn=0475a0ad82483b0fb4c2be760ad17e61",
+        "title": "作为少数人的我们当仁不让",
+        "nickname": "汉尊2",
+        "created_at": "2020-11-26",
+        "archive": "gh_389cfb2543d3_2020-11-26_2247489332_DC52vP1o7G.y.tar.gz",
+        "censored_date": "2020-11-28 04:35:19",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
