@@ -12615,6 +12615,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650439910&idx=3&sn=ec68f0006651b04ff73e58db1f2374c8",
         "title": "大势已去！特朗普认输了…",
+        "title_eng": "The trend is over! Trump conceded...",
         "nickname": "经济时代刊",
         "created_at": "2020-11-26",
         "archive": "gh_e1b15dc41ffc_2020-11-26_2650439910_2GNfakzO3h.y.tar.gz",
@@ -12636,6 +12637,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650013419&idx=1&sn=cafa201884accf3e345fcfe3584d1e93",
         "title": "恒丰美林谢峰董事长拜会合肥市委书记虞爱华同志",
+        "title_eng": "Chairman Xie Feng of Hengfeng Merrill Lynch called on Comrade Yu Aihua, Secretary of the Hefei Municipal Party Committee",
         "nickname": "恒丰美林大投管",
         "created_at": "2020-11-26",
         "archive": "gh_dddf1591efa6_2020-11-26_2650013419_Ju0GX8LH03.y.tar.gz",
@@ -12645,10 +12647,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650013446&idx=1&sn=370858413172cba5bc54c6fc6f6f881a",
         "title": "恒丰美林谢峰董事长拜会河南副省长戴柏华同志",
+        "title_eng": "Chairman of Hengfeng Merrill Lynch Xie Feng called on Comrade Dai Bohua, Vice Governor of Henan",
         "nickname": "恒丰美林大投管",
         "created_at": "2020-11-27",
         "archive": "gh_dddf1591efa6_2020-11-27_2650013446_dX082gU7tb.y.tar.gz",
         "censored_date": "2020-11-29 04:00:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MDgyNzIxNQ==&mid=2650573546&idx=1&sn=eb7ff3ec84db71c8daebf48a92db9088",
+        "title": "2020年1至10月山东省检察机关主要办案数据",
+        "nickname": "山东省人民检察院",
+        "created_at": "2020-11-27",
+        "archive": "gh_9b1d78621e0e_2020-11-27_2650573546_NEbJ382KR0.y.tar.gz",
+        "censored_date": "2020-11-29 04:33:21",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
