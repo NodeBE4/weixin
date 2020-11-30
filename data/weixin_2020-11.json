@@ -13181,6 +13181,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAzMDkyMA==&mid=2650797254&idx=1&sn=63418ea7d9fd4fe00f13dd622c78b5e7",
         "title": "2020嘉兴装修人最后薅羊毛的机会来了！收好这份攻略，省下好几万~",
+        "title_eng": "In 2020, Jiaxing decorators have the last chance to gather wool! Collect this guide and save tens of thousands~",
         "nickname": "嘉兴第九区",
         "created_at": "2020-11-28",
         "archive": "gh_6d397d8a037d_2020-11-28_2650797254_0cnzQSW7Uq.y.tar.gz",
@@ -13191,6 +13192,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAzMDkyMA==&mid=2650797254&idx=3&sn=1f7cc5477f0c5814a010bde8b7d22b89",
         "title": "抢！嘉兴洪波路一工厂店年终大促，全场50元起！羽绒服、双面呢大衣最低99元！",
+        "title_eng": "grab! Year-end promotion at the No. 1 Factory Store on Hongbo Road, Jiaxing, starting from RMB 50! Down jackets and double-sided woolen coats are as low as 99 yuan!",
         "nickname": "嘉兴第九区",
         "created_at": "2020-11-28",
         "archive": "gh_6d397d8a037d_2020-11-28_2650797254_RD7nSWwgmQ.y.tar.gz",
@@ -13212,6 +13214,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503459&idx=6&sn=4f85ed9f8c70ced9ba9377f17968fc8d",
         "title": "95%的商品零关税！全球最大自贸区诞生！",
+        "title_eng": "95% of goods have zero tariffs! The world's largest free trade zone is born!",
         "nickname": "海外财经",
         "created_at": "2020-11-17",
         "archive": "gh_8f29429f71d7_2020-11-17_2247503459_OMB3bLgkdY.y.tar.gz",
@@ -13222,11 +13225,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503459&idx=5&sn=d1dd71d0833f414c7a4e3e86b79bc83f",
         "title": "华为出售荣耀……",
+        "title_eng": "Huawei sells glory...",
         "nickname": "海外财经",
         "created_at": "2020-11-17",
         "archive": "gh_8f29429f71d7_2020-11-17_2247503459_GOpJA9PLdx.y.tar.gz",
         "censored_date": "2020-11-30 20:40:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-11-29 16:29:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651344729&idx=1&sn=f3ea83c47a0319de6db1d8dbd18b5429",
+        "title": "女明星因质疑钟南山被禁言",
+        "nickname": "百姓关注话题",
+        "created_at": "2020-11-29",
+        "archive": "gh_a0b79e79b274_2020-11-29_2651344729_gsq1h9uUrC.y.tar.gz",
+        "censored_date": "2020-11-30 21:43:37",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
