@@ -1569,7 +1569,7 @@
         "archive": "gh_fbf78f223631_2020-11-30_2247504908_JLn3G0qI04.y.tar.gz",
         "censored_date": "2020-11-30 17:03:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-01 16:16:12"
+        "update_date": "2020-12-02 04:02:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MTk0MDA3Nw==&mid=2247498404&idx=4&sn=828f25903d4fab5015b76dbf3ee46f06",
@@ -1634,7 +1634,7 @@
         "archive": "gh_a0b79e79b274_2020-11-29_2651344729_gsq1h9uUrC.y.tar.gz",
         "censored_date": "2020-11-30 21:43:37",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-12-01 00:13:54"
+        "update_date": "2020-12-02 03:23:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQyMjAyMg==&mid=2650011290&idx=6&sn=19786428b0bd00555904d2dfe25f1181",
@@ -1655,7 +1655,8 @@
         "created_at": "2020-11-30",
         "archive": "gh_a9e59d63f206_2020-11-30_2676323786_kZ1GECb0zI.y.tar.gz",
         "censored_date": "2020-12-01 02:01:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-02 03:22:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651354145&idx=1&sn=8bb2de09b61342050ff4fd22484550c7",
@@ -1932,6 +1933,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mjk2NjEyNw==&mid=2651613401&idx=1&sn=885d49beca653be1a53ff145a89a9c3d",
         "title": "又来",
+        "title_eng": "Come again",
         "nickname": "格林威治嬉皮研究公社",
         "created_at": "2020-11-30",
         "archive": "gh_929de71f2df8_2020-11-30_2651613401_VxNa9WcbFt.y.tar.gz",
@@ -1941,6 +1943,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247504174&idx=2&sn=79d505773629b8ba01a6161ca0dee5d2",
         "title": "时代周刊权威推荐，和孩子一起冒险、成长。",
+        "title_eng": "The authoritative recommendation of Time Magazine, take risks and grow up with your children.",
         "nickname": "环球冷眼",
         "created_at": "2020-11-29",
         "archive": "gh_1aecabdf0add_2020-11-29_2247504174_VRBAPWoGkq.y.tar.gz",
@@ -1951,10 +1954,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247494588&idx=2&sn=cfd9c151b9b4c3f1f90cce0373aa8395",
         "title": "93年女孩月薪4800，攒了2套房：你缺的是这种思维！",
+        "title_eng": "In 1993, the girl had a monthly salary of 4800 and saved 2 sets: what you lack is this kind of thinking!",
         "nickname": "老板思维论",
         "created_at": "2020-11-29",
         "archive": "gh_69f7ba479665_2020-11-29_2247494588_y6gbxNYL4j.y.tar.gz",
         "censored_date": "2020-12-02 02:42:50",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503765&idx=1&sn=7689210385de4e56e354bc84c4c864d1",
+        "title": "这轮牛市，估计要创新高了",
+        "title_eng": "This bull market is expected to hit a new high",
+        "nickname": "海外财经",
+        "created_at": "2020-11-30",
+        "archive": "gh_8f29429f71d7_2020-11-30_2247503765_XElKCDy6Nt.y.tar.gz",
+        "censored_date": "2020-12-02 03:29:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-30 22:32:42"
     }
 ]
