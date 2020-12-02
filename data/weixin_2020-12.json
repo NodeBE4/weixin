@@ -2009,6 +2009,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247516148&idx=1&sn=a8fcae4fa02e9192aff353bd00d3242f",
         "title": "魔幻2020的“B面”：股市火爆，互联网券商起飞",
+        "title_eng": "The B side of Magic 2020: The stock market is booming, Internet brokers take off",
         "nickname": "华尔街见闻",
         "created_at": "2020-11-29",
         "archive": "gh_64b9211187ab_2020-11-29_2247516148_nhyeNkRV2A.y.tar.gz",
@@ -2018,10 +2019,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTYwNzYwOQ==&mid=2655590775&idx=1&sn=657b6c3777518cdde8286672e9fa744c",
         "title": "薛兆丰：反垄断法拓宽寻租之门",
+        "title_eng": "Xue Zhaofeng: Anti-monopoly law broadens the door to rent-seeking",
         "nickname": "人文学会",
         "created_at": "2020-11-26",
         "archive": "gh_506f6d75187f_2020-11-26_2655590775_lvx90aHJ0w.y.tar.gz",
         "censored_date": "2020-12-02 08:41:50",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804615&idx=1&sn=7a9f83823eb144f37700b5f2141fcc36",
+        "title": "第七次全国人口普查结果出来了 ，中国最新姓氏人口数目的排名。附中国100大姓氏图腾大全，看看你的姓氏图腾长啥样？",
+        "title_eng": "The results of the seventh national census came out, the ranking of China's latest surname population. Attached to the list of 100 Chinese surname totems, see what your surname totem looks like?",
+        "nickname": "冷眼文摘",
+        "created_at": "2020-11-29",
+        "archive": "gh_0d903ba9d2be_2020-11-29_2651804615_BVIiWdKNql.y.tar.gz",
+        "censored_date": "2020-12-02 09:33:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-30 01:47:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653023862&idx=2&sn=703251fb8ccbdab57d0a3ef3b2082b83",
+        "title": "美国传来大消息，或将引爆下周A股市场！",
+        "title_eng": "The big news from the United States may detonate the A-share market next week!",
+        "nickname": "财金要览",
+        "created_at": "2020-11-29",
+        "archive": "gh_34471e1f4b56_2020-11-29_2653023862_J4GzjSBOb0.y.tar.gz",
+        "censored_date": "2020-12-02 09:27:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-11-30 01:42:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247516724&idx=2&sn=df2a2c214e82849a59fc940188dc41a0",
+        "title": "基督徒的祷告、时间长、话语短、声音小、声音大、这样的祷告那一个神喜欢、点击查看就会明",
+        "nickname": "牧者讲道",
+        "created_at": "2020-12-02",
+        "archive": "gh_ab6c4e04286d_2020-12-02_2247516724_WP49DiuvZB.y.tar.gz",
+        "censored_date": "2020-12-02 09:39:55",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
