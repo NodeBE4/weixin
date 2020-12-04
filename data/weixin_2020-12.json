@@ -2941,6 +2941,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503929&idx=1&sn=901987ee78e8feff5dcf2b0802090072",
         "title": "指数灯红酒绿，跟上节奏方能吃肉！",
+        "title_eng": "Feasting and feasting, keep up with the rhythm to eat meat!",
         "nickname": "海外财经",
         "created_at": "2020-12-03",
         "archive": "gh_8f29429f71d7_2020-12-03_2247503929_CutAlZxUw7.y.tar.gz",
@@ -2973,10 +2974,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDA1MDQyOA==&mid=2652930601&idx=1&sn=22845fa52b7ab1c5749fc7e9d2c000ce",
         "title": "蚕丝被被央视曝光了！长期盖蚕丝被夫妻俩发生了惊人变化...没看的赶紧看看吧",
+        "title_eng": "Silk was exposed by CCTV! The long-term cover silk has been amazingly changed by the couple... if you haven’t seen it, please take a look",
         "nickname": "水手美食",
         "created_at": "2020-12-04",
         "archive": "gh_d2f940454ab3_2020-12-04_2652930601_jXJiA1Nq28.y.tar.gz",
         "censored_date": "2020-12-04 16:42:52",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDEyOTA4MA==&mid=2247488771&idx=2&sn=3fe69bbe2265fa05abdce87628bc499d",
+        "title": "征收和拆迁不是一回事",
+        "title_eng": "Expropriation and demolition are not the same thing",
+        "nickname": "新邦律师",
+        "created_at": "2020-12-04",
+        "archive": "gh_2ad25f94e66c_2020-12-04_2247488771_1KoqhZWlzF.y.tar.gz",
+        "censored_date": "2020-12-04 16:57:58",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
