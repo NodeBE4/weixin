@@ -2650,7 +2650,8 @@
         "created_at": "2020-12-02",
         "archive": "gh_c364747d22d0_2020-12-02_2653594074_euXZ8Vylwj.y.tar.gz",
         "censored_date": "2020-12-03 19:38:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-05 04:20:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODUyNjIzMw==&mid=2247499899&idx=1&sn=0a74c6b7a41fd5a616e25f634273015d",
@@ -2672,7 +2673,7 @@
         "archive": "gh_1aecabdf0add_2020-12-01_2247504324_5GnfECiUh4.y.tar.gz",
         "censored_date": "2020-12-03 20:19:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-02 18:06:36"
+        "update_date": "2020-12-05 04:21:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDI2MTkxMQ==&mid=2649628644&idx=1&sn=f3105ee8e056bfe237e1798b1de6cd39",
@@ -2683,7 +2684,7 @@
         "archive": "gh_d2e34f79fa6b_2020-12-03_2649628644_j8shbAB6UI.y.tar.gz",
         "censored_date": "2020-12-03 20:18:34",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-12-04 04:25:14"
+        "update_date": "2020-12-05 04:21:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247504324&idx=2&sn=46f974fc2a59ed2b853bae37d7e15533",
@@ -2780,7 +2781,8 @@
         "created_at": "2020-12-03",
         "archive": "gh_8c4550adef61_2020-12-03_2247496193_2yjlKaYtFp.y.tar.gz",
         "censored_date": "2020-12-04 00:49:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-05 04:00:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653024607&idx=2&sn=f146d8fdcbb5f4bdf99f50eaaf70d5d0",
@@ -3173,6 +3175,16 @@
         "created_at": "2020-12-04",
         "archive": "gh_b1d80bb80e51_2020-12-04_2657706849_xAseykdLKl.y.tar.gz",
         "censored_date": "2020-12-05 00:42:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653393139&idx=1&sn=26e8023433b942dccb0f8e2f81652945",
+        "title": "华西 900 校友联名反对、西南医院发文炮轰：泸医想改个名为啥这么难？",
+        "title_eng": "Huaxi 900 alumni jointly opposed it, and Southwest Hospital issued a blast: Why is it so difficult for Luyi to change its name?",
+        "nickname": "丁香园",
+        "created_at": "2020-12-03",
+        "archive": "wxid_9602156020911_2020-12-03_2653393139_c17h9ZlgUN.y.tar.gz",
+        "censored_date": "2020-12-05 03:52:45",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
