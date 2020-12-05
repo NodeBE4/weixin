@@ -2728,7 +2728,7 @@
         "archive": "gh_b0f015892c4a_2020-12-03_2652976252_fyg7ZC0hBb.y.tar.gz",
         "censored_date": "2020-12-03 23:13:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-04 02:07:57"
+        "update_date": "2020-12-05 08:40:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjQ1NDcwNg==&mid=2651064434&idx=2&sn=107e091f22d65d48f59f684bf369ea73",
@@ -2739,7 +2739,7 @@
         "archive": "gh_0cfd33f7cbee_2020-12-02_2651064434_QG9qMlfptb.y.tar.gz",
         "censored_date": "2020-12-03 23:15:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-03 23:27:55"
+        "update_date": "2020-12-05 08:42:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492276&idx=5&sn=5baeb39eff76bf69f96e6f105418ca6a",
@@ -2749,7 +2749,8 @@
         "created_at": "2020-12-02",
         "archive": "gh_31930173e92d_2020-12-02_2247492276_FhlcwisVpX.y.tar.gz",
         "censored_date": "2020-12-03 22:56:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-05 08:44:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653594074&idx=2&sn=57a6f728fd56479ad89e093a86ecd6bc",
@@ -3207,5 +3208,16 @@
         "archive": "gh_541a7f1cf2c2_2020-12-02_2651114920_qoKfbwYPGs.y.tar.gz",
         "censored_date": "2020-12-05 04:43:41",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653024747&idx=3&sn=cf057a5712d9c4210898bbf6333642b7",
+        "title": "一顿便饭花了1900？白岩松两次点评：这些年，我们是怎么被耍得团团转的",
+        "title_eng": "A potluck meal cost 1900? Bai Yansong's two comments: How did we get ridden around in these years",
+        "nickname": "财金要览",
+        "created_at": "2020-12-03",
+        "archive": "gh_34471e1f4b56_2020-12-03_2653024747_gkpv3U5sXq.y.tar.gz",
+        "censored_date": "2020-12-05 07:38:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-04 03:45:51"
     }
 ]
