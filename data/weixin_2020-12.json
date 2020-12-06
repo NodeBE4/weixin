@@ -3374,7 +3374,8 @@
         "created_at": "2020-12-05",
         "archive": "gh_aec0c30e47cc_2020-12-05_2654276197_STM5aufc0B.y.tar.gz",
         "censored_date": "2020-12-05 20:05:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-07 02:00:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjMxNDQ1Ng==&mid=2247496922&idx=1&sn=6a048a834cf85b2632a88101acb945db",
@@ -3871,5 +3872,26 @@
         "archive": "gh_228524cee8a6_2020-12-06_2652887097_83194wEdFo.y.tar.gz",
         "censored_date": "2020-12-07 00:03:08",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjAwNzI0MA==&mid=2652032349&idx=8&sn=675d86b379ccfc7b2657a2d4c55124e1",
+        "title": "下流日剧遭抗议要求停播。霓虹网友：哆啦A梦也该整改！",
+        "title_eng": "Obscene Japanese dramas were protested and demanded to stop broadcasting. Neon netizens: Doraemon should also be rectified!",
+        "nickname": "英国那些事儿",
+        "created_at": "2020-12-06",
+        "archive": "gh_dc9a573d9cfd_2020-12-06_2652032349_TAufVEmKZ4.y.tar.gz",
+        "censored_date": "2020-12-07 01:50:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDI5OTI1OA==&mid=2652946175&idx=2&sn=e9faeb13569ca3e4c744361b40112a18",
+        "title": "谢霆锋患癌，一句话敲响无数人警钟：别再做这些事了，真的会要你命！",
+        "title_eng": "Nicholas Tse is suffering from cancer. One sentence sounded the alarm for countless people: Don't do these things anymore, it will really kill you!",
+        "nickname": "李月亮",
+        "created_at": "2020-12-05",
+        "archive": "gh_0d184b37505f_2020-12-05_2652946175_ZUag4nQC0P.y.tar.gz",
+        "censored_date": "2020-12-07 02:11:34",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-06 00:34:07"
     }
 ]
