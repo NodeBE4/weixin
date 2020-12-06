@@ -3474,7 +3474,7 @@
         "archive": "gh_e76b6086b960_2020-12-04_2247545595_r75IlZaquO.y.tar.gz",
         "censored_date": "2020-12-06 05:14:15",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-04 22:16:48"
+        "update_date": "2020-12-06 11:43:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247503929&idx=5&sn=ac231811defbd88028c430bd37760af7",
@@ -3650,5 +3650,26 @@
         "censored_date": "2020-12-06 11:06:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-05 10:07:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649809359&idx=3&sn=ab5068f05b906e3106e41f43ecaad877",
+        "title": "上了复旦才知道：这个底层能力，比努力重要1000倍（20-45岁必看）",
+        "title_eng": "Only after I went to Fudan University did I know that this low-level ability is 1,000 times more important than hard work (a must-see for 20-45 years old)",
+        "nickname": "近现代史论",
+        "created_at": "2020-12-04",
+        "archive": "gh_ef9695b6d53c_2020-12-04_2649809359_ouZAJxv2B9.y.tar.gz",
+        "censored_date": "2020-12-06 12:03:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247545595&idx=5&sn=75b65c8a0f60880e89272a847022299e",
+        "title": "2亿中产的财富增值：除了买房，如何跑赢GDP？",
+        "title_eng": "200 million middle class wealth appreciation: In addition to buying a house, how to outperform GDP?",
+        "nickname": "凤凰网财经",
+        "created_at": "2020-12-04",
+        "archive": "gh_e76b6086b960_2020-12-04_2247545595_HDPMaW4yKh.y.tar.gz",
+        "censored_date": "2020-12-06 11:37:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-05 00:08:41"
     }
 ]
