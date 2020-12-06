@@ -3397,7 +3397,7 @@
         "archive": "gh_57533e17ec66_2020-12-05_2690734243_eWEP4VHaOJ.y.tar.gz",
         "censored_date": "2020-12-05 20:51:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-07 02:50:39"
+        "update_date": "2020-12-07 06:44:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652904795&idx=1&sn=9bfaf051e29e5e5cf2d5165c3355f12d",
@@ -3408,7 +3408,7 @@
         "archive": "gh_40f2418747aa_2020-12-05_2652904795_ws3vfeObBZ.y.tar.gz",
         "censored_date": "2020-12-05 20:46:06",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-07 02:51:03"
+        "update_date": "2020-12-07 06:45:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3Nzk3NzYxOQ==&mid=2650962354&idx=2&sn=76cb07ae11715e5df98270049c26d6e1",
@@ -3926,7 +3926,7 @@
         "archive": "wxid_4942649426112_2020-12-05_2654135828_gNtVp5RjMo.y.tar.gz",
         "censored_date": "2020-12-07 03:50:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-05 23:05:10"
+        "update_date": "2020-12-07 07:12:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjA5NjYwOQ==&mid=2659042204&idx=1&sn=04aec56e1f3814647a8121ffd7f6dfae",
@@ -3946,6 +3946,7 @@
         "created_at": "2020-12-06",
         "archive": "gh_88e9499896f5_2020-12-06_2247494874_0i8Uhj1J5D.y.tar.gz",
         "censored_date": "2020-12-07 04:39:16",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-07 07:23:23"
     }
 ]
