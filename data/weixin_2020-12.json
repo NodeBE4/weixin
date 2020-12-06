@@ -3055,7 +3055,7 @@
         "archive": "gh_2f53a9e900c6_2020-12-03_2247485597_LsoMardfp3.y.tar.gz",
         "censored_date": "2020-12-04 20:21:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-04 03:16:42"
+        "update_date": "2020-12-06 13:07:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651344814&idx=3&sn=cbf1b18a7a33b6fd8ec8b0af15639b17",
@@ -3076,7 +3076,8 @@
         "created_at": "2020-12-02",
         "archive": "gh_a0404706a1d9_2020-12-02_2652716201_DvzkygQPlc.y.tar.gz",
         "censored_date": "2020-12-04 20:12:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-06 13:14:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651354226&idx=1&sn=47dc86b193219dc6660fa2c2422ab877",
@@ -3671,5 +3672,15 @@
         "censored_date": "2020-12-06 11:37:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-05 00:08:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzQwMTQ3OQ==&mid=2649492740&idx=5&sn=ffa63e1647b920d16d1d87be71cda57b",
+        "title": "再升级！美国宣布对中国统战部人员新一轮签证限制",
+        "title_eng": "Upgrade again! The U.S. announces a new round of visa restrictions on Chinese United Front Work Department personnel",
+        "nickname": "洛杉矶华人圈",
+        "created_at": "2020-12-05",
+        "archive": "gh_179ef88e69be_2020-12-05_2649492740_WotBAIfvQY.y.tar.gz",
+        "censored_date": "2020-12-06 13:05:42",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
