@@ -4965,6 +4965,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650011715&idx=4&sn=230c2277954a5073f94cc6389035403a",
         "title": "80年前的绝代恶女，又来了",
+        "title_eng": "The peerless wicked woman 80 years ago, here again",
         "nickname": "吐槽星君",
         "created_at": "2020-12-08",
         "archive": "gh_45220e40f13c_2020-12-08_2650011715_kYqlTVjsyR.y.tar.gz",
@@ -4975,6 +4976,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTg0NDY1Mw==&mid=2653840861&idx=1&sn=2877ec21f5b16bc6792d0b0a178d8bfa",
         "title": "27亿元买258个网红账号，这笔交易到底值不值？",
+        "title_eng": "Is it worth buying 258 Internet celebrity accounts for 2.7 billion yuan?",
         "nickname": "证券日报之声",
         "created_at": "2020-12-09",
         "archive": "gh_1a575253a9a1_2020-12-09_2653840861_gwyPmUozbX.y.tar.gz",
@@ -4985,6 +4987,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Nzg5OTcxMg==&mid=2650717665&idx=1&sn=debbd4ccd7334796f0fa1b037e7f30a4",
         "title": "十大城市再洗牌，北方为何仅剩北京？",
+        "title_eng": "The top ten cities reshuffle, why is there only Beijing in the north?",
         "nickname": "后E视野",
         "created_at": "2020-12-09",
         "archive": "gh_1792a2f1e62b_2020-12-09_2650717665_2vV3S7PuZb.y.tar.gz",
@@ -5001,5 +5004,15 @@
         "censored_date": "2020-12-10 00:23:55",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-12-08 22:58:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649558462&idx=1&sn=555c959b7fee403e5161035e51e7b297",
+        "title": "十大城市再洗牌，北方为何仅剩北京？",
+        "title_eng": "The top ten cities reshuffle, why is there only Beijing in the north?",
+        "nickname": "观点",
+        "created_at": "2020-12-08",
+        "archive": "gh_2ac9b41ee17c_2020-12-08_2649558462_sN0jZOCwWv.y.tar.gz",
+        "censored_date": "2020-12-10 00:54:36",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
