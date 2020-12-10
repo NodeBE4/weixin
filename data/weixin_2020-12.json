@@ -5350,11 +5350,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2650906387&idx=4&sn=87a1fca3cabe4a8f6a9b290869860337",
         "title": "【专栏】时政新闻",
+        "title_eng": "[Column] Current Affairs News",
         "nickname": "关注饶河",
         "created_at": "2020-12-09",
         "archive": "gh_b04d605c071c_2020-12-09_2650906387_fYSN6n8HZb.y.tar.gz",
         "censored_date": "2020-12-10 23:30:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-09 22:31:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMzE5NDM5Nw==&mid=2453479182&idx=3&sn=22f6858f815fccfdf03e1f4123a99e71",
+        "title": "历史何其相似！电动车狂潮与自行车泡沫",
+        "title_eng": "How similar is the history! The electric car frenzy and the bicycle bubble",
+        "nickname": "千贤投资",
+        "created_at": "2020-12-10",
+        "archive": "gh_25a5c3357f6d_2020-12-10_2453479182_C72mbKTAjB.y.tar.gz",
+        "censored_date": "2020-12-11 00:29:03",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMzE5NDM5Nw==&mid=2453479182&idx=1&sn=9871fda9cc7ec42139319b8f085b14e5",
+        "title": "又一电商平台倒了！1200万人被骗光，创始人卷走260亿！",
+        "title_eng": "Another e-commerce platform is down! 12 million people were deceived, and the founder took away 26 billion!",
+        "nickname": "千贤投资",
+        "created_at": "2020-12-10",
+        "archive": "gh_25a5c3357f6d_2020-12-10_2453479182_rZF4MEDshW.y.tar.gz",
+        "censored_date": "2020-12-11 00:28:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMzE5NDM5Nw==&mid=2453479182&idx=2&sn=a684968f9d3ca98b5fc06133a75af13b",
+        "title": "正厅夫妻：一个爱色，一个爱钱",
+        "title_eng": "Couples in the main hall: one for sex, one for money",
+        "nickname": "千贤投资",
+        "created_at": "2020-12-10",
+        "archive": "gh_25a5c3357f6d_2020-12-10_2453479182_y0lkhGR4bK.y.tar.gz",
+        "censored_date": "2020-12-11 00:08:29",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
