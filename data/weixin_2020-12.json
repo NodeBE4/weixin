@@ -6439,7 +6439,8 @@
         "created_at": "2020-12-13",
         "archive": "wxid_7620846208112_2020-12-13_2655642796_4QMdF3xVJH.y.tar.gz",
         "censored_date": "2020-12-13 21:18:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-14 20:33:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247504968&idx=3&sn=a58e8aac606d7a416711545733d83449",
@@ -6588,5 +6589,16 @@
         "archive": "gh_0908bc7f934f_2020-12-13_2247494185_ftZpx3ESeH.y.tar.gz",
         "censored_date": "2020-12-14 18:56:49",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651117330&idx=3&sn=04bf88b8e70f37aa405ebfd36fef30b7",
+        "title": "恭喜那些不换微信头像的人。",
+        "title_eng": "Congratulations to those who do not change their WeChat profile pictures.",
+        "nickname": "我是种草囤货菌",
+        "created_at": "2020-12-12",
+        "archive": "gh_541a7f1cf2c2_2020-12-12_2651117330_wOUQFh23n1.y.tar.gz",
+        "censored_date": "2020-12-14 19:47:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-14 00:32:52"
     }
 ]
