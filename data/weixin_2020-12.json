@@ -6935,7 +6935,7 @@
         "archive": "gh_06140cfad959_2020-12-14_2247516524_TCXMhk32wW.y.tar.gz",
         "censored_date": "2020-12-15 23:40:45",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-12-14 22:21:17"
+        "update_date": "2020-12-16 04:46:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDM2Njc5MA==&mid=2650319511&idx=1&sn=21e105c3ff4cd01464e2163738a856df",
@@ -7014,6 +7014,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247505193&idx=5&sn=01a2a7b9d187d976745cd893d5ce7f8c",
         "title": "苹果印度工厂大暴乱！近2000人打砸抢烧，员工称工资每月最低44元.....",
+        "title_eng": "Riot at Apple's Indian factory! Nearly 2,000 people were beaten, smashed, looted, and burned. The employees claimed that their monthly salary was at least 44 yuan.....",
         "nickname": "环球冷眼",
         "created_at": "2020-12-14",
         "archive": "gh_1aecabdf0add_2020-12-14_2247505193_J2C0HdNkXt.y.tar.gz",
@@ -7031,5 +7032,37 @@
         "censored_date": "2020-12-16 03:49:59",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-12-15 00:34:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247505193&idx=2&sn=1cde8343a92d485c739b97db64c1f121",
+        "title": "人民日报点名！又一个智商税骗局，玩脱了……",
+        "title_eng": "People's Daily roll call! Another IQ tax scam, let's get rid of...",
+        "nickname": "环球冷眼",
+        "created_at": "2020-12-14",
+        "archive": "gh_1aecabdf0add_2020-12-14_2247505193_0g0eq9rJ1V.y.tar.gz",
+        "censored_date": "2020-12-16 05:05:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-16 00:01:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzEzNzEwNw==&mid=2651091071&idx=1&sn=889bea36b71cd02fbb8c1d77e2660d49",
+        "title": "超越美国并不是伪命题，但中国为啥很少提及？有三个原因",
+        "title_eng": "Surpassing the United States is not a false proposition, but why is China rarely mentioned? For three reasons",
+        "nickname": "四月网",
+        "created_at": "2020-12-14",
+        "archive": "gh_456a492c2af5_2020-12-14_2651091071_E8Gg1M4vsa.y.tar.gz",
+        "censored_date": "2020-12-16 04:47:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-15 02:34:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247486969&idx=1&sn=f83741934bb93e74049eb4c92e45d643",
+        "title": "发改委刘振秋被双规，“全球最大的犯罪集团”被破获！",
+        "title_eng": "Liu Zhenqiu of the National Development and Reform Commission was double-regulated and the world's largest criminal group was cracked!",
+        "nickname": "秘闻分析",
+        "created_at": "2020-12-14",
+        "archive": "gh_94d9b14108ec_2020-12-14_2247486969_LltkDMwxh5.y.tar.gz",
+        "censored_date": "2020-12-16 04:52:50",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
