@@ -7234,7 +7234,8 @@
         "created_at": "2020-12-15",
         "archive": "gh_5e008ceefb25_2020-12-15_2247522533_xan5PHy8GX.y.tar.gz",
         "censored_date": "2020-12-16 19:25:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-17 00:14:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650013289&idx=8&sn=ce12448529a1008e288ad92b36b2e49c",
@@ -7271,6 +7272,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNzc0MzM3Mw==&mid=2247486953&idx=3&sn=38e84fa24df4d73893bcccb43dea9c0c",
         "title": "这个视频讲的太好了，错过了真可惜！（最新）",
+        "title_eng": "This video is so good, it's a pity to miss it! (up to date)",
         "nickname": "wangju8848",
         "created_at": "2020-12-15",
         "archive": "gh_dce26ff7362e_2020-12-15_2247486953_qvs4b2YnSZ.y.tar.gz",
@@ -7281,6 +7283,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNzc0MzM3Mw==&mid=2247486953&idx=1&sn=b41211313123cd72c7bd7e04953e7dbe",
         "title": "惨烈！美国刚刚突然宣布！！",
+        "title_eng": "Tragic! The United States just announced suddenly! !",
         "nickname": "wangju8848",
         "created_at": "2020-12-15",
         "archive": "gh_dce26ff7362e_2020-12-15_2247486953_54y1jmgTRC.y.tar.gz",
@@ -7291,6 +7294,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNzc0MzM3Mw==&mid=2247486953&idx=4&sn=711fd72942928bb946c49a1b3be8e6ea",
         "title": "七十年前，美国电视这样介绍中国",
+        "title_eng": "Seventy years ago, American TV introduced China like this",
         "nickname": "wangju8848",
         "created_at": "2020-12-15",
         "archive": "gh_dce26ff7362e_2020-12-15_2247486953_M0aHzD4q7E.y.tar.gz",
@@ -7300,6 +7304,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNzc0MzM3Mw==&mid=2247486953&idx=6&sn=596493ad6ab1220172a057f29d3ddf40",
         "title": "对美制裁！中方刚刚宣布两个重磅决定",
+        "title_eng": "Sanctions against the United States! China just announced two major decisions",
         "nickname": "wangju8848",
         "created_at": "2020-12-15",
         "archive": "gh_dce26ff7362e_2020-12-15_2247486953_BP2DWmTEkG.y.tar.gz",
@@ -7369,11 +7374,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNzc0MzM3Mw==&mid=2247486953&idx=7&sn=4358dbe76e1f4e6c03c497b95343767f",
         "title": "金一南教授谈印度，幽默精彩，现场观众笑翻了",
+        "title_eng": "Professor Jin Yinan talked about India with great humor, and the audience laughed",
         "nickname": "wangju8848",
         "created_at": "2020-12-15",
         "archive": "gh_dce26ff7362e_2020-12-15_2247486953_vWM37ORkqE.y.tar.gz",
         "censored_date": "2020-12-16 23:34:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-15 21:18:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDM2Njc5MA==&mid=2650319541&idx=1&sn=cbcfca69446a4e7a63d356e3a7c2c823",
+        "title": "中国央行原行长戴相龙，揭“蚂蚁”暂停上市真正原因！",
+        "nickname": "财经深度",
+        "created_at": "2020-12-15",
+        "archive": "gh_6f2e8549919d_2020-12-15_2650319541_qHsOSvxIau.y.tar.gz",
+        "censored_date": "2020-12-17 00:40:41",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
