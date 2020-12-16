@@ -7093,7 +7093,8 @@
         "created_at": "2020-12-14",
         "archive": "gh_8494fbcc965f_2020-12-14_2651293805_lwJe8fyQCI.y.tar.gz",
         "censored_date": "2020-12-16 09:03:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-16 22:15:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653326119&idx=6&sn=37ad01a5a5e2b9fbdcf3eecc0a315024",
@@ -7125,7 +7126,7 @@
         "archive": "gh_ccf6a72b140a_2020-12-14_2247493559_CuvSLc7Wlh.y.tar.gz",
         "censored_date": "2020-12-16 08:35:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-14 16:36:36"
+        "update_date": "2020-12-16 22:14:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMwODg0OQ==&mid=2247612590&idx=6&sn=b18ec306e476068c5bf11481f66a830a",
@@ -7244,5 +7245,27 @@
         "archive": "gh_45220e40f13c_2020-12-15_2650013289_lgukIPy5jZ.y.tar.gz",
         "censored_date": "2020-12-16 20:07:48",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NTM4NjM3OQ==&mid=2247502975&idx=1&sn=269f1c7e345f7c1fe24b5560af020995",
+        "title": "以香艳露骚驰名的国宝酒，巅峰销量是贵州白酒一哥，喝过都说“骚”",
+        "title_eng": "The national treasure, famous for its fragrance, the peak sales volume is Guizhou Baijiu No. 1 brother, and I always say Sao after drinking it.",
+        "nickname": "郭一平赤路行动",
+        "created_at": "2020-12-15",
+        "archive": "gh_a2b44f72c451_2020-12-15_2247502975_s61xmpU2FI.y.tar.gz",
+        "censored_date": "2020-12-16 22:20:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-15 20:37:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjMyMTQyMg==&mid=2247565445&idx=4&sn=81f315f1dbc77e53f82315ecdaea0544",
+        "title": "黄海制药张海英：不主动转型就会被淘汰，先做强产品再谋企业未来",
+        "title_eng": "Huanghai Pharmaceutical Zhang Haiying: If you don’t take the initiative to transform, you will be eliminated, first strengthen the product and then seek the future",
+        "nickname": "凤凰网青岛",
+        "created_at": "2020-12-15",
+        "archive": "gh_20542841a698_2020-12-15_2247565445_UYjyElVBW1.y.tar.gz",
+        "censored_date": "2020-12-16 22:29:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-15 19:59:35"
     }
 ]
