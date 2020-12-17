@@ -7248,7 +7248,8 @@
         "created_at": "2020-12-15",
         "archive": "gh_45220e40f13c_2020-12-15_2650013289_lgukIPy5jZ.y.tar.gz",
         "censored_date": "2020-12-16 20:07:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-18 02:39:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NTM4NjM3OQ==&mid=2247502975&idx=1&sn=269f1c7e345f7c1fe24b5560af020995",
@@ -7821,5 +7822,14 @@
         "censored_date": "2020-12-18 01:32:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-16 21:58:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2649980953&idx=2&sn=1d2ef52b3541373230ebd3063cc4a3c2",
+        "title": "湖南浙江告急，一场现象级“电荒”“煤荒”正在席卷大江南",
+        "nickname": "智谷趋势",
+        "created_at": "2020-12-17",
+        "archive": "gh_088decdf1338_2020-12-17_2649980953_z9nVZpBWbr.y.tar.gz",
+        "censored_date": "2020-12-18 02:43:31",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
