@@ -7941,7 +7941,7 @@
         "archive": "gh_2bb3ecda50f1_2020-12-15_2247500490_c8mDsZpCB6.y.tar.gz",
         "censored_date": "2020-12-18 09:48:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-16 23:02:37"
+        "update_date": "2020-12-19 07:28:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyOTU4NDUyNw==&mid=2247497073&idx=1&sn=50bd6f3e266930eb7b8e28e6d8120de0",
@@ -7985,7 +7985,7 @@
         "archive": "gh_2bb3ecda50f1_2020-12-16_2247500542_9NVXom0vWu.y.tar.gz",
         "censored_date": "2020-12-18 09:45:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-16 19:42:18"
+        "update_date": "2020-12-19 07:26:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDY4ODEyNg==&mid=2651039500&idx=1&sn=112a39ec4eb6e9b6252e00b358bb5472",
@@ -8317,5 +8317,49 @@
         "archive": "gh_1aecabdf0add_2020-12-18_2247505610_PnkBGj38vf.y.tar.gz",
         "censored_date": "2020-12-19 05:43:13",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489521&idx=6&sn=963b2395601fe8b44c2f96fc0037a806",
+        "title": "制裁中国芯片，美国政府做的“很好”",
+        "title_eng": "Sanctions on Chinese chips, the US government has done very well",
+        "nickname": "江南隐士",
+        "created_at": "2020-12-16",
+        "archive": "gh_65f5271d2a21_2020-12-16_2247489521_uzUwr0Ak8G.y.tar.gz",
+        "censored_date": "2020-12-19 06:36:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-16 20:11:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489521&idx=5&sn=b4f3524188f84c49267261dc442d2ae4",
+        "title": "欧美突现原形！疫情是面镜子，照出了百年前中国的模样！",
+        "title_eng": "Europe and the United States are emerging! The epidemic is a mirror, reflecting the appearance of China a hundred years ago!",
+        "nickname": "江南隐士",
+        "created_at": "2020-12-16",
+        "archive": "gh_65f5271d2a21_2020-12-16_2247489521_J70u0rhjH5.y.tar.gz",
+        "censored_date": "2020-12-19 06:39:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-17 23:09:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652028778&idx=8&sn=c66f4c66514a99be7dfa7f972a636871",
+        "title": "日本告急！韩国告急！！",
+        "title_eng": "Japan is in a hurry! South Korea is in a hurry! !",
+        "nickname": "米尔军事网",
+        "created_at": "2020-12-16",
+        "archive": "gh_e06f5843f7ac_2020-12-16_2652028778_h0qGpTMADe.y.tar.gz",
+        "censored_date": "2020-12-19 07:11:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-17 23:37:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652028757&idx=1&sn=ed0ef8ec96588dcc164e138bc9b4da40",
+        "title": "太意外！8588亿！华为突然宣布大消息！今夜全球无眠！",
+        "title_eng": "What a surprise! 858.8 billion! Huawei suddenly announced big news! No sleep in the world tonight!",
+        "nickname": "米尔军事网",
+        "created_at": "2020-12-15",
+        "archive": "gh_e06f5843f7ac_2020-12-15_2652028757_53ghDAEptc.y.tar.gz",
+        "censored_date": "2020-12-19 07:13:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-17 23:39:06"
     }
 ]
