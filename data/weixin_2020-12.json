@@ -7643,7 +7643,8 @@
         "created_at": "2020-12-17",
         "archive": "gh_89eda7c5881b_2020-12-17_2658905378_UIDNZvFTsB.y.tar.gz",
         "censored_date": "2020-12-17 17:42:27",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-18 21:59:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTY2NjcwMA==&mid=2650760804&idx=2&sn=67658723d840d538d77d95e3ae7d8382",
@@ -8176,5 +8177,15 @@
         "censored_date": "2020-12-18 19:12:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-17 18:45:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDg5MzA3MQ==&mid=2653173041&idx=1&sn=eb5670b9c840f5be31a61c7dda8e4c92",
+        "title": "活动预告 | 2021复旦大学管理学院新年论坛 暨 复旦大学EMBA同学会年会",
+        "title_eng": "Event Preview | 2021 Fudan University School of Management New Year Forum and Fudan University EMBA Alumni Association Annual Meeting",
+        "nickname": "复旦管院校友中心",
+        "created_at": "2020-12-18",
+        "archive": "gh_e84f3a91fd4f_2020-12-18_2653173041_lhEI7AGVkS.y.tar.gz",
+        "censored_date": "2020-12-18 21:59:51",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
