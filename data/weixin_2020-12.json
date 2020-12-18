@@ -7840,7 +7840,8 @@
         "created_at": "2020-12-17",
         "archive": "gh_088decdf1338_2020-12-17_2649980953_z9nVZpBWbr.y.tar.gz",
         "censored_date": "2020-12-18 02:43:31",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-19 03:22:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653641523&idx=2&sn=0840d455e489364eca2d9d1da901a2d9",
@@ -8220,5 +8221,15 @@
         "censored_date": "2020-12-19 01:46:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-18 00:29:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247496027&idx=1&sn=2ceb735e3024ef965788e4599d3bd026",
+        "title": "住进ICU卖掉两套房，为什么我建议你不要轻易买保险？",
+        "nickname": "老板思维论",
+        "created_at": "2020-12-16",
+        "archive": "gh_69f7ba479665_2020-12-16_2247496027_SCQFVYXyDn.y.tar.gz",
+        "censored_date": "2020-12-19 02:55:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-18 00:57:25"
     }
 ]
