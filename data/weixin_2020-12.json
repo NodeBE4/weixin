@@ -8082,7 +8082,8 @@
         "created_at": "2020-12-18",
         "archive": "gh_728dda09b5fa_2020-12-18_2247496881_laOKnG09Sz.y.tar.gz",
         "censored_date": "2020-12-18 17:13:12",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-19 22:21:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTk0MjA2Mw==&mid=2247500761&idx=1&sn=34620309bfa72c977b869f92583d1ea0",
@@ -8545,7 +8546,8 @@
         "created_at": "2020-12-19",
         "archive": "gh_3d6bfdcee280_2020-12-19_2702361005_NseftrqdVI.y.tar.gz",
         "censored_date": "2020-12-19 18:59:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-19 22:24:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650441869&idx=1&sn=26335f855cfdba25c0fb1fffd4e14f41",
@@ -8579,5 +8581,15 @@
         "censored_date": "2020-12-19 20:08:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-18 20:37:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247508663&idx=2&sn=084e6dfaf8d87ab68f7475e69a7416f7",
+        "title": "关键时刻 俄罗斯宣称对华断电！多地紧急限电！工厂停产！",
+        "nickname": "遮眼看天",
+        "created_at": "2020-12-18",
+        "archive": "gh_b984621ff266_2020-12-18_2247508663_CeQ07dV2I8.y.tar.gz",
+        "censored_date": "2020-12-19 22:31:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-18 17:37:13"
     }
 ]
