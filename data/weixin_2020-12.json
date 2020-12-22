@@ -9161,7 +9161,8 @@
         "created_at": "2020-12-21",
         "archive": "gh_88e9499896f5_2020-12-21_2247495626_J7vnPGqAt1.y.tar.gz",
         "censored_date": "2020-12-21 22:53:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-23 01:34:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODQ0MjU5Ng==&mid=2247503312&idx=3&sn=a75700a4e806b3e235498a68dc7a100e",
@@ -9171,7 +9172,8 @@
         "created_at": "2020-12-21",
         "archive": "gh_abdfd6106bd3_2020-12-21_2247503312_duGRZOfwV4.y.tar.gz",
         "censored_date": "2020-12-21 22:47:40",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-23 01:34:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651118165&idx=3&sn=628031a7fb90b55fced34a605d7c2fb5",
@@ -9391,6 +9393,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247517449&idx=4&sn=cc6bf3c265f65b5af52cea06c0f92b90",
         "title": "突发！周泽律师拟被停止执业一年，曾通过自媒体曝光吕先三案刑讯逼供视频",
+        "title_eng": "Burst! Attorney Zhou Ze intends to be suspended from practicing for one year, and has exposed the video of the torture of the Lu Xiansan case through the media",
         "nickname": "女律师札记",
         "created_at": "2020-12-22",
         "archive": "gh_06140cfad959_2020-12-22_2247517449_e0Hg2a5nGJ.y.tar.gz",
@@ -9407,5 +9410,16 @@
         "censored_date": "2020-12-22 23:45:12",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2020-12-23 00:47:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651785395&idx=2&sn=dc1fb605e330c062892343de62f64a45",
+        "title": "傅高义之子授权澎湃发布讣告：愿洞察每个国家的优点",
+        "title_eng": "The son of Fu Gaoyi authorized Surging to publish an obituary: willing to gain insight into the advantages of each country",
+        "nickname": "澎湃新闻",
+        "created_at": "2020-12-21",
+        "archive": "gh_d29e0d22a6f9_2020-12-21_2651785395_mwcWBdI1JQ.y.tar.gz",
+        "censored_date": "2020-12-23 01:23:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-22 03:41:56"
     }
 ]
