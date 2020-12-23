@@ -9293,7 +9293,7 @@
         "archive": "gh_736c227c132c_2020-12-21_2650843530_cVhy1UmOu5.y.tar.gz",
         "censored_date": "2020-12-22 11:59:07",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-12-21 16:21:55"
+        "update_date": "2020-12-23 19:05:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651345049&idx=2&sn=0ec926838be0b49fbd06a296bc0b78f8",
@@ -9583,5 +9583,26 @@
         "censored_date": "2020-12-23 17:40:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-22 11:06:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247507871&idx=2&sn=712126e43eeb1585c2d9772f438216b1",
+        "title": "干部任前公示（2020年12月22日）",
+        "title_eng": "Public announcement before the appointment of cadres (December 22, 2020)",
+        "nickname": "法苑茶语",
+        "created_at": "2020-12-22",
+        "archive": "gh_bf54f24b2e87_2020-12-22_2247507871_l5hmu0s6EY.y.tar.gz",
+        "censored_date": "2020-12-23 19:29:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAzMDkyMA==&mid=2650801086&idx=1&sn=18ee48c0abb14f71cbf153157b3d2f05",
+        "title": "嘉兴大南湖片区规划设计图曝光！南湖大桥消失了、 体育中心变身人民广场、新建未来广场...信息量巨大！",
+        "title_eng": "The planning and design drawings of the Danan Lake area in Jiaxing are exposed! The Nanhu Bridge disappeared, the sports center was transformed into the People's Square, the new future square... a huge amount of information!",
+        "nickname": "嘉兴第九区",
+        "created_at": "2020-12-22",
+        "archive": "gh_6d397d8a037d_2020-12-22_2650801086_BkGbRsnOJN.y.tar.gz",
+        "censored_date": "2020-12-23 18:45:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-22 16:02:14"
     }
 ]
