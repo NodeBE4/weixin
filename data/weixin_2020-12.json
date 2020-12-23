@@ -9554,6 +9554,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247529458&idx=5&sn=4bd6a1874ea6ffd9051374551ca3e2f7",
         "title": "嘉兴最风景",
+        "title_eng": "Jiaxing's most scenic",
         "nickname": "叙拉古之惑",
         "created_at": "2020-12-22",
         "archive": "gh_c9984a3987c1_2020-12-22_2247529458_9YtRnHVCQ1.y.tar.gz",
@@ -9571,5 +9572,16 @@
         "censored_date": "2020-12-23 16:53:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-22 14:25:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649810807&idx=2&sn=2aae50ad60844f10a63bf1b2d8a95803",
+        "title": "比刷抖音还要刺激的几个公众号，好玩到根本停不下来",
+        "title_eng": "Several public accounts that are more exciting than using Douyin, so fun that you can’t stop at all",
+        "nickname": "近现代史论",
+        "created_at": "2020-12-21",
+        "archive": "gh_ef9695b6d53c_2020-12-21_2649810807_4oLbx93ZqF.y.tar.gz",
+        "censored_date": "2020-12-23 17:40:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-22 11:06:08"
     }
 ]
