@@ -9348,7 +9348,7 @@
         "archive": "gh_e80b5c3c8b87_2020-12-22_2247496769_HTk80B49In.y.tar.gz",
         "censored_date": "2020-12-22 17:52:10",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2020-12-22 21:12:59"
+        "update_date": "2020-12-24 01:30:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652311506&idx=2&sn=d9f73d65e5a1327849807cc472cdf78a",
@@ -9359,7 +9359,7 @@
         "archive": "gh_002f84048bd4_2020-12-21_2652311506_C9xY8r7wAW.y.tar.gz",
         "censored_date": "2020-12-22 18:21:23",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-22 01:06:41"
+        "update_date": "2020-12-24 01:33:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyOTU4NDUyNw==&mid=2247497127&idx=4&sn=2b2561f0b6d7c02233be81b09a2c0955",
@@ -9697,11 +9697,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQyMjAyMg==&mid=2650017543&idx=2&sn=4b853d5b0ee4d1f251f25e9f165821bd",
         "title": "变异病毒传播失控！大批民众“逃离” | 多国紧急宣布应对措施",
+        "title_eng": "The mutated virus spreads out of control! Large numbers of people flee | Many countries urgently announce response measures",
         "nickname": "哈尔滨日报",
         "created_at": "2020-12-21",
         "archive": "gh_100a698b17e3_2020-12-21_2650017543_51bXimCROg.y.tar.gz",
         "censored_date": "2020-12-24 00:39:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-22 18:00:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489535&idx=2&sn=d32546f0da7caddd2963ed5555cc2b75",
+        "title": "张文宏：疫苗，让领导先打",
+        "title_eng": "Zhang Wenhong: The vaccine, let the leaders fight first",
+        "nickname": "江南隐士",
+        "created_at": "2020-12-23",
+        "archive": "gh_65f5271d2a21_2020-12-23_2247489535_0KVQnl0EvJ.y.tar.gz",
+        "censored_date": "2020-12-24 01:07:33",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
