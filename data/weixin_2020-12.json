@@ -10832,7 +10832,8 @@
         "created_at": "2020-12-27",
         "archive": "gh_6f2e8549919d_2020-12-27_2650319894_pSjudboPi6.y.tar.gz",
         "censored_date": "2020-12-27 12:46:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-28 07:52:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTY4MTI0Mw==&mid=2247563570&idx=5&sn=9001e60af0a1edecc0926a3161ad9c87",
@@ -10895,5 +10896,15 @@
         "archive": "gh_52274a65081a_2020-12-27_2650955372_SbM8sJUTru.y.tar.gz",
         "censored_date": "2020-12-28 01:22:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660462255&idx=1&sn=db502d9f0585b76814f33483aa9d7b3a",
+        "title": "萧功秦：天堂里的高华",
+        "nickname": "徐瑾经济人",
+        "created_at": "2020-12-27",
+        "archive": "gh_1137e6936d9f_2020-12-27_2660462255_2ZIJ086vAi.y.tar.gz",
+        "censored_date": "2020-12-28 09:07:33",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2020-12-27 18:25:15"
     }
 ]
