@@ -10670,7 +10670,7 @@
         "archive": "gh_f52700579eb0_2020-12-26_2649440536_f0zPMnSvyK.y.tar.gz",
         "censored_date": "2020-12-27 00:02:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2020-12-27 19:26:21"
+        "update_date": "2020-12-28 17:59:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649777900&idx=1&sn=dbbf56266f7e0650862b34ac44fd6818",
@@ -10941,7 +10941,8 @@
         "created_at": "2020-12-28",
         "archive": "gh_5e8e8c06ed7d_2020-12-28_2649648854_kJvfrTE9K6.y.tar.gz",
         "censored_date": "2020-12-28 13:16:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-28 18:11:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAyMTYyMg==&mid=2658340592&idx=1&sn=1b50bb4931ca74e8b9bd9d38ec11d757",
@@ -10968,6 +10969,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247508084&idx=6&sn=49cc6f1f7f06146973f95ff3d752f8b8",
         "title": "谁的晚年都是一场血雨腥风（深度好文）",
+        "title_eng": "Whose old age is a bloody storm (in-depth article)",
         "nickname": "法苑茶语",
         "created_at": "2020-12-25",
         "archive": "gh_bf54f24b2e87_2020-12-25_2247508084_GIU0SMsaE2.y.tar.gz",
@@ -11006,5 +11008,15 @@
         "censored_date": "2020-12-28 16:52:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2020-12-27 16:27:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODQxNjMwMA==&mid=2653630097&idx=1&sn=063eb8d00d2a850d389d0778609fc1da",
+        "title": "余友斌拟任黄冈市委常委/多地启动疫苗接种/黄冈又一长江大桥通过验收，过江仅需5分钟",
+        "title_eng": "Yu Youbin intends to serve as a member of the Standing Committee of the Huanggang Municipal Party Committee/Vaccinations will be initiated in many places/Huanggang Another Yangtze River Bridge has passed the inspection and only takes 5 minutes",
+        "nickname": "遗爱网",
+        "created_at": "2020-12-28",
+        "archive": "gh_efb8a134bb93_2020-12-28_2653630097_SL45JekZsN.y.tar.gz",
+        "censored_date": "2020-12-28 17:43:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
