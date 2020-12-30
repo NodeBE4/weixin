@@ -11248,7 +11248,8 @@
         "created_at": "2020-12-29",
         "archive": "gh_7ce7fa0b919e_2020-12-29_2655106865_EtP18kFGMu.y.tar.gz",
         "censored_date": "2020-12-29 23:58:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-30 22:26:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650495146&idx=2&sn=b1a96c16bc8cc301fe451d8280ef72ec",
@@ -11452,5 +11453,27 @@
         "archive": "gh_1ede6c42db01_2020-12-30_2247555066_bNAZT2DIi0.y.tar.gz",
         "censored_date": "2020-12-30 19:34:26",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652029102&idx=4&sn=48fa7cdd32e0e61323a8d7ecc9826067",
+        "title": "69元就能买到智能AR地球仪！知天文晓地理，还有5000多个知识点！",
+        "title_eng": "You can buy a smart AR globe for 69 yuan! Know astronomy and geography, there are more than 5000 knowledge points!",
+        "nickname": "米尔军事网",
+        "created_at": "2020-12-28",
+        "archive": "gh_e06f5843f7ac_2020-12-28_2652029102_g5Unz1baNr.y.tar.gz",
+        "censored_date": "2020-12-30 21:52:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-29 21:22:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652029102&idx=3&sn=a7b7667db889a9912e1a3f0e5266db56",
+        "title": "乌克兰外交部要拆除华为设备？乌克兰：美国说的，乌政府被嫌弃",
+        "title_eng": "The Ukrainian Ministry of Foreign Affairs wants to dismantle Huawei equipment? Ukraine: What the U.S. said, the Uzbek government is disgusted",
+        "nickname": "米尔军事网",
+        "created_at": "2020-12-28",
+        "archive": "gh_e06f5843f7ac_2020-12-28_2652029102_1h2ANEi7f5.y.tar.gz",
+        "censored_date": "2020-12-30 21:49:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2020-12-29 21:20:00"
     }
 ]
