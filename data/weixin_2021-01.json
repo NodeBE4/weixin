@@ -2401,7 +2401,8 @@
         "created_at": "2021-01-04",
         "archive": "gh_9d4eb92add23_2021-01-04_2650912570_eNs7g2Rcj8.y.tar.gz",
         "censored_date": "2021-01-04 22:52:13",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-05 01:04:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652029236&idx=4&sn=82c00ed2c535e3f5b34e8ee50d2c831a",
@@ -2423,5 +2424,15 @@
         "archive": "gh_38954511fdfd_2021-01-04_2652174612_2C9U40c1E0.y.tar.gz",
         "censored_date": "2021-01-04 23:27:01",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NDQ2MzMzNg==&mid=2247500184&idx=1&sn=aa25ac6dd8eb1e2e54a8e846bc6bb299",
+        "title": "卌年丨从拉板车到著名大学的教授，时势造人",
+        "title_eng": "New Years丨From a cart to a professor at a famous university, the times make people",
+        "nickname": "新三届2",
+        "created_at": "2021-01-04",
+        "archive": "gh_b51785bbc3d4_2021-01-04_2247500184_qmrn4Pg6Lw.y.tar.gz",
+        "censored_date": "2021-01-04 23:48:06",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
