@@ -2436,7 +2436,8 @@
         "created_at": "2021-01-04",
         "archive": "gh_b51785bbc3d4_2021-01-04_2247500184_qmrn4Pg6Lw.y.tar.gz",
         "censored_date": "2021-01-04 23:48:06",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-06 05:41:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651804687&idx=1&sn=6f8886081d7a81ee69507e604df67e46",
@@ -2663,5 +2664,15 @@
         "censored_date": "2021-01-06 04:33:07",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-05 03:21:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247506578&idx=5&sn=f5c97c473156cbd77cc5ee581b655b0c",
+        "title": "机器换人，人就失业了？",
+        "nickname": "环球冷眼",
+        "created_at": "2021-01-02",
+        "archive": "gh_1aecabdf0add_2021-01-02_2247506578_OFsy5ePdRb.y.tar.gz",
+        "censored_date": "2021-01-06 06:33:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-04 15:02:32"
     }
 ]
