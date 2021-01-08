@@ -3218,7 +3218,8 @@
         "created_at": "2021-01-07",
         "archive": "gh_cfb5087c307a_2021-01-07_2247526173_48Z5alb1Ep.y.tar.gz",
         "censored_date": "2021-01-08 00:45:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-09 02:27:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjA5ODU2Ng==&mid=2652091727&idx=1&sn=7dfef652c71862160eaec46e13e6f25e",
@@ -3449,10 +3450,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTA3NDM1MzUwMQ==&mid=2652016725&idx=3&sn=6c91cf875ab11a200f4be4c570f56e2b",
         "title": "十字路口的周鸿祎，还能追上雷军背影吗？",
+        "title_eng": "Zhou Hongyi at the crossroads, can he catch up with Lei Jun?",
         "nickname": "i黑马",
         "created_at": "2021-01-08",
         "archive": "wxid_2965349653612_2021-01-08_2652016725_bYnsymXI3G.y.tar.gz",
         "censored_date": "2021-01-09 00:44:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652107179&idx=3&sn=1da73a30bf8d270c0c058848f953da6c",
+        "title": "“作死”的江苏前首富！",
+        "title_eng": "The former richest man in Jiangsu who was dead!",
+        "nickname": "人民视野2018",
+        "created_at": "2021-01-04",
+        "archive": "gh_4b9b0448fa81_2021-01-04_2652107179_MVtx0weJTQ.y.tar.gz",
+        "censored_date": "2021-01-09 02:19:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-07 23:29:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652107179&idx=4&sn=3dab1405056a17b613dd811c7a23a5bb",
+        "title": "马云：走上坡路的时候，连空气都是甜的，一旦走下坡路，空气里全是土",
+        "title_eng": "Ma Yun: When going uphill, even the air is sweet. Once going downhill, the air is full of soil.",
+        "nickname": "人民视野2018",
+        "created_at": "2021-01-04",
+        "archive": "gh_4b9b0448fa81_2021-01-04_2652107179_UbWQZLIP5z.y.tar.gz",
+        "censored_date": "2021-01-09 02:19:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-07 23:29:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NjQyODUxNg==&mid=2247506391&idx=2&sn=1d75635eed9ba3429f277675826a311b",
+        "title": "未来的传染病会越来越多吗？（图文版）",
+        "title_eng": "Will there be more and more infectious diseases in the future? (Graphic version)",
+        "nickname": "视知",
+        "created_at": "2021-01-08",
+        "archive": "gh_faccc27b36bd_2021-01-08_2247506391_6TZd2DaNwM.y.tar.gz",
+        "censored_date": "2021-01-09 01:40:43",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
