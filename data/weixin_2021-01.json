@@ -4226,7 +4226,8 @@
         "created_at": "2021-01-10",
         "archive": "gh_9d4eb92add23_2021-01-10_2650912930_xD1y8G4t0S.y.tar.gz",
         "censored_date": "2021-01-11 04:06:28",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-11 06:19:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTE5NDkxNA==&mid=2650812716&idx=2&sn=5306e72b768a4d108f3f80aa0c06416e",
@@ -4237,7 +4238,7 @@
         "archive": "gh_364a58c89019_2021-01-09_2650812716_dbOs0UVITQ.y.tar.gz",
         "censored_date": "2021-01-11 04:05:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-10 00:05:55"
+        "update_date": "2021-01-11 06:18:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247510382&idx=2&sn=4bc31ed8c66ab5f9d421291176f88334",
@@ -4247,6 +4248,7 @@
         "created_at": "2021-01-09",
         "archive": "gh_b984621ff266_2021-01-09_2247510382_73KksjNHW0.y.tar.gz",
         "censored_date": "2021-01-11 03:48:11",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-11 06:01:13"
     }
 ]
