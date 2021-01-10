@@ -3995,6 +3995,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654185207&idx=1&sn=5a6cdb8bcc1bf1edfa61a7eb0310fedc",
         "title": "黑龙江省疫情防控指挥部紧急提示：一律取消！",
+        "title_eng": "Heilongjiang Provincial Epidemic Prevention and Control Headquarters urgent reminder: all cancel!",
         "nickname": "新晚报",
         "created_at": "2021-01-09",
         "archive": "gh_5aa41f572ba1_2021-01-09_2654185207_chwsSz76qI.y.tar.gz",
@@ -4027,10 +4028,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650443723&idx=2&sn=35e106fe990dc2f935da07fcfed96cce",
         "title": "热搜第一！中国烟草总公司工资曝光，员工人均年收入超18万元！网友：简直是不锈钢饭碗！",
+        "title_eng": "Hot search first! The salary of China National Tobacco Corporation was exposed, and the annual income per employee exceeded 180,000 yuan! Netizen: It's a stainless steel rice bowl!",
         "nickname": "经济时代刊",
         "created_at": "2021-01-10",
         "archive": "gh_e1b15dc41ffc_2021-01-10_2650443723_syJOB0LGX8.y.tar.gz",
         "censored_date": "2021-01-10 14:31:03",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650912863&idx=2&sn=e9d95ba433d47643a7b1cb31b8e5d129",
+        "title": "价值1070万一瓶的酱香酒，竟然是它？一口喝掉一辆奔驰，想喝的快来！",
+        "title_eng": "A bottle of Maoxiang wine worth 10.7 million, it turned out to be it? Drink a Mercedes Benz in one sip, come soon if you want to drink it!",
+        "nickname": "天下说法",
+        "created_at": "2021-01-09",
+        "archive": "gh_9d4eb92add23_2021-01-09_2650912863_kndfHg3C57.y.tar.gz",
+        "censored_date": "2021-01-10 15:12:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-09 12:23:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489211&idx=2&sn=b599784088fc32848c029aad6686b04d",
+        "title": "多动症害惨了我们的孩子，道破玄机：原因竟然是……",
+        "title_eng": "ADHD has hurt our children miserably, and the mystery: The reason is...",
+        "nickname": "世纪观察",
+        "created_at": "2021-01-09",
+        "archive": "gh_26762a56c129_2021-01-09_2247489211_Ini2rH4tEO.y.tar.gz",
+        "censored_date": "2021-01-10 14:50:04",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
