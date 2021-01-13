@@ -4917,6 +4917,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247517855&idx=4&sn=e4f9ee644cdda2d325be525f0b77dc2d",
         "title": "超治愈动画短片：这世界总有一个懂你的人",
+        "title_eng": "Super healing animated short film: There is always someone who understands you in this world",
         "nickname": "视角学社",
         "created_at": "2021-01-13",
         "archive": "gh_afce72ae9715_2021-01-13_2247517855_VlEfx2mNDA.y.tar.gz",
@@ -4927,6 +4928,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247517855&idx=3&sn=79d6647269225162569b0f2c195195b6",
         "title": "中国驻美大使馆：我们要对您说的心里话",
+        "title_eng": "Chinese Embassy in the United States: What we want to say to you",
         "nickname": "视角学社",
         "created_at": "2021-01-13",
         "archive": "gh_afce72ae9715_2021-01-13_2247517855_OAFlZQTRcN.y.tar.gz",
@@ -4937,6 +4939,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247517855&idx=2&sn=aca7348cdadad424b1720a1fa39035cd",
         "title": "曲线赴美-分享我的新加坡申签赴美之旅",
+        "title_eng": "Curve to the U.S.-Share my Singapore visa application trip to the U.S.",
         "nickname": "视角学社",
         "created_at": "2021-01-13",
         "archive": "gh_afce72ae9715_2021-01-13_2247517855_QGU5ja06cs.y.tar.gz",
@@ -4958,11 +4961,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247517855&idx=1&sn=ed1aea501afc291668f7fb4c4344337b",
         "title": "这些生死攸关的安全事项，留美学生必须注意！",
+        "title_eng": "Students studying in the United States must pay attention to these life-and-death safety matters!",
         "nickname": "视角学社",
         "created_at": "2021-01-13",
         "archive": "gh_afce72ae9715_2021-01-13_2247517855_3zpikYyCmD.y.tar.gz",
         "censored_date": "2021-01-13 14:34:11",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-13 14:37:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODMwODg0OQ==&mid=2247619733&idx=3&sn=028e22713ec6ffd67632032dd3e1199a",
+        "title": "2021年了，穿上“踩小人”年袜，红红火火过大年",
+        "title_eng": "It’s 2021. Put on the Small Man New Year Socks and celebrate the New Year",
+        "nickname": "国馆文化",
+        "created_at": "2021-01-12",
+        "archive": "gh_89a83c14a54d_2021-01-12_2247619733_5xyDQBH3uP.y.tar.gz",
+        "censored_date": "2021-01-13 15:28:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-12 13:07:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651338101&idx=3&sn=7b48106c0a0977291478c4b66cef5f57",
+        "title": "太惨了！特朗普被联合绞杀，提前送入监狱？？？",
+        "nickname": "金融五道口",
+        "created_at": "2021-01-13",
+        "archive": "gh_517f0d8d1792_2021-01-13_2651338101_aiRoqSmK0t.y.tar.gz",
+        "censored_date": "2021-01-13 15:55:59",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
