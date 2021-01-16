@@ -5807,6 +5807,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653262385&idx=1&sn=2a3d21735855b87e5be04fe2742040d6",
         "title": "LG化学致命危化物泄漏！原油持续大涨！几十种化工原料集中反弹暴涨！",
+        "title_eng": "LG Chem leaks deadly hazardous materials! Crude oil continues to soar! Dozens of chemical raw materials rebounded sharply!",
         "nickname": "化工707",
         "created_at": "2021-01-15",
         "archive": "gh_430d84f19d48_2021-01-15_2653262385_G9teSB28FA.y.tar.gz",
@@ -5817,6 +5818,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653262240&idx=1&sn=93589f1bbbc6aa04084e820793f63112",
         "title": "疫情升级！多家化企宣布停止接单！货运全线停运，原料供给成问题！",
+        "title_eng": "The epidemic is escalating! Many chemical companies announced that they would stop taking orders! The entire freight line is suspended, and the supply of raw materials is a problem!",
         "nickname": "化工707",
         "created_at": "2021-01-14",
         "archive": "gh_430d84f19d48_2021-01-14_2653262240_jXU7xAYeIC.y.tar.gz",
@@ -5843,5 +5845,15 @@
         "archive": "gh_65f5271d2a21_2021-01-14_2247489609_Wz5oCrvTnJ.y.tar.gz",
         "censored_date": "2021-01-17 03:07:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODA4MjUyMA==&mid=2247514849&idx=1&sn=9d1440a3c03304eef8459e791adc64f2",
+        "title": "紧急曝光，售价5980元，成本100，你被坑过吗？",
+        "nickname": "海豚学社",
+        "created_at": "2021-01-14",
+        "archive": "gh_3c3083a27d8e_2021-01-14_2247514849_gCpIAukf8i.y.tar.gz",
+        "censored_date": "2021-01-17 04:36:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-15 20:27:02"
     }
 ]
