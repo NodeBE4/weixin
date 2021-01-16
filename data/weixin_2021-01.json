@@ -5438,7 +5438,8 @@
         "created_at": "2021-01-15",
         "archive": "gh_b4e5fabd7680_2021-01-15_2655790418_Xr5mpU7LMh.y.tar.gz",
         "censored_date": "2021-01-15 10:48:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-16 17:19:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651256580&idx=1&sn=05f47444d8e54984aee15fba9dcacf96",
@@ -5710,10 +5711,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTY5Njg4NA==&mid=2650874227&idx=1&sn=5f5289b1b3092f698b0c836aabb67c37",
         "title": "活动12.20| 民法典下社会组织法律风险防范",
+        "title_eng": "Activity 12.20 | Legal Risk Prevention of Social Organizations under the Civil Code",
         "nickname": "云南平行",
         "created_at": "2021-01-16",
         "archive": "gh_2cf836497209_2021-01-16_2650874227_U03oT6ZWGC.y.tar.gz",
         "censored_date": "2021-01-16 16:36:44",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652095230&idx=2&sn=4342c1efcaca3fb2b87e2df47783b06b",
+        "title": "Jeaf Dean万字长文回顾2020谷歌技术发展（下）",
+        "title_eng": "Jeaf Dean 4D Long Essay Reviewing the Development of Google Technology in 2020 (Part 2)",
+        "nickname": "新智元",
+        "created_at": "2021-01-16",
+        "archive": "gh_108f2a2a27f4_2021-01-16_2652095230_KskXgCI502.y.tar.gz",
+        "censored_date": "2021-01-16 17:27:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
