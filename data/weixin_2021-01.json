@@ -6016,7 +6016,7 @@
         "archive": "gh_2f53a9e900c6_2021-01-16_2247485803_Ym0p613J78.y.tar.gz",
         "censored_date": "2021-01-17 18:26:43",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-01-16 16:30:50"
+        "update_date": "2021-01-18 20:30:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492465&idx=5&sn=230660a0bd1ebd9e762659554856d351",
@@ -6216,6 +6216,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=4&sn=99988592ce95b39fdbcb0a512f4691ad",
         "title": "这种常用药被全面禁止！潮州街坊快看看家里有没有……",
+        "title_eng": "This common medicine is completely banned! Chaozhou neighbourhood, let’s see if there is any...",
         "nickname": "潮州日报",
         "created_at": "2021-01-18",
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_NTQYZ1GROD.y.tar.gz",
@@ -6225,6 +6226,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=2&sn=db49da7f3a43e3454e7333fdf3576ae1",
         "title": "国内两地全员居家隔离！广东一地发通知提醒这些人...",
+        "title_eng": "All staff in two places in China are isolated at home! Guangdong sent a notice to remind these people...",
         "nickname": "潮州日报",
         "created_at": "2021-01-18",
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_sMCyjfU2Ru.y.tar.gz",
@@ -6234,6 +6236,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=1&sn=7609dd2afd541022aec64037437b64d3",
         "title": "春运及春节期间潮州哪里易赌？哪里交通管制？全在这里！",
+        "title_eng": "Where is it easy to gamble in Chaozhou during the Spring Festival and Spring Festival? Where is the traffic control? It's all here!",
         "nickname": "潮州日报",
         "created_at": "2021-01-18",
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_FawNpsqQmE.y.tar.gz",
@@ -6254,10 +6257,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=3&sn=79469a7dc966e6982627cb639af74c76",
         "title": "广东部分始发列车停运！最新春运消息→",
+        "title_eng": "Some trains departing from Guangdong are suspended! Latest Spring Festival News →",
         "nickname": "潮州日报",
         "created_at": "2021-01-18",
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_uY1hP29AGg.y.tar.gz",
         "censored_date": "2021-01-18 19:56:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655618895&idx=1&sn=ea48f003328c66046eef81a21b8fdb5b",
+        "title": "曾任门诊医生，新任公安局长就职",
+        "nickname": "阿SIR",
+        "created_at": "2021-01-17",
+        "archive": "gh_0af747913cab_2021-01-17_2655618895_0CBK04i2hR.y.tar.gz",
+        "censored_date": "2021-01-18 20:54:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=5&sn=11fec836e4caa8ee1cde4ca97c1ef3b3",
+        "title": "转扩！九大最新疫情谣言，千万别被骗！",
+        "nickname": "潮州日报",
+        "created_at": "2021-01-18",
+        "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_IXOVMwPGq2.y.tar.gz",
+        "censored_date": "2021-01-18 20:46:30",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
