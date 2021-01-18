@@ -6267,6 +6267,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655618895&idx=1&sn=ea48f003328c66046eef81a21b8fdb5b",
         "title": "曾任门诊医生，新任公安局长就职",
+        "title_eng": "Served as an outpatient doctor, inaugurated as the new chief of public security",
         "nickname": "阿SIR",
         "created_at": "2021-01-17",
         "archive": "gh_0af747913cab_2021-01-17_2655618895_0CBK04i2hR.y.tar.gz",
@@ -6276,10 +6277,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650665425&idx=5&sn=11fec836e4caa8ee1cde4ca97c1ef3b3",
         "title": "转扩！九大最新疫情谣言，千万别被骗！",
+        "title_eng": "Repost! Don't be deceived by the nine latest rumors about the epidemic!",
         "nickname": "潮州日报",
         "created_at": "2021-01-18",
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_IXOVMwPGq2.y.tar.gz",
         "censored_date": "2021-01-18 20:46:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-18 21:30:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652913012&idx=2&sn=c3a0188f70bf14fbfe7e75d9eafd961f",
+        "title": "耒阳市一房企破产，4.2亿无人接盘",
+        "nickname": "耒阳社区",
+        "created_at": "2021-01-17",
+        "archive": "gh_40f2418747aa_2021-01-17_2652913012_93OHhRspUq.y.tar.gz",
+        "censored_date": "2021-01-18 21:53:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-17 21:56:45"
     }
 ]
