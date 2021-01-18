@@ -6183,10 +6183,12 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTY0Nzg4MQ==&mid=2247491017&idx=8&sn=9acb54c06c1fb27517560dfe3ea135b5",
         "title": "重磅，新冠病毒变异导致核酸检测失败",
+        "title_eng": "Heavy, mutation of new coronavirus causes nucleic acid test to fail",
         "nickname": "政经观潮",
         "created_at": "2021-01-18",
         "archive": "gh_6464e9dc9910_2021-01-18_2247491017_8UaNFRSZg1.y.tar.gz",
         "censored_date": "2021-01-18 14:34:30",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-18 15:08:07"
     }
 ]
