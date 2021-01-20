@@ -6507,7 +6507,8 @@
         "created_at": "2021-01-19",
         "archive": "gh_0fc5cbdf446f_2021-01-19_2651758568_FL4Sse5YVH.y.tar.gz",
         "censored_date": "2021-01-19 14:49:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-20 20:06:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjczMDIyOA==&mid=2648265164&idx=1&sn=07ecf4ebc55152cf94a50f9a1b4b4d03",
@@ -6696,11 +6697,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247565944&idx=1&sn=f53b73d8bae273ac5e6da564a3ecd7ef",
         "title": "上海名校CS专业第一本科生：我5天里打工3天，丝毫不影响GPA，可见「教学」有多荒谬",
+        "title_eng": "First undergraduate student of CS major in Shanghai prestigious school: I work for 3 days in 5 days, which does not affect GPA at all, which shows how absurd teaching is",
         "nickname": "量子位",
         "created_at": "2021-01-19",
         "archive": "gh_114e76fd6e5d_2021-01-19_2247565944_s0WY1Xk0G5.y.tar.gz",
         "censored_date": "2021-01-20 18:58:07",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-19 17:23:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2650913416&idx=3&sn=75d0c88da15381bbf8215ffacfd8c483",
+        "title": "【辟谣】“饶河农场一家超市检出冻货新冠阳性”？假的！",
+        "title_eng": "[Rumor Refusal] A supermarket in Raohe Farm detected positive for frozen goods with new crown? fake!",
+        "nickname": "关注饶河",
+        "created_at": "2021-01-20",
+        "archive": "gh_b04d605c071c_2021-01-20_2650913416_06oXhZurDQ.y.tar.gz",
+        "censored_date": "2021-01-20 20:24:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-20 20:27:57"
     }
 ]
