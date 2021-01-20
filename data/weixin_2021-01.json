@@ -6245,7 +6245,7 @@
         "archive": "gh_d96e48e19dc9_2021-01-18_2650665425_FawNpsqQmE.y.tar.gz",
         "censored_date": "2021-01-18 19:57:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-20 04:59:05"
+        "update_date": "2021-01-20 14:47:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492468&idx=5&sn=eca3c4b1190574a530866308b6ce8fc8",
@@ -6311,7 +6311,7 @@
         "archive": "gh_1d97537c840d_2021-01-18_2650286315_sb18qpMCmx.y.tar.gz",
         "censored_date": "2021-01-18 23:19:07",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-20 04:43:09"
+        "update_date": "2021-01-20 14:31:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198044&idx=2&sn=e50b4c769d8758a75de84433b9eed9e5",
@@ -6561,7 +6561,7 @@
         "archive": "gh_06140cfad959_2021-01-18_2247519697_AiNvYMEWfS.y.tar.gz",
         "censored_date": "2021-01-19 23:02:37",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-01-19 00:20:38"
+        "update_date": "2021-01-20 14:11:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651122032&idx=4&sn=fb3b669d13efa6fb6d8feeec095c42e4",
@@ -6581,7 +6581,8 @@
         "created_at": "2021-01-18",
         "archive": "gh_100a698b17e3_2021-01-18_2650025947_Ar8U3laH0F.y.tar.gz",
         "censored_date": "2021-01-20 04:42:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-20 14:31:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzQ5MDUyNQ==&mid=2652476293&idx=1&sn=93848ccc0a1554c915588bcbe5c0db9f",
@@ -6625,5 +6626,15 @@
         "censored_date": "2021-01-20 10:39:53",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-20 08:30:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTc2MA==&mid=2655444259&idx=1&sn=049f4d195e46b6febb2b0a6020aea242",
+        "title": "从拼多多员工猝死，浅谈上下途中的工伤认定",
+        "title_eng": "From the sudden death of Pinduoduo employees, on the identification of work-related injuries on the way up and down",
+        "nickname": "法律读库",
+        "created_at": "2021-01-20",
+        "archive": "gh_cab2f9091bb2_2021-01-20_2655444259_xhujLZ4MOz.y.tar.gz",
+        "censored_date": "2021-01-20 14:26:32",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
