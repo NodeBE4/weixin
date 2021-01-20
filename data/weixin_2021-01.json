@@ -6541,7 +6541,7 @@
         "archive": "gh_45220e40f13c_2021-01-18_2650021348_48QgXEWrzp.y.tar.gz",
         "censored_date": "2021-01-19 18:57:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-21 00:29:33"
+        "update_date": "2021-01-21 05:41:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NDEzMzY1Mg==&mid=2652145969&idx=3&sn=cd089b638724e476f2f9bd1a0f1e6869",
@@ -6726,7 +6726,7 @@
         "archive": "gh_5023d7e73573_2021-01-19_2247504586_oc1KOyTrIW.y.tar.gz",
         "censored_date": "2021-01-21 00:18:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-19 23:39:42"
+        "update_date": "2021-01-21 05:39:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247508608&idx=1&sn=fc45d798b4bc7a7bfaf24ef5dc2a988d",
@@ -6795,6 +6795,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzY4NTQyMw==&mid=2651296673&idx=4&sn=5fe250d669c22bef095ca8abd73754a4",
         "title": "从分众曲线看投资中国的新逻辑（2021版）",
+        "title_eng": "Looking at the new logic of investing in China from the focus curve (2021 version)",
         "nickname": "水木然学社",
         "created_at": "2021-01-19",
         "archive": "gh_8494fbcc965f_2021-01-19_2651296673_DaM41m2ncJ.y.tar.gz",
@@ -6804,11 +6805,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAyMTYyMg==&mid=2658343738&idx=1&sn=274d4285222a530f28b85d2c735384a4",
         "title": "绑架、陪睡、性侵、拍裸照，娱乐圈3个最神秘的大佬，终于栽了！",
+        "title_eng": "Kidnapping, sleeping with, sexual assault, taking nude photos, the 3 most mysterious bigwigs in the entertainment industry have finally been planted!",
         "nickname": "创业财经汇",
         "created_at": "2021-01-19",
         "archive": "gh_f8d73b28357d_2021-01-19_2658343738_LnEAYmVw4K.y.tar.gz",
         "censored_date": "2021-01-21 04:51:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-19 23:16:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTIzNTA0MA==&mid=2651762565&idx=3&sn=553c84d6e32a2194a7d90e55168bd397",
+        "title": "说唱歌手猥亵儿童，毒品交易，出卖黑帮被追杀。如今他居然要被川普特赦了...",
+        "nickname": "带你游遍英国",
+        "created_at": "2021-01-19",
+        "archive": "gh_336ea9863c03_2021-01-19_2651762565_bP5yQXYOdm.y.tar.gz",
+        "censored_date": "2021-01-21 05:44:38",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
