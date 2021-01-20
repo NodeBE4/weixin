@@ -6454,7 +6454,7 @@
         "archive": "gh_42435e819eef_2021-01-18_2650363667_Q2Jaqs0dMt.y.tar.gz",
         "censored_date": "2021-01-19 12:51:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-19 08:16:07"
+        "update_date": "2021-01-20 18:37:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTM2MTIyMw==&mid=2247495398&idx=2&sn=e0e46dce377bc06b39bb6dfb6b3c5cea",
@@ -6675,6 +6675,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTgzNzc1NQ==&mid=2247488902&idx=1&sn=a4e9da3f3f923931d1047540c7a5b6a9",
         "title": "2021房地产沉思录（update 04）",
+        "title_eng": "2021 Real Estate Meditation Record (update 04)",
         "nickname": "真理规划局",
         "created_at": "2021-01-19",
         "archive": "gh_93523c0a552d_2021-01-19_2247488902_7HkRjros2l.y.tar.gz",
@@ -6685,10 +6686,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTgzNzc1NQ==&mid=2247488874&idx=2&sn=b90f903107fe0fcfffa6b7d2d102798f",
         "title": "月薪3000和月入3W的人差在哪里？",
+        "title_eng": "What is the difference between a monthly salary of 3000 and a monthly income of 3W?",
         "nickname": "真理规划局",
         "created_at": "2021-01-14",
         "archive": "gh_93523c0a552d_2021-01-14_2247488874_I5uzMqGJ3U.y.tar.gz",
         "censored_date": "2021-01-20 17:30:57",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247565944&idx=1&sn=f53b73d8bae273ac5e6da564a3ecd7ef",
+        "title": "上海名校CS专业第一本科生：我5天里打工3天，丝毫不影响GPA，可见「教学」有多荒谬",
+        "nickname": "量子位",
+        "created_at": "2021-01-19",
+        "archive": "gh_114e76fd6e5d_2021-01-19_2247565944_s0WY1Xk0G5.y.tar.gz",
+        "censored_date": "2021-01-20 18:58:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-19 17:23:24"
     }
 ]
