@@ -7029,6 +7029,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650021960&idx=7&sn=4700849de55faaaa66bc3e9f7d7f65eb",
         "title": "豆瓣9.1，这部神剧的尺度也太大了",
+        "title_eng": "Douban 9.1, the scale of this drama is too big",
         "nickname": "吐槽星君",
         "created_at": "2021-01-20",
         "archive": "gh_45220e40f13c_2021-01-20_2650021960_rgXuH4i1cR.y.tar.gz",
@@ -7076,6 +7077,17 @@
         "created_at": "2021-01-21",
         "archive": "gh_419ea35befa4_2021-01-21_2650715063_XRxsBHhlkN.y.tar.gz",
         "censored_date": "2021-01-21 20:24:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-21 21:53:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MDcyMzgwNg==&mid=2247492454&idx=1&sn=3c5e95adbb20d6ee9ec281778ae78497",
+        "title": "电子烟龙头官宣上市，肉眼可见的定时炸弹",
+        "nickname": "钱老师私人笔记",
+        "created_at": "2021-01-20",
+        "archive": "gh_7fc57d721082_2021-01-20_2247492454_QlIp9Xkfuq.y.tar.gz",
+        "censored_date": "2021-01-21 21:49:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-20 20:40:19"
     }
 ]
