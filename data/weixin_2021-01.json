@@ -6717,7 +6717,7 @@
         "archive": "gh_b04d605c071c_2021-01-20_2650913416_06oXhZurDQ.y.tar.gz",
         "censored_date": "2021-01-20 20:24:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-20 20:27:57"
+        "update_date": "2021-01-22 00:42:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247504586&idx=1&sn=357eefa4d4536abdde810cbeb96026be",
@@ -7131,7 +7131,8 @@
         "created_at": "2021-01-21",
         "archive": "gh_f641d0cf37d4_2021-01-21_2651386081_hA4SKyUwmL.y.tar.gz",
         "censored_date": "2021-01-21 23:29:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-22 00:24:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTA4NTYxMA==&mid=2247529484&idx=4&sn=c09158661b8481f688b74a153fcada88",
@@ -7141,6 +7142,27 @@
         "created_at": "2021-01-21",
         "archive": "gh_3f3b4ee5d724_2021-01-21_2247529484_DQfYIF1qEW.y.tar.gz",
         "censored_date": "2021-01-21 23:27:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-22 00:22:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247507165&idx=1&sn=1f0709101a4b7027f612e6cb6054a1d4",
+        "title": "全国人大常委会的内部讲座：全球科技大战打响，中国怎么办？",
+        "title_eng": "An internal lecture by the Standing Committee of the National People's Congress: What will China do when the global science and technology war has started?",
+        "nickname": "潇湘经略",
+        "created_at": "2021-01-20",
+        "archive": "gh_30b5796604e2_2021-01-20_2247507165_jw1Kr0zmuk.y.tar.gz",
+        "censored_date": "2021-01-22 00:48:58",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657548705&idx=1&sn=0d0a854cc71aae9be7b7fe2014fb3a81",
+        "title": "别掉进苛求的陷进",
+        "title_eng": "Don't fall into a demanding trap",
+        "nickname": "经济日报",
+        "created_at": "2021-01-21",
+        "archive": "gh_a09deab6adec_2021-01-21_2657548705_WMwfm0OD3H.y.tar.gz",
+        "censored_date": "2021-01-22 00:36:32",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
