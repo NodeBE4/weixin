@@ -7087,7 +7087,7 @@
         "archive": "gh_419ea35befa4_2021-01-21_2650715063_XRxsBHhlkN.y.tar.gz",
         "censored_date": "2021-01-21 20:24:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-22 23:52:13"
+        "update_date": "2021-01-24 04:49:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MDcyMzgwNg==&mid=2247492454&idx=1&sn=3c5e95adbb20d6ee9ec281778ae78497",
@@ -7393,7 +7393,8 @@
         "created_at": "2021-01-22",
         "archive": "gh_b04d605c071c_2021-01-22_2650913972_kFPtsl0Ue8.y.tar.gz",
         "censored_date": "2021-01-22 23:04:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-24 04:36:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2650913972&idx=8&sn=e24e3c85a0cbedbff0a95e8cd65a16fb",
@@ -7403,7 +7404,8 @@
         "created_at": "2021-01-22",
         "archive": "gh_b04d605c071c_2021-01-22_2650913972_HXFCrQycZS.y.tar.gz",
         "censored_date": "2021-01-22 23:06:02",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-24 04:36:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2650913972&idx=4&sn=754494238f4b9a9fdb8042af9695c0c9",
@@ -7413,7 +7415,8 @@
         "created_at": "2021-01-22",
         "archive": "gh_b04d605c071c_2021-01-22_2650913972_uMjkoYzSe6.y.tar.gz",
         "censored_date": "2021-01-22 23:05:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-24 04:37:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247497621&idx=2&sn=159e3f128f953f5b4604d0391f19259d",
@@ -7823,10 +7826,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653031820&idx=2&sn=9dd14ac75dde0157893419d790372ecb",
         "title": "从负债6万到身家千万：他说这样赚钱，才能过上想要的生活",
+        "title_eng": "From debts of 60,000 to tens of millions of net worth: He said that by making money in this way, he can live the life he wants",
         "nickname": "财闻要参",
         "created_at": "2021-01-19",
         "archive": "gh_34471e1f4b56_2021-01-19_2653031820_HQ46nrq5FL.y.tar.gz",
         "censored_date": "2021-01-24 03:57:16",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDA2NDk0MA==&mid=2651276506&idx=3&sn=c8c113f17bfa3b7d255942fe9d5a4de7",
+        "title": "你喜欢翻译吗？来试试翻译戈尔曼在拜登总统就职典礼上朗读的诗歌吧！",
+        "title_eng": "Do you like translation? Let's try translating the poems read by Gorman at the inauguration of President Biden!",
+        "nickname": "美国驻华大使馆",
+        "created_at": "2021-01-22",
+        "archive": "gh_791a2065ef51_2021-01-22_2651276506_FA9YlsOohp.y.tar.gz",
+        "censored_date": "2021-01-24 04:20:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-22 23:09:06"
     }
 ]
