@@ -8215,7 +8215,8 @@
         "created_at": "2021-01-25",
         "archive": "wxid_4942649426112_2021-01-25_2654163201_FI63qsRenz.y.tar.gz",
         "censored_date": "2021-01-25 19:42:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-27 01:12:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjE4ODYzOQ==&mid=2651662070&idx=4&sn=1538e0fe980685622df974c0a7b96f86",
@@ -8606,10 +8607,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0ODU0ODE4Mg==&mid=2247689864&idx=2&sn=09a71470c3ed7f734f5e5a88ebd3c8a0",
         "title": "强！新区这家企业三个月完成A+轮融资",
+        "title_eng": "Strong! This company in the new district completed Series A financing in three months",
         "nickname": "南京江北新区",
         "created_at": "2021-01-25",
         "archive": "gh_9a8b1c4e135e_2021-01-25_2247689864_cGCM5EJxo0.y.tar.gz",
         "censored_date": "2021-01-27 00:50:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjAyMTYyMg==&mid=2658344577&idx=1&sn=b025cbcb0a26439cdc7638392d5e6c42",
+        "title": "雄安为啥没动静了？清华教授道出实情！",
+        "title_eng": "Why is Xiong'an silent? Professor Tsinghua tells the truth!",
+        "nickname": "创业财经汇",
+        "created_at": "2021-01-25",
+        "archive": "gh_f8d73b28357d_2021-01-25_2658344577_07t4OJWoDv.y.tar.gz",
+        "censored_date": "2021-01-27 01:14:19",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwOTU4MA==&mid=2654837569&idx=2&sn=563123838b1b53122f9590b0973279e9",
+        "title": "男子因父亲去世请假8天公司不批，强行休假后被辞退",
+        "title_eng": "The man asked for 8 days leave due to the death of his father, the company refused to approve, and was dismissed after forced leave",
+        "nickname": "新闻哥",
+        "created_at": "2021-01-25",
+        "archive": "gh_faa35168f414_2021-01-25_2654837569_wgQxOpGuVy.y.tar.gz",
+        "censored_date": "2021-01-27 01:22:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
