@@ -8237,7 +8237,8 @@
         "created_at": "2021-01-24",
         "archive": "gh_d194df4fb836_2021-01-24_2651158435_zSlesyon6p.y.tar.gz",
         "censored_date": "2021-01-25 23:31:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-27 06:18:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTY2NTc0OQ==&mid=2247487021&idx=2&sn=545f8ae4b9ca08eb9d2105659008482a",
@@ -8259,7 +8260,7 @@
         "archive": "gh_f641d0cf37d4_2021-01-25_2651386171_DRpEWOhN0G.y.tar.gz",
         "censored_date": "2021-01-25 23:37:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-26 00:27:41"
+        "update_date": "2021-01-27 06:15:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjE4ODYzOQ==&mid=2651662070&idx=5&sn=48451708c7d71983c3deadf42c4b2a74",
@@ -8692,6 +8693,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247497395&idx=1&sn=2deaec7c10e90142f8382ef62eb3eace",
         "title": "谁的尴尬？一辆车都没交付，恒大一跃成为中国第二大汽车公司！",
+        "title_eng": "Who is embarrassed? No car was delivered, and Evergrande became the second largest automobile company in China!",
         "nickname": "冰川思享号",
         "created_at": "2021-01-25",
         "archive": "gh_e80b5c3c8b87_2021-01-25_2247497395_QCeB2TLv3V.y.tar.gz",
@@ -8702,11 +8704,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjMyMTQyMg==&mid=2247581303&idx=2&sn=5f2bb90c7be84f59aee74b2438c0d86a",
         "title": "王清宪会见苏宁总裁",
+        "title_eng": "Wang Qingxian meets with President Suning",
         "nickname": "凤凰网青岛",
         "created_at": "2021-01-25",
         "archive": "gh_20542841a698_2021-01-25_2247581303_cFCjJ3naer.y.tar.gz",
         "censored_date": "2021-01-27 04:59:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-25 23:25:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMTc2NDAwMw==&mid=2247492697&idx=1&sn=e3bda496cda9c110a1779b6b9cf9f95d",
+        "title": "无休止的核酸检测，创造了多少GDP？",
+        "title_eng": "How much GDP has been created by endless nucleic acid testing?",
+        "nickname": "57洞见",
+        "created_at": "2021-01-24",
+        "archive": "gh_ee02c2953c0a_2021-01-24_2247492697_yHag9ubDYU.y.tar.gz",
+        "censored_date": "2021-01-27 06:18:16",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-01-25 17:36:06"
     }
 ]
