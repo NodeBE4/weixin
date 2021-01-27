@@ -8380,7 +8380,7 @@
         "archive": "gh_11d6ef0dd9d4_2021-01-25_2650846380_yAJd702QUZ.y.tar.gz",
         "censored_date": "2021-01-26 09:29:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-01-26 13:15:10"
+        "update_date": "2021-01-27 18:59:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzY3NjA0Ng==&mid=2650363751&idx=4&sn=1e6e6da3fd22973ac87cd1375f08cfe6",
@@ -8412,7 +8412,8 @@
         "created_at": "2021-01-26",
         "archive": "gh_644f262a3d2c_2021-01-26_2650960490_vq6hzUDxZV.y.tar.gz",
         "censored_date": "2021-01-26 12:49:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-27 19:11:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247497134&idx=1&sn=991b1cb9dcd5aa386a04939e5fb22289",
@@ -8886,5 +8887,37 @@
         "censored_date": "2021-01-27 17:35:44",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-01-26 15:50:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzMxNjQzMA==&mid=2650715465&idx=1&sn=56768ae8268af9906529e58993398c2c",
+        "title": "通化物资保供，当务之急是解决“缺人手”难题 | 新京报快评",
+        "title_eng": "To ensure the supply of Tonghua materials, the top priority is to solve the problem of shortage of manpower | Beijing News Express",
+        "nickname": "新京报评论",
+        "created_at": "2021-01-26",
+        "archive": "gh_419ea35befa4_2021-01-26_2650715465_1Ezg8qd6tj.y.tar.gz",
+        "censored_date": "2021-01-27 19:26:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-26 16:50:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTY4NjAwMQ==&mid=2650106262&idx=1&sn=5dabe93c00f4e2bd352aa48a25020e73",
+        "title": "观点 | 高比例可再生能源来了，2030年度电成本最高涨6分",
+        "title_eng": "Viewpoint | A high proportion of renewable energy is coming, and the cost of electricity in 2030 will increase by up to 6 points",
+        "nickname": "南方能源观察",
+        "created_at": "2021-01-27",
+        "archive": "gh_99175221837b_2021-01-27_2650106262_XguRLPBr3Z.y.tar.gz",
+        "censored_date": "2021-01-27 19:29:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247509690&idx=5&sn=eaa0eb06efde17c53a88713e1e9edc0a",
+        "title": "原南昌市长退休回家耕田：宁肯得罪省长，也不能得罪副省长",
+        "title_eng": "The former mayor of Nanchang retired and went home to plow the fields: he would rather offend the governor than the deputy governor",
+        "nickname": "法苑茶语",
+        "created_at": "2021-01-26",
+        "archive": "gh_bf54f24b2e87_2021-01-26_2247509690_SAkD0U9Ei0.y.tar.gz",
+        "censored_date": "2021-01-27 19:24:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-01-26 16:46:56"
     }
 ]
