@@ -2234,7 +2234,7 @@
         "archive": "gh_45220e40f13c_2021-02-01_2650024273_3DWk6uyl4b.y.tar.gz",
         "censored_date": "2021-02-01 20:38:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-02-01 23:01:56"
+        "update_date": "2021-02-03 14:14:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652029874&idx=4&sn=b5d17668fc7e7bb80cb0743d13314c3d",
@@ -2862,7 +2862,8 @@
         "created_at": "2021-02-01",
         "archive": "gh_d54ecc5dcc96_2021-02-01_2247494767_W3cIE7awCH.y.tar.gz",
         "censored_date": "2021-02-03 07:44:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-03 14:00:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMjc0MjkzNQ==&mid=2247515294&idx=1&sn=2b790cff1c07a8870b4e0bc53690abd9",
@@ -2952,10 +2953,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjM2MzE2OQ==&mid=2652897491&idx=2&sn=067faf110f694594c7ee6b45ddf2419f",
         "title": "500余幅珍贵照片, 100余人真情记述，还原一个真实的毛泽东",
+        "title_eng": "More than 500 precious photos, more than 100 people’s true feelings, restore a real Mao Zedong",
         "nickname": "老歌回放",
         "created_at": "2021-02-01",
         "archive": "gh_81a0e7cec153_2021-02-01_2652897491_PphyowTQUk.y.tar.gz",
         "censored_date": "2021-02-03 13:09:24",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MTk0MDA3Nw==&mid=2247503913&idx=7&sn=e2e925754627de25a9a0b572cbf5799b",
+        "title": "太吓人了！英媒：八分之一康复新冠患者在140天内死亡！",
+        "title_eng": "It's scary! British media: One in eight recovered COVID-19 patients died within 140 days!",
+        "nickname": "周蓬安的公号",
+        "created_at": "2021-02-01",
+        "archive": "gh_dca32f4cf833_2021-02-01_2247503913_FHGOzJIetu.y.tar.gz",
+        "censored_date": "2021-02-03 13:43:46",
+        "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MTk0MDA3Nw==&mid=2247503913&idx=2&sn=a4099b0995e67fff160491093959b813",
+        "title": "一夜之间，五大巨头相继传来大消息，资本世界要变天？",
+        "title_eng": "Overnight, big news came from the five giants one after another. Is the capital world going to change?",
+        "nickname": "周蓬安的公号",
+        "created_at": "2021-02-01",
+        "archive": "gh_dca32f4cf833_2021-02-01_2247503913_YuJOR6e2Pm.y.tar.gz",
+        "censored_date": "2021-02-03 13:36:53",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2021-02-02 02:07:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247510375&idx=2&sn=1c40d62e04fc072318437613714f31e4",
+        "title": "冷眼：突发！万亿巨头破产，7千亿债务悬了！这个有100多情妇的贪官被处决了……",
+        "nickname": "海外财经",
+        "created_at": "2021-02-01",
+        "archive": "gh_8f29429f71d7_2021-02-01_2247510375_0W1nkbVIzi.y.tar.gz",
+        "censored_date": "2021-02-03 14:31:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
