@@ -3611,6 +3611,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650846544&idx=2&sn=32acde10bb7daf227f26ccdb76e4e8cc",
         "title": "突发！始料未及！工商银行理财竟然也“爆雷”！",
+        "title_eng": "Burst! Unexpectedly! ICBC's financial management turned out to be thunderous!",
         "nickname": "荣茂读报",
         "created_at": "2021-02-04",
         "archive": "gh_11d6ef0dd9d4_2021-02-04_2650846544_l7ksKRIuLg.y.tar.gz",
@@ -3621,6 +3622,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650846531&idx=4&sn=798746e624e3ab21751d65cf44def5ee",
         "title": "连载系列：美国敢死，中国就敢埋（11篇）",
+        "title_eng": "Serial series: America dares to die, China dares to bury (11 articles)",
         "nickname": "荣茂读报",
         "created_at": "2021-02-03",
         "archive": "gh_11d6ef0dd9d4_2021-02-03_2650846531_Fc1jpVty7h.y.tar.gz",
@@ -3631,10 +3633,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650846544&idx=4&sn=e3fd64e68e72f7cd9c6f8ebab83d7088",
         "title": "人类正常体温37℃已成历史：体温普遍降低意味着什么？",
+        "title_eng": "The normal human body temperature of 37℃ has become history: what does it mean that the body temperature generally drops?",
         "nickname": "荣茂读报",
         "created_at": "2021-02-04",
         "archive": "gh_11d6ef0dd9d4_2021-02-04_2650846544_EgGkdwHfs3.y.tar.gz",
         "censored_date": "2021-02-05 19:14:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489328&idx=2&sn=abb5b06083ac0dc7ea6a1196d1f9c557",
+        "title": "他大专毕业，从负债6万到年入千万：有远见的人，都在做这件事",
+        "title_eng": "He graduated from a junior college, from 60,000 in debt to 10 million in annual income: people with vision are doing this",
+        "nickname": "世纪观察",
+        "created_at": "2021-02-04",
+        "archive": "gh_26762a56c129_2021-02-04_2247489328_yWZTvU0Xfj.y.tar.gz",
+        "censored_date": "2021-02-05 20:04:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
