@@ -4180,7 +4180,8 @@
         "created_at": "2021-02-05",
         "archive": "gh_aec0c30e47cc_2021-02-05_2654289368_fqJQGYTSL0.y.tar.gz",
         "censored_date": "2021-02-07 11:23:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-08 00:33:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247510207&idx=1&sn=04d1f2ce3c1cfbd349f94ed56558ad42",
@@ -4267,6 +4268,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247509371&idx=5&sn=b5f6b5411b607f6370dac1066bbe0494",
         "title": "垄断芯片制造关键材料，日本凭什么？",
+        "title_eng": "Why does Japan monopolize key materials for chip manufacturing?",
         "nickname": "环球冷眼",
         "created_at": "2021-02-04",
         "archive": "gh_1aecabdf0add_2021-02-04_2247509371_TptCYefiPE.y.tar.gz",
@@ -4284,5 +4286,15 @@
         "censored_date": "2021-02-07 22:29:31",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-02-06 18:36:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjIxODQwOQ==&mid=2654289873&idx=1&sn=5ab8009ddfc7658e083f3df3400c6f3f",
+        "title": "走访慰问送温暖 浓浓关爱暖人心——金昌市公安局党委开展系列走访慰问活动",
+        "title_eng": "Visits and condolences to send warmth, deep care and warmth-Jinchang City Public Security Bureau Party Committee launched a series of visits and condolences activities",
+        "nickname": "金昌公安",
+        "created_at": "2021-02-07",
+        "archive": "gh_aec0c30e47cc_2021-02-07_2654289873_uMH4yS69jl.y.tar.gz",
+        "censored_date": "2021-02-08 00:15:19",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
