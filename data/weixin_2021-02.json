@@ -4559,11 +4559,13 @@
         "created_at": "2021-02-07",
         "archive": "gh_cab2f9091bb2_2021-02-07_2655444768_68FiwhxnvV.y.tar.gz",
         "censored_date": "2021-02-09 03:12:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-09 04:52:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU4ODk2MA==&mid=2735473497&idx=3&sn=23280f8b9eee13b3302781927db79bab",
         "title": "视频：为了给中国扣罪名，加拿大用蝙蝠衫，英国用一幅画。",
+        "title_eng": "Video: In order to convict China, Canada uses a bat shirt and the United Kingdom uses a painting.",
         "nickname": "平局",
         "created_at": "2021-02-07",
         "archive": "gh_ec3d4018f2a9_2021-02-07_2735473497_W8yiQcV3Zx.y.tar.gz",
@@ -4573,6 +4575,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247542831&idx=2&sn=af903434a35b00effb92ffaf3fe53101",
         "title": "重磅！专属硕博研究生的相亲平台来了！",
+        "title_eng": "Heavy! The blind date platform dedicated to master and doctoral graduate students is here!",
         "nickname": "青塔",
         "created_at": "2021-02-08",
         "archive": "gh_9eaf123d0c6f_2021-02-08_2247542831_ZKGrFYJPsp.y.tar.gz",
@@ -4588,5 +4591,15 @@
         "archive": "gh_830365a1bf55_2021-02-07_2650944248_5N2UcdEuQZ.y.tar.gz",
         "censored_date": "2021-02-09 03:28:30",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650369351&idx=1&sn=1c18c145406b0ab909bcb0a9e3a8ff5b",
+        "title": "中芯终于赚钱了，但没了华为，以后怎么办？",
+        "nickname": "网易科技",
+        "created_at": "2021-02-07",
+        "archive": "gh_19363204056b_2021-02-07_2650369351_iKWvY6EwtA.y.tar.gz",
+        "censored_date": "2021-02-09 04:41:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-09 05:00:42"
     }
 ]
