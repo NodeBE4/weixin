@@ -4344,6 +4344,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTgzMTE5Ng==&mid=2651253928&idx=2&sn=b98b06cfdba93f0afada836e25d99225",
         "title": "2021年，中国正在下一盘大棋！（深度好文）",
+        "title_eng": "In 2021, China is playing a big game! (Good text in depth)",
         "nickname": "陆家嘴制高点",
         "created_at": "2021-01-28",
         "archive": "gh_49a4d3be672d_2021-01-28_2651253928_3On658rAFW.y.tar.gz",
@@ -4360,5 +4361,15 @@
         "censored_date": "2021-02-08 09:13:31",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-02-06 20:29:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxODY1NA==&mid=2247511525&idx=2&sn=a091d772ea23efb37ed23b643c1d4b5d",
+        "title": "期刊 |《中国法学》2021年第1期要目",
+        "title_eng": "Journal | Chinese Law, Issue 1, 2021",
+        "nickname": "法学学术前沿",
+        "created_at": "2021-02-08",
+        "archive": "gh_997758c7ed25_2021-02-08_2247511525_aQ702mu60r.y.tar.gz",
+        "censored_date": "2021-02-08 09:58:18",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
