@@ -4669,6 +4669,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650191610&idx=6&sn=2c39d6e85baeda004225f1784a918ae4",
         "title": "来，玩Clubhouse吗？互相Follow一下？",
+        "title_eng": "Come, play Clubhouse? Follow each other?",
         "nickname": "北美留学生日报",
         "created_at": "2021-02-07",
         "archive": "gh_4002b1765479_2021-02-07_2650191610_8e0sfOQNF1.y.tar.gz",
@@ -4679,10 +4680,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650191610&idx=3&sn=e20d50ebff683cbf376d1e6e32b06c87",
         "title": "在Clubhouse上，海峡两岸青年实现了几十年来最坦诚一次交流",
+        "title_eng": "On the Clubhouse, youths from both sides of the Taiwan Strait realized the most candid exchange in decades",
         "nickname": "北美留学生日报",
         "created_at": "2021-02-07",
         "archive": "gh_4002b1765479_2021-02-07_2650191610_XujoINzvpB.y.tar.gz",
         "censored_date": "2021-02-09 14:24:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651895954&idx=2&sn=962f7e83a25c9af2cd337a6fe7d792c8",
+        "title": "金一南：中国对美国将构成的最大威胁是什么？",
+        "nickname": "维基解迷",
+        "created_at": "2021-02-07",
+        "archive": "gh_a2e05cde0069_2021-02-07_2651895954_0YjJfoEVmx.y.tar.gz",
+        "censored_date": "2021-02-09 14:31:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDgxMjEwMQ==&mid=2650998769&idx=1&sn=176c2e914fb6ca373c2b89a5f2392573",
+        "title": "中国科协党组理论学习中心组开展2021年第一次集体学习",
+        "nickname": "科协改革进行时",
+        "created_at": "2021-02-09",
+        "archive": "gh_3e7c18694931_2021-02-09_2650998769_8AKmTtLpvq.y.tar.gz",
+        "censored_date": "2021-02-09 14:32:35",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
