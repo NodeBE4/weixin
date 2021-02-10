@@ -4890,6 +4890,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjQ1NDcwNg==&mid=2651075476&idx=2&sn=b40a0c7044642ccfe6defee5f4c76688",
         "title": "刚刚，赣州任免一批领导干部！",
+        "title_eng": "Just now, Ganzhou appointed and removed a group of leading cadres!",
         "nickname": "赣南日报",
         "created_at": "2021-02-08",
         "archive": "gh_0cfd33f7cbee_2021-02-08_2651075476_0vbOwEB18i.y.tar.gz",
@@ -4900,6 +4901,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247536551&idx=1&sn=70d804bbb5f932663a1e00a044c92cdc",
         "title": "人性最大的善，是不让别人为难",
+        "title_eng": "The greatest goodness of human nature is not to embarrass others",
         "nickname": "金融茶社",
         "created_at": "2021-02-08",
         "archive": "gh_5f5aaff92191_2021-02-08_2247536551_SPGowb4Ldt.y.tar.gz",
@@ -4909,6 +4911,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247536551&idx=3&sn=cb8fedb8195148677b7ebd944b85800b",
         "title": "“中国第三大城市”，竟然是茅台！",
+        "title_eng": "China's third largest city turned out to be Moutai!",
         "nickname": "金融茶社",
         "created_at": "2021-02-08",
         "archive": "gh_5f5aaff92191_2021-02-08_2247536551_HXJacvlwsZ.y.tar.gz",
@@ -4918,6 +4921,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247536551&idx=4&sn=45fd2388965bc087763f10508bfa1fa3",
         "title": "女记者自述家暴刷屏，同情她的人却越来越少……",
+        "title_eng": "Female reporters reported that domestic violence was screened, but fewer and fewer people sympathized with her...",
         "nickname": "金融茶社",
         "created_at": "2021-02-08",
         "archive": "gh_5f5aaff92191_2021-02-08_2247536551_J0D7TWaQBm.y.tar.gz",
@@ -4928,6 +4932,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0MDYzMzIxNA==&mid=2247507861&idx=1&sn=74082b6faf3f2b33216160441da0255a",
         "title": "生态环境监测2020年度风采录 之总站篇",
+        "title_eng": "Ecological Environment Monitoring 2020 Annual Style Record-Terminus",
         "nickname": "中国环境监测",
         "created_at": "2021-02-10",
         "archive": "gh_fbf78f223631_2021-02-10_2247507861_XWOJ9gQk1j.y.tar.gz",
@@ -4937,10 +4942,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247536551&idx=2&sn=b787f3fb9212df258944f0c80f1e1f3f",
         "title": "那些不愿就地过年的人，到底有什么苦衷？",
+        "title_eng": "What are the difficulties of those who do not want to celebrate the New Year on the spot?",
         "nickname": "金融茶社",
         "created_at": "2021-02-08",
         "archive": "gh_5f5aaff92191_2021-02-08_2247536551_W9L3AoBitm.y.tar.gz",
         "censored_date": "2021-02-10 16:41:56",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTEzODczMQ==&mid=2702369278&idx=2&sn=0c54da041b4464eb07cbe66e86ae24a4",
+        "title": "请收下增城区委、区政府这封春节慰问信！",
+        "nickname": "增城区融媒体中心",
+        "created_at": "2021-02-08",
+        "archive": "gh_3d6bfdcee280_2021-02-08_2702369278_JXNA42PWcR.y.tar.gz",
+        "censored_date": "2021-02-10 18:09:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-09 02:44:35"
     }
 ]
