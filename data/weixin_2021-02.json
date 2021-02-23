@@ -6277,7 +6277,8 @@
         "created_at": "2021-02-20",
         "archive": "gh_0cfd33f7cbee_2021-02-20_2651077686_QCnbjYVs7a.y.tar.gz",
         "censored_date": "2021-02-21 04:43:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-23 20:02:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653037282&idx=2&sn=2898952df0e6e90e0a35d1110cbe90f6",
@@ -6829,7 +6830,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247484301&idx=2&sn=7671fafccb1559b1167c9dfdb043b964",
         "title": "“我那个工资5000的朋友，一年存了20万”：想给只有一份死工资的人提个醒",
-        "title_eng": "My friend with a salary of 5,000 saves 200,000 a year: I want to remind people who only have a dead salary",
+        "title_eng": "My friend with a salary of 5,000 saves 200,000 a year",
         "nickname": "创业大白",
         "created_at": "2021-02-19",
         "archive": "gh_c7f9947afc98_2021-02-19_2247484301_2uQ07keSRy.y.tar.gz",
@@ -7191,10 +7192,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247544833&idx=1&sn=bb2c71cd3d2cbbf68d83d8b9474ea4e4",
         "title": "所有高校封闭式管理！教育部正式官宣",
+        "title_eng": "Closed management of all universities! Official announcement by the Ministry of Education",
         "nickname": "青塔",
         "created_at": "2021-02-23",
         "archive": "gh_9eaf123d0c6f_2021-02-23_2247544833_FIDSbgENou.y.tar.gz",
         "censored_date": "2021-02-23 19:23:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODc5MzMwNw==&mid=2247506416&idx=2&sn=eb26d7624e6e0400dd3cca7843c990aa",
+        "title": "“我那个工资5000的朋友，一年存了20万”",
+        "title_eng": "My friend with a salary of 5,000 saves 200,000 a year",
+        "nickname": "人文英华",
+        "created_at": "2021-02-21",
+        "archive": "gh_46052ab4e941_2021-02-21_2247506416_0xfi3M4gus.y.tar.gz",
+        "censored_date": "2021-02-23 19:32:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-21 13:25:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247487169&idx=4&sn=3d77e7a5a6f65245ad187dbd43fb4274",
+        "title": "中国第—奇女孑！科学已经无法解释了！",
+        "title_eng": "China's first-strange girl! Science can't explain it!",
+        "nickname": "实事聚焦",
+        "created_at": "2021-02-21",
+        "archive": "gh_28a27f6c0472_2021-02-21_2247487169_n0RPa4FHxU.y.tar.gz",
+        "censored_date": "2021-02-23 19:36:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
