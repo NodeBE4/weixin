@@ -6488,7 +6488,7 @@
         "archive": "gh_17b5c2113f0d_2021-02-21_2654161251_hGVmBz1qKS.y.tar.gz",
         "censored_date": "2021-02-22 04:18:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-02-22 05:24:59"
+        "update_date": "2021-02-23 15:34:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491474&idx=4&sn=6347e977c4b35c0f341fb70ac985d55f",
@@ -7139,6 +7139,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzkxMDA0OA==&mid=2652012339&idx=1&sn=70286cb03c8304e6974c3339a6baa01e",
         "title": "命名！全省示范！",
+        "title_eng": "name! Demonstration across the province!",
         "nickname": "安徽发布",
         "created_at": "2021-02-20",
         "archive": "gh_a99d3b7ea9fa_2021-02-20_2652012339_hrpPcSVQtz.y.tar.gz",
@@ -7149,6 +7150,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MTE2NDI1NQ==&mid=2247486208&idx=1&sn=7f935dee17c613705a3bdb1478fc6db1",
         "title": "翻倍机会，就看这只！！",
+        "title_eng": "Double the chance, just look at this one! !",
         "nickname": "股票早午盘",
         "created_at": "2021-02-22",
         "archive": "gh_f2ecca440ae9_2021-02-22_2247486208_boVYuzyQ5R.y.tar.gz",
@@ -7158,10 +7160,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651345949&idx=1&sn=1bc779ee84c11fe5b062d6993cb2324f",
         "title": "震惊！阿里大文娱公关总监自杀了？",
+        "title_eng": "Shock! The Director of Public Relations of Alibaba Entertainment has committed suicide?",
         "nickname": "百姓关注话题",
         "created_at": "2021-02-23",
         "archive": "gh_a0b79e79b274_2021-02-23_2651345949_pL00JxA1NF.y.tar.gz",
         "censored_date": "2021-02-23 15:23:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NjA0NTI1MQ==&mid=2247501846&idx=2&sn=3acf2df19862a5eb31ad2357aded2a97",
+        "title": "即将开讲 |  NR4交易策略",
+        "title_eng": "Coming soon | NR4 trading strategy",
+        "nickname": "全球中文社区",
+        "created_at": "2021-02-23",
+        "archive": "gh_33c09ea91e58_2021-02-23_2247501846_0cybiJHQPu.y.tar.gz",
+        "censored_date": "2021-02-23 15:36:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NjA0NTI1MQ==&mid=2247501846&idx=1&sn=07e3e8ec74f94b0312c8c59d144a8936",
+        "title": "视频分析 |澳元突破上行，比特币高位回落，黄金重建反弹",
+        "title_eng": "Video Analysis | The Australian dollar broke through the upward trend, Bitcoin fell from its high, and gold rebounded",
+        "nickname": "全球中文社区",
+        "created_at": "2021-02-23",
+        "archive": "gh_33c09ea91e58_2021-02-23_2247501846_4F6d9gBxmM.y.tar.gz",
+        "censored_date": "2021-02-23 15:35:25",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
