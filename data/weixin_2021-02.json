@@ -7525,6 +7525,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMzE4Njc3Mg==&mid=2247554525&idx=2&sn=5d4950de3a4dd6717fe32436f1567e32",
         "title": "白茶为什么被称为“万病之药”？",
+        "title_eng": "Why is white tea called the medicine for all diseases?",
         "nickname": "加拿大中文报",
         "created_at": "2021-02-22",
         "archive": "gh_d8ee703d4de1_2021-02-22_2247554525_13QFxvBA6T.y.tar.gz",
@@ -7561,6 +7562,27 @@
         "created_at": "2021-02-24",
         "archive": "gh_d8ee703d4de1_2021-02-24_2247554852_IYD04gPeKZ.y.tar.gz",
         "censored_date": "2021-02-24 19:56:06",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651786381&idx=3&sn=eeeedcc876d8ba0bf0139a72bca7b823",
+        "title": "这种解压方式，常常被人误解为色情，但好用！",
+        "title_eng": "This decompression method is often misunderstood as pornography, but it is easy to use!",
+        "nickname": "果壳",
+        "created_at": "2021-02-20",
+        "archive": "wxid_5637156371511_2021-02-20_2651786381_Oh7Ryve3ij.y.tar.gz",
+        "censored_date": "2021-02-24 21:55:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-22 06:01:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTEyOTAzNw==&mid=2649723328&idx=2&sn=5b779bb26836204c6c68703489637f8c",
+        "title": "唐师曾《重返巴格达》连载（13）浮在油海上的国家",
+        "title_eng": "Return to Baghdad by Tang Shizeng (13) A country floating on the oil sea",
+        "nickname": "唐师曾",
+        "created_at": "2021-02-21",
+        "archive": "gh_6a7f47daea2f_2021-02-21_2649723328_gUtLIqnMAP.y.tar.gz",
+        "censored_date": "2021-02-24 22:09:23",
         "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
