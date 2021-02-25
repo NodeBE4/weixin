@@ -6707,7 +6707,8 @@
         "created_at": "2021-02-22",
         "archive": "gh_db3c2486e7de_2021-02-22_2247518257_9IuTUmrz5o.y.tar.gz",
         "censored_date": "2021-02-22 19:17:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-25 17:48:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247510793&idx=1&sn=660980db08bcd7a336ce4e88ad3d8c0c",
@@ -7936,5 +7937,16 @@
         "censored_date": "2021-02-25 16:20:05",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-02-21 01:52:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247488202&idx=2&sn=2ba05c1278b7eb112f8963d2c2ce56c7",
+        "title": "钱，最识人心（句句刺骨）",
+        "title_eng": "Money is the most sensible",
+        "nickname": "创投新风向",
+        "created_at": "2021-02-23",
+        "archive": "gh_46fa18dba691_2021-02-23_2247488202_a3bRdvP2lk.y.tar.gz",
+        "censored_date": "2021-02-25 18:27:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-24 02:24:44"
     }
 ]
