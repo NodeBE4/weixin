@@ -7021,7 +7021,7 @@
         "archive": "gh_a0b79e79b274_2021-02-22_2651345921_UTF9GwoONM.y.tar.gz",
         "censored_date": "2021-02-23 05:24:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-02-25 10:16:40"
+        "update_date": "2021-02-25 20:02:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650815707&idx=1&sn=3a5ed51ebe656b27f8d023c015d9aff0",
@@ -7953,6 +7953,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTYwNzYwOQ==&mid=2655591408&idx=1&sn=db4a1f29dbcd2967a259ebc94060f12e",
         "title": "砸烂温度计，也消灭不了温度",
+        "title_eng": "If you smash the thermometer, you can't eliminate the temperature",
         "nickname": "人文学会",
         "created_at": "2021-02-22",
         "archive": "gh_506f6d75187f_2021-02-22_2655591408_Ssjc0QaYrE.y.tar.gz",
@@ -7963,6 +7964,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247486887&idx=2&sn=18b8382ae0be68912323e0c97c35275d",
         "title": "吸烟者用它刷牙！溶解10年牙垢，多年口臭没了，比洗牙还干净",
+        "title_eng": "Smokers use it to brush their teeth! Dissolves tartar for 10 years, and has no bad breath for many years. It is cleaner than teeth cleaning",
         "nickname": "精英世界",
         "created_at": "2021-02-23",
         "archive": "gh_34694b68f48f_2021-02-23_2247486887_4m6AFscHRG.y.tar.gz",
@@ -7973,6 +7975,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NTMzMjExMw==&mid=2247499418&idx=1&sn=788e00400a1749a211432129f425cc06",
         "title": "又见史笔惊海内，原是替神值夜人  —— 读《国镇》",
+        "title_eng": "See also Shi Bi was shocked by the sea, he was originally a night man for the gods-reading National Town",
         "nickname": "苍山夜语",
         "created_at": "2021-02-23",
         "archive": "gh_430799a6ef46_2021-02-23_2247499418_ITHlNYS8ax.y.tar.gz",
@@ -7982,11 +7985,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247511930&idx=3&sn=2fbb71797b7070b589bbc1c861a1cb91",
         "title": "刘欢病情恶化现况曝光，怎么这样？",
+        "title_eng": "Liu Huan’s worsening condition is exposed, why is this?",
         "nickname": "国学文化优选",
         "created_at": "2021-02-23",
         "archive": "gh_b67f4a684fd9_2021-02-23_2247511930_uLcJGCdY7Q.y.tar.gz",
         "censored_date": "2021-02-25 19:21:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-02-23 13:56:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NTgwNTU0Nw==&mid=2247526419&idx=1&sn=edc9aa6c0c9d37505de4cf548fb274f2",
+        "title": "欧阳娜娜一条微博，台媒心态崩了",
+        "title_eng": "Ouyang Nana posted a Weibo, Taiwan media mentality collapsed",
+        "nickname": "今日台湾",
+        "created_at": "2021-02-23",
+        "archive": "gh_c13ccd7036e4_2021-02-23_2247526419_iM8mnxlevs.y.tar.gz",
+        "censored_date": "2021-02-25 19:47:36",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
