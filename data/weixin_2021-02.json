@@ -7214,7 +7214,8 @@
         "created_at": "2021-02-23",
         "archive": "gh_9eaf123d0c6f_2021-02-23_2247544833_FIDSbgENou.y.tar.gz",
         "censored_date": "2021-02-23 19:23:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-26 20:09:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODc5MzMwNw==&mid=2247506416&idx=2&sn=eb26d7624e6e0400dd3cca7843c990aa",
@@ -8294,6 +8295,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2649987770&idx=5&sn=8c551d7939190203a4d8e34e8776cc82",
         "title": "毛戈平，你还有什么绝招是我们不知道的?",
+        "title_eng": "Mao Geping, do you have any tricks that we don't know?",
         "nickname": "智谷趋势",
         "created_at": "2021-02-23",
         "archive": "gh_088decdf1338_2021-02-23_2649987770_JPKI9zM1Yv.y.tar.gz",
@@ -8303,11 +8305,53 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247517339&idx=3&sn=0b4ba6e0066c50e97a1a13fc2a067f14",
         "title": "站着发生性关系，是自愿还是强奸？",
+        "title_eng": "Is it voluntary or rape to have sex while standing?",
         "nickname": "深度悦览",
         "created_at": "2021-02-24",
         "archive": "gh_da91e6008b7f_2021-02-24_2247517339_uk6P3An1WS.y.tar.gz",
         "censored_date": "2021-02-26 18:57:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-02-24 20:24:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247499058&idx=1&sn=7f865103140a3081cdbbca59d9ee37ff",
+        "title": "“中国缺钱不关我事”，转身给美国捐70亿。前中国首富，回国了。",
+        "title_eng": "It's nothing to do with China's lack of money, he turned around and donated 7 billion to the United States. The former richest man in China has returned home.",
+        "nickname": "老板思维论",
+        "created_at": "2021-02-24",
+        "archive": "gh_69f7ba479665_2021-02-24_2247499058_7vg9Idznjc.y.tar.gz",
+        "censored_date": "2021-02-26 19:35:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzIwMTA2NA==&mid=2650289787&idx=2&sn=f6c0d8cb0b845c088ae52c826dae5834",
+        "title": "当曲奇遇上榴莲，有人狂喜有人愁！",
+        "title_eng": "When cookie meets durian, some people are ecstatic and some are worried!",
+        "nickname": "beebee星球",
+        "created_at": "2021-02-23",
+        "archive": "gh_e435cb2e3b5d_2021-02-23_2650289787_HCyBZVg790.y.tar.gz",
+        "censored_date": "2021-02-26 20:05:15",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-02-24 16:19:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247488235&idx=2&sn=6929bf0d625cc840ba3c264e5e33f547",
+        "title": "理财第1年，我躺赚40万：35岁前不学习这项能力，注定平庸一生！",
+        "title_eng": "In the first year of financial management, I made a profit of 400,000 yuan: if I didn't learn this ability before 35, I was destined to be mediocre for a lifetime!",
+        "nickname": "创投新风向",
+        "created_at": "2021-02-24",
+        "archive": "gh_46fa18dba691_2021-02-24_2247488235_gZTlYAeX6S.y.tar.gz",
+        "censored_date": "2021-02-26 19:31:46",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247499058&idx=2&sn=96b390a4bb308927242177db728d93ad",
+        "title": "理财第1年，我躺赚40万：35岁前不学习这项能力，注定平庸一生！",
+        "title_eng": "In the first year of financial management, I made a profit of 400,000 yuan: if I didn't learn this ability before 35, I was destined to be mediocre for a lifetime!",
+        "nickname": "老板思维论",
+        "created_at": "2021-02-24",
+        "archive": "gh_69f7ba479665_2021-02-24_2247499058_qxeWFAHwSR.y.tar.gz",
+        "censored_date": "2021-02-26 19:33:57",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
