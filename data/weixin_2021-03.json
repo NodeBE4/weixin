@@ -2024,6 +2024,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650847034&idx=5&sn=f0a264e4802734a8b58a77f1f16346fd",
         "title": "严控！新增确诊7例，均为境外输入！",
+        "title_eng": "Strictly control! 7 newly confirmed cases were imported from abroad!",
         "nickname": "荣茂读报",
         "created_at": "2021-03-01",
         "archive": "gh_11d6ef0dd9d4_2021-03-01_2650847034_0A134BytrE.y.tar.gz",
@@ -2034,10 +2035,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247547060&idx=3&sn=66678a677ea066de80dcc22b076bb36a",
         "title": "山东一区委书记语惊四座：欠账很大、赤字惊人，只能用“惨败”形容！",
+        "title_eng": "The secretary of the Shandong District Party Committee has shocked four people: The debts are so large and the deficits are staggering. They can only be described as disastrous defeat!",
         "nickname": "演讲与人生",
         "created_at": "2021-03-01",
         "archive": "gh_e525ae7f03af_2021-03-01_2247547060_IMz9rm6ZwE.y.tar.gz",
         "censored_date": "2021-03-02 15:00:12",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652726263&idx=3&sn=22305196d0637693ef712517e97ff50f",
+        "title": "“糙”已经不流行了",
+        "nickname": "8号风曝",
+        "created_at": "2021-02-25",
+        "archive": "gh_a0404706a1d9_2021-02-25_2652726263_6c0YJTa5Ie.y.tar.gz",
+        "censored_date": "2021-03-02 16:31:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-03-01 15:41:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651888260&idx=4&sn=ef1ea5a0c843a9843c99493e36b3a9d6",
+        "title": "IPO堰塞湖又来了！752家企业等待上市，&quot;档期&quot;都排到了明年？全面注册制何时推出？",
+        "title_eng": "The IPO barrier lake is here again! 752 companies are waiting to be listed,",
+        "nickname": "券商中国",
+        "created_at": "2021-03-02",
+        "archive": "gh_6df2146bcb82_2021-03-02_2651888260_mO8UFqySsr.y.tar.gz",
+        "censored_date": "2021-03-02 16:18:43",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
