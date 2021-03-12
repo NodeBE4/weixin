@@ -3713,6 +3713,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247511430&idx=1&sn=8719251c87df91e5ddbfabd0e27c8046",
         "title": "突发！北京刚刚连夜宣布！！",
+        "title_eng": "Burst! Beijing just announced it overnight! !",
         "nickname": "法苑茶语",
         "created_at": "2021-03-10",
         "archive": "gh_bf54f24b2e87_2021-03-10_2247511430_7XmJsA9q0N.y.tar.gz",
@@ -3723,11 +3724,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTY4MzY4Mw==&mid=2247491715&idx=2&sn=a11c720c9a8b872a2219b7d9ab2dd96a",
         "title": "黄奇帆最新发言：预计10年后中国......",
+        "title_eng": "Huang Qifan’s latest speech: China is expected to be in 10 years...",
         "nickname": "新时代言思学社",
         "created_at": "2021-03-10",
         "archive": "gh_b17c6b44f14b_2021-03-10_2247491715_I5d3cYMXvi.y.tar.gz",
         "censored_date": "2021-03-13 03:47:05",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-03-12 06:30:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247488849&idx=2&sn=a5572b3ce9a0fa5d35ace3ec6bca5fd6",
+        "title": "当你又穷又迷茫的时候,最应该做的是改变“挣钱方式”",
+        "nickname": "创投新风向",
+        "created_at": "2021-03-10",
+        "archive": "gh_46fa18dba691_2021-03-10_2247488849_QVXMcDqIo3.y.tar.gz",
+        "censored_date": "2021-03-13 05:20:36",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
