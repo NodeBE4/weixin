@@ -6312,10 +6312,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654055909&idx=2&sn=8df42e44eaadf4053e90e5d90a4ffecb",
         "title": "新疆政府严正声明",
+        "title_eng": "The Xinjiang government solemnly declares",
         "nickname": "参考消息",
         "created_at": "2021-03-24",
         "archive": "gh_2837b93c1976_2021-03-24_2654055909_KeQhLNrCcT.y.tar.gz",
         "censored_date": "2021-03-25 02:00:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247489390&idx=2&sn=5586ed32a67bf763a3408a8f1ac45921",
+        "title": "我，月薪5000，一年存款20万：不是你不会赚钱，而是你赚钱的方式有问题",
+        "nickname": "创投新风向",
+        "created_at": "2021-03-22",
+        "archive": "gh_46fa18dba691_2021-03-22_2247489390_sWGkY7OBfl.y.tar.gz",
+        "censored_date": "2021-03-25 02:37:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MjE4ODYzOQ==&mid=2651662821&idx=2&sn=77f03cd09355e03ed0b68fc984a43530",
+        "title": "官场小说：新市委书记",
+        "nickname": "圈阅笔记",
+        "created_at": "2021-03-22",
+        "archive": "gh_863aeb41bd65_2021-03-22_2651662821_rvwOV3lADf.y.tar.gz",
+        "censored_date": "2021-03-25 03:09:39",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
