@@ -6883,6 +6883,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247507308&idx=3&sn=0e80c89f37c7ccdc05d7b5a6b7a42430",
         "title": "自从进了这个京东捡漏福利群，拿了很多0元商品，还有很多秒杀呢！",
+        "title_eng": "Since I joined this JD.com welfare group, I have taken a lot of 0 yuan products, and there are still many spikes!",
         "nickname": "葫芦岛都市网",
         "created_at": "2021-03-25",
         "archive": "gh_f86665431cb0_2021-03-25_2247507308_GD4RuLCd09.y.tar.gz",
@@ -6892,10 +6893,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247507230&idx=1&sn=67218ebc39bc6fb04dba0fcd7fdc91f8",
         "title": "葫芦岛2辆出租车，因抢客起冲突（图）",
+        "title_eng": "Two taxis in Huludao clash due to grabbing passengers (photo)",
         "nickname": "葫芦岛都市网",
         "created_at": "2021-03-23",
         "archive": "gh_f86665431cb0_2021-03-23_2247507230_8ENUYQGdKa.y.tar.gz",
         "censored_date": "2021-03-27 03:07:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NDI4MzAzNQ==&mid=2652217409&idx=2&sn=dc89882e76fff3755eb01faff77acc04",
+        "title": "普洱茶为什么被称为“万病之药”？不是迷信，已被证实！",
+        "title_eng": "Why is Pu'er tea called the medicine for all diseases? Not superstition, it has been proven!",
+        "nickname": "坦腹斋",
+        "created_at": "2021-03-25",
+        "archive": "gh_a53dbc2e04b7_2021-03-25_2652217409_yvbdXrV0Wa.y.tar.gz",
+        "censored_date": "2021-03-27 03:49:02",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
