@@ -6612,6 +6612,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODI0MTUwNQ==&mid=2650404061&idx=1&sn=2894e201388fa943d133661cfbd0b5e9",
         "title": "冒死解答：什么是粉色电影？",
+        "title_eng": "Risky answer: What is a pink movie?",
         "nickname": "乱码",
         "created_at": "2021-03-25",
         "archive": "gh_1a09cdf9545b_2021-03-25_2650404061_bNwqm7e5Rs.y.tar.gz",
@@ -6643,10 +6644,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODI0MTUwNQ==&mid=2650404061&idx=2&sn=032899a19e91710def168a1b691a8539",
         "title": "成年人的崩溃，都是从没钱开始的！",
+        "title_eng": "The collapse of adults starts with no money!",
         "nickname": "乱码",
         "created_at": "2021-03-25",
         "archive": "gh_1a09cdf9545b_2021-03-25_2650404061_paw9BxoELJ.y.tar.gz",
         "censored_date": "2021-03-26 08:33:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247499711&idx=1&sn=8c689e49c7348bf041a84d2d99836efe",
+        "title": "赤剑对最近一段时间形势的小提醒",
+        "nickname": "赤剑天涯讲堂",
+        "created_at": "2021-03-25",
+        "archive": "gh_ed7d58d184ae_2021-03-25_2247499711_F8QB4RibtY.y.tar.gz",
+        "censored_date": "2021-03-26 09:38:33",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-03-25 10:23:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247490196&idx=1&sn=e49b58508ec00d86a7a7916e2d255ec6",
+        "title": "早上空腹吃“一物”，肠胃通畅了，眼睛明亮了，睡眠好了，免疫力提高了，精神好了",
+        "title_eng": "Eat one thing on an empty stomach in the morning, the stomach and intestines will be smoother, the eyes will be brighter, the sleep will be better, the immunity will be improved, and the spirit will be better",
+        "nickname": "海外独立频道",
+        "created_at": "2021-03-25",
+        "archive": "gh_fe6bb4bdd14d_2021-03-25_2247490196_mSMDuPbYnN.y.tar.gz",
+        "censored_date": "2021-03-26 09:26:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-03-25 08:44:39"
     }
 ]
