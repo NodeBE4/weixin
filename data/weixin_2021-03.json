@@ -6654,6 +6654,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247499711&idx=1&sn=8c689e49c7348bf041a84d2d99836efe",
         "title": "赤剑对最近一段时间形势的小提醒",
+        "title_eng": "Chi Jian's reminder of the situation in recent times",
         "nickname": "赤剑天涯讲堂",
         "created_at": "2021-03-25",
         "archive": "gh_ed7d58d184ae_2021-03-25_2247499711_F8QB4RibtY.y.tar.gz",
@@ -6671,5 +6672,16 @@
         "censored_date": "2021-03-26 09:26:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-03-25 08:44:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650461768&idx=2&sn=40134007d6a37411b70230da0bbf47d6",
+        "title": "白茶为什么被称为&quot;万病之药&quot;?",
+        "title_eng": "Why is white tea called",
+        "nickname": "南师国学堂",
+        "created_at": "2021-03-25",
+        "archive": "gh_45de294b7642_2021-03-25_2650461768_bCyTfULN50.y.tar.gz",
+        "censored_date": "2021-03-26 10:09:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-03-25 12:07:33"
     }
 ]
