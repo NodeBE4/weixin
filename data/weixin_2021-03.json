@@ -7675,6 +7675,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMDE3MzQ4Mg==&mid=2657192602&idx=3&sn=5c24924da2da70991f3cf9e4bc52b395",
         "title": "天津日报：天津部分共享单车“作弊” 掩盖超投抢用户",
+        "title_eng": "Tianjin Daily: Part of Tianjin shared bicycles cheating to cover up over-investment and grab users",
         "nickname": "网信天津",
         "created_at": "2021-03-29",
         "archive": "gh_2ffdd6afb5d4_2021-03-29_2657192602_GkPM8KZWY9.y.tar.gz",
@@ -7685,6 +7686,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODA4MjUyMA==&mid=2247518154&idx=1&sn=4d26338596aa7a91f28a48a99111d25b",
         "title": "扔耐克鞋、骂女主播、逼员工辞职：有些人打着新疆棉花的大旗，开始疯狂欺负同胞",
+        "title_eng": "Throwing Nike shoes, scolding female anchors, and forcing employees to resign: Some people started to bully their compatriots madly under the banner of Xinjiang Cotton",
         "nickname": "海豚学社",
         "created_at": "2021-03-29",
         "archive": "gh_3c3083a27d8e_2021-03-29_2247518154_MGdgaPoNA7.y.tar.gz",
@@ -7702,5 +7704,27 @@
         "censored_date": "2021-03-31 05:28:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-03-30 08:22:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0MzM3ODc2OQ==&mid=2247543715&idx=2&sn=1607ad2f2ea142575c0a206eb9902db3",
+        "title": "宇通客车2020年净利下滑73.43%，董事长汤玉祥薪酬160万",
+        "title_eng": "Yutong Bus’s 2020 net profit drops by 73.43%, and chairman Tang Yuxiang’s salary is 1.6 million",
+        "nickname": "中企思智库",
+        "created_at": "2021-03-30",
+        "archive": "gh_2b00d0c19228_2021-03-30_2247543715_PNtTG7BqYr.y.tar.gz",
+        "censored_date": "2021-03-31 06:07:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-03-30 10:47:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5OTQyMDgyOQ==&mid=2652606734&idx=1&sn=f89d1ac53659a94cdcd37d3df3c4d527",
+        "title": "你还敢吃山药吗，长期吃山药的人变成了这样……",
+        "title_eng": "Do you still dare to eat yam? People who eat yam for a long time have become like this...",
+        "nickname": "冯站长之家",
+        "created_at": "2021-03-30",
+        "archive": "gh_ba6105d7c051_2021-03-30_2652606734_pv400H9sgY.y.tar.gz",
+        "censored_date": "2021-03-31 06:04:39",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-03-30 10:44:56"
     }
 ]
