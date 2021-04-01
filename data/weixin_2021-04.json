@@ -1139,7 +1139,8 @@
         "created_at": "2021-03-29",
         "archive": "gh_f33ea5eaf126_2021-03-29_2650168683_zwThF0W3Qr.y.tar.gz",
         "censored_date": "2021-03-31 02:03:04",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-01 12:11:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650505623&idx=4&sn=d4dde69aa483a2baf3de2652f1d6b9aa",
@@ -1149,7 +1150,8 @@
         "created_at": "2021-03-30",
         "archive": "gh_93119cc8064a_2021-03-30_2650505623_T9pqgy3KCV.y.tar.gz",
         "censored_date": "2021-03-31 02:15:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-01 12:11:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTY2NjcwMA==&mid=2650771472&idx=1&sn=bd60d2dbd5da546f905831c9e5a06812",
@@ -1182,7 +1184,7 @@
         "archive": "gh_46fa18dba691_2021-03-28_2247489655_qUx3JyOhQW.y.tar.gz",
         "censored_date": "2021-03-31 05:28:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-03-30 08:22:02"
+        "update_date": "2021-04-01 12:15:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247511903&idx=5&sn=6a50d3bf7ddaa4fc4464ffaf86e1885d",
@@ -1496,5 +1498,15 @@
         "censored_date": "2021-04-01 10:18:20",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-03-31 02:08:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2OTc2MTU5Mw==&mid=2247579682&idx=2&sn=4815b7924a0a004f33b58cc52599e8ce",
+        "title": "重磅! 美国3大城市7月或能直飞北京 每周一班! 预计暑期票价回落…",
+        "nickname": "洛杉矶华人资讯网",
+        "created_at": "2021-03-30",
+        "archive": "gh_d2768e35bf6f_2021-03-30_2247579682_Iwq2Gm1CZg.y.tar.gz",
+        "censored_date": "2021-04-01 12:30:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-03-31 08:18:07"
     }
 ]
