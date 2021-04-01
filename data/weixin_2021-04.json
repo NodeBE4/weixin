@@ -1691,6 +1691,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247504513&idx=1&sn=3e473a3c97d18e12e2d479efb675e41f",
         "title": "在职攻读法学博士！中国社会科学院研究生院高级课程研修班火热招生~",
+        "title_eng": "Studying for a Doctor of Laws on the job! The advanced course seminar of the Graduate School of the Chinese Academy of Social Sciences is enrolling students~",
         "nickname": "法眼观察",
         "created_at": "2021-03-30",
         "archive": "gh_e2a46987ac3a_2021-03-30_2247504513_fjAuibskN5.y.tar.gz",
@@ -1701,6 +1702,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTMxMTc4MA==&mid=2649533870&idx=1&sn=b1a9fc2c30c0a3f11aecfca345f6ae84",
         "title": "H&amp;M 发声明：致力于重获中国消费者信任",
+        "title_eng": "H",
         "nickname": "ZAKER",
         "created_at": "2021-03-31",
         "archive": "gh_e3e018a7e41b_2021-03-31_2649533870_cFAngai0jd.y.tar.gz",
@@ -1710,11 +1712,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MTE2NDI1NQ==&mid=2247486450&idx=1&sn=942e62a8e81a50d3e1da069115fae91f",
         "title": "逆市增长的秘诀（粉丝必看）",
+        "title_eng": "The secret to growth against the market (a must-see for fans)",
         "nickname": "股票早午盘",
         "created_at": "2021-03-30",
         "archive": "gh_f2ecca440ae9_2021-03-30_2247486450_6icUzgeVdM.y.tar.gz",
         "censored_date": "2021-04-02 01:39:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-03-31 08:14:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247508812&idx=1&sn=7e98fcae0e2df6d10ed20bcf19ec7f79",
+        "title": "腾讯员工赌博输掉近500万后自杀，留下遗书触目惊心",
+        "title_eng": "Tencent employee committed suicide after losing nearly 5 million in gambling, leaving a shocking suicide note",
+        "nickname": "潇湘经略",
+        "created_at": "2021-03-31",
+        "archive": "gh_30b5796604e2_2021-03-31_2247508812_VjOkfgt3wM.y.tar.gz",
+        "censored_date": "2021-04-02 02:15:36",
+        "censored_msg": "此内容被投诉且经审核涉嫌侵权，无法查看。"
     }
 ]
