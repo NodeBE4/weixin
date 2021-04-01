@@ -1271,7 +1271,8 @@
         "created_at": "2021-03-31",
         "archive": "gh_3ed9f9ebf0d3_2021-03-31_2649994444_7kab0RSyCf.y.tar.gz",
         "censored_date": "2021-03-31 17:07:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-01 22:59:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTc4ODY2Nw==&mid=2649725935&idx=1&sn=74c2742a5cea78488b86e0a4a0624a1b",
@@ -1281,7 +1282,8 @@
         "created_at": "2021-03-30",
         "archive": "gh_7796baceaed2_2021-03-30_2649725935_rHWfa6dYyR.y.tar.gz",
         "censored_date": "2021-03-31 16:36:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-01 23:01:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492730&idx=5&sn=041a9afd4fd8bb305c2807371d6206b0",
@@ -1631,5 +1633,25 @@
         "censored_date": "2021-04-01 22:25:57",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-03-31 15:13:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjEzNTMwMQ==&mid=2650755368&idx=2&sn=c96c85c9b2bae117a0b47574681555e8",
+        "title": "全球连线 | 普京打call的俄疫苗在欧洲遭黑，是谁在背后捣鬼？ 新华社记者 新华国际头条 今天",
+        "title_eng": "Global Connection | The Russian vaccine that Putin called was hacked in Europe. Who is behind it? Xinhua News Agency reporter Xinhua International headlines today",
+        "nickname": "新华国际头条",
+        "created_at": "2021-03-31",
+        "archive": "gh_b34095ec4001_2021-03-31_2650755368_GwBkyQgKib.y.tar.gz",
+        "censored_date": "2021-04-01 23:01:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492733&idx=5&sn=3baa27020855785fe0510bccae9c88fa",
+        "title": "常吃虫草好处多！特别是这些人服用效果显著！",
+        "title_eng": "There are many benefits of eating Cordyceps frequently! Especially for these people, the effect is remarkable!",
+        "nickname": "历史微时刻",
+        "created_at": "2021-03-31",
+        "archive": "gh_31930173e92d_2021-03-31_2247492733_ywPTqEgQOo.y.tar.gz",
+        "censored_date": "2021-04-01 22:42:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
