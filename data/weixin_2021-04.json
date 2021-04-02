@@ -2003,6 +2003,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650086227&idx=2&sn=6806a7ecff2dfc684af2b0990b19442a",
         "title": "头油、头痒、还疯狂脱发？用它一洗，头发顺了、头皮“活”了，7天生新发！ ",
+        "title_eng": "Oily head, itchy head, and crazy hair loss? After washing with it, the hair is smooth, the scalp lives, and new hair is born in 7 days!",
         "nickname": "掌心大同",
         "created_at": "2021-03-31",
         "archive": "gh_69043f48c02f_2021-03-31_2650086227_f4icLSoDJM.y.tar.gz",
@@ -2012,6 +2013,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247512043&idx=2&sn=6db6d7dd4ede30eb18735632faefcb53",
         "title": "刚刚，又一检察长主动投案！",
+        "title_eng": "Just now, another chief prosecutor took the initiative to surrender!",
         "nickname": "法苑茶语",
         "created_at": "2021-04-01",
         "archive": "gh_bf54f24b2e87_2021-04-01_2247512043_N1TMxI6lae.y.tar.gz",
@@ -2021,10 +2023,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247512043&idx=1&sn=2840a16ca8ae265617189900c8a515d1",
         "title": "有钱就放进余额宝里的人，这个习惯恐怕要改一改了！",
+        "title_eng": "For those who have money to put it in Yu'e Bao, this habit may have to be changed!",
         "nickname": "法苑茶语",
         "created_at": "2021-04-01",
         "archive": "gh_bf54f24b2e87_2021-04-01_2247512043_nrRYokqW8T.y.tar.gz",
         "censored_date": "2021-04-03 05:27:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODU0NTk5NA==&mid=2653325454&idx=1&sn=4756fffe643a21fbd61d8c43c04cd438",
+        "title": "江西苦彩礼久矣",
+        "title_eng": "Jiangxi bitter gift for a long time",
+        "nickname": "瞭望智库",
+        "created_at": "2021-04-01",
+        "archive": "gh_0008713c31f5_2021-04-01_2653325454_IrLBgziqOs.y.tar.gz",
+        "censored_date": "2021-04-03 06:03:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTg1NzY4Ng==&mid=2651387877&idx=2&sn=18461d3bafd17f2f8a7e859b35b57884",
+        "title": "（4.1）2021，这几个公众号打开我新世界的大门！",
+        "title_eng": "(4.1) 2021, these public accounts will open the door to my new world!",
+        "nickname": "沸腾",
+        "created_at": "2021-04-01",
+        "archive": "gh_f641d0cf37d4_2021-04-01_2651387877_xURYEMvlkB.y.tar.gz",
+        "censored_date": "2021-04-03 06:02:34",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
