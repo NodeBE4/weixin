@@ -1955,7 +1955,8 @@
         "created_at": "2021-04-01",
         "archive": "gh_31930173e92d_2021-04-01_2247492742_DFuwsL61TG.y.tar.gz",
         "censored_date": "2021-04-02 23:33:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-03 02:45:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652031016&idx=4&sn=18f8e389486f2de2d451cff183c505b9",
@@ -1987,5 +1988,15 @@
         "censored_date": "2021-04-03 01:15:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-01 15:20:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MDIxMzQwOA==&mid=2247501613&idx=1&sn=a380ba1c7a37e71b4d218e003b52a1e4",
+        "title": "全球新型货币战争已经打响！",
+        "title_eng": "The global new currency war has started!",
+        "nickname": "经济学教授",
+        "created_at": "2021-04-01",
+        "archive": "gh_da8ebc430bef_2021-04-01_2247501613_b0jZUPt6KE.y.tar.gz",
+        "censored_date": "2021-04-03 02:24:25",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
