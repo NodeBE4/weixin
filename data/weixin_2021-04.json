@@ -1773,7 +1773,7 @@
         "archive": "gh_45de294b7642_2021-04-02_2650463080_r1jVGmzp7M.y.tar.gz",
         "censored_date": "2021-04-02 09:05:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-04-02 11:57:49"
+        "update_date": "2021-04-03 17:49:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247585390&idx=3&sn=3138c648fe34a647218de419ef411dec",
@@ -2256,7 +2256,8 @@
         "created_at": "2021-04-03",
         "archive": "gh_6cf32ecd4dba_2021-04-03_2652969446_lHZ8KcfMmS.y.tar.gz",
         "censored_date": "2021-04-03 16:20:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-03 17:45:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDgyMjQ2OQ==&mid=2650344687&idx=2&sn=26b29f364aa5eda6f6526041ba6ffe12",
@@ -2279,5 +2280,16 @@
         "censored_date": "2021-04-03 16:36:43",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-04-02 14:35:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247508549&idx=1&sn=15405dd6ad5fc429ab6317e9ad95d385",
+        "title": "重磅发布！第四部新疆反恐纪录片：暗流涌动——中国新疆反恐挑战",
+        "title_eng": "Heavy release! The Fourth Xinjiang Anti-terrorism Documentary: Undercurrents-China's Xinjiang Anti-terrorism Challenge",
+        "nickname": "西域都护",
+        "created_at": "2021-04-02",
+        "archive": "gh_5023d7e73573_2021-04-02_2247508549_tiefoQN0VK.y.tar.gz",
+        "censored_date": "2021-04-03 18:24:35",
+        "censored_msg": "此内容被投诉且经审核涉嫌侵权，无法查看。",
+        "update_date": "2021-04-02 15:14:14"
     }
 ]
