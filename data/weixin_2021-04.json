@@ -2053,6 +2053,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651130757&idx=4&sn=8de1c06e63dcef2a3c23e6e4189fd679",
         "title": "通知：中小学学习交流群限时开放，扫码进！",
+        "title_eng": "Notice: The learning exchange group of primary and secondary schools is open for a limited time, scan the code to enter!",
         "nickname": "我是种草囤货菌",
         "created_at": "2021-03-31",
         "archive": "gh_541a7f1cf2c2_2021-03-31_2651130757_64lC2IXxgd.y.tar.gz",
@@ -2062,6 +2063,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926711943&idx=3&sn=4266074ee42722919d70bd0a709f43fc",
         "title": "晚讯|医院引进麻将机助患者康复|43岁医生自杀，生前曾发生一起医疗事故",
+        "title_eng": "Evening News|The hospital introduces a mahjong machine to help patients recover|The 43-year-old doctor committed suicide and had a medical accident before his death",
         "nickname": "医学界",
         "created_at": "2021-04-01",
         "archive": "gh_9352cb95ad49_2021-04-01_2926711943_D7OaC1pSyN.y.tar.gz",
@@ -2086,6 +2088,33 @@
         "created_at": "2021-04-01",
         "archive": "gh_7ce7fa0b919e_2021-04-01_2655118614_JcQCeY9yt8.y.tar.gz",
         "censored_date": "2021-04-03 06:53:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247489761&idx=2&sn=6211a8adaf71d1cde715ab25582fd9fb",
+        "title": "她靠“睡后收入”从负债实现财务自由:方向比努力更重要",
+        "nickname": "创投新风向",
+        "created_at": "2021-03-31",
+        "archive": "gh_46fa18dba691_2021-03-31_2247489761_BUTG1aFE7x.y.tar.gz",
+        "censored_date": "2021-04-03 09:10:55",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDgzOTkzMg==&mid=2652253403&idx=3&sn=1b823cb143d518876bde5eeb52d7ff09",
+        "title": "毛小青：主席三伯和我父亲毛泽连",
+        "nickname": "昆仑策研究院",
+        "created_at": "2021-04-03",
+        "archive": "gh_46a6fab64569_2021-04-03_2652253403_WySGOksZD0.y.tar.gz",
+        "censored_date": "2021-04-03 08:31:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247485576&idx=2&sn=e0d38d29ef60d7864227e47b9ebec43c",
+        "title": "我，30岁，工资8000，一年靠理财收益20万",
+        "nickname": "创业大白",
+        "created_at": "2021-03-31",
+        "archive": "gh_c7f9947afc98_2021-03-31_2247485576_5ZyHsGSgP2.y.tar.gz",
+        "censored_date": "2021-04-03 09:12:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
