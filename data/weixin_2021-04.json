@@ -2093,6 +2093,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247489761&idx=2&sn=6211a8adaf71d1cde715ab25582fd9fb",
         "title": "她靠“睡后收入”从负债实现财务自由:方向比努力更重要",
+        "title_eng": "She relies on income after bedtime to achieve financial freedom from debt: direction is more important than hard work",
         "nickname": "创投新风向",
         "created_at": "2021-03-31",
         "archive": "gh_46fa18dba691_2021-03-31_2247489761_BUTG1aFE7x.y.tar.gz",
@@ -2102,6 +2103,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDgzOTkzMg==&mid=2652253403&idx=3&sn=1b823cb143d518876bde5eeb52d7ff09",
         "title": "毛小青：主席三伯和我父亲毛泽连",
+        "title_eng": "Mao Xiaoqing: Chairman Sanbo and my father Mao Zelian",
         "nickname": "昆仑策研究院",
         "created_at": "2021-04-03",
         "archive": "gh_46a6fab64569_2021-04-03_2652253403_WySGOksZD0.y.tar.gz",
@@ -2111,10 +2113,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247485576&idx=2&sn=e0d38d29ef60d7864227e47b9ebec43c",
         "title": "我，30岁，工资8000，一年靠理财收益20万",
+        "title_eng": "I, 30 years old, have a salary of 8,000, and earn 200,000 yuan a year from financial management",
         "nickname": "创业大白",
         "created_at": "2021-03-31",
         "archive": "gh_c7f9947afc98_2021-03-31_2247485576_5ZyHsGSgP2.y.tar.gz",
         "censored_date": "2021-04-03 09:12:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489885&idx=3&sn=95a734a3f932a96e89ef59a9bd6eef53",
+        "title": "我去，第一个炒房炒成无期徒刑的人",
+        "title_eng": "I'll go, the first person to be a life imprisonment for real estate speculation",
+        "nickname": "江南隐士",
+        "created_at": "2021-03-31",
+        "archive": "gh_65f5271d2a21_2021-03-31_2247489885_wHGE6uyNve.y.tar.gz",
+        "censored_date": "2021-04-03 09:31:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-02 01:28:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247489885&idx=2&sn=782d96d9cecfc54c53433c2f9a6c2b39",
+        "title": "刚刚，中国在美国的心脏上，狠狠地开了一枪！",
+        "title_eng": "Just now, China fired a fierce shot in the heart of the United States!",
+        "nickname": "江南隐士",
+        "created_at": "2021-03-31",
+        "archive": "gh_65f5271d2a21_2021-03-31_2247489885_SiWrjMqz8P.y.tar.gz",
+        "censored_date": "2021-04-03 09:28:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247516921&idx=3&sn=a9b9698bc8299a4b536718dda5131b4c",
+        "title": "华为公开“合法监听”专利，用于对用户设备进行合法监听！",
+        "title_eng": "Huawei has published its lawful monitoring patent, which is used to legally monitor user equipment!",
+        "nickname": "天狐观察",
+        "created_at": "2021-04-01",
+        "archive": "gh_fd5f7267524b_2021-04-01_2247516921_hDFlQHjCsZ.y.tar.gz",
+        "censored_date": "2021-04-03 09:59:30",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-04-02 01:44:53"
     }
 ]
