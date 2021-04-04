@@ -2491,6 +2491,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NzQ0OTQ5Mw==&mid=2247500075&idx=1&sn=a0025dd0ed8450af5f5b58314adcd783",
         "title": "招募200人免费学中医，不限年龄职业，有意者进！",
+        "title_eng": "Recruit 200 people to learn Chinese medicine for free, regardless of age and profession, and those who are interested can enter!",
         "nickname": "新退休生活",
         "created_at": "2021-04-01",
         "archive": "gh_7134776aea5c_2021-04-01_2247500075_qGkZ0DwWiV.y.tar.gz",
@@ -2507,5 +2508,26 @@
         "censored_date": "2021-04-04 19:22:38",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-04-03 00:09:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjc0MjkzNQ==&mid=2247520867&idx=4&sn=1b5f77090fa3db2aa14ddee3697b7f3c",
+        "title": "上海新规惹争议 官方回应民不买账",
+        "title_eng": "Shanghai's new regulations provoke controversy",
+        "nickname": "起点人文plus",
+        "created_at": "2021-04-03",
+        "archive": "gh_afb7e3bcbae3_2021-04-03_2247520867_zKVf6Ihi1N.y.tar.gz",
+        "censored_date": "2021-04-04 19:34:41",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-04-03 17:24:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247512990&idx=1&sn=bdf09478c5e0cb8fb2f9c740b7231542",
+        "title": "突发！美国让香港消失了......",
+        "title_eng": "Burst! The United States made Hong Kong disappear...",
+        "nickname": "环球冷眼",
+        "created_at": "2021-04-02",
+        "archive": "gh_1aecabdf0add_2021-04-02_2247512990_Ax0OC2EpWJ.y.tar.gz",
+        "censored_date": "2021-04-04 19:59:42",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
