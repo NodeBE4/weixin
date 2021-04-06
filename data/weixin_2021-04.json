@@ -2629,7 +2629,8 @@
         "created_at": "2021-04-04",
         "archive": "gh_e4d7b38fb8a3_2021-04-04_2653331443_v2q0o9ZMyp.y.tar.gz",
         "censored_date": "2021-04-05 12:53:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-06 12:52:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjY3NDcwMQ==&mid=2656717817&idx=1&sn=9d61eed0e0f4cd2c10b0f14c3b131ca1",
@@ -2640,7 +2641,7 @@
         "archive": "gh_28428a1ba25a_2021-04-05_2656717817_MEYaRkCIoH.y.tar.gz",
         "censored_date": "2021-04-05 14:29:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-04-05 13:19:32"
+        "update_date": "2021-04-06 13:37:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247513130&idx=2&sn=5aa548e3bc8ffe7dcdeeaa050e893b50",
@@ -2851,6 +2852,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654059798&idx=4&sn=3bd4901b96fdca0aa5043db5698d845e",
         "title": "台当局交通部门负责人深夜发文请辞",
+        "title_eng": "The head of the transportation department of the Taiwan authority issued a letter late at night, resigning",
         "nickname": "参考消息",
         "created_at": "2021-04-05",
         "archive": "gh_2837b93c1976_2021-04-05_2654059798_CABtoZWg5K.y.tar.gz",
@@ -2866,7 +2868,8 @@
         "created_at": "2021-04-06",
         "archive": "gh_34694b68f48f_2021-04-06_2247486957_MeT2VkKaXf.y.tar.gz",
         "censored_date": "2021-04-06 12:26:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-06 13:33:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247525102&idx=3&sn=f00254d40ffb102e40845c1442abbcda",
@@ -2876,6 +2879,26 @@
         "created_at": "2021-04-06",
         "archive": "gh_5e008ceefb25_2021-04-06_2247525102_fvmTbtIwVq.y.tar.gz",
         "censored_date": "2021-04-06 11:57:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjM2NzEwNg==&mid=2658906456&idx=1&sn=e64664d5510ff8ba3c3021c7a91a820d",
+        "title": "中国人援建非洲50年",
+        "title_eng": "Chinese aided Africa for 50 years",
+        "nickname": "星火好望角",
+        "created_at": "2021-04-06",
+        "archive": "gh_89eda7c5881b_2021-04-06_2658906456_E4haY9QWNf.y.tar.gz",
+        "censored_date": "2021-04-06 13:05:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650506184&idx=3&sn=68d05aa941fc61eeac423b505dc521d6",
+        "title": "收购标的遭吴亦凡、范冰冰起诉，这家公司狂涨200%背后有何猫腻？",
+        "title_eng": "The acquisition target was sued by Wu Yifan and Fan Bingbing. What's the trick behind this company's 200% soaring?",
+        "nickname": "界面新闻",
+        "created_at": "2021-04-06",
+        "archive": "gh_93119cc8064a_2021-04-06_2650506184_1aMOmcjpNz.y.tar.gz",
+        "censored_date": "2021-04-06 13:14:58",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
