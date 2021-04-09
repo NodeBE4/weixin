@@ -3948,6 +3948,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247517714&idx=3&sn=e2d19991af1fd0cfd72440abec15a2a6",
         "title": "冷眼：洋货被抵制了，国货开始疯狂割韭菜…...",
+        "title_eng": "Cold-eyed: Foreign products were boycotted, and domestic products began to cut leeks frantically...",
         "nickname": "海外财经",
         "created_at": "2021-04-08",
         "archive": "gh_8f29429f71d7_2021-04-08_2247517714_WmgtDvc09E.y.tar.gz",
@@ -3963,7 +3964,8 @@
         "created_at": "2021-04-09",
         "archive": "gh_c495954e1d95_2021-04-09_2651286717_m8x95ojfIC.y.tar.gz",
         "censored_date": "2021-04-09 16:23:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-09 17:07:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODQxNjMwMA==&mid=2653636029&idx=3&sn=32ce0fd028548a29e7187abb9d9c59a6",
@@ -3973,16 +3975,28 @@
         "created_at": "2021-04-09",
         "archive": "gh_efb8a134bb93_2021-04-09_2653636029_1boWG7QrEd.y.tar.gz",
         "censored_date": "2021-04-09 16:20:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-09 17:04:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247517714&idx=1&sn=b47715012cbd899fa7b2707e54a9c318",
         "title": "未来10年，财富将疯狂流入这个地方！（深度）",
+        "title_eng": "In the next 10 years, wealth will flow frantically into this place! (depth)",
         "nickname": "海外财经",
         "created_at": "2021-04-08",
         "archive": "gh_8f29429f71d7_2021-04-08_2247517714_ENwgWOM7Bf.y.tar.gz",
         "censored_date": "2021-04-09 16:34:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-08 16:51:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU1ODAxOQ==&mid=2650963727&idx=1&sn=eef52dbd2fb8e9e59297fa61077d8588",
+        "title": "划重点了！习近平总书记曾对被督察8省区提出哪些“考点”？",
+        "title_eng": "Focus on it! What test sites did General Secretary Xi Jinping propose to the 8 provinces and autonomous regions under supervision?",
+        "nickname": "中国环境",
+        "created_at": "2021-04-09",
+        "archive": "gh_52274a65081a_2021-04-09_2650963727_1c3WJXFhQ9.y.tar.gz",
+        "censored_date": "2021-04-09 17:20:31",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
