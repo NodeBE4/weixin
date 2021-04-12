@@ -5059,6 +5059,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653046377&idx=1&sn=d1756126c93ac5ff8aef4364566c67c1",
         "title": "太悲壮！今天，华为终于承认！！",
+        "title_eng": "Too tragic! Today, Huawei finally admitted! !",
         "nickname": "财闻要参",
         "created_at": "2021-04-11",
         "archive": "gh_34471e1f4b56_2021-04-11_2653046377_tM3CRhGBv4.y.tar.gz",
@@ -5069,6 +5070,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650915977&idx=1&sn=77c6af462560b4d7b99c342b5326e25a",
         "title": "为何刑讯逼供在涉黑案中屡禁不止……",
+        "title_eng": "Why torture to extract a confession has been repeatedly prohibited in criminal cases...",
         "nickname": "天下说法",
         "created_at": "2021-04-11",
         "archive": "gh_9d4eb92add23_2021-04-11_2650915977_XQ0ZAGjPqg.y.tar.gz",
@@ -5079,6 +5081,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2768618820&idx=1&sn=14d7db01d75a82c903d791f27fd9760d",
         "title": "中国“院士”该祛魅了！",
+        "title_eng": "It's time for Chinese academicians to be disenchanted!",
         "nickname": "新华网",
         "created_at": "2021-04-11",
         "archive": "gh_68b976f584b5_2021-04-11_2768618820_yZc8R3a2jg.y.tar.gz",
@@ -5089,11 +5092,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247490082&idx=2&sn=8518ac3c9bdf3a6899da3af2b8a6338d",
         "title": "当你又穷又迷茫的时候，最应该做的是改变“挣钱方式”",
+        "title_eng": "When you are poor and confused, the most important thing to do is to change the how to make money",
         "nickname": "创投新风向",
         "created_at": "2021-04-09",
         "archive": "gh_46fa18dba691_2021-04-09_2247490082_XoLTm4xhzZ.y.tar.gz",
         "censored_date": "2021-04-13 05:21:17",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-12 01:09:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NjcxNTIyNg==&mid=2650676847&idx=2&sn=94e488931926bb989f7c4573f887207a",
+        "title": "连续霸榜5天，《小森生活》找到了种田游戏运营新模式",
+        "title_eng": "Dominating the list for 5 consecutive days, Xomori Life has found a new mode of farming game operation",
+        "nickname": "娱乐资本论",
+        "created_at": "2021-04-11",
+        "archive": "gh_2eb77c1bf9be_2021-04-11_2650676847_7zgWDvERQ3.y.tar.gz",
+        "censored_date": "2021-04-13 06:25:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-12 01:41:18"
     }
 ]
