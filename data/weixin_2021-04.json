@@ -4836,7 +4836,7 @@
         "archive": "gh_7134776aea5c_2021-04-11_2247500253_J072FUkTHW.y.tar.gz",
         "censored_date": "2021-04-12 10:22:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-04-11 12:47:37"
+        "update_date": "2021-04-13 10:41:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NzQ0OTQ5Mw==&mid=2247500241&idx=2&sn=695b3845cd651db36b329c183f046d61",
@@ -4846,7 +4846,8 @@
         "created_at": "2021-04-09",
         "archive": "gh_7134776aea5c_2021-04-09_2247500241_ugC6W0t89d.y.tar.gz",
         "censored_date": "2021-04-12 10:24:04",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-13 10:42:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjAxMzE5OTMyMQ==&mid=2654213359&idx=2&sn=07ad9c66de56597d117155443ac10724",
@@ -5153,5 +5154,15 @@
         "censored_date": "2021-04-13 08:24:26",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-04-12 10:56:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0MzM3ODc2OQ==&mid=2247545033&idx=3&sn=f3cf1a7d799344ee2b62d5d976c880d2",
+        "title": "会员动态丨宝业集团召开技术人才代表座谈会",
+        "title_eng": "Member News丨Baoye Group held a symposium on technical talent representatives",
+        "nickname": "中企思智库",
+        "created_at": "2021-04-13",
+        "archive": "gh_2b00d0c19228_2021-04-13_2247545033_jpc6SbIADT.y.tar.gz",
+        "censored_date": "2021-04-13 09:56:34",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
