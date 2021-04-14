@@ -5611,6 +5611,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTE2ODE4Mg==&mid=2651696610&idx=2&sn=7836ba8ca901779854e3d19c47112ab9",
         "title": "郭芳会见上海联合投资领导一行",
+        "title_eng": "Guo Fang met with the leaders of Shanghai United Investment",
         "nickname": "上海虹口",
         "created_at": "2021-04-13",
         "archive": "gh_285bf0871124_2021-04-13_2651696610_I1lW8BbMqJ.y.tar.gz",
@@ -5620,10 +5621,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247517993&idx=1&sn=9e41d7956c1d1a93cc619d77e31ae8a0",
         "title": "加拿大宣布：永久关闭中国人最喜欢的移民项目！",
+        "title_eng": "Canada announced: Permanent closure of the Chinese favorite immigration project!",
         "nickname": "遮眼看天",
         "created_at": "2021-04-12",
         "archive": "gh_b984621ff266_2021-04-12_2247517993_YE5K31ISsk.y.tar.gz",
         "censored_date": "2021-04-15 04:30:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjAyMDM5OA==&mid=2649902019&idx=2&sn=4f68b287d40f421c3584a0bd66f469d2",
+        "title": "先见未来大会专区 | 5G让工厂更智能",
+        "title_eng": "Foreseeing the future conference zone | 5G makes factories smarter",
+        "nickname": "一刻talks",
+        "created_at": "2021-04-13",
+        "archive": "gh_135a686b1c18_2021-04-13_2649902019_DBrYXV30t5.y.tar.gz",
+        "censored_date": "2021-04-15 06:25:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651347114&idx=1&sn=91bc52d949837ca96979ae25a07caaf3",
+        "title": "马云退出阿里以后，国家正式“出手”！余额宝将被取代！",
+        "title_eng": "After Ma Yun quit Ali, the country officially made a move! Yu'ebao will be replaced!",
+        "nickname": "百姓关注话题",
+        "created_at": "2021-04-13",
+        "archive": "gh_a0b79e79b274_2021-04-13_2651347114_zskYQ0Juio.y.tar.gz",
+        "censored_date": "2021-04-15 05:31:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
