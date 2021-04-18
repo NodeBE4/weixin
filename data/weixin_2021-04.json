@@ -6235,7 +6235,8 @@
         "created_at": "2021-04-15",
         "archive": "gh_26762a56c129_2021-04-15_2247489686_BOWXtSgdZu.y.tar.gz",
         "censored_date": "2021-04-17 07:44:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-18 14:27:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654063867&idx=1&sn=30b26a8fa16214a7600fa38ad9fd4c63",
@@ -6469,5 +6470,16 @@
         "censored_date": "2021-04-18 12:43:17",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-04-17 08:23:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650507344&idx=1&sn=90224ac9955a145cafcd75686d39e2b8",
+        "title": "天天帮别人筹款的水滴公司，三年亏了12亿",
+        "title_eng": "The water drop company, which helps others to raise money every day, lost 1.2 billion yuan in three years",
+        "nickname": "界面新闻",
+        "created_at": "2021-04-18",
+        "archive": "gh_93119cc8064a_2021-04-18_2650507344_U3QKW52Djs.y.tar.gz",
+        "censored_date": "2021-04-18 14:19:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-18 14:34:17"
     }
 ]
