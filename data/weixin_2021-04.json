@@ -6602,7 +6602,8 @@
         "created_at": "2021-04-18",
         "archive": "gh_b984621ff266_2021-04-18_2247518430_xzFDGWmr82.y.tar.gz",
         "censored_date": "2021-04-19 01:16:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-19 02:14:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247518260&idx=1&sn=214422bcd87ed829ab789da051ec32a2",
@@ -6624,5 +6625,15 @@
         "archive": "gh_a0b79e79b274_2021-04-17_2651347192_yTGvXV1PWD.y.tar.gz",
         "censored_date": "2021-04-19 01:20:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=2650016265&idx=1&sn=fdfacc298f948f0e99b94e734a2aec1f",
+        "title": "让人说话是一种社会智慧",
+        "title_eng": "Letting people talk is a kind of social wisdom",
+        "nickname": "恒丰美林大投管",
+        "created_at": "2021-04-17",
+        "archive": "gh_dddf1591efa6_2021-04-17_2650016265_TW8wbZnxkr.y.tar.gz",
+        "censored_date": "2021-04-19 01:58:30",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
