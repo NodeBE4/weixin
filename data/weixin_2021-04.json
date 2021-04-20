@@ -6678,7 +6678,8 @@
         "created_at": "2021-04-18",
         "archive": "gh_26762a56c129_2021-04-18_2247489719_Lnx7AvYD5P.y.tar.gz",
         "censored_date": "2021-04-19 09:56:30",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-04-20 09:33:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTc2MA==&mid=2655446365&idx=2&sn=47a2f641fad10d1e83cec8131bd35bde",
@@ -6818,5 +6819,15 @@
         "censored_date": "2021-04-20 06:50:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-19 10:25:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653439877&idx=2&sn=fb10da81a711ded1c24c82cd6d44fce9",
+        "title": "长赐号被索赔60亿，船上大批中国货咋办",
+        "nickname": "环球时报",
+        "created_at": "2021-04-18",
+        "archive": "gh_95b0feda9646_2021-04-18_2653439877_VdO08Q2ptW.y.tar.gz",
+        "censored_date": "2021-04-20 10:45:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-19 12:27:46"
     }
 ]
