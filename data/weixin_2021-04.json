@@ -6870,6 +6870,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655623463&idx=1&sn=e35236680705e614c651a4d250b8bc38",
         "title": "原公安厅副厅长被查（女）",
+        "title_eng": "The former deputy director of the Public Security Department was investigated (female)",
         "nickname": "阿SIR",
         "created_at": "2021-04-17",
         "archive": "gh_0af747913cab_2021-04-17_2655623463_m4UGf17ZpM.y.tar.gz",
@@ -6879,6 +6880,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDQyNzYzMQ==&mid=2650680827&idx=1&sn=ba6333e0714eb3703d8244de21c9e85f",
         "title": "好消息！这些东西来免费拿回家！",
+        "title_eng": "good news! These things come and take them home for free!",
         "nickname": "潮州日报",
         "created_at": "2021-04-20",
         "archive": "gh_d96e48e19dc9_2021-04-20_2650680827_bvYFDC1OJA.y.tar.gz",
@@ -6908,10 +6910,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2650933294&idx=1&sn=7f0027add6e518a2d7f4258dd77380d2",
         "title": "【学党史 吾思想 办实事 开新局】“大喇叭”奏响乡村党史宣传最强音",
+        "title_eng": "[Learning Party History, My Thoughts, Doing Practical Things, Starting a New Game] Big Horn played the strongest voice in the propaganda of party history in the countryside",
         "nickname": "关注饶河",
         "created_at": "2021-04-19",
         "archive": "gh_b04d605c071c_2021-04-19_2650933294_dOnA9aqYTW.y.tar.gz",
         "censored_date": "2021-04-21 00:53:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247515033&idx=1&sn=032d12a549ac9ec94d5a34ef7a035514",
+        "title": "刷屏中科院博士的回信，推荐你们都读读(完整版)",
+        "title_eng": "Swipe the reply letter from the doctor of Chinese Academy of Sciences, I recommend that you all read it (full version)",
+        "nickname": "难得视界",
+        "created_at": "2021-04-19",
+        "archive": "gh_1c6cefeca9ab_2021-04-19_2247515033_ZljycVNfHn.y.tar.gz",
+        "censored_date": "2021-04-21 01:15:09",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
