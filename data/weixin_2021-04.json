@@ -7033,7 +7033,8 @@
         "created_at": "2021-04-21",
         "archive": "gh_446ef777c7a8_2021-04-21_2651984034_VYh7XpPwkW.y.tar.gz",
         "censored_date": "2021-04-21 16:15:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-22 17:25:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247524351&idx=1&sn=66c2a738b25c7b3c29b95db41286d61f",
@@ -7290,5 +7291,15 @@
         "censored_date": "2021-04-22 13:39:37",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-22 14:45:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDU4OTYyMQ==&mid=2652010658&idx=1&sn=1bf809c84bc513f2fb2ca5659512b7e4",
+        "title": "论特斯拉的中国化",
+        "title_eng": "On Tesla's Sinicization",
+        "nickname": "旧闻评论",
+        "created_at": "2021-04-21",
+        "archive": "gh_9ae95707089d_2021-04-21_2652010658_iZYjuR2fq0.y.tar.gz",
+        "censored_date": "2021-04-22 17:10:14",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
