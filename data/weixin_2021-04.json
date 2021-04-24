@@ -7535,7 +7535,8 @@
         "created_at": "2021-04-22",
         "archive": "gh_3c3083a27d8e_2021-04-22_2247519438_O6BlJFt1io.y.tar.gz",
         "censored_date": "2021-04-23 11:56:40",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-04-24 17:11:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTY2NjcwMA==&mid=2650775148&idx=1&sn=ff49770ca1c2823b7add55b9901221a4",
@@ -8083,5 +8084,15 @@
         "archive": "gh_6d397d8a037d_2021-04-23_2650820813_ndrPDKOi34.y.tar.gz",
         "censored_date": "2021-04-24 14:59:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654065785&idx=8&sn=0c9444e74ea7ebcc58f391c0ac5aeb3d",
+        "title": "名单公布，茅台总工落选",
+        "nickname": "参考消息",
+        "created_at": "2021-04-23",
+        "archive": "gh_2837b93c1976_2021-04-23_2654065785_5W4EL8Miwh.y.tar.gz",
+        "censored_date": "2021-04-24 17:31:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-23 15:18:36"
     }
 ]
