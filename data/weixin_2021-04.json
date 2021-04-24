@@ -7569,7 +7569,7 @@
         "archive": "gh_e435cb2e3b5d_2021-04-21_2650293470_YGXPr367yK.y.tar.gz",
         "censored_date": "2021-04-23 14:42:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-04-22 14:28:09"
+        "update_date": "2021-04-24 19:50:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651570297&idx=1&sn=e10dff04b2ade23bbc7dcc9eac27491b",
@@ -7579,7 +7579,8 @@
         "created_at": "2021-04-22",
         "archive": "gh_ec6dcd28a470_2021-04-22_2651570297_bG5CUQlZt6.y.tar.gz",
         "censored_date": "2021-04-23 16:04:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-24 20:22:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTExOTQ5Mw==&mid=2650171356&idx=1&sn=7cbd64ba61cfb26603331b8afcf871e8",
@@ -8108,5 +8109,25 @@
         "censored_date": "2021-04-24 17:41:44",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-04-23 12:53:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDMzNTk2MA==&mid=2659741713&idx=1&sn=7a46e73786e7eedf8f5533e099619d07",
+        "title": "【美国研究】爱怼特朗普，对华理性强硬的哈佛教授，要当美国驻华大使了？",
+        "title_eng": "[US Studies] A Harvard professor who loves Trump and is tough on China, is he going to be the US ambassador to China?",
+        "nickname": "政治学与国际关系论坛",
+        "created_at": "2021-04-23",
+        "archive": "gh_f0f4b7f5abc1_2021-04-23_2659741713_utv5DOLxJC.y.tar.gz",
+        "censored_date": "2021-04-24 20:05:07",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651833073&idx=6&sn=c6290eb1beb4850b27086318b722a831",
+        "title": "世界会客厅｜会有另一个“世界工厂”吗？",
+        "title_eng": "World Meeting Room | Will there be another World Factory?",
+        "nickname": "澎湃新闻",
+        "created_at": "2021-04-23",
+        "archive": "gh_d29e0d22a6f9_2021-04-23_2651833073_qQZiPwshEG.y.tar.gz",
+        "censored_date": "2021-04-24 20:28:16",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
