@@ -7353,7 +7353,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247526234&idx=1&sn=e6b97b241ab696a9e8a62653116847aa",
         "title": "抽烟喝酒、大鱼大肉，却身体倍棒，没三高？秘诀竟是这杯茶！你一定没喝过！",
-        "title_eng": "Smoking and drinking, big fish and meat, but the body is stronger, not three tall? The secret is actually this cup of tea! You must have never had it!",
+        "title_eng": "Smoking and drinking, big fish and big meat, but the body is strong, not three tall? The secret is actually this cup of tea! You must have never had it!",
         "nickname": "女律师札记",
         "created_at": "2021-04-20",
         "archive": "gh_06140cfad959_2021-04-20_2247526234_Ng0RIKBomw.y.tar.gz",
@@ -8356,6 +8356,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247518867&idx=1&sn=ddea4980377321eddea29057c2a70531",
         "title": "特斯拉终于公布数据，更狠的较量还在后面",
+        "title_eng": "Tesla finally released the data, the more fierce contest is yet to come",
         "nickname": "遮眼看天",
         "created_at": "2021-04-23",
         "archive": "gh_b984621ff266_2021-04-23_2247518867_nzGLlsCdDK.y.tar.gz",
@@ -8414,5 +8415,27 @@
         "censored_date": "2021-04-25 07:08:26",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-04-24 01:12:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649571800&idx=1&sn=aa9e12613023ef5b312f87c856ee8330",
+        "title": "这一次，别让广发证券跑了！",
+        "title_eng": "This time, don't let GF Securities run away!",
+        "nickname": "观点",
+        "created_at": "2021-04-23",
+        "archive": "gh_2ac9b41ee17c_2021-04-23_2649571800_OeBW85Ipai.y.tar.gz",
+        "censored_date": "2021-04-25 07:56:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-24 02:16:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649799911&idx=1&sn=7c5a00fa76555cd0b8883bf04e7e3053",
+        "title": "抽烟喝酒、大鱼大肉，却身体倍棒，没三高？秘诀竟是这杯茶！你一定没喝过！",
+        "title_eng": "Smoking and drinking, big fish and big meat, but the body is strong, not three tall? The secret is actually this cup of tea! You must have never had it!",
+        "nickname": "华哥读报",
+        "created_at": "2021-04-24",
+        "archive": "gh_7a402e27f818_2021-04-24_2649799911_HYXBkuq09p.y.tar.gz",
+        "censored_date": "2021-04-25 09:29:04",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-04-24 08:21:06"
     }
 ]
