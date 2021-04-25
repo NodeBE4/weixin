@@ -8258,7 +8258,8 @@
         "created_at": "2021-04-24",
         "archive": "gh_c364747d22d0_2021-04-24_2653614758_KFuZU6EgYW.y.tar.gz",
         "censored_date": "2021-04-25 00:39:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-04-26 02:27:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247508961&idx=1&sn=ef1325446c4fe8a600cdf49bef16b2c3",
@@ -8605,5 +8606,15 @@
         "archive": "gh_62a9937cd776_2021-04-24_2651559707_TwXHcMOej6.y.tar.gz",
         "censored_date": "2021-04-26 01:01:26",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247518115&idx=7&sn=885206e8301d1013d83ff42234e40315",
+        "title": "中小学又现​“忠字舞”？",
+        "title_eng": "Zhongzi Dance is now again in primary and secondary schools?",
+        "nickname": "天狐观察",
+        "created_at": "2021-04-24",
+        "archive": "gh_fd5f7267524b_2021-04-24_2247518115_2YngJE4map.y.tar.gz",
+        "censored_date": "2021-04-26 02:19:24",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
