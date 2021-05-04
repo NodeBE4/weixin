@@ -2384,6 +2384,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491599&idx=1&sn=b3d918a55326de8b1c1c4d9fe9ba3d04",
         "title": "昨晚，复旦教授沈逸也被打脸了！",
+        "title_eng": "Last night, Fudan professor Shen Yi was also beaten in the face!",
         "nickname": "虎次郎",
         "created_at": "2021-05-03",
         "archive": "gh_610312e22ed3_2021-05-03_2247491599_z8L6S2BrEi.y.tar.gz",
@@ -2394,6 +2395,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491599&idx=2&sn=10d27a06a2e3dea6835dd134a6baddc7",
         "title": "婚姻制度：一个正在走向消亡的制度",
+        "title_eng": "Marriage system: a system that is dying",
         "nickname": "虎次郎",
         "created_at": "2021-05-03",
         "archive": "gh_610312e22ed3_2021-05-03_2247491599_0q5CoLzK2F.y.tar.gz",
@@ -2403,6 +2405,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491599&idx=5&sn=c0bc5272ce7bd45fc7d057ffb90c12ad",
         "title": "特斯拉的2021，三星的2013",
+        "title_eng": "Tesla’s 2021, Samsung’s 2013",
         "nickname": "虎次郎",
         "created_at": "2021-05-03",
         "archive": "gh_610312e22ed3_2021-05-03_2247491599_5wyWG00ivE.y.tar.gz",
@@ -2424,11 +2427,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491599&idx=3&sn=d52d5fa438b2fcd656d7293dbc537eb6",
         "title": "张国立老师，究竟发生了什么事情？！",
+        "title_eng": "Teacher Zhang Guoli, what happened? !",
         "nickname": "虎次郎",
         "created_at": "2021-05-03",
         "archive": "gh_610312e22ed3_2021-05-03_2247491599_lr4PMQdxwR.y.tar.gz",
         "censored_date": "2021-05-05 02:56:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-04 13:49:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247525701&idx=1&sn=175213dc3932fd5de6732e5a762226d8",
+        "title": "五一从全国各地传回来的照片，太可怕了",
+        "title_eng": "The photos sent back from all over the country on May 1st are terrible",
+        "nickname": "今读史",
+        "created_at": "2021-05-03",
+        "archive": "gh_5e008ceefb25_2021-05-03_2247525701_Htr8hiKXQ5.y.tar.gz",
+        "censored_date": "2021-05-05 03:37:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-04 15:10:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247492933&idx=5&sn=28eb2766d8d8f655fa76f86b4904dcf7",
+        "title": "新鲜冬虫夏草正当季，吃它有什么好处？你应该知道的关于冬虫夏草的真相",
+        "title_eng": "Fresh Cordyceps is in season, what are the benefits of eating it? The truth about Cordyceps sinensis you should know",
+        "nickname": "历史微时刻",
+        "created_at": "2021-05-03",
+        "archive": "gh_31930173e92d_2021-05-03_2247492933_mZcjhk5iD0.y.tar.gz",
+        "censored_date": "2021-05-05 03:24:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-04 14:45:54"
     }
 ]
