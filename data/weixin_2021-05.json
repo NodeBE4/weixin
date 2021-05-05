@@ -2320,7 +2320,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247514358&idx=1&sn=0b6bf4a8b6bc1f366d2cba29e4f34e33",
         "title": "刚刚，天津大学放了一个屁",
-        "title_eng": "Just now, Tianjin University fart",
+        "title_eng": "Tianjin University fart",
         "nickname": "春草微视",
         "created_at": "2021-05-04",
         "archive": "gh_85ceeb96c96a_2021-05-04_2247514358_8F0mxOnTG9.y.tar.gz",
@@ -2525,12 +2525,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzUyOTkyNQ==&mid=2247500670&idx=1&sn=5d9cd974c615080b9e4cfac7622a42ff",
         "title": "刚刚，天津大学放了一个屁",
-        "title_eng": "Just now, Tianjin University fart",
+        "title_eng": "Tianjin University fart",
         "nickname": "新顶尖悦读",
         "created_at": "2021-05-04",
         "archive": "gh_88e9499896f5_2021-05-04_2247500670_wYo05t2Giu.y.tar.gz",
         "censored_date": "2021-05-05 07:07:26",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-05-04 21:17:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NjA1ODY4NQ==&mid=2651004453&idx=1&sn=46e096bf16462a97821647ac745dfeb3",
+        "title": "天津大学放了一个屁",
+        "title_eng": "Tianjin University fart",
+        "nickname": "百年树人",
+        "created_at": "2021-05-04",
+        "archive": "gh_759087605909_2021-05-04_2651004453_6SqujIeZTX.y.tar.gz",
+        "censored_date": "2021-05-05 07:44:38",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
