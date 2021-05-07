@@ -2990,6 +2990,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247490317&idx=1&sn=80ef74cfa84cb0b1f923ded3cbaeaddb",
         "title": "提个醒：营养是鸡蛋的14倍，是牛奶的7.5倍，夏季常吃，抵抗力提高10倍！全家受益！",
+        "title_eng": "A reminder: The nutrition is 14 times that of eggs and 7.5 times that of milk. If you eat it often in summer, your resistance will increase by 10 times! The whole family benefits!",
         "nickname": "海外独立频道",
         "created_at": "2021-05-06",
         "archive": "gh_fe6bb4bdd14d_2021-05-06_2247490317_fGJXBUIWZb.y.tar.gz",
@@ -3000,6 +3001,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTg0NDY1Mw==&mid=2653855093&idx=2&sn=a84ed0cbd12f81cecf50b64f894d9356",
         "title": "重磅会议再提用好“窗口期” 中国经济应如何践行",
+        "title_eng": "The heavy conference again mentions how to make good use of the window period how the Chinese economy should practice",
         "nickname": "证券日报之声",
         "created_at": "2021-05-06",
         "archive": "gh_1a575253a9a1_2021-05-06_2653855093_vXBEfh5PDs.y.tar.gz",
@@ -3009,6 +3011,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247519547&idx=2&sn=ec3d62d70efd83a652cf29161c54fe93",
         "title": "“打飞机”“乳交”究竟算不算卖淫嫖娼？",
+        "title_eng": "Is hitting a plane or titty fucking counted as prostitution?",
         "nickname": "国学文化优选",
         "created_at": "2021-05-06",
         "archive": "gh_b67f4a684fd9_2021-05-06_2247519547_iwNVcREHJg.y.tar.gz",
@@ -3019,6 +3022,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650916457&idx=2&sn=57ee0242372f42046ea4accb7cc15e45",
         "title": "为什么大老板只喝酱香酒，真相惊人，是谁剥夺了我们的知情权!",
+        "title_eng": "Why does the big boss only drink sauce-flavored wine? The truth is amazing, who deprived us of our right to know!",
         "nickname": "天下说法",
         "created_at": "2021-05-06",
         "archive": "gh_9d4eb92add23_2021-05-06_2650916457_IAomG3Y4RW.y.tar.gz",
@@ -3029,11 +3033,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2OTE1MTEwNA==&mid=2650448270&idx=1&sn=ab179b57b154b0c8353906051eec149f",
         "title": "发钱啦！比余额宝赚得更多，活钱新去处…",
+        "title_eng": "Send money! Earn more than Yu'e Bao, a new place to live money...",
         "nickname": "时代财闻",
         "created_at": "2021-05-06",
         "archive": "gh_e1b15dc41ffc_2021-05-06_2650448270_ogx0s6MwyK.y.tar.gz",
         "censored_date": "2021-05-07 19:03:52",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-05-06 10:22:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489774&idx=2&sn=e527553d549b561f3b8e264e429543db",
+        "title": "海参带给人的7大好处，难怪懂保养的人坚持吃",
+        "title_eng": "The 7 benefits of sea cucumbers, no wonder people who know how to maintain them insist on eating",
+        "nickname": "世纪观察",
+        "created_at": "2021-05-06",
+        "archive": "gh_26762a56c129_2021-05-06_2247489774_hOT9HGE4wm.y.tar.gz",
+        "censored_date": "2021-05-07 19:30:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-06 09:11:52"
     }
 ]
