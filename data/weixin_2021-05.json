@@ -3375,6 +3375,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651347459&idx=2&sn=952d5ee2489f5e44fc551402e3429966",
         "title": "人民日报痛批：全世界把看病当买卖的只有中国（犀利）",
+        "title_eng": "People's Daily criticized: Only China treats medical treatment as business in the world (sharp)",
         "nickname": "百姓关注话题",
         "created_at": "2021-05-04",
         "archive": "gh_a0b79e79b274_2021-05-04_2651347459_vFu1QxgV8C.y.tar.gz",
@@ -3385,6 +3386,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NTU0NDE4Mw==&mid=2247522567&idx=1&sn=0da71ef6f8137b30bc306ef5696ed7f3",
         "title": "“内卷”卷出了哪些投资机会？",
+        "title_eng": "What investment opportunities are involved in the involution?",
         "nickname": "覃汉投资笔记",
         "created_at": "2021-05-07",
         "archive": "gh_576cb26ebee4_2021-05-07_2247522567_XRL9JFp80q.y.tar.gz",
@@ -3395,10 +3397,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247490320&idx=1&sn=12f1dfa0fd2bc57b3e99ea4db4c70983",
         "title": "马云突然宣布：2021迎来下一个暴利行业，将造就大批千万富翁！",
+        "title_eng": "Jack Ma suddenly announced: 2021 will usher in the next profitable industry, which will create a large number of multi-millionaires!",
         "nickname": "海外独立频道",
         "created_at": "2021-05-07",
         "archive": "gh_fe6bb4bdd14d_2021-05-07_2247490320_R3LIc4APpu.y.tar.gz",
         "censored_date": "2021-05-09 02:59:36",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDI5MTgyMA==&mid=2664344834&idx=1&sn=8b2367295190916f04628f7fe3c5dc8d",
+        "title": "运动员上综艺要把握好一个“度”",
+        "title_eng": "Athletes must grasp a degree in variety shows",
+        "nickname": "央视网评",
+        "created_at": "2021-05-07",
+        "archive": "gh_52c51fac4c3f_2021-05-07_2664344834_YFh8ZM37Cl.y.tar.gz",
+        "censored_date": "2021-05-09 03:25:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzOTAxOTgxMA==&mid=2247519908&idx=1&sn=fac3799e28097afb437380291e8097f7",
+        "title": "新疆曝光5起典型案例！",
+        "nickname": "爱你大新疆",
+        "created_at": "2021-05-07",
+        "archive": "gh_3b436c38d4d4_2021-05-07_2247519908_rLgc7mtRPx.y.tar.gz",
+        "censored_date": "2021-05-09 04:03:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-07 19:47:13"
     }
 ]
