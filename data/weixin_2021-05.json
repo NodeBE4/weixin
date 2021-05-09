@@ -3248,7 +3248,8 @@
         "created_at": "2021-05-07",
         "archive": "gh_79ddf4ffac70_2021-05-07_2652035698_CdoyfZJhRw.y.tar.gz",
         "censored_date": "2021-05-08 13:45:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-09 18:49:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247486972&idx=2&sn=13b0a58cdebbe7de171b8c6a54809d2c",
@@ -3572,7 +3573,7 @@
         "archive": "gh_f7c807150350_2021-05-07_2247529320_YAnCFguNy8.y.tar.gz",
         "censored_date": "2021-05-09 11:02:49",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-05-08 01:03:41"
+        "update_date": "2021-05-09 19:17:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMjMxNTE3Ng==&mid=2247527128&idx=1&sn=b0b34dbb2de9e983bec27aaab792763b",
@@ -3799,5 +3800,15 @@
         "censored_date": "2021-05-09 17:38:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-08 14:49:04"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247496941&idx=1&sn=fcf4d74d4b7b3963d038b7842c0323c3",
+        "title": "中国移动“免费”送摄像头？漳州一市民莫名被绑定保底消费套餐！",
+        "nickname": "闽南网漳州",
+        "created_at": "2021-05-08",
+        "archive": "gh_36c36bdef701_2021-05-08_2247496941_iFlEnh4XAV.y.tar.gz",
+        "censored_date": "2021-05-09 19:00:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-08 16:45:15"
     }
 ]
