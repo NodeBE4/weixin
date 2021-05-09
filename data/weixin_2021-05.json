@@ -3150,7 +3150,8 @@
         "created_at": "2021-05-07",
         "archive": "gh_ba2f4de5e01c_2021-05-07_2247518100_DFAdQqszMy.y.tar.gz",
         "censored_date": "2021-05-08 01:42:09",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-09 11:12:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247520085&idx=4&sn=1d64b807e25b1567c165852310f122fc",
@@ -3546,5 +3547,26 @@
         "archive": "gh_05006dfaee36_2021-05-06_2247518551_Cm7TWfZoBd.y.tar.gz",
         "censored_date": "2021-05-09 08:10:14",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649815617&idx=2&sn=1364edc85d9d2a2e43f2b5e0479eb912",
+        "title": "取代房子，这才是未来5年最好的投资！",
+        "title_eng": "Replace the house, this is the best investment in the next 5 years!",
+        "nickname": "近现代史论",
+        "created_at": "2021-05-08",
+        "archive": "gh_ef9695b6d53c_2021-05-08_2649815617_NlaKI70RbJ.y.tar.gz",
+        "censored_date": "2021-05-09 11:03:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247529320&idx=2&sn=897a354cd75bd596f1bc6b3bc520f019",
+        "title": "唐世平：少沉迷中国历史，多了解世界",
+        "title_eng": "Tang Shiping: Less indulging in Chinese history, understanding the world more",
+        "nickname": "學人Scholar",
+        "created_at": "2021-05-07",
+        "archive": "gh_f7c807150350_2021-05-07_2247529320_YAnCFguNy8.y.tar.gz",
+        "censored_date": "2021-05-09 11:02:49",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-08 01:03:41"
     }
 ]
