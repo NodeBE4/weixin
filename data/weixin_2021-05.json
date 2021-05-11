@@ -4052,7 +4052,8 @@
         "created_at": "2021-05-09",
         "archive": "gh_eaf5f773d1d5_2021-05-09_2656626296_EoO7WNcFJt.y.tar.gz",
         "censored_date": "2021-05-10 16:12:53",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-11 15:21:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzU4ODQ2MA==&mid=2676507017&idx=1&sn=e25170bb0d0a210b033b7ba79b8d4f8e",
@@ -4062,7 +4063,8 @@
         "created_at": "2021-05-10",
         "archive": "gh_fc36e615330b_2021-05-10_2676507017_6OYz80BhFe.y.tar.gz",
         "censored_date": "2021-05-10 16:25:19",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-11 15:21:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MjE3MDEyOA==&mid=2650901760&idx=1&sn=50e6f98b79441f89a515f2c311f3baad",
@@ -4249,6 +4251,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTk5ODI4NQ==&mid=2655359055&idx=1&sn=1599ba90e073b8428529fb063e79b15e",
         "title": "汽车大地震！特斯拉连夜宣布！国产车噩梦来了？",
+        "title_eng": "The car earthquake! Tesla announced overnight! Is the domestic car nightmare coming?",
         "nickname": "您懂的",
         "created_at": "2021-05-10",
         "archive": "gh_8f7ba5d0b6e2_2021-05-10_2655359055_HYMDZxJCvd.y.tar.gz",
