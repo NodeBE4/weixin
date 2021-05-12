@@ -4455,6 +4455,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODc5MzMwNw==&mid=2247508009&idx=2&sn=180153ccd2ec08d71ed2e51fd55dc8f0",
         "title": "写给不会理财的你",
+        "title_eng": "To you who don’t know how to manage money",
         "nickname": "人文英华",
         "created_at": "2021-05-11",
         "archive": "gh_46052ab4e941_2021-05-11_2247508009_RgFbwJEHVW.y.tar.gz",
@@ -4471,5 +4472,16 @@
         "censored_date": "2021-05-12 11:53:57",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-05-11 11:07:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653333725&idx=6&sn=e705b0ab22e56482a7cb5fc390712c58",
+        "title": "【粉丝福利】外卖优惠券 免费领取",
+        "title_eng": "[Fan Benefits] Takeaway Coupons Receive for Free",
+        "nickname": "画友文学天地",
+        "created_at": "2021-05-11",
+        "archive": "gh_e4d7b38fb8a3_2021-05-11_2653333725_0EfbBsR6P1.y.tar.gz",
+        "censored_date": "2021-05-12 13:25:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-11 13:55:11"
     }
 ]
