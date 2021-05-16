@@ -5541,7 +5541,8 @@
         "created_at": "2021-05-16",
         "archive": "gh_fb258eeffb8d_2021-05-16_2652226378_Q9gq0STEKc.y.tar.gz",
         "censored_date": "2021-05-16 12:48:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-16 15:29:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652226378&idx=1&sn=9eecbf74e38bcbcbde18354778fcc830",
@@ -5551,7 +5552,8 @@
         "created_at": "2021-05-16",
         "archive": "gh_fb258eeffb8d_2021-05-16_2652226378_dpYPnFZz0S.y.tar.gz",
         "censored_date": "2021-05-16 12:48:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-16 15:25:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247500179&idx=1&sn=8242dea22c36e1e9816dc58317bd377c",
@@ -5583,5 +5585,15 @@
         "censored_date": "2021-05-16 13:39:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-15 10:23:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247520976&idx=1&sn=fc9d825a55f881fd466c3376ea9b2c51",
+        "title": "要把一生都献给巴勒斯坦，死后却留下了10亿美元资产......",
+        "title_eng": "To dedicate all his life to Palestine, but left a billion dollars in assets after death...",
+        "nickname": "海外财经",
+        "created_at": "2021-05-16",
+        "archive": "gh_8f29429f71d7_2021-05-16_2247520976_RFxpSXDfQN.y.tar.gz",
+        "censored_date": "2021-05-16 14:56:14",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
