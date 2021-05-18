@@ -6163,6 +6163,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5OTY2NzQ1MQ==&mid=2247487804&idx=2&sn=6d4d667278d42ca529c83ce0171bdd0e",
         "title": "碎片时间，读什么能悄悄成长？",
+        "title_eng": "Fragmented time, what can you read quietly to grow?",
         "nickname": "阅尽热门",
         "created_at": "2021-05-16",
         "archive": "gh_2645c7f5e15e_2021-05-16_2247487804_Tf1DSO5ZbJ.y.tar.gz",
@@ -6173,6 +6174,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247502289&idx=3&sn=0927bdba14fdf78a1ace048634210d08",
         "title": "突发！多名中学生自杀！更可怕的是这个！",
+        "title_eng": "Burst! Many middle school students committed suicide! What's more terrifying is this!",
         "nickname": "老板思维论",
         "created_at": "2021-05-16",
         "archive": "gh_69f7ba479665_2021-05-16_2247502289_nDUQ3ty19B.y.tar.gz",
@@ -6188,5 +6190,27 @@
         "archive": "gh_46fa18dba691_2021-05-16_2247491323_KFVkEv8egU.y.tar.gz",
         "censored_date": "2021-05-19 05:27:26",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247487400&idx=3&sn=ed0b23012f80f73ad1b68f157f1b0379",
+        "title": "为了混“圈子”，年轻人有多敢花钱？",
+        "title_eng": "How dare young people spend money in order to mix circles?",
+        "nickname": "首富商圈",
+        "created_at": "2021-05-16",
+        "archive": "gh_c7f9947afc98_2021-05-16_2247487400_d0RvqMtsU8.y.tar.gz",
+        "censored_date": "2021-05-19 05:34:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-17 19:10:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247502289&idx=2&sn=4225455ebaede0878fe18592ed07d918",
+        "title": "毁掉一个人最狠的方式，就是让他一直忙",
+        "title_eng": "The most ruthless way to ruin a person is to keep him busy",
+        "nickname": "老板思维论",
+        "created_at": "2021-05-16",
+        "archive": "gh_69f7ba479665_2021-05-16_2247502289_mdfZRIXKAp.y.tar.gz",
+        "censored_date": "2021-05-19 05:32:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-17 19:08:02"
     }
 ]
