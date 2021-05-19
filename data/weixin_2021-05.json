@@ -6088,7 +6088,7 @@
         "archive": "gh_303ec1b5ec96_2021-05-16_2247491776_r0ELcjovR7.y.tar.gz",
         "censored_date": "2021-05-19 01:00:04",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-05-18 01:24:13"
+        "update_date": "2021-05-20 01:37:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247487400&idx=1&sn=91b280734198bf356600bc31b2bfc770",
@@ -6098,7 +6098,8 @@
         "created_at": "2021-05-16",
         "archive": "gh_c7f9947afc98_2021-05-16_2247487400_XTgfNYBOvc.y.tar.gz",
         "censored_date": "2021-05-19 00:16:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-20 01:32:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651147296&idx=4&sn=3dfd2278930e96e75116b992e2efba35",
@@ -6109,7 +6110,7 @@
         "archive": "gh_541a7f1cf2c2_2021-05-16_2651147296_H0PKUJE3MS.y.tar.gz",
         "censored_date": "2021-05-18 23:57:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-18 02:23:46"
+        "update_date": "2021-05-20 01:32:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzg0NDIzNg==&mid=2655126425&idx=1&sn=47a64347a2c99b1d9ea191b4fbabcaca",
@@ -6131,7 +6132,7 @@
         "archive": "gh_d62474859d61_2021-05-17_2658688740_3FDx6Vc9YR.y.tar.gz",
         "censored_date": "2021-05-19 01:07:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-18 01:29:53"
+        "update_date": "2021-05-20 01:37:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwMjg5Mg==&mid=2657030367&idx=1&sn=4984bfd0e9a3d546b21e3d97b0250a88",
@@ -6554,6 +6555,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247520734&idx=4&sn=21746b086976492567c1a36ced750a38",
         "title": "为什么恐怖分子宁愿去炸遥远的美国与法兰西，也不愿意招惹近在咫尺的以色列？",
+        "title_eng": "Why would terrorists prefer to bomb the distant United States and France rather than provoke Israel, which is close at hand?",
         "nickname": "遮眼看天",
         "created_at": "2021-05-18",
         "archive": "gh_b984621ff266_2021-05-18_2247520734_3UsSTQK0xN.y.tar.gz",
@@ -6571,5 +6573,15 @@
         "censored_date": "2021-05-20 00:12:13",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-19 01:06:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODg0MTg3Mw==&mid=2652083195&idx=2&sn=09cbc569edb47f4b2b69afd0d4bb24cb",
+        "title": "“爱国歌曲歌唱大赛”火热报名中！万元大奖等你拿~",
+        "nickname": "城市零距离",
+        "created_at": "2021-05-17",
+        "archive": "gh_4c1998a4fd3c_2021-05-17_2652083195_hZXysmMd12.y.tar.gz",
+        "censored_date": "2021-05-20 01:55:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-17 18:26:32"
     }
 ]
