@@ -6761,7 +6761,7 @@
         "archive": "gh_69f7ba479665_2021-05-18_2247502364_apy4qGnXlP.y.tar.gz",
         "censored_date": "2021-05-20 18:17:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-20 01:04:03"
+        "update_date": "2021-05-21 16:52:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDUyOTE4Ng==&mid=2247489772&idx=2&sn=d5a17e124378cb12fe453da5fc1faa84",
@@ -6772,7 +6772,7 @@
         "archive": "gh_c93c40faa998_2021-05-19_2247489772_wNtxJCVl0S.y.tar.gz",
         "censored_date": "2021-05-20 18:49:53",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-05-20 02:37:42"
+        "update_date": "2021-05-21 17:35:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDI2MTkxMQ==&mid=2649630589&idx=2&sn=64cd7c42169b7b1c21bf64ad706398cf",
@@ -6813,7 +6813,8 @@
         "created_at": "2021-05-20",
         "archive": "wxid_2965349653612_2021-05-20_2652028995_KohGftwUIn.y.tar.gz",
         "censored_date": "2021-05-20 21:55:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-21 16:53:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491687&idx=3&sn=dbb37cd0db87e8f2f0b91eb3710411e4",
@@ -7019,11 +7020,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247502399&idx=3&sn=652ce6242974b599cd1e545b1062aabd",
         "title": "关晓彤张一山拍戏被南大“羞辱”：明星光鲜背后的潜规则，终于被撕开了",
+        "title_eng": "Guan Xiaotong and Zhang Yishan were humiliated by Nantah in filming: the unspoken rules behind the star's glamour have finally been torn apart",
         "nickname": "老板思维论",
         "created_at": "2021-05-19",
         "archive": "gh_69f7ba479665_2021-05-19_2247502399_fKq69mQHsX.y.tar.gz",
         "censored_date": "2021-05-21 16:35:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-20 18:13:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653446177&idx=2&sn=3945e1866717ee8be0036926503b0f18",
+        "title": "相互看不上眼？当朗诗的“长期主义者”遭遇惠誉的“B”评级丨公司",
+        "title_eng": "Can't see each other? When Landsea’s “Longtermists” encountered Fitch’s “B” rating丨The company",
+        "nickname": "中国房地产报",
+        "created_at": "2021-05-20",
+        "archive": "gh_3dda95af34d0_2021-05-20_2653446177_tSREQx6YUl.y.tar.gz",
+        "censored_date": "2021-05-21 16:48:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-20 21:52:21"
     }
 ]
