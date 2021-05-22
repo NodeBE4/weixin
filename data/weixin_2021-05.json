@@ -7065,7 +7065,8 @@
         "created_at": "2021-05-20",
         "archive": "gh_44e51cde40c7_2021-05-20_2247620454_5mB0aZyDTC.y.tar.gz",
         "censored_date": "2021-05-21 18:30:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-22 13:27:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDA3OTkwOA==&mid=2650110831&idx=3&sn=a41f86817d9f21d57522d89b3cd944b2",
@@ -7210,10 +7211,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTg3NjM4NzEwMQ==&mid=2652004377&idx=1&sn=57d24508e5132e79b9aaf16f489611b9",
         "title": "“杂交水稻之父”袁隆平逝世",
+        "title_eng": "Father of Hybrid Rice Yuan Longping dies",
         "nickname": "蛋蛋网",
         "created_at": "2021-05-22",
         "archive": "wxid_1360423604421_2021-05-22_2652004377_bYS8Ov1adr.y.tar.gz",
         "censored_date": "2021-05-22 12:44:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MDM4NzI0Mg==&mid=2247488614&idx=1&sn=b37ecf3dc565b330c274b74d2573b010",
+        "title": "【党在我心中·百年颂风华】科环团委举办演讲比赛",
+        "title_eng": "[The Party is in my heart, a hundred years of praise of Fenghua] Science and Environmental Youth League Committee held a speech contest",
+        "nickname": "科环集团",
+        "created_at": "2021-05-22",
+        "archive": "gh_8823091faea0_2021-05-22_2247488614_KYxT4IkX9q.y.tar.gz",
+        "censored_date": "2021-05-22 12:51:37",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
