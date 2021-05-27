@@ -7962,7 +7962,8 @@
         "created_at": "2021-05-26",
         "archive": "gh_3dda95af34d0_2021-05-26_2653446608_6uUeLQh07J.y.tar.gz",
         "censored_date": "2021-05-27 00:24:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-27 23:06:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzEyODIzMA==&mid=2650727588&idx=3&sn=d7eb6189b2157a1c038ba75610c4b039",
@@ -7973,7 +7974,7 @@
         "archive": "gh_2c66021e3930_2021-05-26_2650727588_xACkVIwX9m.y.tar.gz",
         "censored_date": "2021-05-27 01:26:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-27 02:25:45"
+        "update_date": "2021-05-27 23:14:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzEyODIzMA==&mid=2650727588&idx=1&sn=6833a45b1d4753bdcabe5de8a177b06c",
@@ -7984,7 +7985,7 @@
         "archive": "gh_2c66021e3930_2021-05-26_2650727588_jQX5rMb0E2.y.tar.gz",
         "censored_date": "2021-05-27 01:29:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-27 04:58:01"
+        "update_date": "2021-05-27 23:14:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDkxMDUzOQ==&mid=2656627856&idx=2&sn=62eb39e29a818d53c93c1875a6822cf7",
@@ -8166,6 +8167,17 @@
         "created_at": "2021-05-27",
         "archive": "gh_8342bcca80b9_2021-05-27_2651210908_dERlxn50LS.y.tar.gz",
         "censored_date": "2021-05-27 19:41:15",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-27 22:50:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDg5MzMwMQ==&mid=2671254705&idx=2&sn=eef02eec0d9cd84b8697d5a56e9f7a54",
+        "title": "6月1日起，云南将试行发放私家车电子驾驶证！",
+        "title_eng": "Starting from June 1, Yunnan will issue electronic driving licenses for private cars on a trial basis!",
+        "nickname": "云南网",
+        "created_at": "2021-05-27",
+        "archive": "gh_3033f4cf486d_2021-05-27_2671254705_aoDf3EepXj.y.tar.gz",
+        "censored_date": "2021-05-27 23:21:47",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
