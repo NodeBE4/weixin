@@ -8425,7 +8425,7 @@
         "archive": "gh_edb03ef29487_2021-05-28_2247488823_EAeq7pc0nU.y.tar.gz",
         "censored_date": "2021-05-28 20:30:17",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-05-28 20:34:02"
+        "update_date": "2021-05-29 21:56:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651849190&idx=1&sn=ec1c91396d85592fc5e8243be523a505",
@@ -8729,6 +8729,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247487344&idx=1&sn=874876b3f09361a34010766dda67ac87",
         "title": "注意！将受益到所有人！",
+        "title_eng": "note! Will benefit everyone!",
         "nickname": "国际局势解读",
         "created_at": "2021-05-28",
         "archive": "gh_e7ec33b5ef38_2021-05-28_2247487344_u8AJaYIeCT.y.tar.gz",
@@ -8739,10 +8740,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247579992&idx=3&sn=97cdb4d563475194f3f81beacfe67f67",
         "title": "广东英德警方通报：已抓获！",
+        "title_eng": "Guangdong Yingde police report: have been arrested!",
         "nickname": "红星新闻",
         "created_at": "2021-05-28",
         "archive": "gh_1ede6c42db01_2021-05-28_2247579992_xgvoSRY0ns.y.tar.gz",
         "censored_date": "2021-05-29 20:55:39",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247504966&idx=3&sn=860956fecac2aca946ec23cdbcfcadfa",
+        "title": "真来了？！禁止法官退休后从事律师工作！除非放弃退休待遇！",
+        "title_eng": "Is it really here? ! It is forbidden for judges to work as lawyers after retirement! Unless you give up your retirement benefits!",
+        "nickname": "法眼观察",
+        "created_at": "2021-05-28",
+        "archive": "gh_e2a46987ac3a_2021-05-28_2247504966_aitqEZPWOd.y.tar.gz",
+        "censored_date": "2021-05-29 21:36:17",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-28 20:18:12"
     }
 ]
