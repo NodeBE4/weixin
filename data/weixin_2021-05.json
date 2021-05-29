@@ -8094,7 +8094,8 @@
         "created_at": "2021-05-26",
         "archive": "gh_edb03ef29487_2021-05-26_2247488813_ANbYZht19y.y.tar.gz",
         "censored_date": "2021-05-27 14:35:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-29 13:45:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDkxMDUzOQ==&mid=2656628093&idx=1&sn=3882b856e2c2c0d83309b01771b5f977",
@@ -8581,7 +8582,8 @@
         "created_at": "2021-05-29",
         "archive": "gh_ae36af7e44bd_2021-05-29_2247581981_d5bniQalsR.y.tar.gz",
         "censored_date": "2021-05-29 08:47:06",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-29 13:35:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNzcwNDM2Nw==&mid=2247504057&idx=1&sn=c54b9557c8804be2f01a8065722f2415",
@@ -8597,6 +8599,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjYxMTc3MQ==&mid=2247532618&idx=1&sn=d4cd30c3c38c79197f1fffb7bb70b242",
         "title": "美图：你就是爱 (´;︵;`)",
+        "title_eng": "Mito: You are love (´;︵;`)",
         "nickname": "全球佳音见证",
         "created_at": "2021-05-27",
         "archive": "gh_35f4bfa177c7_2021-05-27_2247532618_RBUQK0nVpJ.y.tar.gz",
@@ -8625,5 +8628,27 @@
         "censored_date": "2021-05-29 11:51:14",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-05-28 10:59:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653452267&idx=4&sn=5f6645708791e2bb03c669cfef18fd06",
+        "title": "中国两种疫苗新进展有喜有忧",
+        "title_eng": "New developments in China's two vaccines are mixed",
+        "nickname": "环球时报",
+        "created_at": "2021-05-28",
+        "archive": "gh_95b0feda9646_2021-05-28_2653452267_0qcJ576N0b.y.tar.gz",
+        "censored_date": "2021-05-29 14:21:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-28 13:48:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODkwODIyNg==&mid=2247487324&idx=4&sn=17dc709928f908d561a884cf7f5e2275",
+        "title": "突然刷屏！多名新冠康复者出现“巨舌症”，新冠后遗症曝光！",
+        "title_eng": "Suddenly swiping the screen! Many COVID-19 patients have giant tongue syndrome and the sequelae of COVID-19 have been exposed!",
+        "nickname": "国际局势解读",
+        "created_at": "2021-05-26",
+        "archive": "gh_e7ec33b5ef38_2021-05-26_2247487324_qx5HjW96i7.y.tar.gz",
+        "censored_date": "2021-05-29 14:00:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-05-27 14:54:04"
     }
 ]
