@@ -9088,6 +9088,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652215445&idx=1&sn=03c77a116a15ec225e9adadac65094d3",
         "title": "警方披露南京驾车撞人并持刀捅人案件更多详情：嫌犯自杀未遂，路人见义勇为被刺伤",
+        "title_eng": "The police disclosed the case of driving and stabbing a person in Nanjing with a knife. More details: The suspect attempted suicide, and passers-by were stabbed bravely when they saw righteousness.",
         "nickname": "大千世界",
         "created_at": "2021-05-30",
         "archive": "gh_a517719487ef_2021-05-30_2652215445_vGRV4EIBYp.y.tar.gz",
@@ -9098,6 +9099,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651851169&idx=1&sn=692bbb8d353697b2d3312e7f015f437e",
         "title": "三孩生育政策来了",
+        "title_eng": "The three-child policy is here",
         "nickname": "澎湃新闻",
         "created_at": "2021-05-31",
         "archive": "gh_d29e0d22a6f9_2021-05-31_2651851169_qOQ7AMJ0Zc.y.tar.gz",
@@ -9107,10 +9109,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654875519&idx=1&sn=3e3b5f3c6950fa2a4e0d4edb73c05162",
         "title": "三孩生育政策来了！",
+        "title_eng": "The three-child policy is here!",
         "nickname": "观察者网",
         "created_at": "2021-05-31",
         "archive": "gh_5c9e0938601d_2021-05-31_2654875519_Ypa1iDewbA.y.tar.gz",
         "censored_date": "2021-05-31 17:01:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTYyODMwOTMwMQ==&mid=2650372669&idx=1&sn=9af5554982c8781f99655a5c17b31b9b",
+        "title": "三孩生育政策来了！",
+        "title_eng": "The three-child policy is here!",
+        "nickname": "国际在线",
+        "created_at": "2021-05-31",
+        "archive": "wxid_8784487845511_2021-05-31_2650372669_zJeLX7bg54.y.tar.gz",
+        "censored_date": "2021-05-31 17:53:59",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
