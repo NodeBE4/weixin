@@ -1257,7 +1257,7 @@
         "archive": "gh_a6d6993d690a_2021-05-31_2680416868_UbKdVTfQyN.y.tar.gz",
         "censored_date": "2021-05-31 11:28:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-31 13:13:49"
+        "update_date": "2021-06-01 15:22:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzkxMDA0OA==&mid=2652027791&idx=2&sn=7e0e65602fb7d9b3103afc8b11967c68",
@@ -1268,7 +1268,7 @@
         "archive": "gh_a99d3b7ea9fa_2021-05-31_2652027791_nP3ItzSwJH.y.tar.gz",
         "censored_date": "2021-05-31 13:07:07",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-31 13:46:28"
+        "update_date": "2021-06-01 15:37:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247511393&idx=5&sn=f670751efa3a4bdaa55dd2e33bf40ed4",
@@ -1301,7 +1301,7 @@
         "archive": "gh_c4bedb58c8ba_2021-05-31_2650334543_0mJ04e3jiP.y.tar.gz",
         "censored_date": "2021-05-31 14:11:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-05-31 14:29:40"
+        "update_date": "2021-06-01 16:07:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651168362&idx=2&sn=126b5cbe25f618eaf6eed899a2ee9e8d",
@@ -1539,5 +1539,56 @@
         "censored_date": "2021-06-01 12:45:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-31 13:57:04"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODIzODM1OA==&mid=2651074030&idx=1&sn=3d6ecd4eac7bb090c5dd202d8f1cd53c",
+        "title": "广州发布15号通告，38个区域实行封闭管理（附详细地址）",
+        "title_eng": "Guangzhou issued Announcement No. 15 to implement closed management in 38 areas (with detailed addresses)",
+        "nickname": "南方杂志",
+        "created_at": "2021-06-01",
+        "archive": "gh_586f6633228e_2021-06-01_2651074030_VlY0ioD2LU.y.tar.gz",
+        "censored_date": "2021-06-01 16:10:19",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAzMDkyMA==&mid=2650827261&idx=5&sn=dfd0144c8d04b39cc3f76f9052c58f30",
+        "title": "年薪5万的嘉兴图书馆合同工竞争那么大？皇家墨尔本、伦敦政治经济学院的都来!",
+        "title_eng": "Is there so much competition for the Jiaxing Library contract workers with an annual salary of 50,000? Royal Melbourne, London School of Economics and Political Science are all here!",
+        "nickname": "嘉兴第九区",
+        "created_at": "2021-06-01",
+        "archive": "gh_6d397d8a037d_2021-06-01_2650827261_QNU4MTPHYq.y.tar.gz",
+        "censored_date": "2021-06-01 15:10:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652229086&idx=2&sn=36c1d0f474ffde1c82ee5bd5526b6478",
+        "title": "庆祝中国共产党成立100周年，10集广播剧《播火者》重磅推出！",
+        "title_eng": "To celebrate the 100th anniversary of the founding of the Communist Party of China, the 10-episode radio drama Firecaster was launched!",
+        "nickname": "北京新闻广播",
+        "created_at": "2021-06-01",
+        "archive": "gh_fb258eeffb8d_2021-06-01_2652229086_pF5vGsEYJ2.y.tar.gz",
+        "censored_date": "2021-06-01 16:22:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5OTAwNTQxOA==&mid=2649380203&idx=3&sn=31f5eaa0b2a35b3802c8ab55d44af079",
+        "title": "今早环北后门附近地面下陷，原因初步查明，因地下污水管道破损造成",
+        "title_eng": "This morning, the ground subsidence near the back door of the north ring, and the cause was initially found, due to the damage of the underground sewage pipe",
+        "nickname": "都市快报",
+        "created_at": "2021-06-01",
+        "archive": "gh_81317948cf92_2021-06-01_2649380203_FuURSHlCY8.y.tar.gz",
+        "censored_date": "2021-06-01 16:16:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjMyNzgxNg==&mid=2650334691&idx=1&sn=15418cf52ff6b120cbc53736c66eb74b",
+        "title": "刚刚：广州发布15号通告，38个区域实行封闭管理（附详细地址）",
+        "title_eng": "Guangzhou issued Announcement No. 15 to implement closed management in 38 areas (with detailed addresses)",
+        "nickname": "广州南沙发布",
+        "created_at": "2021-06-01",
+        "archive": "gh_c4bedb58c8ba_2021-06-01_2650334691_XYqWJi7LhB.y.tar.gz",
+        "censored_date": "2021-06-01 16:05:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-01 16:37:37"
     }
 ]
