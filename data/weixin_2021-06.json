@@ -1426,7 +1426,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652742327&idx=1&sn=3818f7c2810205afab589b62c91b7002",
         "title": "揭秘光刻胶产业，打破美日垄断，十四个中国玩家全公开【附下载】| 智东西内参",
-        "title_eng": "Demystifying the photoresist industry, breaking the monopoly of the United States and Japan, fourteen Chinese players are all open [download attached] |",
+        "title_eng": "Demystifying the photoresist industry, breaking the monopoly of the United States and Japan, and making all 14 Chinese players public",
         "nickname": "智东西",
         "created_at": "2021-05-29",
         "archive": "gh_06a331376c81_2021-05-29_2652742327_ryVWuoHMOn.y.tar.gz",
@@ -1704,6 +1704,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=NzEyNTY0NDYx&mid=2652976088&idx=5&sn=333d31c283a8dec3f90954713fb37987",
         "title": "武汉一小区流浪狗多次伤人，三个月已有4人被咬，居民散步都拿着棍子...",
+        "title_eng": "Stray dogs in a community in Wuhan hurt people many times. Four people have been bitten in three months. Residents walked with sticks...",
         "nickname": "湖北经视",
         "created_at": "2021-06-01",
         "archive": "wxid_6064290663512_2021-06-01_2652976088_8etlAKb5Jv.y.tar.gz",
@@ -1720,5 +1721,36 @@
         "censored_date": "2021-06-01 22:06:56",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-05-31 22:40:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjM1NjAzNA==&mid=2669469098&idx=4&sn=70ce574bfed4664534eaf703801d0767",
+        "title": "第265期广西政法微信影响力排行榜​",
+        "title_eng": "The 265th Guangxi Politics and Law WeChat Influence Rankings​",
+        "nickname": "广西法治日报",
+        "created_at": "2021-06-01",
+        "archive": "gh_9ef6c0526ea5_2021-06-01_2669469098_COqwrUG7WP.y.tar.gz",
+        "censored_date": "2021-06-01 23:16:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650797038&idx=1&sn=4ae140b705b1027bed2721336ecba155",
+        "title": "《“十四五”数字经济发展规划》专家评审会在中国信通院召开",
+        "title_eng": "The 14th Five-Year Plan for Digital Economy Development expert review meeting was held in China Academy of Information and Communications Technology",
+        "nickname": "中国信通院CAICT",
+        "created_at": "2021-06-01",
+        "archive": "gh_ccd6562d7551_2021-06-01_2650797038_q0OIcRj8at.y.tar.gz",
+        "censored_date": "2021-06-01 23:20:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649910303&idx=1&sn=7922d06d8bf8000372ef38d257c95ab3",
+        "title": "揭秘光刻胶产业，打破美日垄断，十四个中国玩家全公开",
+        "title_eng": "Demystifying the photoresist industry, breaking the monopoly of the United States and Japan, and making all 14 Chinese players public",
+        "nickname": "人工智能学家",
+        "created_at": "2021-05-31",
+        "archive": "gh_3ed4b779ca77_2021-05-31_2649910303_urDhfPKp6c.y.tar.gz",
+        "censored_date": "2021-06-01 23:16:09",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-05-31 23:57:10"
     }
 ]
