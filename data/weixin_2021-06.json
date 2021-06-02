@@ -1607,7 +1607,7 @@
         "archive": "gh_fb258eeffb8d_2021-06-01_2652229086_RIFcOelEwp.y.tar.gz",
         "censored_date": "2021-06-01 17:01:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-01 17:23:59"
+        "update_date": "2021-06-02 21:51:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652031588&idx=4&sn=a2f7dffef15fcb7e46cb01b67fc0c368",
@@ -1966,6 +1966,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490096&idx=3&sn=8ded1bbec25183527da693d0529d4412",
         "title": "刚刚，躺平赋都出来了！",
+        "title_eng": "Just now, Lie Ping Fu has come out!",
         "nickname": "江南隐士",
         "created_at": "2021-06-01",
         "archive": "gh_65f5271d2a21_2021-06-01_2247490096_SOGYyD0qor.y.tar.gz",
@@ -1976,6 +1977,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490096&idx=6&sn=c2e2edd361814b9afb7f15cb7a3061f9",
         "title": "三胎来了，网友们炸锅了",
+        "title_eng": "The third child is here, netizens are frying pan",
         "nickname": "江南隐士",
         "created_at": "2021-06-01",
         "archive": "gh_65f5271d2a21_2021-06-01_2247490096_Ugn0NFrTdb.y.tar.gz",
@@ -1997,6 +1999,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490096&idx=5&sn=cbad9dfc6750d21150abf45a91edf993",
         "title": "警惕！比卡脖子更严重的问题来了。。。",
+        "title_eng": "alert! The problem is more serious than the neck stuck. . .",
         "nickname": "江南隐士",
         "created_at": "2021-06-01",
         "archive": "gh_65f5271d2a21_2021-06-01_2247490096_6z2GXslmT3.y.tar.gz",
@@ -2007,11 +2010,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MzM5OTczNw==&mid=2247493599&idx=2&sn=6992a0ed9a043d569fc3f34b11bcaf22",
         "title": "网络借贷怎么还？检察官漫“话”民法典告诉您",
+        "title_eng": "How to repay online loans? The prosecutor tells you about the Civil Code",
         "nickname": "如东检察",
         "created_at": "2021-06-01",
         "archive": "gh_4343d07caa0c_2021-06-01_2247493599_tYUMNJDTQ8.y.tar.gz",
         "censored_date": "2021-06-02 21:37:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-01 20:46:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzQwMTQ3OQ==&mid=2649498977&idx=1&sn=f2ff91e3c5dc3f4ef19ec29a0ef73e63",
+        "title": "美元暴跌！大国对决，巨富渔利，中产白领最受伤，自救！自救！自救！",
+        "nickname": "洛杉矶华人圈",
+        "created_at": "2021-06-01",
+        "archive": "gh_179ef88e69be_2021-06-01_2649498977_WeuJqL0Edo.y.tar.gz",
+        "censored_date": "2021-06-02 22:46:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-01 22:42:45"
     }
 ]
