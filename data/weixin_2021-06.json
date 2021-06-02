@@ -1434,7 +1434,7 @@
         "archive": "gh_06a331376c81_2021-05-29_2652742327_ryVWuoHMOn.y.tar.gz",
         "censored_date": "2021-05-31 22:25:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-02 02:53:34"
+        "update_date": "2021-06-03 05:00:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247530662&idx=1&sn=f0aa304044fea10c086718b746fc74b0",
@@ -1714,7 +1714,8 @@
         "created_at": "2021-06-01",
         "archive": "wxid_6064290663512_2021-06-01_2652976088_8etlAKb5Jv.y.tar.gz",
         "censored_date": "2021-06-01 22:31:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-03 05:01:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652031593&idx=4&sn=aa0cfcdc910c39d931796468aef1fa56",
@@ -1758,7 +1759,7 @@
         "archive": "gh_3ed4b779ca77_2021-05-31_2649910303_urDhfPKp6c.y.tar.gz",
         "censored_date": "2021-06-01 23:16:09",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-05-31 23:57:10"
+        "update_date": "2021-06-03 05:00:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NTIxMTI5Mg==&mid=2247499894&idx=3&sn=63816cfd530616a7fc2072ac341c2e6c",
@@ -1953,7 +1954,7 @@
         "archive": "gh_5c9e0938601d_2021-06-01_2654875833_zkaUwR034V.y.tar.gz",
         "censored_date": "2021-06-02 19:56:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-01 18:18:44"
+        "update_date": "2021-06-03 04:04:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490096&idx=2&sn=beb70a74d45f693c6bc9fb1edf0bf4f1",
@@ -2106,5 +2107,27 @@
         "archive": "gh_ebbd16dcf4eb_2021-06-02_2650498076_uqDC3hJT2Q.y.tar.gz",
         "censored_date": "2021-06-03 02:07:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653056588&idx=2&sn=3f964223cfd8f7f9d2b1d59d61b2b01a",
+        "title": "井喷！外资狂买中国，A股这些龙头企业或爆发！",
+        "title_eng": "Blowout! Foreign investors are buying China wildly, leading companies like A shares may explode!",
+        "nickname": "财闻要参",
+        "created_at": "2021-06-01",
+        "archive": "gh_34471e1f4b56_2021-06-01_2653056588_lci0h2m57S.y.tar.gz",
+        "censored_date": "2021-06-03 03:50:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-02 00:55:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTMwNTIwNg==&mid=2650497816&idx=1&sn=c4057bd7daf086ecd80f7b7aa7b74bcc",
+        "title": "市招商引资工作领导小组会议强调：求真务实真抓实干 提升招商引资质效",
+        "title_eng": "The meeting of the Municipal Leading Group for Investment Promotion Work emphasized: Seek truth and be pragmatic and work hard to improve the qualification and efficiency of investment promotion",
+        "nickname": "咸宁发布",
+        "created_at": "2021-06-01",
+        "archive": "gh_ebbd16dcf4eb_2021-06-01_2650497816_Vyx51Q2dzt.y.tar.gz",
+        "censored_date": "2021-06-03 04:56:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-02 02:20:32"
     }
 ]
