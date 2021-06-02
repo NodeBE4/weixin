@@ -1856,6 +1856,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655392397&idx=1&sn=0296a3648b3fd544b07327f49eba19c4",
         "title": "A股要沸腾？三孩政策刷屏，最全概念股来了！张坤早已布局，网友却说&quot;利好茅台&quot;，逻辑竟是...",
+        "title_eng": "A shares are going to boil? The three-child policy screen, the most comprehensive concept stock is here! Zhang Kun has already laid out, but netizens say",
         "nickname": "中国基金报",
         "created_at": "2021-06-01",
         "archive": "gh_a4a87df43a4c_2021-06-01_2655392397_WYLBN9xtRg.y.tar.gz",
@@ -1866,6 +1867,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzOTAxOTgxMA==&mid=2247519957&idx=2&sn=d8223f409261ff878edcda35534622c6",
         "title": "十月汇总",
+        "title_eng": "October summary",
         "nickname": "爱你大新疆",
         "created_at": "2021-06-01",
         "archive": "gh_3b436c38d4d4_2021-06-01_2247519957_lWmHe3MrSn.y.tar.gz",
@@ -1883,5 +1885,15 @@
         "censored_date": "2021-06-02 11:27:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-01 11:01:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489895&idx=2&sn=11cdbb54ee0e55e6a762c03821650949",
+        "title": "我，30岁，工资8000，一年靠理财收益20万",
+        "title_eng": "I, 30 years old, have a salary of 8,000, and earn 200,000 yuan a year from financial management",
+        "nickname": "世纪观察",
+        "created_at": "2021-06-01",
+        "archive": "gh_26762a56c129_2021-06-01_2247489895_PEnB3Hd2yt.y.tar.gz",
+        "censored_date": "2021-06-02 12:32:25",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
