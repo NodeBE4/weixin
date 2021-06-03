@@ -1737,7 +1737,7 @@
         "archive": "gh_9ef6c0526ea5_2021-06-01_2669469098_COqwrUG7WP.y.tar.gz",
         "censored_date": "2021-06-01 23:16:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-03 00:03:18"
+        "update_date": "2021-06-03 21:54:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650797038&idx=1&sn=4ae140b705b1027bed2721336ecba155",
@@ -2041,7 +2041,8 @@
         "created_at": "2021-06-01",
         "archive": "gh_eaf5f773d1d5_2021-06-01_2656628612_VrsZNOT6gA.y.tar.gz",
         "censored_date": "2021-06-02 23:57:56",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-03 21:54:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODI2MDg5Mg==&mid=2650685271&idx=1&sn=c15be7a2d1504134d876ace71950cb85",
@@ -2206,5 +2207,16 @@
         "censored_date": "2021-06-03 20:02:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-03 10:45:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650880424&idx=6&sn=86aff9bd2222c68f60d63a1814a3d4cd",
+        "title": "里切克到底属不属于宗教极端服饰？全国需尽快一盘棋！",
+        "title_eng": "Does Riček belong to religious extreme costumes? The whole country needs a game of chess as soon as possible!",
+        "nickname": "新疆新发现",
+        "created_at": "2021-06-01",
+        "archive": "gh_be938204fcfa_2021-06-01_2650880424_ol4ZUbw3nA.y.tar.gz",
+        "censored_date": "2021-06-03 22:47:24",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-02 00:02:10"
     }
 ]
