@@ -1932,7 +1932,8 @@
         "created_at": "2021-06-01",
         "archive": "gh_5023d7e73573_2021-06-01_2247512504_NqiBs0yPlK.y.tar.gz",
         "censored_date": "2021-06-02 19:30:26",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-04 11:29:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653453565&idx=2&sn=d3e6c675cb757ea64e5299ea7159f324",
@@ -1998,7 +1999,7 @@
         "archive": "gh_afad949b93dd_2021-06-02_2247511476_1WObzCLcFe.y.tar.gz",
         "censored_date": "2021-06-02 20:27:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-02 20:43:43"
+        "update_date": "2021-06-04 11:17:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490096&idx=5&sn=cbad9dfc6750d21150abf45a91edf993",
@@ -2292,5 +2293,16 @@
         "archive": "gh_3790dd50e9e5_2021-06-02_2653063607_QZfwrbUJxa.y.tar.gz",
         "censored_date": "2021-06-04 06:12:14",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650106120&idx=1&sn=ae10a6be2d2a4d18f5cd9202d9f3e795",
+        "title": "乌兰察布市政协副主席温岚一行赴我旗调研红色文化资源宣传保护利用情况",
+        "title_eng": "Wen Lan, vice chairman of the Ulanqab CPPCC, and his party went to our banner to investigate the promotion, protection and utilization of red cultural resources",
+        "nickname": "察右前旗融媒体中心",
+        "created_at": "2021-06-02",
+        "archive": "gh_ae0b732889ae_2021-06-02_2650106120_30HVzy4Y5Q.y.tar.gz",
+        "censored_date": "2021-06-04 11:26:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-02 23:21:49"
     }
 ]
