@@ -2736,6 +2736,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247522964&idx=1&sn=375aa963be7a95621c3a31894dd2c78e",
         "title": "人大农村委委员魏后凯：乡村振兴的进程、展望与机遇（实际上是五个振兴）",
+        "title_eng": "Wei Houkai, Member of the Rural Committee of the National People's Congress: The process, prospects and opportunities of rural revitalization (actually five revitalizations)",
         "nickname": "经济学家圈",
         "created_at": "2021-06-05",
         "archive": "gh_358c7d1e341c_2021-06-05_2247522964_ZjtlePQpuT.y.tar.gz",
@@ -2745,10 +2746,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODI2MDg5Mg==&mid=2650685402&idx=1&sn=0f3fc64cfcab80142655166de30085d1",
         "title": "太意外！沉默已久的马云终于出手，全世界都沸腾了！",
+        "title_eng": "What a surprise! Ma Yun, who had been silent for a long time, finally made a move, and the whole world was boiling!",
         "nickname": "郭一平说真话",
         "created_at": "2021-06-03",
         "archive": "gh_799459543f35_2021-06-03_2650685402_hQtwrasUFT.y.tar.gz",
         "censored_date": "2021-06-07 02:47:26",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652230153&idx=2&sn=118cc7d053ed16c32639719f48428c2e",
+        "title": "实现碳中和，北京PM2.5浓度需压减到10微克/立方米！",
+        "nickname": "北京新闻广播",
+        "created_at": "2021-06-05",
+        "archive": "gh_fb258eeffb8d_2021-06-05_2652230153_oHZD7QwOYC.y.tar.gz",
+        "censored_date": "2021-06-07 04:32:36",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
