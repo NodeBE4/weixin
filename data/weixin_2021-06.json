@@ -2677,7 +2677,7 @@
         "archive": "gh_b8e851bb117a_2021-06-04_2651728515_oZ51mBQMGu.y.tar.gz",
         "censored_date": "2021-06-06 20:28:14",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-06-05 11:58:31"
+        "update_date": "2021-06-07 10:34:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247511537&idx=1&sn=3864eb2ab824751ad06883682323417b",
@@ -2797,6 +2797,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMjE5OTYyOA==&mid=2247506002&idx=1&sn=bfbaf59b09f24b471f0b5348dbe969cd",
         "title": "清华教授：太穷不宜学法学，因为容易偏激；太富也不宜，因为缺少对苦难的理解",
+        "title_eng": "Professor Tsinghua: Too poor is not suitable for studying law, because it is easy to be radical; too rich is not suitable because of lack of understanding of suffering",
         "nickname": "今日律法评道",
         "created_at": "2021-06-07",
         "archive": "gh_0e57b0f7a611_2021-06-07_2247506002_C4sRQ0fhnA.y.tar.gz",
@@ -2806,11 +2807,72 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247497501&idx=1&sn=d09d2c18e034c11ce2f07434a4de60db",
         "title": "什么叫国宴？带你开开眼界！",
+        "title_eng": "What is a state banquet? Open your eyes!",
         "nickname": "中西ABC",
         "created_at": "2021-06-04",
         "archive": "gh_fc276be154e5_2021-06-04_2247497501_e6nCB2INTK.y.tar.gz",
         "censored_date": "2021-06-07 09:53:41",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-06-05 07:45:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653129671&idx=3&sn=fd071840e24fb463867a938ef53d8d28",
+        "title": "粽子还能这样做？可甜可咸、料多味醇！一口犹如吃了南北两地的粽子~",
+        "title_eng": "Can Zongzi do this? Can be sweet or salty, rich in flavor! One bite is like eating rice dumplings from the north and the south~",
+        "nickname": "拾文化",
+        "created_at": "2021-06-03",
+        "archive": "gh_f65867e77e76_2021-06-03_2653129671_PyiADTYbzg.y.tar.gz",
+        "censored_date": "2021-06-07 10:30:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247503120&idx=3&sn=88204f3b5f929e3dd4950b4835e41df8",
+        "title": "台湾疫情大爆发，有患者被迫在家等死，台湾同胞绝望求助：“祖国，救救我们”！",
+        "title_eng": "The Taiwanese epidemic broke out. Some patients were forced to wait at home to die. Taiwan compatriots desperately asked for help: Motherland, save us!",
+        "nickname": "老板思维论",
+        "created_at": "2021-06-05",
+        "archive": "gh_69f7ba479665_2021-06-05_2247503120_YaoM43LTwX.y.tar.gz",
+        "censored_date": "2021-06-07 10:21:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247503060&idx=2&sn=7c3ca7079b37fcf414cf01b9ecd4a78c",
+        "title": "2020失业将近1年，我学会理财，赚了47万！",
+        "title_eng": "Unemployed for almost one year in 2020, I learned how to manage money and made 470,000!",
+        "nickname": "老板思维论",
+        "created_at": "2021-06-04",
+        "archive": "gh_69f7ba479665_2021-06-04_2247503060_onXJ38Esdu.y.tar.gz",
+        "censored_date": "2021-06-07 10:21:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247488232&idx=1&sn=31094f999a2ca25bb1f8662032bac5d6",
+        "title": "王振华猥亵女童案最新后续：恶人坐牢了，可我却笑不起来",
+        "title_eng": "The latest follow-up to the case of Wang Zhenhua’s molestation of a girl: the wicked person is in jail, but I can’t laugh",
+        "nickname": "首富商圈",
+        "created_at": "2021-06-05",
+        "archive": "gh_c7f9947afc98_2021-06-05_2247488232_PjLApVfDQ2.y.tar.gz",
+        "censored_date": "2021-06-07 10:17:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247488232&idx=2&sn=36fa366f32d5046fb2bcc3039286f0c4",
+        "title": "2020失业将近1年，我学会理财，赚了47万！",
+        "title_eng": "Unemployed for almost one year in 2020, I learned how to manage money and made 470,000!",
+        "nickname": "首富商圈",
+        "created_at": "2021-06-05",
+        "archive": "gh_c7f9947afc98_2021-06-05_2247488232_tANmsMQYbh.y.tar.gz",
+        "censored_date": "2021-06-07 10:16:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTg2NTU0Ng==&mid=2656622970&idx=1&sn=d11fd44eb512f0e97e3715a583a4ff55",
+        "title": "华为宣布捐赠鸿蒙",
+        "title_eng": "Huawei announces donation to Hongmeng",
+        "nickname": "21CTO",
+        "created_at": "2021-06-05",
+        "archive": "gh_12d912c54271_2021-06-05_2656622970_7tfenKCx9m.y.tar.gz",
+        "censored_date": "2021-06-07 12:23:21",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
