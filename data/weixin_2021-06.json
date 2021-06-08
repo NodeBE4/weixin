@@ -3390,7 +3390,8 @@
         "created_at": "2021-06-07",
         "archive": "gh_8508f826af1e_2021-06-07_2247487625_jho3s6IPSW.y.tar.gz",
         "censored_date": "2021-06-08 21:43:31",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-09 00:31:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650688247&idx=2&sn=71033eb460521126c3ad51be5aad1901",
@@ -3424,5 +3425,14 @@
         "censored_date": "2021-06-08 23:25:45",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-07 16:19:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDcwNjUwNQ==&mid=2676778055&idx=1&sn=23ad59ac5509645601d4b5560b3115ed",
+        "title": "中国十大传世名画之一，《汉宫春晓图》高清细赏",
+        "nickname": "中国艺术家",
+        "created_at": "2021-06-07",
+        "archive": "gh_3fbdbe5bbc36_2021-06-07_2676778055_l6hZwKjrEI.y.tar.gz",
+        "censored_date": "2021-06-09 00:44:56",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
