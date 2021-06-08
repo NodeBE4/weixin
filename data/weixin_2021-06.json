@@ -2618,7 +2618,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTI2MTg2Mg==&mid=2247520523&idx=4&sn=5b7c116a0a00da85b9bbb5a6320d6c34",
         "title": "30万黑人离开广州，本以为会离开中国，结果是“转移”到另一城市！",
-        "title_eng": "300,000 black people left Guangzhou, thinking that they would leave China, but the result was transfer to another city!",
+        "title_eng": "300,000 blacks left Guangzhou, thinking that they would leave China, but the result was transfer to another city",
         "nickname": "深度悦览",
         "created_at": "2021-06-04",
         "archive": "gh_da91e6008b7f_2021-06-04_2247520523_4pySZv2w7D.y.tar.gz",
@@ -3303,7 +3303,8 @@
         "created_at": "2021-06-07",
         "archive": "gh_6980a686f2d6_2021-06-07_2247486610_kteBdf4APn.y.tar.gz",
         "censored_date": "2021-06-08 20:18:54",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-08 22:01:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650688247&idx=1&sn=712c461db6ae6f6a52aa0fc1f0dfe66b",
@@ -3334,7 +3335,7 @@
         "archive": "gh_46052ab4e941_2021-06-07_2247508471_xfqv62wmkS.y.tar.gz",
         "censored_date": "2021-06-08 20:26:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-07 13:44:28"
+        "update_date": "2021-06-08 22:09:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjYxMTc3MQ==&mid=2247532696&idx=2&sn=bbd29bc3fdf3c052369bd9f2cc733440",
@@ -3382,6 +3383,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247487625&idx=2&sn=1884c38b18adde218a6f43c657e26b39",
         "title": "30万黑人离开广州，本以为会离开中国，结果是“转移”到另一城市",
+        "title_eng": "300,000 blacks left Guangzhou, thinking that they would leave China, but the result was transfer to another city",
         "nickname": "阅天下百事",
         "created_at": "2021-06-07",
         "archive": "gh_8508f826af1e_2021-06-07_2247487625_jho3s6IPSW.y.tar.gz",
@@ -3398,5 +3400,16 @@
         "censored_date": "2021-06-08 20:54:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-07 14:10:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247487468&idx=2&sn=a4cbf219a3c9a4f466971f3b97c25bad",
+        "title": "30万黑人离开广州，本以为会离开中国，结果是“转移”到另一城市",
+        "title_eng": "300,000 blacks left Guangzhou, thinking that they would leave China, but the result was transfer to another city",
+        "nickname": "实事聚焦",
+        "created_at": "2021-06-07",
+        "archive": "gh_28a27f6c0472_2021-06-07_2247487468_3i4TRAFy2b.y.tar.gz",
+        "censored_date": "2021-06-08 22:10:24",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-07 13:49:16"
     }
 ]
