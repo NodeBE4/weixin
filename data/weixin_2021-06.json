@@ -3292,7 +3292,8 @@
         "created_at": "2021-06-07",
         "archive": "gh_f3d76544f0bb_2021-06-07_2654141238_U8QfYa9Xl0.y.tar.gz",
         "censored_date": "2021-06-08 19:51:03",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-08 21:06:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDUwNTkzMA==&mid=2247486610&idx=1&sn=7e0ec430dc29d334abb742321d199e7e",
@@ -3307,6 +3308,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650688247&idx=1&sn=712c461db6ae6f6a52aa0fc1f0dfe66b",
         "title": "2021年1078万学子赶考！这些国外大学还可以用高考成绩直接申请！",
+        "title_eng": "10.78 million students rush to take the exam in 2021! These foreign universities can also apply directly with the college entrance examination results!",
         "nickname": "易居海外房产",
         "created_at": "2021-06-07",
         "archive": "gh_8f16c463efc8_2021-06-07_2650688247_TxJ1YnPloO.y.tar.gz",
@@ -3316,6 +3318,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650688220&idx=2&sn=80f9b2ab19a1482338ab130eb0c2d10a",
         "title": "东京池袋府邸准现房，200万起可贷款，利率低至2.7%！",
+        "title_eng": "Quasi-existing houses in Tokyo's Ikebukuro Mansion, available for loans starting from 2 million, with interest rates as low as 2.7%!",
         "nickname": "易居海外房产",
         "created_at": "2021-06-06",
         "archive": "gh_8f16c463efc8_2021-06-06_2650688220_QxL3pWHBZ7.y.tar.gz",
@@ -3362,7 +3365,8 @@
         "created_at": "2021-06-07",
         "archive": "wxid_7620846208112_2021-06-07_2655686457_5M0V4gqANQ.y.tar.gz",
         "censored_date": "2021-06-08 19:49:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-08 21:05:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489911&idx=2&sn=a39c4d05527502846616432f9d51766e",
@@ -3374,5 +3378,25 @@
         "censored_date": "2021-06-08 19:35:51",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-08 20:37:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247487625&idx=2&sn=1884c38b18adde218a6f43c657e26b39",
+        "title": "30万黑人离开广州，本以为会离开中国，结果是“转移”到另一城市",
+        "nickname": "阅天下百事",
+        "created_at": "2021-06-07",
+        "archive": "gh_8508f826af1e_2021-06-07_2247487625_jho3s6IPSW.y.tar.gz",
+        "censored_date": "2021-06-08 21:43:31",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650688247&idx=2&sn=71033eb460521126c3ad51be5aad1901",
+        "title": "大阪道顿福居，徒步道顿堀商圈，现房持牌民宿",
+        "title_eng": "Dotonbori, Osaka, walk to the Dotonbori business district, an existing licensed guest house",
+        "nickname": "易居海外房产",
+        "created_at": "2021-06-07",
+        "archive": "gh_8f16c463efc8_2021-06-07_2650688247_6PU2dTDJqt.y.tar.gz",
+        "censored_date": "2021-06-08 20:54:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-07 14:10:42"
     }
 ]
