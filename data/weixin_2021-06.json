@@ -3249,7 +3249,8 @@
         "created_at": "2021-06-08",
         "archive": "gh_bd529b32c7be_2021-06-08_2649424040_XhKRUAQHoG.y.tar.gz",
         "censored_date": "2021-06-08 16:17:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-08 18:57:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653291333&idx=1&sn=0cf28ca4c9ccbed49e1fa91378ddff31",
@@ -3272,5 +3273,15 @@
         "censored_date": "2021-06-08 18:18:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-07 08:20:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2247825212&idx=1&sn=293f22f7de0b4db98a68b1f05b4df107",
+        "title": "华为又有大动作！投资芯片光刻机公司，同时还已捐献鸿蒙全部基础能力，全面开源！",
+        "title_eng": "Huawei has another big move! Invested in a chip lithography company, and at the same time has donated all the basic capabilities of Hongmeng, fully open source!",
+        "nickname": "每日经济新闻",
+        "created_at": "2021-06-07",
+        "archive": "gh_2424e6d48203_2021-06-07_2247825212_mzv8BroOkq.y.tar.gz",
+        "censored_date": "2021-06-08 19:22:12",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
