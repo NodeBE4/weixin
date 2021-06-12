@@ -4356,6 +4356,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652738287&idx=2&sn=8e6936dd8f48ff72156dd5e2cb8076fd",
         "title": "没想到吧？她也要“去油”...",
+        "title_eng": "Didn't expect it? She wants to go oil...",
         "nickname": "8号风曝",
         "created_at": "2021-06-09",
         "archive": "gh_a0404706a1d9_2021-06-09_2652738287_8xsHLcEoYF.y.tar.gz",
@@ -4372,5 +4373,25 @@
         "censored_date": "2021-06-12 16:56:06",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-12 00:38:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652118993&idx=1&sn=ad66045fbef8cc079e3dfaa130f0c5c5",
+        "title": "上海传来大消息、全世界都沉默了…",
+        "title_eng": "There was big news from Shanghai, and the whole world was silent...",
+        "nickname": "小肖说世界",
+        "created_at": "2021-06-10",
+        "archive": "gh_4b9b0448fa81_2021-06-10_2652118993_4swJtFfuLz.y.tar.gz",
+        "censored_date": "2021-06-12 17:53:15",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247489942&idx=7&sn=158de3502c00015dde225041137bdda4",
+        "title": "一段好话！",
+        "title_eng": "A good thing!",
+        "nickname": "世纪观察",
+        "created_at": "2021-06-11",
+        "archive": "gh_26762a56c129_2021-06-11_2247489942_3PEgKJZiOR.y.tar.gz",
+        "censored_date": "2021-06-12 18:08:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
