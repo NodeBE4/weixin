@@ -4336,10 +4336,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjYwODYwMQ==&mid=2651585903&idx=2&sn=d12a81f352e140778e5be2705d7b5655",
         "title": "宁波新增无症状感染者1例",
+        "title_eng": "A new case of asymptomatic infection in Ningbo",
         "nickname": "现代金报",
         "created_at": "2021-06-12",
         "archive": "gh_ed9d60f242ac_2021-06-12_2651585903_0BWUxznHFe.y.tar.gz",
         "censored_date": "2021-06-12 15:25:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDI2MTkxMQ==&mid=2649631189&idx=1&sn=e3261fe72a0d6d3fbd7906f0fe1f688c",
+        "title": "重磅福利，史无前例，速度进！",
+        "title_eng": "Heavy benefits, unprecedented, speed ahead!",
+        "nickname": "凤羽财经",
+        "created_at": "2021-06-10",
+        "archive": "gh_d2e34f79fa6b_2021-06-10_2649631189_TzxBVX0UIh.y.tar.gz",
+        "censored_date": "2021-06-12 16:09:38",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
