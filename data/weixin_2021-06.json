@@ -4075,7 +4075,8 @@
         "created_at": "2021-06-11",
         "archive": "gh_3c3083a27d8e_2021-06-11_2247523148_b0csQdVOKY.y.tar.gz",
         "censored_date": "2021-06-11 19:16:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-13 11:07:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDI3Mzc0MA==&mid=2651882537&idx=1&sn=9dc50bda7dcf4ca598f5c30fc7c419e6",
@@ -4588,5 +4589,16 @@
         "archive": "gh_997758c7ed25_2021-06-13_2247518368_szy7Y4mNbp.y.tar.gz",
         "censored_date": "2021-06-13 09:57:34",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247530797&idx=1&sn=e0edd72a4ae8f14f5536bf92b0f062f2",
+        "title": "自述：我的学弟姜文华博士 !",
+        "title_eng": "Readme: My younger brother, Dr. Jiang Wenhua!",
+        "nickname": "魏雅华",
+        "created_at": "2021-06-11",
+        "archive": "gh_d965d8fa0c72_2021-06-11_2247530797_G6yr49Q0pB.y.tar.gz",
+        "censored_date": "2021-06-13 11:20:15",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-11 11:11:11"
     }
 ]
