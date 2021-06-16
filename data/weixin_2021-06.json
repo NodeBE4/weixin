@@ -5405,6 +5405,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650881969&idx=3&sn=38a05a60236da437c45e850c14b178b9",
         "title": "刚刚，新疆第七次全国人口普查数据公布！乌鲁木齐及各地州市人口变化如下！",
+        "title_eng": "Just now, Xinjiang’s seventh national census data was released! The population changes in Urumqi and other prefectures are as follows!",
         "nickname": "新疆新发现",
         "created_at": "2021-06-14",
         "archive": "gh_be938204fcfa_2021-06-14_2650881969_Bsv6p9OmHj.y.tar.gz",
@@ -5415,6 +5416,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247526751&idx=2&sn=87fff2c34eb303131522c8d5c01a7a3a",
         "title": "单身想找另一半，但身边又没合适的？上余生幸福吧！",
+        "title_eng": "Single want to find a partner, but there is no suitable one by his side? Be happy for the rest of your life!",
         "nickname": "今读史",
         "created_at": "2021-06-15",
         "archive": "gh_5e008ceefb25_2021-06-15_2247526751_nuFq1AkB95.y.tar.gz",
@@ -5424,10 +5426,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzg0NDIzNg==&mid=2655130505&idx=4&sn=dcdaf8d75ec6b9278f7250eb3a9f8d38",
         "title": "【听张家界人自己的歌】李慈庸：我在山上放声唱",
+        "title_eng": "[Listen to Zhangjiajie’s own song] Li Ciyong: I sing aloud on the mountain",
         "nickname": "掌上张家界",
         "created_at": "2021-06-15",
         "archive": "gh_7ce7fa0b919e_2021-06-15_2655130505_hu93qXW7vU.y.tar.gz",
         "censored_date": "2021-06-17 04:56:42",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651348185&idx=4&sn=1cac5076b56ff4511c0a943e7018021d",
+        "title": "任务来了：党员 干部落实“三孩”政策 、要起带头作用",
+        "title_eng": "The task is here: Party members and cadres must take the lead in implementing the three-child policy",
+        "nickname": "百姓关注话题",
+        "created_at": "2021-06-15",
+        "archive": "gh_a0b79e79b274_2021-06-15_2651348185_240bgfEX8Q.y.tar.gz",
+        "censored_date": "2021-06-17 06:28:38",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
