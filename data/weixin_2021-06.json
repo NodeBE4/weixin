@@ -5599,7 +5599,7 @@
         "archive": "gh_fe6bb4bdd14d_2021-06-16_2247490444_WwS6z0gOuK.y.tar.gz",
         "censored_date": "2021-06-17 18:44:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-16 13:02:57"
+        "update_date": "2021-06-18 01:23:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247503610&idx=3&sn=009666cd11304bd456a05c6380a78f7e",
@@ -5759,5 +5759,25 @@
         "censored_date": "2021-06-18 00:43:43",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-06-16 08:37:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247493228&idx=3&sn=57ff77f416a9e50bf44a67ffb50350d8",
+        "title": "张五常：评复旦姜文华事件",
+        "title_eng": "Zhang Wuchang: Comment on the Fudan Jiang Wenhua Incident",
+        "nickname": "独眼辣评",
+        "created_at": "2021-06-15",
+        "archive": "gh_0e52cf0e55c4_2021-06-15_2247493228_Sxi19nogv0.y.tar.gz",
+        "censored_date": "2021-06-18 01:15:19",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652216838&idx=1&sn=6c6323c251e871caec32a350b942be74",
+        "title": "复旦大学为遇害学院党委书记募捐：农村双亲唯一儿子",
+        "title_eng": "Fudan University collects donations for the party secretary of the murdered college: the only son of the rural parents",
+        "nickname": "大千世界",
+        "created_at": "2021-06-16",
+        "archive": "gh_a517719487ef_2021-06-16_2652216838_0vIeKAE5iF.y.tar.gz",
+        "censored_date": "2021-06-18 01:18:55",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
