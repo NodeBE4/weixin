@@ -5148,7 +5148,8 @@
         "created_at": "2021-06-15",
         "archive": "gh_63ac0d780c3a_2021-06-15_2650092935_8qulOKMgxj.y.tar.gz",
         "censored_date": "2021-06-16 01:54:50",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-17 23:33:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493163&idx=5&sn=90ac4306700a16a605764fb76cff1bba",
@@ -5715,5 +5716,16 @@
         "archive": "gh_1137e6936d9f_2021-06-16_2660467387_zuK9jCTHto.y.tar.gz",
         "censored_date": "2021-06-17 22:13:11",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247503560&idx=3&sn=7365503d39c325252085075ea8ec539d",
+        "title": "中国最牛夫妻 2500亿身价！一人一家上市巨头公司……",
+        "title_eng": "The most powerful couple in China worth 250 billion yuan! One person, one listed giant company...",
+        "nickname": "老板思维论",
+        "created_at": "2021-06-14",
+        "archive": "gh_69f7ba479665_2021-06-14_2247503560_KqjPSXnkg0.y.tar.gz",
+        "censored_date": "2021-06-17 23:28:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-16 01:33:56"
     }
 ]
