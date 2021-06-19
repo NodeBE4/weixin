@@ -6053,7 +6053,8 @@
         "created_at": "2021-06-17",
         "archive": "gh_00aa5c03743f_2021-06-17_2247614029_jMR6clZTzy.y.tar.gz",
         "censored_date": "2021-06-19 08:27:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-19 19:27:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247596285&idx=2&sn=d1e8e72e854a359c3d8c594aa119a2e9",
@@ -6165,7 +6166,8 @@
         "created_at": "2021-06-19",
         "archive": "gh_00aa5c03743f_2021-06-19_2247614253_xmAuKi0IEs.y.tar.gz",
         "censored_date": "2021-06-19 17:33:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-19 20:08:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649810435&idx=1&sn=bf30075236e46a98469ab83e4b1fea9f",
@@ -6186,5 +6188,16 @@
         "archive": "gh_8492bb8e8be7_2021-06-17_2653225016_zMqVF4XsBk.y.tar.gz",
         "censored_date": "2021-06-19 18:48:29",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494300&idx=2&sn=1b7fd16a923ec3281a1aa2ac2ee64d78",
+        "title": "震惊！辉瑞前副总发声：西方基因疫苗风险巨大，远不如中国灭活疫苗安全！",
+        "title_eng": "Shock! The former vice president of Pfizer said: Western genetic vaccines have huge risks and are far less safe than China's inactivated vaccines!",
+        "nickname": "北斗局",
+        "created_at": "2021-06-17",
+        "archive": "gh_ccf6a72b140a_2021-06-17_2247494300_EeZHyMdJnw.y.tar.gz",
+        "censored_date": "2021-06-19 20:26:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-18 13:19:33"
     }
 ]
