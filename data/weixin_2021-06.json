@@ -6137,7 +6137,8 @@
         "created_at": "2021-06-19",
         "archive": "gh_d8ee703d4de1_2021-06-19_2247572096_Alxy6Ucs8Q.y.tar.gz",
         "censored_date": "2021-06-19 14:51:04",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-20 22:56:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODQwODAxMw==&mid=2247502864&idx=2&sn=920a00791699bb8074530f23a75aaa69",
@@ -6390,5 +6391,15 @@
         "censored_date": "2021-06-20 19:57:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-19 01:29:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653622890&idx=2&sn=9648fa821fdf9a9a612f46014742c27b",
+        "title": "【每日杂图】太可怕了，有谁知道是怎么回事吗？",
+        "title_eng": "[Daily Miscellaneous Pictures] It's terrible, does anyone know what's going on?",
+        "nickname": "简笔笑画",
+        "created_at": "2021-06-18",
+        "archive": "gh_c364747d22d0_2021-06-18_2653622890_qNva7S4uXc.y.tar.gz",
+        "censored_date": "2021-06-20 22:40:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
