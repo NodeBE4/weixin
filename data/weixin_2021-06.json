@@ -6791,6 +6791,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247517593&idx=5&sn=14f10db8d88aaffe3fe05d0b06813f45",
         "title": "不做人肉过滤器！瑞士6重超精过滤，一天不到2毛钱，让你每天喝上健康水",
+        "title_eng": "Don't be a human filter! Swiss 6-fold ultra-precision filtration, less than 2 cents a day, allows you to drink healthy water every day",
         "nickname": "难得视界",
         "created_at": "2021-06-20",
         "archive": "gh_1c6cefeca9ab_2021-06-20_2247517593_vZsOAgo20b.y.tar.gz",
@@ -6801,10 +6802,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247496986&idx=1&sn=6070717c796536a0a37100769b451a6f",
         "title": "躺平主义：历史、现实、真相",
+        "title_eng": "Lily flatism: history, reality, truth",
         "nickname": "毛有话说",
         "created_at": "2021-06-22",
         "archive": "gh_097268c5ef0e_2021-06-22_2247496986_Lqzu6WYGXs.y.tar.gz",
         "censored_date": "2021-06-23 02:47:48",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247517620&idx=3&sn=d2b520930d29f5c597bb2b3bcf7fd278",
+        "title": "南柯一梦",
+        "nickname": "难得视界",
+        "created_at": "2021-06-21",
+        "archive": "gh_1c6cefeca9ab_2021-06-21_2247517620_90Bu65acx4.y.tar.gz",
+        "censored_date": "2021-06-23 03:48:49",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
