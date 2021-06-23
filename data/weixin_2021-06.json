@@ -6808,7 +6808,8 @@
         "created_at": "2021-06-22",
         "archive": "gh_097268c5ef0e_2021-06-22_2247496986_Lqzu6WYGXs.y.tar.gz",
         "censored_date": "2021-06-23 02:47:48",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-23 19:49:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247517620&idx=3&sn=d2b520930d29f5c597bb2b3bcf7fd278",
@@ -6919,11 +6920,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247524046&idx=3&sn=b93410b6d7497079c785ec1047c96f4b",
         "title": "人大经济学院院长刘守英毕业致辞：你无法平躺，也躺平不了，你躺着可能会饿死，你躺着可能会被踩过去",
+        "title_eng": "Liu Shouying, Dean of the School of Economics of the National People’s University of China’s graduation speech: You can’t lie flat, nor can you lie flat, you may starve to death when you lie, and you may be stepped on",
         "nickname": "经济学家圈",
         "created_at": "2021-06-22",
         "archive": "gh_358c7d1e341c_2021-06-22_2247524046_D1zjvMc2lp.y.tar.gz",
         "censored_date": "2021-06-23 18:54:16",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-22 19:57:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652343335&idx=1&sn=8cb19cb3e670f2ae65e8e65ee2422b52",
+        "title": "预告|高考分数线明天公布，锁定广西新闻频道第一时间见证“揭榜”",
+        "title_eng": "Preview|The score line of the college entrance examination will be announced tomorrow, and the Guangxi News Channel will be the first to witness the revealing of the list",
+        "nickname": "广西新闻频道",
+        "created_at": "2021-06-22",
+        "archive": "gh_002f84048bd4_2021-06-22_2652343335_8UsDQH2FAp.y.tar.gz",
+        "censored_date": "2021-06-23 20:24:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NzEyODIzMA==&mid=2650732128&idx=4&sn=e391f6f5d719e480ffc74e02d28cd39f",
+        "title": "شۇعىلا جۋرنالىنىڭ پارتيا تاريحىن ۇيرەنۋ اڭگىمە ٴماجىلىسى ٴوتتى",
+        "title_eng": "شۇعىلا جۋرنالىنىڭ پارتيا تاريحىن ۇيرەنۋ اڭگىمە ٴماجىلىسى ٴوتتى",
+        "nickname": "中国哈萨克语广播CNR",
+        "created_at": "2021-06-23",
+        "archive": "gh_2c66021e3930_2021-06-23_2650732128_pib8mywOWf.y.tar.gz",
+        "censored_date": "2021-06-23 20:07:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
