@@ -7275,6 +7275,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649492266&idx=1&sn=d03ce96fd459e47f5e856d73b9c4d30d",
         "title": "为了这件大事，南京立法了！",
+        "title_eng": "For this major event, Nanjing has legislated!",
         "nickname": "南京发布",
         "created_at": "2021-06-24",
         "archive": "gh_843e358b0214_2021-06-24_2649492266_A1usZnzJeo.y.tar.gz",
@@ -7284,10 +7285,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MDIzOTg3NA==&mid=2247518415&idx=1&sn=350c91837d3712f63afecf4decc8a3d7",
         "title": "玉田县组织新党员代表集中开展入党宣誓活动",
+        "title_eng": "Yutian County organizes representatives of new party members to carry out the oath of joining the party",
         "nickname": "玉田党建",
         "created_at": "2021-06-24",
         "archive": "gh_6706110bf630_2021-06-24_2247518415_bRLpGY5rEd.y.tar.gz",
         "censored_date": "2021-06-24 22:21:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-24 23:30:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247513877&idx=1&sn=e01c6347e3cf8125a5d54d906831a943",
+        "title": "重要通知！本批次仅招50人！新疆名校招收在职研究生，现在还可申请高额助学金，名额有限，先到先得！",
+        "title_eng": "important Notice! Only 50 people will be recruited in this batch! Xinjiang prestigious schools recruit in-service graduate students, and now they can also apply for high bursaries, the places are limited, first come first served!",
+        "nickname": "西域都护",
+        "created_at": "2021-06-23",
+        "archive": "gh_5023d7e73573_2021-06-23_2247513877_9mDzsENpSt.y.tar.gz",
+        "censored_date": "2021-06-24 22:49:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-23 12:43:04"
     }
 ]
