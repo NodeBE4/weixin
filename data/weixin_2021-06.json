@@ -7372,6 +7372,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247583238&idx=4&sn=c3be1c6e1942772cc35c5c3f6ddde759",
         "title": "中科院发布国产RISC-V处理器“香山”，已成功运行Linux，7月流片",
+        "title_eng": "Chinese Academy of Sciences released the domestic RISC-V processor Xiangshan, which has successfully run Linux, and will be released in July",
         "nickname": "量子位",
         "created_at": "2021-06-23",
         "archive": "gh_114e76fd6e5d_2021-06-23_2247583238_72ZrPpiTof.y.tar.gz",
@@ -7382,10 +7383,12 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjUzNTg4Mw==&mid=2695170509&idx=5&sn=8e0dd69581535138f5ca46638861cf80",
         "title": "这里被称为“将帅的摇篮”，走出大批共和国将帅人才",
+        "title_eng": "This place is called the cradle of generals, out of a large number of generals and talents of the Republic",
         "nickname": "广东新闻广播",
         "created_at": "2021-06-23",
         "archive": "gh_a97b18e263f8_2021-06-23_2695170509_cxCFh0dZyO.y.tar.gz",
         "censored_date": "2021-06-25 03:01:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-25 04:07:01"
     }
 ]
