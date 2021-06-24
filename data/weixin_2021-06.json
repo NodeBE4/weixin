@@ -6876,7 +6876,7 @@
         "archive": "gh_45220e40f13c_2021-06-22_2650059376_ITWk8Scmge.y.tar.gz",
         "censored_date": "2021-06-23 12:43:54",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-22 20:31:39"
+        "update_date": "2021-06-25 02:00:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655796799&idx=1&sn=9378c2317bccf2809c6bbdcb3785fdb3",
@@ -7357,5 +7357,26 @@
         "archive": "gh_430d84f19d48_2021-06-24_2653279959_xPL03y7Qbs.y.tar.gz",
         "censored_date": "2021-06-25 01:17:59",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODIzODM1OA==&mid=2651076693&idx=2&sn=e63755b5e4e33d1ebb0fd8854ed79ba3",
+        "title": "刚刚，广东这些个人和集体受到全省表彰！",
+        "title_eng": "Just now, these individuals and collectives in Guangdong have been commended by the whole province!",
+        "nickname": "南方杂志",
+        "created_at": "2021-06-23",
+        "archive": "gh_586f6633228e_2021-06-23_2651076693_H3Wig00cYl.y.tar.gz",
+        "censored_date": "2021-06-25 01:45:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-23 15:32:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247583238&idx=4&sn=c3be1c6e1942772cc35c5c3f6ddde759",
+        "title": "中科院发布国产RISC-V处理器“香山”，已成功运行Linux，7月流片",
+        "nickname": "量子位",
+        "created_at": "2021-06-23",
+        "archive": "gh_114e76fd6e5d_2021-06-23_2247583238_72ZrPpiTof.y.tar.gz",
+        "censored_date": "2021-06-25 02:34:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-23 17:26:28"
     }
 ]
