@@ -7700,6 +7700,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247517641&idx=1&sn=dd7f50fbed5b591ef8f5b478dbda265a",
         "title": "燕山大学教授称已推翻爱因斯坦相对论 项目被推荐入选河北科学技术奖",
+        "title_eng": "Professor of Yanshan University said he had overturned Einstein's theory of relativity, and the project was recommended for the Hebei Science and Technology Award",
         "nickname": "难得视界",
         "created_at": "2021-06-22",
         "archive": "gh_1c6cefeca9ab_2021-06-22_2247517641_wWfF5lGLEu.y.tar.gz",
@@ -7710,6 +7711,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MjY2NTQ1OQ==&mid=2247501106&idx=4&sn=88328cf994ace5b0db1e3eb4f3237eba",
         "title": "清华大学成美国人才基地？这几个公费留学的清华大学高材生，却剑指祖国成美国棋子！",
+        "title_eng": "Is Tsinghua University a talent base in the United States? These few high-achieving students from Tsinghua University who have studied at public funds have turned their swords at the motherland into American pawns!",
         "nickname": "环球看热闹",
         "created_at": "2021-06-22",
         "archive": "gh_6897b8d2258f_2021-06-22_2247501106_aS3kGV9c5y.y.tar.gz",
@@ -7720,10 +7722,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247509885&idx=2&sn=2d720ea1049106279b24c62e04f0c0e8",
         "title": "艺术史上的“最美裸体”，被无数大师宠爱！",
+        "title_eng": "The most beautiful nude in the history of art has been loved by countless masters!",
         "nickname": "微思时代",
         "created_at": "2021-06-25",
         "archive": "gh_b28632ea9ab2_2021-06-25_2247509885_q0ZnDglUJt.y.tar.gz",
         "censored_date": "2021-06-25 19:06:22",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652031934&idx=1&sn=a93b780515dfb004160904b90294911a",
+        "title": "成本500！标价10000，翡翠产业背后不为人知的秘密你知道吗？",
+        "title_eng": "Cost 500! Priced at 10,000, do you know the secret behind the jade industry?",
+        "nickname": "米尔看天下",
+        "created_at": "2021-06-21",
+        "archive": "gh_e06f5843f7ac_2021-06-21_2652031934_EdJkMZ9Bp0.y.tar.gz",
+        "censored_date": "2021-06-25 19:25:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-22 23:09:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzAyMzM2MA==&mid=2650646064&idx=1&sn=c48d8ec51ac12d4726b2bd3c61589895",
+        "title": "一夜暴涨28例！悉尼疫情升级！多名神秘病例出现，感染源查不到！卫生部长都中招了！这波病毒太猛，华人务必范防！",
+        "title_eng": "28 cases skyrocketed overnight! The Sydney epidemic is escalating! A number of mysterious cases appeared, and the source of infection could not be found! The Minister of Health has been recruited! This wave of viruses is too fierce, the Chinese must take precautions!",
+        "nickname": "微悉尼",
+        "created_at": "2021-06-24",
+        "archive": "gh_ce418127869a_2021-06-24_2650646064_lLFVTuIDAH.y.tar.gz",
+        "censored_date": "2021-06-25 20:24:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
