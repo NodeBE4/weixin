@@ -7224,7 +7224,8 @@
         "created_at": "2021-06-24",
         "archive": "gh_1792a2f1e62b_2021-06-24_2650730296_5nCM2vUA41.y.tar.gz",
         "censored_date": "2021-06-24 16:48:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-26 04:01:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDc0MTMzNw==&mid=2652831195&idx=1&sn=d8490ebef08aca578dcf2ceee6a1d28d",
@@ -7267,7 +7268,7 @@
         "archive": "gh_d2ea373c0118_2021-06-24_2667515689_juWvHU5F8L.y.tar.gz",
         "censored_date": "2021-06-24 20:37:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-24 20:51:57"
+        "update_date": "2021-06-26 04:25:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651409867&idx=1&sn=7c9a36bafb422c73193c7963048a745d",
@@ -7289,7 +7290,7 @@
         "archive": "gh_843e358b0214_2021-06-24_2649492266_A1usZnzJeo.y.tar.gz",
         "censored_date": "2021-06-24 21:40:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-26 01:59:06"
+        "update_date": "2021-06-26 03:24:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MDIzOTg3NA==&mid=2247518415&idx=1&sn=350c91837d3712f63afecf4decc8a3d7",
@@ -7776,10 +7777,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDcwMjAwMA==&mid=2247568775&idx=4&sn=70c495578a04ed971f89fb5c606e0973",
         "title": "揭秘FOMO投资潮",
+        "title_eng": "Demystifying the FOMO investment wave",
         "nickname": "商业周刊中文版",
         "created_at": "2021-06-23",
         "archive": "gh_c327186111f5_2021-06-23_2247568775_Kl4BZCFusy.y.tar.gz",
         "censored_date": "2021-06-26 02:41:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-26 03:42:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652031966&idx=4&sn=15f56853527425c83d6662b3cd5ed850",
+        "title": "牛仔裤out了！今年夏天流行这条裤子，冰爽藏肉又时髦！",
+        "nickname": "米尔看天下",
+        "created_at": "2021-06-23",
+        "archive": "gh_e06f5843f7ac_2021-06-23_2652031966_oGYrp1x2nB.y.tar.gz",
+        "censored_date": "2021-06-26 04:22:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-24 23:34:36"
     }
 ]
