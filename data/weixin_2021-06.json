@@ -7921,6 +7921,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650883143&idx=7&sn=bbcba3740e654e5b1ee0bef869cb7d49",
         "title": "白彦虎是民族英雄，还是民族败类？是谁在替白彦虎洗白？",
+        "title_eng": "Is Bai Yanhu a national hero or a national scum? Who is doing the whitewashing for Bai Yanhu?",
         "nickname": "新疆新发现",
         "created_at": "2021-06-23",
         "archive": "gh_be938204fcfa_2021-06-23_2650883143_bD4x7SJrPE.y.tar.gz",
@@ -7931,6 +7932,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649811502&idx=1&sn=5bc10d6257fac06cd8615fdf03f42107",
         "title": "一次性把古琴讲清楚(建议收藏)",
+        "title_eng": "Explain the guqin clearly at one time",
         "nickname": "华哥读报",
         "created_at": "2021-06-24",
         "archive": "gh_7a402e27f818_2021-06-24_2649811502_txhPVkFdLr.y.tar.gz",
@@ -7941,6 +7943,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247570337&idx=1&sn=31a7c19fa568ad84683a2fca4c731031",
         "title": "无愧新时代",
+        "title_eng": "Worthy of the new era",
         "nickname": "吉安发布",
         "created_at": "2021-06-26",
         "archive": "gh_dc5fb6fdb9c6_2021-06-26_2247570337_LAZVQbBwRj.y.tar.gz",
@@ -7951,6 +7954,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDI4MzAzNQ==&mid=2652237224&idx=1&sn=827fdc0e866424b84a1e289062cc82eb",
         "title": "提个醒：营养是鸡蛋的14倍，是牛奶的7.5倍，夏天多喝，增强免疫力！全家受益！",
+        "title_eng": "A reminder: The nutrition is 14 times that of eggs and 7.5 times that of milk. Drink more in summer to enhance immunity! The whole family benefits!",
         "nickname": "坦腹斋",
         "created_at": "2021-06-25",
         "archive": "gh_a53dbc2e04b7_2021-06-25_2652237224_tKCYWad7AN.y.tar.gz",
@@ -7961,10 +7965,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649811340&idx=1&sn=0362bf6ec4afb59bb93daacce8d31547",
         "title": "重磅！国内传来大消息，一场大变局即将来临，令无数人彻夜无眠！",
+        "title_eng": "Heavy! There is big news from the country, a big change is about to come, leaving countless people sleepless all night!",
         "nickname": "华哥读报",
         "created_at": "2021-06-23",
         "archive": "gh_7a402e27f818_2021-06-23_2649811340_yqPIe492Ob.y.tar.gz",
         "censored_date": "2021-06-26 14:56:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTExOTQ5Mw==&mid=2650184838&idx=1&sn=f1fbe656aa9cf3af5fbe07a4abc97fb3",
+        "title": "市领导深入古田县调研党支部领办合作社工作",
+        "title_eng": "City leaders went to Gutian County to investigate the party branch and lead the work of cooperatives",
+        "nickname": "古田发布",
+        "created_at": "2021-06-26",
+        "archive": "gh_a40ec5f3ac7a_2021-06-26_2650184838_JZrWs5GcOS.y.tar.gz",
+        "censored_date": "2021-06-26 15:49:25",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
