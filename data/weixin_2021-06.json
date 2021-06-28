@@ -8437,7 +8437,8 @@
         "created_at": "2021-06-27",
         "archive": "gh_26762a56c129_2021-06-27_2247490021_wvFuaD4Ge6.y.tar.gz",
         "censored_date": "2021-06-28 09:59:53",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-28 13:53:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1MjM4NTg2Mw==&mid=2247520112&idx=1&sn=5db70057e5292819c5e6d811a7e68e52",
@@ -8485,6 +8486,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzM3NjAyNQ==&mid=2653307740&idx=1&sn=9e1c9464b727b7636ba426f1bc7ef7b6",
         "title": "什么是加有亮宝？公众号改版声明",
+        "title_eng": "What is Jiayou Liangbao? Official account revision statement",
         "nickname": "加有亮宝",
         "created_at": "2021-04-25",
         "archive": "gh_e50feced4988_2021-04-25_2653307740_ul4w9vSqd5.y.tar.gz",
@@ -8495,10 +8497,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjE4NzUyNQ==&mid=2651037285&idx=1&sn=d1f22111893d9f915bb73a4c2fdefc1e",
         "title": "崔永元向范冰冰徐帆等三个女人道歉",
+        "title_eng": "Cui Yongyuan apologized to Fan Bingbing and Xu Fan and other three women",
         "nickname": "鸟叔看天下",
         "created_at": "2021-06-28",
         "archive": "gh_40ebcc8bfe58_2021-06-28_2651037285_aCAnfoLI2R.y.tar.gz",
         "censored_date": "2021-06-28 12:52:42",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjcxNzkwNA==&mid=2247490469&idx=4&sn=b4841c6bc58890c2b7717be6aafaa716",
+        "title": "中国正式向“教育双轨制”宣战",
+        "title_eng": "China officially declares war on the dual-track education system",
+        "nickname": "海外独立频道",
+        "created_at": "2021-06-25",
+        "archive": "gh_fe6bb4bdd14d_2021-06-25_2247490469_AhoyRQSqMv.y.tar.gz",
+        "censored_date": "2021-06-28 13:51:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-27 14:14:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4MjMwNjUxMA==&mid=2247507780&idx=2&sn=409bc259d657f71ba6205993fde5abd8",
+        "title": "越优秀的人，越会理财",
+        "nickname": "少数派悦读",
+        "created_at": "2021-06-27",
+        "archive": "gh_91d203bd2a8d_2021-06-27_2247507780_Yfb6np7hZD.y.tar.gz",
+        "censored_date": "2021-06-28 14:32:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-27 15:09:08"
     }
 ]
