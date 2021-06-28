@@ -8236,7 +8236,8 @@
         "created_at": "2021-06-27",
         "archive": "gh_70adee9aa9f7_2021-06-27_2660287993_X08jVmuaUb.y.tar.gz",
         "censored_date": "2021-06-27 14:50:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-28 17:21:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjA3OTkzNw==&mid=2650368646&idx=6&sn=1b55812ac1d7623672703c57f61449c8",
@@ -8289,7 +8290,8 @@
         "created_at": "2021-06-25",
         "archive": "gh_1aecabdf0add_2021-06-25_2247519821_AMivYBn49N.y.tar.gz",
         "censored_date": "2021-06-27 21:11:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-06-28 16:51:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247519849&idx=1&sn=53077234b65028740d7ea0853914b0c2",
@@ -8547,5 +8549,16 @@
         "censored_date": "2021-06-28 14:40:43",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-06-28 13:13:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490277&idx=2&sn=5750fc67d0a75a822cd96897e11aac71",
+        "title": "遭人大师生强烈反对，人大聘任3天闪电解聘，司马南成史上最短命教授！",
+        "title_eng": "Strongly opposed by masters and students, the National People's Congress appointed three days lightning dismissal, Sima Nan became the shortest-lived professor in history!",
+        "nickname": "江南隐士",
+        "created_at": "2021-06-27",
+        "archive": "gh_65f5271d2a21_2021-06-27_2247490277_NGWlOgswZK.y.tar.gz",
+        "censored_date": "2021-06-28 17:27:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-27 18:09:12"
     }
 ]
