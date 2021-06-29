@@ -8564,7 +8564,7 @@
         "archive": "gh_65f5271d2a21_2021-06-27_2247490277_NGWlOgswZK.y.tar.gz",
         "censored_date": "2021-06-28 17:27:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-27 18:09:12"
+        "update_date": "2021-06-30 04:50:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491743&idx=2&sn=3d85f12e85f65b1d907e65e4d2564df0",
@@ -8607,7 +8607,8 @@
         "created_at": "2021-06-26",
         "archive": "gh_34471e1f4b56_2021-06-26_2653060855_BDZJxpLvr4.y.tar.gz",
         "censored_date": "2021-06-29 00:16:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-30 04:28:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514665&idx=3&sn=e8d700eb514d81fbfc2271e2e2692ff7",
@@ -9074,6 +9075,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514687&idx=3&sn=6d7d69d315255eb2cf7ec443f1a60a33",
         "title": "女子遭强奸却装作配合，事后连捅3刀强奸犯致其当场死亡！法院判决…",
+        "title_eng": "The woman was raped but pretended to cooperate. Afterwards, she stabbed the rapist 3 times in a row and died on the spot! Court decision…",
         "nickname": "法苑茶语",
         "created_at": "2021-06-27",
         "archive": "gh_bf54f24b2e87_2021-06-27_2247514687_jI6bMrwcB7.y.tar.gz",
@@ -9084,6 +9086,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjgxMzkxOA==&mid=2652888256&idx=1&sn=cbca6815bc2d2bc411b96dbaea9ebb45",
         "title": "多面体的「妈妈」",
+        "title_eng": "The polyhedron mother",
         "nickname": "三声",
         "created_at": "2021-06-28",
         "archive": "gh_392ea15c04ea_2021-06-28_2652888256_9SGYU38Pca.y.tar.gz",
@@ -9093,10 +9096,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA1NzcyMA==&mid=2247536097&idx=1&sn=14b1539f59f9fc630619a5024af14d4f",
         "title": "妻子和父亲乱伦生下孽子,才是北京大兴灭门案的真相吗？",
+        "title_eng": "Is it true that the wife and father gave birth to a sinful child through incest?",
         "nickname": "言情说",
         "created_at": "2021-06-28",
         "archive": "gh_00e66b7f0a40_2021-06-28_2247536097_r8YCQ3XsoE.y.tar.gz",
         "censored_date": "2021-06-30 04:14:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650060083&idx=7&sn=338e6f38ac5fe9db4996c2e21f341871",
+        "title": "如何在短时间内更有效提升自已？",
+        "nickname": "吐槽星君",
+        "created_at": "2021-06-26",
+        "archive": "gh_45220e40f13c_2021-06-26_2650060083_8ASa0Omdx2.y.tar.gz",
+        "censored_date": "2021-06-30 05:11:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650859864&idx=1&sn=649bbd20577ba57202ec8ccc01334b29",
+        "title": "一个24岁的男生，决定做结扎手术",
+        "nickname": "三联生活周刊",
+        "created_at": "2021-06-27",
+        "archive": "wxid_1ytkcyvr0m0g11_2021-06-27_2650859864_CM2lcpXiLt.y.tar.gz",
+        "censored_date": "2021-06-30 05:22:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-27 20:20:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649812395&idx=1&sn=c5c2b32c32efb7c0112838b9270ad8ed",
+        "title": "月薪5000，3年买房：普通人该如何实现“买房自由”？",
+        "nickname": "华哥读报",
+        "created_at": "2021-06-29",
+        "archive": "gh_7a402e27f818_2021-06-29_2649812395_0cwqJYdlsN.y.tar.gz",
+        "censored_date": "2021-06-30 04:30:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
