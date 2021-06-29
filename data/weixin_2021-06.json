@@ -8390,7 +8390,7 @@
         "archive": "gh_204d11e7b3bd_2021-06-26_2247558315_b82nClkHYD.y.tar.gz",
         "censored_date": "2021-06-28 02:16:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-29 00:10:53"
+        "update_date": "2021-06-30 04:19:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491740&idx=1&sn=d23fc466a9e2459982c280a4b947b5b5",
@@ -9043,6 +9043,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247581851&idx=5&sn=641615cd04b0ff7fa2b3507a6f554198",
         "title": "反垄断下，滴滴的前途和钱途",
+        "title_eng": "Under antitrust, Didi's future and money",
         "nickname": "凤凰网财经",
         "created_at": "2021-06-28",
         "archive": "gh_e76b6086b960_2021-06-28_2247581851_YArs9vm2y0.y.tar.gz",
@@ -9052,6 +9053,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653335149&idx=2&sn=2f6df6cb069e9d216c8d684e0c491b24",
         "title": "几个低调却很实用的公众号，第一个就没听说过！",
+        "title_eng": "A few low-key but very practical public accounts, the first one I have never heard of!",
         "nickname": "画友文学天地",
         "created_at": "2021-06-28",
         "archive": "gh_e4d7b38fb8a3_2021-06-28_2653335149_bKfkI5Ug7r.y.tar.gz",
@@ -9062,10 +9064,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650108995&idx=2&sn=1e3c22b869f2822ef2ef218262088112",
         "title": "冀宏书记、班秀萍副书记与旗处级领导会面 了解部门工作情况",
+        "title_eng": "Secretary Ji Hong and Deputy Secretary Ban Xiuping met with the leaders of the banner department to understand the work of the department",
         "nickname": "察右前旗融媒体中心",
         "created_at": "2021-06-28",
         "archive": "gh_ae0b732889ae_2021-06-28_2650108995_au2rhLYRfV.y.tar.gz",
         "censored_date": "2021-06-30 03:15:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514687&idx=3&sn=6d7d69d315255eb2cf7ec443f1a60a33",
+        "title": "女子遭强奸却装作配合，事后连捅3刀强奸犯致其当场死亡！法院判决…",
+        "nickname": "法苑茶语",
+        "created_at": "2021-06-27",
+        "archive": "gh_bf54f24b2e87_2021-06-27_2247514687_jI6bMrwcB7.y.tar.gz",
+        "censored_date": "2021-06-30 03:33:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-28 18:05:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MjgxMzkxOA==&mid=2652888256&idx=1&sn=cbca6815bc2d2bc411b96dbaea9ebb45",
+        "title": "多面体的「妈妈」",
+        "nickname": "三声",
+        "created_at": "2021-06-28",
+        "archive": "gh_392ea15c04ea_2021-06-28_2652888256_9SGYU38Pca.y.tar.gz",
+        "censored_date": "2021-06-30 03:47:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA1NzcyMA==&mid=2247536097&idx=1&sn=14b1539f59f9fc630619a5024af14d4f",
+        "title": "妻子和父亲乱伦生下孽子,才是北京大兴灭门案的真相吗？",
+        "nickname": "言情说",
+        "created_at": "2021-06-28",
+        "archive": "gh_00e66b7f0a40_2021-06-28_2247536097_r8YCQ3XsoE.y.tar.gz",
+        "censored_date": "2021-06-30 04:14:57",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
