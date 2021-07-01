@@ -1776,7 +1776,7 @@
         "archive": "gh_ccd6562d7551_2021-06-30_2650798045_J2yQ9O6i7z.y.tar.gz",
         "censored_date": "2021-06-30 16:03:06",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-30 17:28:49"
+        "update_date": "2021-07-01 23:43:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTY1NTI5Ng==&mid=2652376801&idx=3&sn=69633a4b432d0564a03d3a0d77fa3eb1",
@@ -2205,5 +2205,25 @@
         "archive": "gh_669823115a42_2021-06-30_2247489560_lDaM03CVQO.y.tar.gz",
         "censored_date": "2021-07-01 22:30:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247503268&idx=1&sn=066981d96c2d9c32896d2bc5b934301e",
+        "title": "来了，刚传出的好消息，这项通知也许与你有关！",
+        "nickname": "登山望岳",
+        "created_at": "2021-06-30",
+        "archive": "gh_728dda09b5fa_2021-06-30_2247503268_io7T51Dbf3.y.tar.gz",
+        "censored_date": "2021-07-02 00:34:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247533103&idx=2&sn=aa47c1fbf589938d1d07cd678a12a2cd",
+        "title": "学会用Python，轻松查文献，释放80%的重复劳动时间！",
+        "title_eng": "Learn to use Python, easily check the literature, and release 80% of the repetitive labor time!",
+        "nickname": "學人Scholar",
+        "created_at": "2021-06-30",
+        "archive": "gh_f7c807150350_2021-06-30_2247533103_qfEDQiwCFc.y.tar.gz",
+        "censored_date": "2021-07-01 23:45:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-30 19:22:44"
     }
 ]
