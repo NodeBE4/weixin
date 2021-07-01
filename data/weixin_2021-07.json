@@ -2070,6 +2070,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657131107&idx=1&sn=26873a646d3285810ea343d6181abf67",
         "title": "长卷·百年图鉴",
+        "title_eng": "Long Scroll·Hundred Years Illustrated Book",
         "nickname": "央视新闻",
         "created_at": "2021-06-30",
         "archive": "wxid_pzhf43hmwizd11_2021-06-30_2657131107_jTXpY6raWd.y.tar.gz",
@@ -2080,10 +2081,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDQ2OTA0MA==&mid=2659850225&idx=1&sn=1eaca617d6b8f946705ace85a3806743",
         "title": "布谷财经 | 平均每户不足三人，“悦己消费”成为新风口",
+        "title_eng": "Cuckoo Finance | An average of less than three people per household, consumption for yourself has become a new trend",
         "nickname": "布谷岛",
         "created_at": "2021-07-01",
         "archive": "gh_ef1182507a97_2021-07-01_2659850225_cOYF4jvSu8.y.tar.gz",
         "censored_date": "2021-07-01 15:22:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTUxNjk2MA==&mid=2650714366&idx=2&sn=63e1564d0af3853ce691eb6f794a73d7",
+        "title": "洪学军任杭州互联网法院院长",
+        "title_eng": "Hong Xuejun appointed as president of Hangzhou Internet Court",
+        "nickname": "中国知识产权杂志",
+        "created_at": "2021-07-01",
+        "archive": "gh_1f80d554ccd2_2021-07-01_2650714366_Rv5iTnU9W0.y.tar.gz",
+        "censored_date": "2021-07-01 15:56:46",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjM1NjAzNA==&mid=2669471139&idx=1&sn=ff186d57efcfd3f784762bd287a4fcf6",
+        "title": "习近平：在庆祝中国共产党成立一百周年大会上的讲话",
+        "title_eng": "Xi Jinping: Speech at the celebration of the centenary of the founding of the Communist Party of China",
+        "nickname": "广西法治日报",
+        "created_at": "2021-07-01",
+        "archive": "gh_9ef6c0526ea5_2021-07-01_2669471139_vLUy28VpFC.y.tar.gz",
+        "censored_date": "2021-07-01 16:17:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTE5NDkxNA==&mid=2650835703&idx=5&sn=c8a18e267cef29711d36110ba083f2b2",
+        "title": "纪念建党百年 | 南京党史大事记（119）",
+        "title_eng": "Commemorating the 100th Anniversary of the Founding of the Party | Memorabilia of Nanjing Party History (119)",
+        "nickname": "南京日报",
+        "created_at": "2021-06-30",
+        "archive": "gh_364a58c89019_2021-06-30_2650835703_R47Dw6cEWX.y.tar.gz",
+        "censored_date": "2021-07-01 16:28:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-30 13:58:08"
     }
 ]
