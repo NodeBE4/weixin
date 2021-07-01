@@ -2209,6 +2209,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247503268&idx=1&sn=066981d96c2d9c32896d2bc5b934301e",
         "title": "来了，刚传出的好消息，这项通知也许与你有关！",
+        "title_eng": "Here comes the good news that just came out, this notice may be related to you!",
         "nickname": "登山望岳",
         "created_at": "2021-06-30",
         "archive": "gh_728dda09b5fa_2021-06-30_2247503268_io7T51Dbf3.y.tar.gz",
@@ -2225,5 +2226,26 @@
         "censored_date": "2021-07-01 23:45:35",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-06-30 19:22:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653624912&idx=8&sn=c80d407f1682879fb8b059734f6e84c0",
+        "title": "爱运动的女生最美",
+        "title_eng": "Girls who love sports are the most beautiful",
+        "nickname": "简笔笑画",
+        "created_at": "2021-07-01",
+        "archive": "gh_c364747d22d0_2021-07-01_2653624912_05Od7zxBa8.y.tar.gz",
+        "censored_date": "2021-07-02 01:15:56",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652032038&idx=4&sn=951019a0593fcc6b1e20eda30d7d37d6",
+        "title": "暴雨也不怕！素湃团队联合打造5级防水鞋，不怕脏不怕水",
+        "title_eng": "Not afraid of heavy rain! The Supai team has jointly created level 5 waterproof shoes, not afraid of dirty or water",
+        "nickname": "米尔看天下",
+        "created_at": "2021-06-29",
+        "archive": "gh_e06f5843f7ac_2021-06-29_2652032038_PVWfkOMSan.y.tar.gz",
+        "censored_date": "2021-07-02 01:04:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-30 21:20:57"
     }
 ]
