@@ -1764,7 +1764,8 @@
         "created_at": "2021-06-30",
         "archive": "gh_fc276be154e5_2021-06-30_2247497581_UgV74Lovu9.y.tar.gz",
         "censored_date": "2021-06-30 20:11:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-01 22:57:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650798045&idx=1&sn=194f41a00aea75eebdc8f7f1d9d5a9df",
@@ -2167,6 +2168,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514721&idx=2&sn=29157335fb4aadf138268c5da28d6004",
         "title": "公检法精英辞职：大律师给年轻律师的5条执业箴言",
+        "title_eng": "Public Procuratorate Elite Resigns: Five Practicing Proverbs from Barristers to Young Lawyers",
         "nickname": "法苑茶语",
         "created_at": "2021-06-28",
         "archive": "gh_bf54f24b2e87_2021-06-28_2247514721_L0aityB4rz.y.tar.gz",
@@ -2177,6 +2179,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514741&idx=2&sn=cc52d66641fcfafc205250557e6c6e5e",
         "title": "劝人学法，千刀万剐，知乎高赞：什么样的人适合学法律？",
+        "title_eng": "Persuading people to study law, a thousand swords, knowing and praise: what kind of person is suitable for studying law?",
         "nickname": "法苑茶语",
         "created_at": "2021-06-29",
         "archive": "gh_bf54f24b2e87_2021-06-29_2247514741_Y1sUGJxj54.y.tar.gz",
@@ -2186,10 +2189,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTA0Mjk0MA==&mid=2652818890&idx=3&sn=ac46aa0d10d2e53bc8b3ea62905565bf",
         "title": "从日本回国后，他创建共产党小组，每月拿80元工资资助共产党",
+        "title_eng": "After returning from Japan, he created a Communist Party group to fund the Communist Party with a monthly salary of 80 yuan",
         "nickname": "铁血网",
         "created_at": "2021-07-01",
         "archive": "gh_14ef0e644b8f_2021-07-01_2652818890_y56Bn8XRT4.y.tar.gz",
         "censored_date": "2021-07-01 21:35:19",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTE4OTE5Ng==&mid=2247489560&idx=2&sn=181f79c35254fe5266b32225f20eeda9",
+        "title": "军旅书法家王成志同志挥毫泼墨敬献百幅书法作品纪念中国共产党成立100周年之二十八",
+        "title_eng": "Comrade Wang Chengzhi, a military calligrapher, wields a splash of ink and presents one hundred calligraphy works to commemorate the 28th anniversary of the 100th anniversary of the founding of the Communist Party of China",
+        "nickname": "炸点",
+        "created_at": "2021-06-30",
+        "archive": "gh_669823115a42_2021-06-30_2247489560_lDaM03CVQO.y.tar.gz",
+        "censored_date": "2021-07-01 22:30:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
