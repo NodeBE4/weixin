@@ -2510,16 +2510,38 @@
         "created_at": "2021-07-02",
         "archive": "gh_2b552f3e253a_2021-07-02_2652377656_IvWK7icHn9.y.tar.gz",
         "censored_date": "2021-07-02 13:54:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-02 15:59:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTk0Nzg0MQ==&mid=2665771911&idx=5&sn=c343e1967289cb65b44f3c052dbb81ad",
         "title": "159家医院在售，有效率100%！轻轻一喷，轻松赶走狐臭，清香一夏！",
+        "title_eng": "159 hospitals are on sale, and the efficiency is 100%! With a light spray, you can easily get rid of body odor and have a refreshing fragrance all summer!",
         "nickname": "钟二毛",
         "created_at": "2021-07-01",
         "archive": "gh_4d6bb4407b74_2021-07-01_2665771911_1wLcIVZ320.y.tar.gz",
         "censored_date": "2021-07-02 14:59:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-01 11:54:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652004523&idx=1&sn=a4f42d1e5beefc9d5336e13007931ed3",
+        "title": "iOS 15 公测版发布 / 滴滴出行正式上市 / 诺基亚或将搭载鸿蒙系统",
+        "title_eng": "iOS 15 public beta released / Didi Chuxing officially listed / Nokia may be equipped with Hongmeng system",
+        "nickname": "爱范儿",
+        "created_at": "2021-07-01",
+        "archive": "aifaner383402_2021-07-01_2652004523_sI7P60XuV2.y.tar.gz",
+        "censored_date": "2021-07-02 16:01:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650852053&idx=1&sn=7a5eb9babd6e1cf9aac2b8f09a917c44",
+        "title": "曝诺基亚计划接入鸿蒙系统；小米起诉拼多多商标侵权；iOS 15 首个公测版发布|极客头条",
+        "title_eng": "Exposure that Nokia plans to access the Hongmeng system; Xiaomi sues Pinduoduo for trademark infringement; iOS 15 first public beta release | Geek Headlines",
+        "nickname": "CSDN",
+        "created_at": "2021-07-01",
+        "archive": "gh_5c0f5c561574_2021-07-01_2650852053_1gIcR3jZvJ.y.tar.gz",
+        "censored_date": "2021-07-02 15:58:43",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
