@@ -2570,6 +2570,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247519956&idx=1&sn=75fa1b88390f61d31ffdd0282924531c",
         "title": "之前他从未上过热搜，却是每个人心中的顶流",
+        "title_eng": "He has never been on a hot search before, but he is the top in everyone’s mind",
         "nickname": "环球冷眼",
         "created_at": "2021-07-01",
         "archive": "gh_1aecabdf0add_2021-07-01_2247519956_H5otJc6zjY.y.tar.gz",
@@ -2580,11 +2581,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3MTExNjc0Mw==&mid=2247537555&idx=3&sn=cba05729fd63cfce704a022b8e7f927b",
         "title": "百年华诞！习近平这些话让人心潮澎湃",
+        "title_eng": "Centenary! These words of Xi Jinping make people's heart surging",
         "nickname": "滨海网信",
         "created_at": "2021-07-01",
         "archive": "gh_9743c13a7c35_2021-07-01_2247537555_13EqsgvAYN.y.tar.gz",
         "censored_date": "2021-07-02 22:17:20",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-01 16:56:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247527157&idx=2&sn=6a6fd246afd46a1c0f19de428e675c03",
+        "title": "30岁之后，要掌握人生的运势，就该静下心来读读《易经》​",
+        "title_eng": "After the age of 30, if you want to master the fortune of your life, you should calm down and read the Book of Changes​",
+        "nickname": "今读史",
+        "created_at": "2021-07-01",
+        "archive": "gh_5e008ceefb25_2021-07-01_2247527157_nIj8v0YV4b.y.tar.gz",
+        "censored_date": "2021-07-02 23:03:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-01 20:18:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651348425&idx=8&sn=dc6d2451665da61cda50a57e10a8dcbd",
+        "title": "中国特色现象，无语！",
+        "title_eng": "Phenomenon with Chinese characteristics, speechless!",
+        "nickname": "百姓关注话题",
+        "created_at": "2021-07-01",
+        "archive": "gh_a0b79e79b274_2021-07-01_2651348425_e0pG7XlRnW.y.tar.gz",
+        "censored_date": "2021-07-02 22:47:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
