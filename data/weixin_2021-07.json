@@ -2233,7 +2233,7 @@
         "archive": "gh_f7c807150350_2021-06-30_2247533103_qfEDQiwCFc.y.tar.gz",
         "censored_date": "2021-07-01 23:45:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-30 19:22:44"
+        "update_date": "2021-07-03 09:51:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653624912&idx=8&sn=c80d407f1682879fb8b059734f6e84c0",
@@ -2255,7 +2255,7 @@
         "archive": "gh_e06f5843f7ac_2021-06-29_2652032038_PVWfkOMSan.y.tar.gz",
         "censored_date": "2021-07-02 01:04:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-06-30 21:20:57"
+        "update_date": "2021-07-03 09:56:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247582369&idx=3&sn=b78da6d1a39ad93fe38f2468534fd82d",
@@ -2713,21 +2713,54 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247524690&idx=2&sn=adc8044578e4673481e97686f41f4870",
         "title": "十年后校长回顾范跑跑：他是地震当天最后一个离开学校的人",
+        "title_eng": "Ten years later, the principal reviewed Fan Paopao: he was the last person to leave school on the day of the earthquake",
         "nickname": "遮眼看天",
         "created_at": "2021-07-01",
         "archive": "gh_b984621ff266_2021-07-01_2247524690_xGBPN1iVzA.y.tar.gz",
         "censored_date": "2021-07-03 08:53:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-02 02:22:11"
+        "update_date": "2021-07-03 09:54:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247524690&idx=1&sn=9e20019275e38df2192f96d99bb6f1d8",
         "title": "无语！才收到中国送的50万剂疫苗，这国就翻脸了！公然违反承诺：中国人没优先！大批网友吐槽“白眼狼”...",
+        "title_eng": "Speechless! Only after receiving 500,000 doses of vaccine from China, this country has turned its face! Blatant breach of promise: The Chinese have no priority! A large number of netizens complain about white-eyed wolf...",
         "nickname": "遮眼看天",
         "created_at": "2021-07-01",
         "archive": "gh_b984621ff266_2021-07-01_2247524690_F8u4zNprMB.y.tar.gz",
         "censored_date": "2021-07-03 08:54:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-02 02:23:01"
+        "update_date": "2021-07-03 09:55:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652739786&idx=2&sn=578062690e434e1a91bbacb8a852554d",
+        "title": "镜头前的她们是怎么做到不脱妆的",
+        "title_eng": "How did they keep their makeup in front of the camera",
+        "nickname": "8号风曝",
+        "created_at": "2021-06-29",
+        "archive": "gh_a0404706a1d9_2021-06-29_2652739786_kXCO1xadBr.y.tar.gz",
+        "censored_date": "2021-07-03 10:05:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-06-30 16:30:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwMjg5Mg==&mid=2657050389&idx=6&sn=de4d8c2bb976f08c6620ef7b529f606f",
+        "title": "奥巴马弟弟“入赘”河南,为何不愿回美国?称在中国重获新生",
+        "title_eng": "Obama's brother entered into his family in Henan, why didn't he want to return to the United States? Said he was reborn in China",
+        "nickname": "老刘的心灵鸡汤",
+        "created_at": "2021-07-02",
+        "archive": "gh_0bec3fbedf6b_2021-07-02_2657050389_5NsHI0ARO1.y.tar.gz",
+        "censored_date": "2021-07-03 09:42:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653225361&idx=1&sn=299cdf4ba254c9ce98e7ee5adb3df578",
+        "title": "重磅！黑芝麻背后真相惊人，千年传承即将毁于一旦！",
+        "title_eng": "Heavy! The truth behind black sesame seeds is amazing, and the millennium heritage is about to be destroyed!",
+        "nickname": "腾飞讲史",
+        "created_at": "2021-07-03",
+        "archive": "gh_8492bb8e8be7_2021-07-03_2653225361_x5FbtzTguE.y.tar.gz",
+        "censored_date": "2021-07-03 10:11:49",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
