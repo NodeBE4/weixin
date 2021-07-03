@@ -2624,7 +2624,7 @@
         "archive": "gh_b7047f0cbe74_2021-07-02_2653300860_fz1JZVLSbl.y.tar.gz",
         "censored_date": "2021-07-02 23:45:43",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-04 03:39:54"
+        "update_date": "2021-07-04 06:50:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493236&idx=5&sn=4201564f12d37ea78cc4eb84ca4c6be5",
@@ -3268,6 +3268,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzUxNDk3Ng==&mid=2652262683&idx=1&sn=f2182c1823c4bc05eef86b0270fe0f0e",
         "title": "金家岭金融区召开党工委扩大会议 传达学习习近平总书记在庆祝建党100周年 大会上的重要讲话精神",
+        "title_eng": "Jinjialing Financial District held an enlarged meeting of the Party Working Committee to convey and study the spirit of the important speech of General Secretary Xi Jinping at the celebration of the 100th anniversary of the founding of the party",
         "nickname": "金家岭金融区",
         "created_at": "2021-07-02",
         "archive": "gh_7847845d652d_2021-07-02_2652262683_VynYMt1Ufk.y.tar.gz",
@@ -3278,11 +3279,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMzE1OTg3Nw==&mid=2247493685&idx=1&sn=7f030d56ba4693b94408e40f56a7d9cd",
         "title": "国药集团党委召开专题会，传达学习贯彻习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话精神",
+        "title_eng": "The Party Committee of Sinopharm Group held a special meeting to convey the spirit of studying and implementing General Secretary Xi Jinping’s important speech at the celebration of the 100th anniversary of the founding of the Communist Party of China",
         "nickname": "国药集团",
         "created_at": "2021-07-02",
         "archive": "gh_9083df7da50a_2021-07-02_2247493685_1DGg0ERq6z.y.tar.gz",
         "censored_date": "2021-07-04 05:31:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-03 01:18:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MDI4MjY4MA==&mid=2247491922&idx=2&sn=ef89a4f3c05b2cab1480c186452271ea",
+        "title": "普京：即使击沉英国驱逐舰，也不会爆发世界大战",
+        "nickname": "洞见环球",
+        "created_at": "2021-07-03",
+        "archive": "gh_303ec1b5ec96_2021-07-03_2247491922_S4crxq00vB.y.tar.gz",
+        "censored_date": "2021-07-04 07:23:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-03 02:16:25"
     }
 ]
