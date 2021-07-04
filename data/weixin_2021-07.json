@@ -2984,7 +2984,7 @@
         "archive": "gh_dc5fb6fdb9c6_2021-07-03_2247571651_MAZJGovuBO.y.tar.gz",
         "censored_date": "2021-07-03 21:08:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-05 01:11:25"
+        "update_date": "2021-07-05 07:20:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247571651&idx=3&sn=78a0d8ef55fb3548458841afc9597ed2",
@@ -3028,7 +3028,7 @@
         "archive": "gh_dc5fb6fdb9c6_2021-07-03_2247571651_c9EBJ6qh5g.y.tar.gz",
         "censored_date": "2021-07-03 21:09:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-05 01:10:38"
+        "update_date": "2021-07-05 07:19:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493242&idx=5&sn=e80c706581916920d9bcc9e7e54003c6",
@@ -3083,7 +3083,7 @@
         "archive": "gh_8fe24b4816f0_2021-07-03_2650783152_dmJ2HMcL6F.y.tar.gz",
         "censored_date": "2021-07-03 22:42:37",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-03 22:48:55"
+        "update_date": "2021-07-05 06:40:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Mjc5NDAzMw==&mid=2650869364&idx=6&sn=4ae948dcce0206122e092a4607b800d8",
@@ -3577,10 +3577,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655409427&idx=2&sn=47a8597a93f2337640433d1b5d70846e",
         "title": "滴滴紧急辟谣！",
+        "title_eng": "Didi urgently refutes the rumors!",
         "nickname": "中国基金报",
         "created_at": "2021-07-03",
         "archive": "gh_a4a87df43a4c_2021-07-03_2655409427_YQsCiK1uFf.y.tar.gz",
         "censored_date": "2021-07-05 06:22:13",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653061776&idx=1&sn=5e9380deee815e29f5707e5f02f30cf6",
+        "title": "对不起！港毒的维他奶，我们一口都不喝！！",
+        "nickname": "财闻要参",
+        "created_at": "2021-07-03",
+        "archive": "gh_34471e1f4b56_2021-07-03_2653061776_SC4c3bPgJ2.y.tar.gz",
+        "censored_date": "2021-07-05 06:31:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-04 01:49:18"
     }
 ]
