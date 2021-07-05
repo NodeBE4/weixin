@@ -3476,7 +3476,7 @@
         "archive": "gh_bf54f24b2e87_2021-07-03_2247514827_EGqLWKQA5J.y.tar.gz",
         "censored_date": "2021-07-04 19:23:12",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-07-03 16:43:46"
+        "update_date": "2021-07-06 01:30:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247525156&idx=1&sn=4cf71a7c7faa0fec1cef4dbc4db95a13",
@@ -3760,5 +3760,27 @@
         "archive": "gh_4028fe7de2d7_2021-07-05_2651401099_NkucZ0lgTO.y.tar.gz",
         "censored_date": "2021-07-05 23:41:40",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247503450&idx=1&sn=84c1995ea289ed73d6ea166ef06d2f01",
+        "title": "家庭怎样拥有多种收入来源呢？看看对自己也有帮助",
+        "title_eng": "How can families have multiple sources of income? Seeing is also helpful to myself",
+        "nickname": "登山望岳",
+        "created_at": "2021-07-05",
+        "archive": "gh_728dda09b5fa_2021-07-05_2247503450_yYdWRMlvgx.y.tar.gz",
+        "censored_date": "2021-07-06 00:54:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 01:05:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650884467&idx=3&sn=0fe0e52a65983eab65f444dc10c4d1af",
+        "title": "“7·5”事件受害者​在涉疆问题新闻发布会现场控诉当年暴行：他们就是新疆各族群众的敌人",
+        "title_eng": "Victims of the 7·5 incident complained of the atrocities at the press conference on Xinjiang-related issues: they are the enemies of the people of all ethnic groups",
+        "nickname": "新疆新发现",
+        "created_at": "2021-07-05",
+        "archive": "gh_be938204fcfa_2021-07-05_2650884467_wErPvh4ynZ.y.tar.gz",
+        "censored_date": "2021-07-06 00:49:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 01:00:06"
     }
 ]
