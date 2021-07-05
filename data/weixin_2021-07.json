@@ -3676,7 +3676,8 @@
         "created_at": "2021-07-04",
         "archive": "gh_65f5271d2a21_2021-07-04_2247490299_uT3fihajMq.y.tar.gz",
         "censored_date": "2021-07-05 17:07:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 02:32:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514846&idx=1&sn=5dff7d820ca11c5d64df18fc19f9d5e8",
@@ -3687,7 +3688,7 @@
         "archive": "gh_bf54f24b2e87_2021-07-04_2247514846_PhGo6dnfBR.y.tar.gz",
         "censored_date": "2021-07-05 17:06:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-04 17:01:52"
+        "update_date": "2021-07-06 02:33:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247645023&idx=4&sn=5d7e1866e2afbd2fea5c2e0845286793",
@@ -3782,5 +3783,57 @@
         "censored_date": "2021-07-06 00:49:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-06 01:00:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDU1NDE5Mg==&mid=2247558524&idx=1&sn=aea3ad93cb93e3dafc5a1f5b03dd54c2",
+        "title": "2021年度省政府部门职能工作目标公示",
+        "title_eng": "Announcement of the functional work objectives of the provincial government departments in 2021",
+        "nickname": "湖北省人民政府网",
+        "created_at": "2021-07-04",
+        "archive": "gh_614f21ee3bba_2021-07-04_2247558524_DZPA0Nu2kF.y.tar.gz",
+        "censored_date": "2021-07-06 02:17:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-04 23:59:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247487783&idx=2&sn=23457281aba3a12728bcdf36c820275b",
+        "title": "一个在翡翠行业摸爬滚打了近20年的云南妹子，告诉你翡翠行业的内幕",
+        "title_eng": "A Yunnan girl who has been in the jade industry for nearly 20 years, tells you the inside story of the jade industry",
+        "nickname": "阅天下百事",
+        "created_at": "2021-06-30",
+        "archive": "gh_8508f826af1e_2021-06-30_2247487783_YhOq0B0SKx.y.tar.gz",
+        "censored_date": "2021-07-06 01:34:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTg2NTU0Ng==&mid=2656624042&idx=1&sn=8f7be05396fdb282e4adbdb5cfc99048",
+        "title": "奈飞的自由与责任｜对话奈飞创始人Reed Hastings",
+        "title_eng": "Netflix’s Freedom and Responsibility｜Dialogue with Reed Hastings, Founder of Netflix",
+        "nickname": "21CTO",
+        "created_at": "2021-07-05",
+        "archive": "gh_12d912c54271_2021-07-05_2656624042_mHjvIh0Yr1.y.tar.gz",
+        "censored_date": "2021-07-06 02:15:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653280906&idx=5&sn=e66008c2693b28509ce25b45ee265102",
+        "title": "屏蔽泵、齿轮泵和柱塞泵维护检修规程",
+        "title_eng": "Canned motor pump, gear pump and plunger pump maintenance and inspection procedures",
+        "nickname": "化工707",
+        "created_at": "2021-07-04",
+        "archive": "gh_430d84f19d48_2021-07-04_2653280906_x3cq4O6KDm.y.tar.gz",
+        "censored_date": "2021-07-06 01:48:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-04 22:43:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652009270&idx=2&sn=1a9d133c51b6794a296ea7a9cfe3cd6c",
+        "title": "【书店停业】全部库存一律低于成本价50%左右清仓处理",
+        "title_eng": "[Bookstore is closed] All inventory will be less than 50% of cost price for clearance processing",
+        "nickname": "亮哥在读书",
+        "created_at": "2021-07-04",
+        "archive": "gh_09fd5b6316b9_2021-07-04_2652009270_G7R908tBec.y.tar.gz",
+        "censored_date": "2021-07-06 01:52:37",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
