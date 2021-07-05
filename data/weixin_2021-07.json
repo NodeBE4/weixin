@@ -3431,7 +3431,8 @@
         "created_at": "2021-07-04",
         "archive": "gh_ccf6a72b140a_2021-07-04_2247494354_RpOB5rF0xg.y.tar.gz",
         "censored_date": "2021-07-04 17:31:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 00:23:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247527189&idx=1&sn=e423ca2bd44740cd90e4de4291f27309",
@@ -3749,5 +3750,15 @@
         "censored_date": "2021-07-05 21:42:44",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-07-05 02:04:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MzA0MDk1Nw==&mid=2651401099&idx=2&sn=1620e57b01af456543acdf5563fc12b7",
+        "title": "比学历和人脉更重要，这几个公众号，请一定逼自己关注",
+        "title_eng": "More important than academic qualifications and personal connections, please make sure to force yourself to pay attention to these public accounts",
+        "nickname": "成贺",
+        "created_at": "2021-07-05",
+        "archive": "gh_4028fe7de2d7_2021-07-05_2651401099_NkucZ0lgTO.y.tar.gz",
+        "censored_date": "2021-07-05 23:41:40",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
