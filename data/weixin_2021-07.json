@@ -3668,7 +3668,8 @@
         "created_at": "2021-07-04",
         "archive": "gh_4c1998a4fd3c_2021-07-04_2652092711_tC8vXB3VDQ.y.tar.gz",
         "censored_date": "2021-07-05 16:30:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 18:47:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490299&idx=3&sn=2f7dcd19e1ae720df159e71ea03b11fd",
@@ -3700,7 +3701,8 @@
         "created_at": "2021-07-04",
         "archive": "gh_f99a5327b51a_2021-07-04_2247645023_YlVDmk7dfF.y.tar.gz",
         "censored_date": "2021-07-05 16:42:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 18:47:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTE3NTUxNw==&mid=2650006263&idx=1&sn=77d230282eed74161bc5baa6cbaf99c4",
@@ -4009,5 +4011,24 @@
         "censored_date": "2021-07-06 18:02:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-05 19:30:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5OTY2NzQ1MQ==&mid=2247488264&idx=1&sn=b28ca65ec0034942e9332e44ba2c256e",
+        "title": "@、、人，一步即可成为“电站站长”，轻松获取红利！",
+        "nickname": "阅尽热门",
+        "created_at": "2021-07-05",
+        "archive": "gh_2645c7f5e15e_2021-07-05_2247488264_ovufBCmTH0.y.tar.gz",
+        "censored_date": "2021-07-06 18:38:07",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651348507&idx=2&sn=830ddd59abc0351b9162275a17550b02",
+        "title": "殴打院士，董事长被停职！内部文件流出：爱国者张陶，打院士无罪？",
+        "nickname": "百姓关注话题",
+        "created_at": "2021-07-05",
+        "archive": "gh_a0b79e79b274_2021-07-05_2651348507_eIjfoazVrN.y.tar.gz",
+        "censored_date": "2021-07-06 18:56:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-05 20:33:22"
     }
 ]
