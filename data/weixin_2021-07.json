@@ -3951,6 +3951,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDM5ODY3Ng==&mid=2651765763&idx=1&sn=8f48bf72ea7a1ffedcdb008a1bb1476a",
         "title": "陶医生有个主意",
+        "title_eng": "Doctor Tao has an idea",
         "nickname": "疫苗与科学",
         "created_at": "2021-07-06",
         "archive": "gh_f3a328e74073_2021-07-06_2651765763_TsYzoSfdLi.y.tar.gz",
@@ -3960,10 +3961,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDM5ODY3Ng==&mid=2651765763&idx=2&sn=f7e8b3c9bedf64475985fd3afc2f5503",
         "title": "对宗教还有好感？看完这篇不恶心才怪",
+        "title_eng": "Still have a good impression of religion? It's not disgusting after reading this",
         "nickname": "疫苗与科学",
         "created_at": "2021-07-06",
         "archive": "gh_f3a328e74073_2021-07-06_2651765763_dJ09QXYDbK.y.tar.gz",
         "censored_date": "2021-07-06 12:32:49",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247524380&idx=2&sn=54ada26a3945550c619af12ee72935d4",
+        "title": "跨国仪器巨头TOP10发展战略公布！",
+        "title_eng": "TOP10 development strategy of multinational instrument giants announced!",
+        "nickname": "医业观察",
+        "created_at": "2021-07-05",
+        "archive": "gh_9cb7cdc6525f_2021-07-05_2247524380_oNTq0Eay03.y.tar.gz",
+        "censored_date": "2021-07-06 13:35:28",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4MjM5OTQ2NQ==&mid=2247499852&idx=1&sn=f6b7e0ff1626caf07d2ef7608499934d",
+        "title": "“航天书记”打院士：惹毛领导的究竟是哪句话",
+        "title_eng": "Aerospace Secretary hits an academician: What is the sentence that provoke Mao's leadership",
+        "nickname": "神州生气",
+        "created_at": "2021-07-06",
+        "archive": "gh_0908bc7f934f_2021-07-06_2247499852_X8alCT6Yk4.y.tar.gz",
+        "censored_date": "2021-07-06 13:48:21",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
