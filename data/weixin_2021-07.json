@@ -3564,7 +3564,7 @@
         "archive": "gh_77c41e0fad7f_2021-07-04_2659267803_IKuJhrjeiQ.y.tar.gz",
         "censored_date": "2021-07-05 00:46:33",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-05 19:43:52"
+        "update_date": "2021-07-06 22:28:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247514827&idx=2&sn=5b7198a44a0447f2fb24cef472bb4055",
@@ -3778,7 +3778,7 @@
         "archive": "gh_728dda09b5fa_2021-07-05_2247503450_yYdWRMlvgx.y.tar.gz",
         "censored_date": "2021-07-06 00:54:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-06 01:05:26"
+        "update_date": "2021-07-06 22:58:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650884467&idx=3&sn=0fe0e52a65983eab65f444dc10c4d1af",
@@ -4059,11 +4059,45 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651957114&idx=2&sn=2d8368b1d46d91a23f90c561b1d56dc2",
         "title": "突查！你在无锡喝的奶茶、饮品……",
+        "title_eng": "Raid! The milk tea and drinks you drank in Wuxi...",
         "nickname": "江南晚报",
         "created_at": "2021-07-05",
         "archive": "gh_b6899e873133_2021-07-05_2651957114_PnW4REAztq.y.tar.gz",
         "censored_date": "2021-07-06 22:15:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-05 22:23:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTc3ODU1OA==&mid=2651855414&idx=2&sn=e039ce4ebc322375aae91ad8a3e3a8da",
+        "title": "大瓜！2万员工集体举报董事长！",
+        "title_eng": "Big melon! 20,000 employees collectively report to the chairman!",
+        "nickname": "商业真知",
+        "created_at": "2021-07-05",
+        "archive": "gh_d9f8111bcdc1_2021-07-05_2651855414_db2KLT4omj.y.tar.gz",
+        "censored_date": "2021-07-06 22:34:04",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-05 22:40:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650884467&idx=7&sn=8d582c2ce9b567fb15b5a4a97ce19983",
+        "title": "涉疆问题新闻发布会：新疆已连续4年多未发生暴力恐怖案件",
+        "title_eng": "Press conference on Xinjiang-related issues: Xinjiang has not had violent terrorist incidents for more than 4 consecutive years",
+        "nickname": "新疆新发现",
+        "created_at": "2021-07-05",
+        "archive": "gh_be938204fcfa_2021-07-05_2650884467_9sRjd0xquN.y.tar.gz",
+        "censored_date": "2021-07-06 22:58:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 01:02:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzAwNzI1NQ==&mid=2649706008&idx=1&sn=c7810899b451d5b76fa9b46828038469",
+        "title": "瓜！2万员工集体举报董事长！",
+        "title_eng": "melon! 20,000 employees collectively report to the chairman!",
+        "nickname": "VC股权投资",
+        "created_at": "2021-07-05",
+        "archive": "gh_ae2442a584d5_2021-07-05_2649706008_h5psFBakHZ.y.tar.gz",
+        "censored_date": "2021-07-06 22:35:43",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-06 19:34:21"
     }
 ]
