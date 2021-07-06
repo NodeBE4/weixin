@@ -3734,7 +3734,8 @@
         "created_at": "2021-07-03",
         "archive": "gh_c7f9947afc98_2021-07-03_2247489503_DdVsbUNi27.y.tar.gz",
         "censored_date": "2021-07-05 20:40:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-07 01:02:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247489503&idx=3&sn=34de79ab4fe926c97107187b6aa888b1",
@@ -4099,5 +4100,16 @@
         "censored_date": "2021-07-06 22:35:43",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-07-06 19:34:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3MDY0NzM0Nw==&mid=2247494934&idx=4&sn=cb8d4ad1eb9aa35e47f6ef0491efef2d",
+        "title": "职校、工厂、中介狼狈为奸，17岁男生被逼跳楼自杀",
+        "title_eng": "Vocational schools, factories, and intermediaries were embarrassed, 17-year-old boy was forced to commit suicide",
+        "nickname": "乌有之乡思想",
+        "created_at": "2021-07-05",
+        "archive": "gh_9e50958ae5c8_2021-07-05_2247494934_26SqomDUz8.y.tar.gz",
+        "censored_date": "2021-07-07 01:08:55",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-05 23:52:43"
     }
 ]
