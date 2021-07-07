@@ -4063,7 +4063,7 @@
         "archive": "gh_a0b79e79b274_2021-07-06_2651348522_vnrKebdkXE.y.tar.gz",
         "censored_date": "2021-07-06 20:21:10",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-07-06 20:50:18"
+        "update_date": "2021-07-08 06:29:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2651957114&idx=2&sn=2d8368b1d46d91a23f90c561b1d56dc2",
@@ -4074,7 +4074,7 @@
         "archive": "gh_b6899e873133_2021-07-05_2651957114_PnW4REAztq.y.tar.gz",
         "censored_date": "2021-07-06 22:15:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-05 22:23:01"
+        "update_date": "2021-07-08 07:07:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTc3ODU1OA==&mid=2651855414&idx=2&sn=e039ce4ebc322375aae91ad8a3e3a8da",
@@ -4512,6 +4512,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247522343&idx=1&sn=21a9354314eacd868e540c6b89f895e0",
         "title": "大丑闻：陪侍女床上休克，副院长被免职",
+        "title_eng": "The big scandal: the escort maid was in shock in bed and the deputy dean was removed from office",
         "nickname": "天狐观察",
         "created_at": "2021-07-06",
         "archive": "gh_fd5f7267524b_2021-07-06_2247522343_FSEW2do0pg.y.tar.gz",
@@ -4522,6 +4523,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247504459&idx=2&sn=91b2eea1512fc5f35d59f3e077993e7b",
         "title": "我95后，工资5K，靠理财月入3W！",
+        "title_eng": "After 95, my salary is 5K, and my monthly income is 3W by financial management!",
         "nickname": "老板思维论",
         "created_at": "2021-07-05",
         "archive": "gh_69f7ba479665_2021-07-05_2247504459_FoYCIh9sbf.y.tar.gz",
@@ -4531,10 +4533,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247525107&idx=1&sn=a0d9c50f0a533771385ce3b8985c9d9f",
         "title": "盛松成：下半年货币政策宜稳中趋松，为未来收紧预留空间",
+        "title_eng": "Sheng Songcheng: Monetary policy should be stable and loose in the second half of the year to reserve room for future tightening",
         "nickname": "经济学家圈",
         "created_at": "2021-07-06",
         "archive": "gh_358c7d1e341c_2021-07-06_2247525107_E4QpkGfV5c.y.tar.gz",
         "censored_date": "2021-07-08 06:01:24",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653062369&idx=2&sn=fde22fbe1ff67f2b3159585f49888a01",
+        "title": "超预期！“深V”反转，大资金抄底了！！",
+        "nickname": "财闻要参",
+        "created_at": "2021-07-06",
+        "archive": "gh_34471e1f4b56_2021-07-06_2653062369_Ex4b3AdWgz.y.tar.gz",
+        "censored_date": "2021-07-08 07:00:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
