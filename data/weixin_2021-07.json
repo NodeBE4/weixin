@@ -3964,7 +3964,8 @@
         "created_at": "2021-07-06",
         "archive": "gh_f3a328e74073_2021-07-06_2651765763_TsYzoSfdLi.y.tar.gz",
         "censored_date": "2021-07-06 12:32:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-07 16:41:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDM5ODY3Ng==&mid=2651765763&idx=2&sn=f7e8b3c9bedf64475985fd3afc2f5503",
@@ -3974,7 +3975,8 @@
         "created_at": "2021-07-06",
         "archive": "gh_f3a328e74073_2021-07-06_2651765763_dJ09QXYDbK.y.tar.gz",
         "censored_date": "2021-07-06 12:32:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-07 16:40:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247524380&idx=2&sn=54ada26a3945550c619af12ee72935d4",
@@ -4385,6 +4387,28 @@
         "created_at": "2021-07-07",
         "archive": "gh_114e76fd6e5d_2021-07-07_2247584920_ZnBhycm0FP.y.tar.gz",
         "censored_date": "2021-07-07 15:38:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-07 17:02:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzMwNjM0MA==&mid=2650877886&idx=1&sn=99e71e0523c3b6338ac2faa54e80df30",
+        "title": "突发！姚老板旗下千亿级投资平台被下调评级展望，曾深度参与“宝万之争”",
+        "title_eng": "Burst! Boss Yao’s 100 billion-level investment platform was downgraded and its outlook was downgraded, and he was deeply involved in the Bao Wan dispute",
+        "nickname": "中国证券报",
+        "created_at": "2021-07-05",
+        "archive": "gh_cbbad4c1d33c_2021-07-05_2650877886_HAmdC13csz.y.tar.gz",
+        "censored_date": "2021-07-07 16:59:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-06 11:00:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODQ5ODE5Ng==&mid=2651247931&idx=1&sn=787c94fc4a5b8228a3e48eb2efb3f5ef",
+        "title": "第12届全球深度报道大会奖学金开放申请啦！！",
+        "title_eng": "The 12th Global In-Depth Reporting Conference Scholarship is open for application! !",
+        "nickname": "全球深度报道网",
+        "created_at": "2021-07-07",
+        "archive": "gh_8abc654c861a_2021-07-07_2651247931_gRF2neE39M.y.tar.gz",
+        "censored_date": "2021-07-07 16:33:49",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
