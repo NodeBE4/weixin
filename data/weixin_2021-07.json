@@ -4368,7 +4368,8 @@
         "created_at": "2021-07-06",
         "archive": "gh_26762a56c129_2021-07-06_2247490072_jcZ2rYUipn.y.tar.gz",
         "censored_date": "2021-07-07 13:02:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-08 12:42:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDM5NTc0Ng==&mid=2654448790&idx=4&sn=4dba78c3b2553e7007d5585a6e4242de",
@@ -4518,7 +4519,7 @@
         "archive": "gh_fd5f7267524b_2021-07-06_2247522343_FSEW2do0pg.y.tar.gz",
         "censored_date": "2021-07-08 05:48:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-07 01:06:50"
+        "update_date": "2021-07-08 12:48:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247504459&idx=2&sn=91b2eea1512fc5f35d59f3e077993e7b",
@@ -4614,6 +4615,15 @@
         "created_at": "2021-07-06",
         "archive": "gh_088decdf1338_2021-07-06_2650008057_B3D8zowphn.y.tar.gz",
         "censored_date": "2021-07-08 12:26:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxODY1NA==&mid=2247519620&idx=3&sn=717833a02911941aa9d17a3910d69046",
+        "title": "法学期刊新格局 | 《湖湘法学评论》正式创刊",
+        "nickname": "法学学术前沿",
+        "created_at": "2021-07-08",
+        "archive": "gh_997758c7ed25_2021-07-08_2247519620_QCbHOlsPWV.y.tar.gz",
+        "censored_date": "2021-07-08 12:40:24",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
