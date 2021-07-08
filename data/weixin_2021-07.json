@@ -4445,7 +4445,7 @@
         "archive": "gh_85623621a9c6_2021-07-07_2651172551_Nrn1hoKSet.y.tar.gz",
         "censored_date": "2021-07-07 18:57:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-07 21:26:08"
+        "update_date": "2021-07-09 03:35:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjM1NjAzNA==&mid=2669471341&idx=1&sn=3eced8ef6c71199ff170dfdca46e252f",
@@ -4724,7 +4724,8 @@
         "created_at": "2021-07-06",
         "archive": "gh_dddf1591efa6_2021-07-06_2650017869_L3tFRDVhWy.y.tar.gz",
         "censored_date": "2021-07-08 23:31:31",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-09 04:15:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDg5MzMwMQ==&mid=2671265934&idx=1&sn=d387d2afd4b1a3c39f11d3e5545defc3",
@@ -4761,6 +4762,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651178098&idx=2&sn=7aff3ef0358a5d6371e00756d1f13955",
         "title": "普通女生如何把自己打扮成美女？！",
+        "title_eng": "How do ordinary girls dress themselves up as beautiful women? !",
         "nickname": "我是种草囤货菌",
         "created_at": "2021-07-04",
         "archive": "gh_541a7f1cf2c2_2021-07-04_2651178098_YVhJnpvs5O.y.tar.gz",
@@ -4771,11 +4773,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653450269&idx=3&sn=d8f366b1ff41994bf803be0e6811dc6d",
         "title": "王建军售股李从瑞救场，中国宏泰求生丨公司",
+        "title_eng": "Wang Jianjun sells shares and Li Congrui saves his life, China Hongtai Survival丨The company",
         "nickname": "中国房地产报",
         "created_at": "2021-07-07",
         "archive": "gh_3dda95af34d0_2021-07-07_2653450269_NtkaX9dF5b.y.tar.gz",
         "censored_date": "2021-07-09 03:19:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-07 23:29:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654093813&idx=2&sn=f6eece4adf5d57d31e1352acff63e67e",
+        "title": "总统夫人同时遇刺，不治身亡",
+        "nickname": "参考消息",
+        "created_at": "2021-07-07",
+        "archive": "gh_2837b93c1976_2021-07-07_2654093813_WEJCqxLGd8.y.tar.gz",
+        "censored_date": "2021-07-09 04:07:37",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
