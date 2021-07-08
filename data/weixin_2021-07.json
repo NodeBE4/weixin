@@ -4590,6 +4590,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650183490&idx=2&sn=233ff096f26028e60c98aec7e7f49e6d",
         "title": "我仔细看了院士被殴打15分钟完整视频",
+        "title_eng": "I watched carefully the 15-minute full video of the assault of the academician",
         "nickname": "经济学博士",
         "created_at": "2021-07-05",
         "archive": "gh_e1a04d0a7b17_2021-07-05_2650183490_AhoHpgq05y.y.tar.gz",
@@ -4605,7 +4606,8 @@
         "created_at": "2021-07-08",
         "archive": "gh_95b0feda9646_2021-07-08_2653465681_uWKUPsTBw1.y.tar.gz",
         "censored_date": "2021-07-08 11:57:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-08 14:33:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2650008057&idx=7&sn=7ca92d5e3a2fb0b8622d2b2f4e8f541a",
@@ -4620,10 +4622,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxODY1NA==&mid=2247519620&idx=3&sn=717833a02911941aa9d17a3910d69046",
         "title": "法学期刊新格局 | 《湖湘法学评论》正式创刊",
+        "title_eng": "New pattern of law journals | Huxiang Law Review officially launched",
         "nickname": "法学学术前沿",
         "created_at": "2021-07-08",
         "archive": "gh_997758c7ed25_2021-07-08_2247519620_QCbHOlsPWV.y.tar.gz",
         "censored_date": "2021-07-08 12:40:24",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650477771&idx=2&sn=64dc5e7ddb66d0c1727b9cd182da3aa5",
+        "title": "“二婚”和“复婚”哪个更幸福？过来人坦白，意料之外！",
+        "title_eng": "Which is the happier second marriage or re-marriage? People who came here confessed, unexpectedly!",
+        "nickname": "南师国学堂",
+        "created_at": "2021-07-07",
+        "archive": "gh_45de294b7642_2021-07-07_2650477771_XWCU7V035v.y.tar.gz",
+        "censored_date": "2021-07-08 13:28:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-07 09:40:37"
     }
 ]
