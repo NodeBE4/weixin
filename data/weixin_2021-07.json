@@ -4750,7 +4750,7 @@
         "archive": "gh_b41ef7c2cea1_2021-07-08_2247546019_iTvaN5e16Z.y.tar.gz",
         "censored_date": "2021-07-09 00:05:23",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-07-09 00:21:50"
+        "update_date": "2021-07-10 05:25:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652032163&idx=4&sn=d8b4ad17daee237b7d32e2832e34d6e8",
@@ -5051,5 +5051,24 @@
         "censored_date": "2021-07-10 03:29:11",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-09 19:08:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650853254&idx=2&sn=ac86bbe6372d5af45dde2939618a2087",
+        "title": "深度学习知识体系总结(2021版)开放下载了！",
+        "nickname": "CSDN",
+        "created_at": "2021-07-08",
+        "archive": "gh_5c0f5c561574_2021-07-08_2650853254_tyYEnHG6PU.y.tar.gz",
+        "censored_date": "2021-07-10 04:47:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-08 22:46:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651920305&idx=1&sn=44c9e200073cd386923f2652bee13574",
+        "title": "太惨了！港股暴挫800点，中国一哥蒸发2.4万亿！发生了什么？欧美股市全线杀跌，A股双创行情能否持续？",
+        "nickname": "券商中国",
+        "created_at": "2021-07-08",
+        "archive": "gh_6df2146bcb82_2021-07-08_2651920305_feqokcZV6y.y.tar.gz",
+        "censored_date": "2021-07-10 05:12:40",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
