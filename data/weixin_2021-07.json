@@ -4998,7 +4998,8 @@
         "created_at": "2021-07-08",
         "archive": "gh_088decdf1338_2021-07-08_2650008466_MpCAKOBL1g.y.tar.gz",
         "censored_date": "2021-07-10 01:12:45",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-10 05:40:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247503539&idx=2&sn=03162d804ebe4b3a209703f7593cc5fd",
@@ -5055,6 +5056,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650853254&idx=2&sn=ac86bbe6372d5af45dde2939618a2087",
         "title": "深度学习知识体系总结(2021版)开放下载了！",
+        "title_eng": "The summary of the deep learning knowledge system (2021 version) is open for download!",
         "nickname": "CSDN",
         "created_at": "2021-07-08",
         "archive": "gh_5c0f5c561574_2021-07-08_2650853254_tyYEnHG6PU.y.tar.gz",
@@ -5065,10 +5067,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651920305&idx=1&sn=44c9e200073cd386923f2652bee13574",
         "title": "太惨了！港股暴挫800点，中国一哥蒸发2.4万亿！发生了什么？欧美股市全线杀跌，A股双创行情能否持续？",
+        "title_eng": "It's too awful! Hong Kong stocks plummeted by 800 points, and China's first brother lost 2.4 trillion yuan! what happened? European and American stock markets fell across the board, can the A-share double-enterprise market continue?",
         "nickname": "券商中国",
         "created_at": "2021-07-08",
         "archive": "gh_6df2146bcb82_2021-07-08_2651920305_feqokcZV6y.y.tar.gz",
         "censored_date": "2021-07-10 05:12:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247640841&idx=2&sn=b0a3a8c86818074a76ec6bb575137d94",
+        "title": "“私募一哥”徐翔明天出狱？青岛监狱回应",
+        "nickname": "新京报",
+        "created_at": "2021-07-08",
+        "archive": "gh_16cc427c8e02_2021-07-08_2247640841_N3mOBYoP2Q.y.tar.gz",
+        "censored_date": "2021-07-10 05:44:01",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
