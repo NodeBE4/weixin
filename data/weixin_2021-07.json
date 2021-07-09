@@ -4835,7 +4835,8 @@
         "created_at": "2021-07-08",
         "archive": "gh_26762a56c129_2021-07-08_2247490084_AiZlLn83ky.y.tar.gz",
         "censored_date": "2021-07-09 08:50:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-09 11:34:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0MzM3ODc2OQ==&mid=2247549803&idx=3&sn=ab60ce4d10f62901c6cd01b52871496d",
@@ -4845,7 +4846,8 @@
         "created_at": "2021-07-09",
         "archive": "gh_2b00d0c19228_2021-07-09_2247549803_qMeXiOt2yQ.y.tar.gz",
         "censored_date": "2021-07-09 08:44:06",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-09 11:34:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Mjg0NTkzMw==&mid=2649825423&idx=3&sn=d4590172cdf4357a8d0442b901ff7cd1",
@@ -4878,5 +4880,16 @@
         "censored_date": "2021-07-09 09:32:23",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-07-08 08:27:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490081&idx=2&sn=da17fac1a42b5da3cee7c611cb2c2c54",
+        "title": "八万八！“天价蚕丝被”内幕被媒体曝光！这个叫燕子的女人火了...",
+        "title_eng": "Eighty-eight! The inside story of Sky-Priced Silk Quilt was exposed by the media! This woman named Yanzi is on fire...",
+        "nickname": "世纪观察",
+        "created_at": "2021-07-07",
+        "archive": "gh_26762a56c129_2021-07-07_2247490081_brczxSBfHP.y.tar.gz",
+        "censored_date": "2021-07-09 10:39:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-08 09:50:50"
     }
 ]
