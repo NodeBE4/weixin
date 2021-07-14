@@ -5569,7 +5569,7 @@
         "archive": "gh_f252ce5c8740_2021-07-09_2650382347_i048RlGUIc.y.tar.gz",
         "censored_date": "2021-07-13 13:09:02",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-07-13 15:36:48"
+        "update_date": "2021-07-14 16:19:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652240016&idx=2&sn=3351cd6b06c843b2fe859acd49f714f7",
@@ -5579,7 +5579,8 @@
         "created_at": "2021-07-13",
         "archive": "gh_fb258eeffb8d_2021-07-13_2652240016_380Txes9fY.y.tar.gz",
         "censored_date": "2021-07-13 14:49:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-14 16:11:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247489860&idx=2&sn=2b5f593795721db666d28d7cc4baa238",
@@ -5813,6 +5814,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247585776&idx=1&sn=2d4c68802bd6415ec7391e32c960cb2a",
         "title": "武汉速度：100000000000000000（别数了，这是十亿亿）",
+        "title_eng": "Wuhan speed: 100 000 000 000 000 (don't count, this is one billion billion)",
         "nickname": "量子位",
         "created_at": "2021-07-13",
         "archive": "gh_114e76fd6e5d_2021-07-13_2247585776_JherpofVXs.y.tar.gz",
@@ -5823,6 +5825,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NDUyNTMwOA==&mid=2247488720&idx=2&sn=23c16166974fae60038e8a31dc48d835",
         "title": "张新年律师：不把他送进监狱，不让他的罪恶付出代价，我从此不会再接一个案子......",
+        "title_eng": "Lawyer Zhang Xinnian: If you don't send him to jail, don't let his crimes pay the price, I will never take another case...",
         "nickname": "莹莹微观",
         "created_at": "2021-07-14",
         "archive": "gh_21feae4664bb_2021-07-14_2247488720_sJCGYHID0W.y.tar.gz",
@@ -5832,10 +5835,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjMxNTM0NzE0MQ==&mid=2653388270&idx=1&sn=778db2bf1c80ad912c4c7f1945cd2352",
         "title": "苏宁变阵，90后 “少帅”上场",
+        "title_eng": "Suning's changes, the post-90s young marshal comes on stage",
         "nickname": "天下网商",
         "created_at": "2021-07-14",
         "archive": "wxid_4332343323311_2021-07-14_2653388270_a9IMpkuStx.y.tar.gz",
         "censored_date": "2021-07-14 14:42:34",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490303&idx=1&sn=b1d587c424e39809c4dfc9e886026334",
+        "title": "“这才发现徐财厚说的是老实话”",
+        "title_eng": "It was only then that Xu Caihou was telling the truth.",
+        "nickname": "江南隐士",
+        "created_at": "2021-07-13",
+        "archive": "gh_65f5271d2a21_2021-07-13_2247490303_ihyWQvC7N8.y.tar.gz",
+        "censored_date": "2021-07-14 16:12:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-13 18:26:11"
     }
 ]
