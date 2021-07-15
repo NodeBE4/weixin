@@ -5918,7 +5918,7 @@
         "archive": "gh_bf54f24b2e87_2021-07-12_2247515028_imp0AyUbBM.y.tar.gz",
         "censored_date": "2021-07-14 20:03:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-13 18:58:04"
+        "update_date": "2021-07-15 20:22:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247584497&idx=5&sn=ab2894c038ebd6408d4a9d631b98a0ad",
@@ -5950,7 +5950,8 @@
         "created_at": "2021-07-14",
         "archive": "gh_b0f015892c4a_2021-07-14_2653008718_WSEoFU5yTu.y.tar.gz",
         "censored_date": "2021-07-15 00:52:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-15 20:19:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTAwMDczNQ==&mid=2649939049&idx=1&sn=d2259595d867e45651848035aad481bc",
@@ -6050,6 +6051,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653303547&idx=3&sn=f69ef852be64bce34e94f11c2b11bf53",
         "title": "内蒙古两地发文：未接种新冠疫苗者或影响看病、入学！",
+        "title_eng": "Two places in Inner Mongolia issued a document: Those who have not received the new crown vaccine may affect medical treatment and school enrollment!",
         "nickname": "内蒙古日报",
         "created_at": "2021-07-14",
         "archive": "gh_b7047f0cbe74_2021-07-14_2653303547_gkb2dJEeFz.y.tar.gz",
@@ -6060,10 +6062,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODMwMTgxOA==&mid=2734703511&idx=1&sn=d7b2657207789920240ca8920ee0b1df",
         "title": "劉統：我的師承與治學經歷 | 《尋路》序言",
+        "title_eng": "Liu Tong: My Teaching and Learning Experience | Preface to Finding Ways",
         "nickname": "不激不随",
         "created_at": "2021-07-14",
         "archive": "gh_ab9c599e80a6_2021-07-14_2734703511_yrc8Pu2m4K.y.tar.gz",
         "censored_date": "2021-07-15 19:16:17",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515080&idx=1&sn=a58027193e5009379262e1f0d3658ca7",
+        "title": "王刚被查",
+        "title_eng": "Wang Gang was investigated",
+        "nickname": "法苑茶语",
+        "created_at": "2021-07-14",
+        "archive": "gh_bf54f24b2e87_2021-07-14_2247515080_CtI4HY1UjV.y.tar.gz",
+        "censored_date": "2021-07-15 19:26:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-14 20:05:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2650009798&idx=7&sn=b11d96441983c1fd65d16f16d4be4ffd",
+        "title": "微信必备的几个宝藏公众号，只有1%的人知道",
+        "title_eng": "Only 1% of people know about several treasure public accounts that are necessary for WeChat",
+        "nickname": "智谷趋势",
+        "created_at": "2021-07-14",
+        "archive": "gh_088decdf1338_2021-07-14_2650009798_txRW90FBNK.y.tar.gz",
+        "censored_date": "2021-07-15 19:43:48",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650065190&idx=4&sn=e48dcabb9e47f99814b8d929f7f896bf",
+        "title": "渣女的报应。。。",
+        "title_eng": "The retribution of the scum. . .",
+        "nickname": "吐槽星君",
+        "created_at": "2021-07-14",
+        "archive": "gh_45220e40f13c_2021-07-14_2650065190_Bskam63ZJe.y.tar.gz",
+        "censored_date": "2021-07-15 19:49:33",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
