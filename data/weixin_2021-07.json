@@ -6186,7 +6186,8 @@
         "created_at": "2021-07-14",
         "archive": "gh_88e9499896f5_2021-07-14_2247503004_N4XEIkjLDZ.y.tar.gz",
         "censored_date": "2021-07-16 01:54:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-16 10:27:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651846793&idx=6&sn=a025d2fd239b490bea48c99067dae0ff",
@@ -6206,7 +6207,8 @@
         "created_at": "2021-07-15",
         "archive": "gh_88e9499896f5_2021-07-15_2247503066_SZMnhjxwFp.y.tar.gz",
         "censored_date": "2021-07-16 01:51:10",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-16 10:26:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NDUyNTMwOA==&mid=2247488720&idx=1&sn=cee37efeb4ea5761275415e1b94628b7",
@@ -6218,5 +6220,15 @@
         "censored_date": "2021-07-16 02:49:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-14 14:37:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODk0ODE3MQ==&mid=2247493463&idx=1&sn=0969aca8d1ede4bc5a086e9a41a51b5f",
+        "title": "通胀已不是当前海外市场的主逻辑【国盛宏观熊园团队】",
+        "title_eng": "Inflation is no longer the main logic of the current overseas market [Guosheng Macro Bear Park Team]",
+        "nickname": "熊园观察",
+        "created_at": "2021-07-14",
+        "archive": "gh_b8da3439a34e_2021-07-14_2247493463_O1l6AheZHL.y.tar.gz",
+        "censored_date": "2021-07-16 09:49:40",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
