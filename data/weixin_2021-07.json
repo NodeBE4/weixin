@@ -6159,7 +6159,7 @@
         "archive": "gh_5a083ac7d06d_2021-07-15_2650110199_2tvPqTbgao.y.tar.gz",
         "censored_date": "2021-07-15 23:45:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-17 08:16:13"
+        "update_date": "2021-07-17 10:29:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651871608&idx=3&sn=092ed2dec1f7d2d32ff52cfedfe1f3c8",
@@ -6203,7 +6203,7 @@
         "archive": "gh_93185b95671c_2021-07-15_2651846793_97GzDE10sA.y.tar.gz",
         "censored_date": "2021-07-16 02:09:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-17 04:58:17"
+        "update_date": "2021-07-17 10:32:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzUyOTkyNQ==&mid=2247503066&idx=1&sn=ca8d2d191743ff80b9578461d78beced",
@@ -6489,6 +6489,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247493702&idx=2&sn=7a722555a1bf75a0aedbd59b67616fc7",
         "title": "广州表仿真度达到98%是真的吗？对比专柜后我终于知道答案了......",
+        "title_eng": "Is it true that the simulation degree of Guangzhou watch reaches 98%? After comparing the counters, I finally know the answer...",
         "nickname": "独眼辣评",
         "created_at": "2021-07-14",
         "archive": "gh_0e52cf0e55c4_2021-07-14_2247493702_HVoYbe6QMy.y.tar.gz",
@@ -6499,6 +6500,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247493685&idx=2&sn=86a4dec58192dd2ca91af4ac0a2cfa10",
         "title": "神奇！你的生肖决定了你的命运，看看你的生肖下半年运势如何！",
+        "title_eng": "magical! Your zodiac sign determines your destiny. See how your fortune is in the second half of the year!",
         "nickname": "独眼辣评",
         "created_at": "2021-07-13",
         "archive": "gh_0e52cf0e55c4_2021-07-13_2247493685_RfOs0PJ6N0.y.tar.gz",
@@ -6535,7 +6537,8 @@
         "created_at": "2021-07-15",
         "archive": "gh_8bba5f4e6454_2021-07-15_2653211984_5xG3HBmDYv.y.tar.gz",
         "censored_date": "2021-07-17 07:13:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-17 09:29:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTE1MDExNA==&mid=2652268008&idx=3&sn=0a0fd2446ad3cceed6974e249ca7f88e",
@@ -6546,7 +6549,7 @@
         "archive": "gh_955cd183e192_2021-07-15_2652268008_yQz1wZdsM6.y.tar.gz",
         "censored_date": "2021-07-17 08:14:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-16 01:37:18"
+        "update_date": "2021-07-17 10:28:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247489986&idx=3&sn=c30438ddd22133df08394b645246455c",
@@ -6569,5 +6572,16 @@
         "censored_date": "2021-07-17 05:34:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-17 07:51:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247527416&idx=2&sn=2291774ab66d34dc31d797b1b30d60d3",
+        "title": "30-50岁零基础如何学国画？太详细了！",
+        "title_eng": "How to learn Chinese painting for 30-50 years old with zero foundation? Too detailed!",
+        "nickname": "今读史",
+        "created_at": "2021-07-13",
+        "archive": "gh_5e008ceefb25_2021-07-13_2247527416_oGk7KixUdL.y.tar.gz",
+        "censored_date": "2021-07-17 09:30:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-15 16:43:10"
     }
 ]
