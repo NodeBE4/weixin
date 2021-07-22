@@ -7463,6 +7463,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650069045&idx=7&sn=92120c7ac5e8576569b3a09739fdf4e3",
         "title": "麻醉失效，他目睹了医生杀死自己的全过程",
+        "title_eng": "The anesthesia failed and he witnessed the whole process of the doctor killing himself",
         "nickname": "吐槽星君",
         "created_at": "2021-07-20",
         "archive": "gh_45220e40f13c_2021-07-20_2650069045_Q7ah2MnZ0U.y.tar.gz",
@@ -7473,10 +7474,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjQ1NDcwNg==&mid=2651107679&idx=3&sn=e662e8f79ff89778c1ca5c2057075513",
         "title": "答卷！九宫格带你看赣州乡村振兴！",
+        "title_eng": "Answer the paper! Jiugongge takes you to see the revitalization of Ganzhou countryside!",
         "nickname": "赣南日报",
         "created_at": "2021-07-22",
         "archive": "gh_0cfd33f7cbee_2021-07-22_2651107679_oHwfE3UlG4.y.tar.gz",
         "censored_date": "2021-07-22 21:58:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTY4MTI0Mw==&mid=2247598853&idx=8&sn=344c72f77ede6d787919277f242504d9",
+        "title": "【融媒体发布】新源新闻（附：自然灾害安全防范指南）",
+        "title_eng": "[Released by Rong Media] Xinyuan News (Attached: Guide to Natural Disaster Safety Prevention)",
+        "nickname": "新源零距离",
+        "created_at": "2021-07-22",
+        "archive": "gh_8dd6b5346ab2_2021-07-22_2247598853_6B1I0YvRwe.y.tar.gz",
+        "censored_date": "2021-07-22 22:31:28",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
