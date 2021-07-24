@@ -7768,7 +7768,8 @@
         "created_at": "2021-07-23",
         "archive": "gh_93185b95671c_2021-07-23_2651847987_uJfbyPMYjB.y.tar.gz",
         "censored_date": "2021-07-24 01:32:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-24 20:07:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247520599&idx=3&sn=92bc7506c94d59de72bc3342623a3eff",
@@ -7890,11 +7891,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247493072&idx=2&sn=26337a31960f32adcb95c65a6913e46e",
         "title": "太辛苦的钱，不建议你去挣",
+        "title_eng": "Too hard money, I do not recommend you to earn",
         "nickname": "创投新风向",
         "created_at": "2021-07-22",
         "archive": "gh_46fa18dba691_2021-07-22_2247493072_h6qp2riAsI.y.tar.gz",
         "censored_date": "2021-07-24 18:31:20",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-24 01:24:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MTAxMDI0OA==&mid=2247500959&idx=5&sn=06c3bc019324200a1ed9ad1adc886f0b",
+        "title": "这才是真正的知识分子！",
+        "title_eng": "This is the real intellectual!",
+        "nickname": "绝佳视讯",
+        "created_at": "2021-07-24",
+        "archive": "gh_10d259dab2ed_2021-07-24_2247500959_LfDHy6IBho.y.tar.gz",
+        "censored_date": "2021-07-24 19:42:37",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-24 01:59:25"
     }
 ]
