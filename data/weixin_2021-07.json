@@ -7628,7 +7628,7 @@
         "archive": "gh_088decdf1338_2021-07-22_2650011368_g0aWZ0jNxH.y.tar.gz",
         "censored_date": "2021-07-23 17:39:43",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-22 22:23:19"
+        "update_date": "2021-07-24 15:09:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTY2NjcwMA==&mid=2650784871&idx=2&sn=c1270ef7668c2c40e9d543f16c0762a1",
@@ -7692,7 +7692,8 @@
         "created_at": "2021-07-23",
         "archive": "gh_99175221837b_2021-07-23_2650112005_IkqT0hAbwd.y.tar.gz",
         "censored_date": "2021-07-23 21:38:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-24 15:08:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651847987&idx=1&sn=0130f0bff44dcbd732f02d2f23e55870",
@@ -7842,5 +7843,14 @@
         "censored_date": "2021-07-24 13:33:25",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-07-23 18:42:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0MDYzMzIxNA==&mid=2247517579&idx=1&sn=1fb8abfe7c5cfba477588b5f2ff52f24",
+        "title": "总站动态 | 总站召开2021年度上半年工作总结暨“十四五”监测事业发展思路务虚会",
+        "nickname": "中国环境监测",
+        "created_at": "2021-07-24",
+        "archive": "gh_fbf78f223631_2021-07-24_2247517579_RMGXti58KW.y.tar.gz",
+        "censored_date": "2021-07-24 14:58:59",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
