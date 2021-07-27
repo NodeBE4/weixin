@@ -8132,7 +8132,8 @@
         "created_at": "2021-07-26",
         "archive": "gh_a09deab6adec_2021-07-26_2657580923_w9dUqXLn1t.y.tar.gz",
         "censored_date": "2021-07-26 21:16:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-27 13:33:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651412570&idx=2&sn=3c3315c32b871622798e9db97d44c2ce",
@@ -8230,5 +8231,37 @@
         "censored_date": "2021-07-27 08:19:17",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-07-26 12:09:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTMxMTc4MA==&mid=2649538256&idx=2&sn=736e66b29326d9ea34f9456c8216a2ab",
+        "title": "双减政策落地后企业慌了：重大不利影响！这些公司这样转型",
+        "title_eng": "After the implementation of the double reduction policy, the company panicked: a major adverse impact! These companies are transforming like this",
+        "nickname": "ZAKER",
+        "created_at": "2021-07-26",
+        "archive": "gh_e3e018a7e41b_2021-07-26_2649538256_7zXEj2NcAL.y.tar.gz",
+        "censored_date": "2021-07-27 13:47:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-26 21:23:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5MDMyMjQyMg==&mid=2247519896&idx=2&sn=9f76bdfd88f81147d2ff8b30229a7871",
+        "title": "《经济学人》最新社论：拜登正在对中国做什么？",
+        "title_eng": "The Economist latest editorial: What is Biden doing with China?",
+        "nickname": "思想潮",
+        "created_at": "2021-07-26",
+        "archive": "gh_9b8226d6167e_2021-07-26_2247519896_SLjzfBpeDr.y.tar.gz",
+        "censored_date": "2021-07-27 14:15:02",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-07-26 22:06:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247534841&idx=1&sn=8f7f41364d70aad37e062c6f18fbd71b",
+        "title": "抱树9小时获救的6岁女孩，有了新消息！",
+        "title_eng": "The 6-year-old girl who was rescued after holding a tree for 9 hours has new news!",
+        "nickname": "万小刀",
+        "created_at": "2021-07-26",
+        "archive": "gh_db3c2486e7de_2021-07-26_2247534841_MGF2DqSuRY.y.tar.gz",
+        "censored_date": "2021-07-27 14:08:24",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
