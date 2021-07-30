@@ -8681,7 +8681,8 @@
         "created_at": "2021-07-29",
         "archive": "gh_b8fe66f53662_2021-07-29_2652207707_38P57MIwqN.y.tar.gz",
         "censored_date": "2021-07-29 14:17:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-30 20:20:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515417&idx=3&sn=146d7356d64d720ee90cdf5bd2237499",
@@ -8922,6 +8923,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490333&idx=6&sn=f04ed5854cc69d49af846c8a9719acc0",
         "title": "郑强教授犀利演讲：我们的尴尬！",
+        "title_eng": "Professor Zheng Qiang's sharp speech: Our embarrassment!",
         "nickname": "江南隐士",
         "created_at": "2021-07-28",
         "archive": "gh_65f5271d2a21_2021-07-28_2247490333_cKkeTVFglG.y.tar.gz",
@@ -8931,10 +8933,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490333&idx=7&sn=8343def1d5b480952456d5ca3150a1a5",
         "title": "我们不可能永远把新冠病毒拦在国门之外",
+        "title_eng": "We can't keep the new crown virus out of our country forever",
         "nickname": "江南隐士",
         "created_at": "2021-07-28",
         "archive": "gh_65f5271d2a21_2021-07-28_2247490333_dyGS7m392R.y.tar.gz",
         "censored_date": "2021-07-30 19:05:25",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxOTMxNTUxNw==&mid=2651276444&idx=1&sn=2631f7bc57b680db5b5f51c813c9223a",
+        "title": "为什么说2008奥运会开幕式是永远的神",
+        "title_eng": "Why is the opening ceremony of the 2008 Olympic Games a God forever",
+        "nickname": "X博士",
+        "created_at": "2021-07-26",
+        "archive": "gh_c7c17772d277_2021-07-26_2651276444_p57Ro48qQA.y.tar.gz",
+        "censored_date": "2021-07-30 19:54:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-29 16:40:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTIxMjEzMzc0MQ==&mid=2671865166&idx=1&sn=83fa904f01a204b9e8075cd18cf8ad79",
+        "title": "刚刚，浙江明确：出入这些场所需配合疫苗接种查验",
+        "title_eng": "Just now, Zhejiang has made it clear that it is necessary to cooperate with vaccination inspections when entering and exiting these venues",
+        "nickname": "钱江晚报",
+        "created_at": "2021-07-30",
+        "archive": "wxid_9251842518611_2021-07-30_2671865166_jL7TiWek6Z.y.tar.gz",
+        "censored_date": "2021-07-30 19:27:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-30 17:22:03"
     }
 ]
