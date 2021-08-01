@@ -1239,7 +1239,7 @@
         "archive": "gh_05f192fce051_2021-07-30_2653513589_N86VBReO9k.y.tar.gz",
         "censored_date": "2021-08-01 00:33:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-07-30 23:49:04"
+        "update_date": "2021-08-02 00:47:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTc1NTg0Mg==&mid=2649312447&idx=2&sn=69e61f418d94faa320deb3dc9122538b",
@@ -1249,7 +1249,8 @@
         "created_at": "2021-07-31",
         "archive": "gh_a092264ea31d_2021-07-31_2649312447_Cd4oPlaF3c.y.tar.gz",
         "censored_date": "2021-08-01 00:37:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-02 00:47:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247505520&idx=1&sn=2b9e0c086e2a8446c7c6e0ea0b20ca1e",
@@ -1259,7 +1260,8 @@
         "created_at": "2021-07-29",
         "archive": "gh_69f7ba479665_2021-07-29_2247505520_zT5lj0BP7n.y.tar.gz",
         "censored_date": "2021-08-01 01:35:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-02 00:48:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247494111&idx=1&sn=4de7cb2cd449f12a5dc50b3dbb3114a0",
@@ -1406,10 +1408,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTM2MTIyMw==&mid=2247495851&idx=1&sn=f5425944c146bd41bf39ad473d547883",
         "title": "吴亦凡被刑拘，涉嫌强奸罪",
+        "title_eng": "Wu Yifan was detained on suspicion of rape",
         "nickname": "逍遥岛主",
         "created_at": "2021-08-01",
         "archive": "gh_68b4f7cb2924_2021-08-01_2247495851_8IvpKCS2Le.y.tar.gz",
         "censored_date": "2021-08-02 00:33:14",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653452668&idx=2&sn=430661730b344b8819410825cc5106f6",
+        "title": "资金紧张！北京昌平绿地慧谷延期交付 科研人员急呼“怕住不上”丨楼市",
+        "title_eng": "Funds are tight! Beijing Changping Greenland Huigu postponed delivery, scientific researchers hurriedly called fear not to live丨Property market",
+        "nickname": "中国房地产报",
+        "created_at": "2021-07-31",
+        "archive": "gh_3dda95af34d0_2021-07-31_2653452668_BJThyiCo94.y.tar.gz",
+        "censored_date": "2021-08-02 01:20:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-07-31 12:48:31"
     }
 ]
