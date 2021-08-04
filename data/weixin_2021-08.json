@@ -1592,7 +1592,7 @@
         "archive": "gh_358c7d1e341c_2021-08-02_2247527681_7iIFA6x08B.y.tar.gz",
         "censored_date": "2021-08-02 20:31:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-04 02:55:46"
+        "update_date": "2021-08-04 07:27:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTc1NTg0Mg==&mid=2649312472&idx=2&sn=5835c5353e982c747873a7df2d03938b",
@@ -2078,16 +2078,27 @@
         "archive": "gh_c7f9947afc98_2021-08-01_2247490714_tc1smXBewl.y.tar.gz",
         "censored_date": "2021-08-04 03:30:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-03 02:08:27"
+        "update_date": "2021-08-04 07:59:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653066362&idx=2&sn=996e442fc31fc96f1e79d87037015ba7",
         "title": "终于来了！高层定调三大方向，A股或将迎来大转折！",
+        "title_eng": "finally come! The senior management sets three major directions, and A shares may usher in a big turning point!",
         "nickname": "财闻要参",
         "created_at": "2021-08-02",
         "archive": "gh_34471e1f4b56_2021-08-02_2653066362_07EeYPx48B.y.tar.gz",
         "censored_date": "2021-08-04 06:45:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-03 01:12:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655702808&idx=2&sn=5f95d0067a453dec70b00af7acf56c6a",
+        "title": "一场奥运会，戳穿了那些祖传的日本“神话”",
+        "nickname": "虎嗅APP",
+        "created_at": "2021-08-01",
+        "archive": "wxid_7620846208112_2021-08-01_2655702808_DfEbCVHZ2o.y.tar.gz",
+        "censored_date": "2021-08-04 08:42:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-01 23:13:39"
     }
 ]
