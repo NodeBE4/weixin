@@ -2247,7 +2247,7 @@
         "archive": "gh_a7bbb71d655c_2021-08-04_2651338881_1lGtHefFd5.y.tar.gz",
         "censored_date": "2021-08-04 19:23:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-04 16:56:14"
+        "update_date": "2021-08-05 20:51:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490348&idx=2&sn=60efc488b969e19cc73e7dee921a7a46",
@@ -2662,6 +2662,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247527741&idx=2&sn=e9bfbf20b31aae5240ff497fb8bc742d",
         "title": "我，30岁，月薪5000，一年存款20万：不是你不会赚钱，而是你赚钱的方式有问题",
+        "title_eng": "I, 30 years old, have a monthly salary of 5,000, and a deposit of 200,000 a year: It’s not that you can’t make money, but that there’s a problem with the way you make money.",
         "nickname": "今读史",
         "created_at": "2021-08-04",
         "archive": "gh_5e008ceefb25_2021-08-04_2247527741_RDozixOTLb.y.tar.gz",
@@ -2689,5 +2690,15 @@
         "censored_date": "2021-08-05 20:05:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-04 16:21:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493439&idx=5&sn=e812c0e7ee736fb91920b5e6bd940b95",
+        "title": "给我查，我丈夫到底是什么身份？夫人！他...不得了！",
+        "title_eng": "Check it out for me, what is the identity of my husband? lady! He... incredible!",
+        "nickname": "历史微时刻",
+        "created_at": "2021-08-04",
+        "archive": "gh_31930173e92d_2021-08-04_2247493439_RpcFaHU9oP.y.tar.gz",
+        "censored_date": "2021-08-05 21:02:56",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
