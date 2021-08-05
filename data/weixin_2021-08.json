@@ -2345,7 +2345,8 @@
         "created_at": "2021-08-04",
         "archive": "gh_d1dd2906a77a_2021-08-04_2247490295_pOCBoDZ06j.y.tar.gz",
         "censored_date": "2021-08-05 02:15:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-06 05:49:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652123250&idx=1&sn=c0d97cc1c15e5ef8765e28a6e8fb6adb",
@@ -2783,6 +2784,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247523844&idx=1&sn=50ec225111e69de9eed734e2c265e2ab",
         "title": "新华日报：全面叫停校外培训是懒政，并不会减轻家长经济负担",
+        "title_eng": "Xinhua Daily: A complete suspension of off-campus training is a lazy policy and will not reduce the financial burden of parents",
         "nickname": "天狐观察",
         "created_at": "2021-08-04",
         "archive": "gh_fd5f7267524b_2021-08-04_2247523844_aNty7uiMGd.y.tar.gz",
@@ -2802,10 +2804,49 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247523844&idx=4&sn=001ffa66b24b5ed13753a73db5422586",
         "title": "卫健委官员痛批国产疫苗质量问题，揪心！",
+        "title_eng": "Officials from the National Health Commission criticized the quality of domestic vaccines, worrying!",
         "nickname": "天狐观察",
         "created_at": "2021-08-04",
         "archive": "gh_fd5f7267524b_2021-08-04_2247523844_0AyXGTqWMD.y.tar.gz",
         "censored_date": "2021-08-06 05:06:55",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490352&idx=2&sn=2a25f16c41385f43fede972bb911b1e0",
+        "title": "女排兵败奥运这事，现在终于爆出内幕了",
+        "nickname": "江南隐士",
+        "created_at": "2021-08-05",
+        "archive": "gh_65f5271d2a21_2021-08-05_2247490352_w4icPL5gaQ.y.tar.gz",
+        "censored_date": "2021-08-06 05:48:35",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-05 02:14:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491793&idx=1&sn=d4406196638b001b457ff5902a2e4bff",
+        "title": "全城核酸检测！只因“武汉出轨事故与荆州爱情故事”（男女关系太乱）",
+        "nickname": "虎次郎",
+        "created_at": "2021-08-05",
+        "archive": "gh_610312e22ed3_2021-08-05_2247491793_hY3XP2jV8f.y.tar.gz",
+        "censored_date": "2021-08-06 06:08:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491793&idx=2&sn=ab00e2f37c423817b5f4a60c25cce14d",
+        "title": "女排兵败奥运这事，现在终于爆出内幕了",
+        "nickname": "虎次郎",
+        "created_at": "2021-08-05",
+        "archive": "gh_610312e22ed3_2021-08-05_2247491793_vmoB5Xt9yU.y.tar.gz",
+        "censored_date": "2021-08-06 06:08:53",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490352&idx=1&sn=280fc8737b91cd15e7aba59c0aaf4c04",
+        "title": "全城核酸检测！只因“武汉出轨事故与荆州爱情故事”（男女关系太乱）",
+        "nickname": "江南隐士",
+        "created_at": "2021-08-05",
+        "archive": "gh_65f5271d2a21_2021-08-05_2247490352_4NOT8loArd.y.tar.gz",
+        "censored_date": "2021-08-06 05:48:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-05 02:14:02"
     }
 ]
