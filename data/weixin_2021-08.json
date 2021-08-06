@@ -2651,7 +2651,7 @@
         "archive": "gh_a0b79e79b274_2021-08-05_2651348965_VDSqzvsJ4a.y.tar.gz",
         "censored_date": "2021-08-05 17:42:09",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-05 18:18:36"
+        "update_date": "2021-08-06 23:05:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491789&idx=4&sn=8cbac78be02e0e4a45eded25bad51756",
@@ -3021,6 +3021,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzNjE3MDQ1MQ==&mid=2247503713&idx=1&sn=81b778bfd06ca729320072fbb4310588",
         "title": "中美观察 | 美智库建议将商务部纳入情报界——实施美国国家技术战略的计划与行动【走出去智库】",
+        "title_eng": "China-US Observation | US think tanks suggest that the Department of Commerce should be included in the intelligence community-plans and actions for the implementation of the US national technology strategy [Going out of the think tank]",
         "nickname": "走出去智库CGGT",
         "created_at": "2021-08-05",
         "archive": "gh_347b59140947_2021-08-05_2247503713_Hqy4UoZQ7T.y.tar.gz",
@@ -3031,6 +3032,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247647672&idx=3&sn=b5d677152ed13e8d9578a9496384a891",
         "title": "保定一干部被通报为密接者后仍隐瞒行程，市纪委启动问责",
+        "title_eng": "A cadre in Baoding still concealed his itinerary after being notified as a close contact, and the Municipal Commission for Discipline Inspection initiated accountability",
         "nickname": "新京报",
         "created_at": "2021-08-06",
         "archive": "gh_16cc427c8e02_2021-08-06_2247647672_KVu1WMydk2.y.tar.gz",
@@ -3040,6 +3042,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247528160&idx=1&sn=d9df8175fd47765f43c42009c8d7e06b",
         "title": "我靠“刷抖音”赚了8000：这个人人都会得小技能！",
+        "title_eng": "I made 8000 by swiping the vibrato: Everyone will have a small skill!",
         "nickname": "海外财经",
         "created_at": "2021-08-06",
         "archive": "gh_8f29429f71d7_2021-08-06_2247528160_pA5ujvNszZ.y.tar.gz",
@@ -3049,10 +3052,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247559701&idx=3&sn=c3d65d9287dd4769824740f4be8282be",
         "title": "网友建议三校合并，官方回复来了！",
+        "title_eng": "Netizens suggested that the three schools merge, and the official reply is here!",
         "nickname": "青塔",
         "created_at": "2021-08-06",
         "archive": "gh_9eaf123d0c6f_2021-08-06_2247559701_a5kcMuRf3T.y.tar.gz",
         "censored_date": "2021-08-06 22:03:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MDcyMzgwNg==&mid=2247495398&idx=1&sn=0dd3b897c8ebae12b88d912ee2a87487",
+        "title": "政策市！龙头不倒，歌舞升平",
+        "title_eng": "Policy City! The dragon's head will not fall, the singing and dancing will rise to peace",
+        "nickname": "钱老师私人笔记",
+        "created_at": "2021-08-05",
+        "archive": "gh_7fc57d721082_2021-08-05_2247495398_mB4YMwbaej.y.tar.gz",
+        "censored_date": "2021-08-06 22:39:47",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTYzNjk2MA==&mid=2651627133&idx=1&sn=fb6f929e0cc348879a7e088902e8b347",
+        "title": "海口关于调整琼山区云龙镇风险等级的通告",
+        "nickname": "人民网海南频道",
+        "created_at": "2021-08-06",
+        "archive": "gh_355d7095d51f_2021-08-06_2651627133_tV4ux6TJM2.y.tar.gz",
+        "censored_date": "2021-08-06 23:37:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
