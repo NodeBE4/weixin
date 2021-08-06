@@ -2291,7 +2291,7 @@
         "archive": "gh_5c0f5c561574_2021-08-04_2650860248_YbN94rIm2g.y.tar.gz",
         "censored_date": "2021-08-04 22:00:33",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-06 00:12:51"
+        "update_date": "2021-08-07 06:33:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTU5Mzc3Mg==&mid=2650592817&idx=2&sn=e1a20b18dbbd3b34bac3b91d2f6e7c7e",
@@ -2672,7 +2672,7 @@
         "archive": "gh_5e008ceefb25_2021-08-04_2247527741_RDozixOTLb.y.tar.gz",
         "censored_date": "2021-08-05 20:44:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-06 00:59:47"
+        "update_date": "2021-08-07 06:48:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652246086&idx=2&sn=82e2015beaf8f614f675dc143ae0733a",
@@ -3107,11 +3107,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655628699&idx=2&sn=e5e71f58713fef1260241afddf6d057a",
         "title": "定了！夏季高温补贴！",
+        "title_eng": "deal! Summer high temperature subsidy!",
         "nickname": "阿SIR",
         "created_at": "2021-08-04",
         "archive": "gh_0af747913cab_2021-08-04_2655628699_HZzLDeM01C.y.tar.gz",
         "censored_date": "2021-08-07 05:41:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-06 21:58:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxOTA1MDMyNA==&mid=2659741748&idx=1&sn=835ac8cd1a292877bd3cf9ce8cea04cb",
+        "title": "金镖阿訇在首届“会通讲堂”研讨会上的欢迎辞",
+        "nickname": "中正之道",
+        "created_at": "2021-08-06",
+        "archive": "gh_632e2001db6d_2021-08-06_2659741748_A3wgGpr145.y.tar.gz",
+        "censored_date": "2021-08-07 06:39:31",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
