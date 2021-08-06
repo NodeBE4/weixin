@@ -2768,7 +2768,7 @@
         "archive": "gh_06140cfad959_2021-08-04_2247533990_6OK3PTR7cV.y.tar.gz",
         "censored_date": "2021-08-06 04:05:59",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-08-05 01:22:15"
+        "update_date": "2021-08-06 07:55:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247490795&idx=3&sn=948d6f556c140e351c0a52af8482c11e",
@@ -2789,7 +2789,8 @@
         "created_at": "2021-08-04",
         "archive": "gh_fd5f7267524b_2021-08-04_2247523844_aNty7uiMGd.y.tar.gz",
         "censored_date": "2021-08-06 05:06:31",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-06 08:55:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650113578&idx=6&sn=52c17e8ee4428f3dffe734bee2b10ff1",
@@ -2799,7 +2800,8 @@
         "created_at": "2021-08-04",
         "archive": "gh_ae0b732889ae_2021-08-04_2650113578_CxpmSBLjVy.y.tar.gz",
         "censored_date": "2021-08-06 04:43:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-06 08:37:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247523844&idx=4&sn=001ffa66b24b5ed13753a73db5422586",
@@ -2809,7 +2811,8 @@
         "created_at": "2021-08-04",
         "archive": "gh_fd5f7267524b_2021-08-04_2247523844_0AyXGTqWMD.y.tar.gz",
         "censored_date": "2021-08-06 05:06:55",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-06 08:56:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490352&idx=2&sn=2a25f16c41385f43fede972bb911b1e0",
@@ -2856,11 +2859,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247533990&idx=2&sn=fdc6678fbbf63768d08342de062ef7fd",
         "title": "突发！重庆大学女副教授跳楼身亡！群发遗书举报学院领导",
+        "title_eng": "Burst! Female associate professor of Chongqing University jumped off the building and died! Group sending will report to the leaders of the college",
         "nickname": "女律师札记",
         "created_at": "2021-08-04",
         "archive": "gh_06140cfad959_2021-08-04_2247533990_Sxf5wYUAzN.y.tar.gz",
         "censored_date": "2021-08-06 06:39:15",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-05 01:22:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODQzODQ1Mw==&mid=2247487577&idx=2&sn=feb8541a7dc0e623bad61d10bac0bc9f",
+        "title": "今年超便宜的宜兴紫砂壶，正是入手的好时机",
+        "nickname": "世界华人杂谈",
+        "created_at": "2021-08-03",
+        "archive": "gh_4398a0eeb2f3_2021-08-03_2247487577_lKME68AJTs.y.tar.gz",
+        "censored_date": "2021-08-06 08:53:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-05 02:29:43"
     }
 ]
