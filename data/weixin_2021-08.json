@@ -2715,7 +2715,8 @@
         "created_at": "2021-08-04",
         "archive": "gh_728dda09b5fa_2021-08-04_2247504414_SBF29cVIZp.y.tar.gz",
         "censored_date": "2021-08-05 21:56:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 04:18:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247504414&idx=1&sn=d30b162fa8f7926d4a3da380a7fd82f4",
@@ -3091,5 +3092,16 @@
         "censored_date": "2021-08-07 02:28:28",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-05 17:32:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650497411&idx=5&sn=1c525f7bae590615b6486f83286e68c2",
+        "title": "九江一中学暑期违规补课被举报，当地教育部门竟这么说......",
+        "title_eng": "Jiujiang No. 1 Middle School was reported to be in violation of the rules during the summer vacation, and the local education department said so...",
+        "nickname": "江南都市报",
+        "created_at": "2021-08-05",
+        "archive": "gh_b62058001651_2021-08-05_2650497411_jfAXDyUEFp.y.tar.gz",
+        "censored_date": "2021-08-07 03:25:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-06 01:52:28"
     }
 ]
