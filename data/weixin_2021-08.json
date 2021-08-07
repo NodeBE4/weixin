@@ -2924,7 +2924,8 @@
         "created_at": "2021-08-06",
         "archive": "gh_6df2146bcb82_2021-08-06_2651928698_0G9kK6D3UB.y.tar.gz",
         "censored_date": "2021-08-06 11:46:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 16:49:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzMjQxMg==&mid=2650497437&idx=1&sn=3ef53c0f5bba35c2ba86de8b051eb4e0",
@@ -3246,5 +3247,15 @@
         "censored_date": "2021-08-07 14:49:17",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-07 15:19:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjE2MDI0OTk2MQ==&mid=2650951567&idx=3&sn=f61a9dd80e2e90d745b05848f8c936c9",
+        "title": "口碑极佳的11个公众号！（星期五互推三条）",
+        "nickname": "南都周刊",
+        "created_at": "2021-08-06",
+        "archive": "wxid_5455324566712_2021-08-06_2650951567_Sd41lfkYZT.y.tar.gz",
+        "censored_date": "2021-08-07 16:58:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-06 16:14:17"
     }
 ]
