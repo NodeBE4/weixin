@@ -3033,7 +3033,7 @@
         "archive": "gh_347b59140947_2021-08-05_2247503713_Hqy4UoZQ7T.y.tar.gz",
         "censored_date": "2021-08-06 21:39:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-05 19:20:33"
+        "update_date": "2021-08-08 03:59:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247647672&idx=3&sn=b5d677152ed13e8d9578a9496384a891",
@@ -3043,7 +3043,8 @@
         "created_at": "2021-08-06",
         "archive": "gh_16cc427c8e02_2021-08-06_2247647672_KVu1WMydk2.y.tar.gz",
         "censored_date": "2021-08-06 21:51:06",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-08 03:59:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247528160&idx=1&sn=d9df8175fd47765f43c42009c8d7e06b",
@@ -3064,7 +3065,8 @@
         "created_at": "2021-08-06",
         "archive": "gh_9eaf123d0c6f_2021-08-06_2247559701_a5kcMuRf3T.y.tar.gz",
         "censored_date": "2021-08-06 22:03:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-08 04:00:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MDcyMzgwNg==&mid=2247495398&idx=1&sn=0dd3b897c8ebae12b88d912ee2a87487",
@@ -3404,6 +3406,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652123298&idx=4&sn=bb3362a017f2670bbdb2c30c773019ac",
         "title": "穆斯林为什么不吃猪肉？史上最正确的解读！",
+        "title_eng": "Why don’t Muslims eat pork? The most correct interpretation in history!",
         "nickname": "小肖说世界",
         "created_at": "2021-08-06",
         "archive": "gh_4b9b0448fa81_2021-08-06_2652123298_R0nt0BqLV7.y.tar.gz",
@@ -3414,6 +3417,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247493678&idx=1&sn=a8ba7c85992a86e5daa9967fc558d1d5",
         "title": "当你又穷又迷茫的时候，最应该做的是改变“挣钱方式”",
+        "title_eng": "When you are poor and confused, the most important thing to do is to change the how to make money",
         "nickname": "创投新风向",
         "created_at": "2021-08-05",
         "archive": "gh_46fa18dba691_2021-08-05_2247493678_5VZJ4pi1el.y.tar.gz",
@@ -3424,10 +3428,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NDUyNTMwOA==&mid=2247488881&idx=1&sn=7c11f5317533537b3ad9acc75edeff39",
         "title": "于凯律师 “炮轰 ”盘锦公安局",
+        "title_eng": "Lawyer Yu Kai blasted Panjin Public Security Bureau",
         "nickname": "莹莹微观",
         "created_at": "2021-08-06",
         "archive": "gh_21feae4664bb_2021-08-06_2247488881_znpv2WCFql.y.tar.gz",
         "censored_date": "2021-08-08 03:13:38",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655704233&idx=3&sn=5ee604ce52326843f2ff5772b1fe9238",
+        "title": "华为极可能卖掉X86服务器业务，复制荣耀独立之路",
+        "nickname": "虎嗅APP",
+        "created_at": "2021-08-06",
+        "archive": "wxid_7620846208112_2021-08-06_2655704233_79JAEuC8ci.y.tar.gz",
+        "censored_date": "2021-08-08 03:51:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 02:48:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653066748&idx=2&sn=6201e2431b8158b54429b4e42262e654",
+        "title": "好消息，股民终于盼到了！",
+        "nickname": "财闻要参",
+        "created_at": "2021-08-06",
+        "archive": "gh_34471e1f4b56_2021-08-06_2653066748_FhTr8LZfDl.y.tar.gz",
+        "censored_date": "2021-08-08 03:44:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 02:42:14"
     }
 ]
