@@ -3054,8 +3054,8 @@
         "created_at": "2021-08-06",
         "archive": "gh_8f29429f71d7_2021-08-06_2247528160_pA5ujvNszZ.y.tar.gz",
         "censored_date": "2021-08-06 22:11:42",
-        "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-07 23:13:03"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-09 03:31:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247559701&idx=3&sn=c3d65d9287dd4769824740f4be8282be",
@@ -3700,6 +3700,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515901&idx=1&sn=e66269194b8370bcdbb3f9babe2bcd66",
         "title": "李继红被查！",
+        "title_eng": "Li Jihong was investigated!",
         "nickname": "法苑茶语",
         "created_at": "2021-08-07",
         "archive": "gh_bf54f24b2e87_2021-08-07_2247515901_Ml0c3Yf2Am.y.tar.gz",
@@ -3709,6 +3710,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515876&idx=4&sn=be55122c89d0885eca8239721592d051",
         "title": "全国首例！一对大学生情侣干这事被判刑",
+        "title_eng": "The first case in the country! A college student couple was sentenced for doing this",
         "nickname": "法苑茶语",
         "created_at": "2021-08-06",
         "archive": "gh_bf54f24b2e87_2021-08-06_2247515876_0xENAchV0u.y.tar.gz",
@@ -3718,6 +3720,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515901&idx=2&sn=8a09f792c8673e7623eb1515d36885a7",
         "title": "2021年，公检法司辞职前这一点请考虑清楚！",
+        "title_eng": "In 2021, please consider this before resigning!",
         "nickname": "法苑茶语",
         "created_at": "2021-08-07",
         "archive": "gh_bf54f24b2e87_2021-08-07_2247515901_RM8CBVp1WU.y.tar.gz",
