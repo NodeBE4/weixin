@@ -3405,7 +3405,8 @@
         "created_at": "2021-08-07",
         "archive": "gh_358c7d1e341c_2021-08-07_2247528099_8kj2YQUvLZ.y.tar.gz",
         "censored_date": "2021-08-08 00:55:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-09 05:08:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652123298&idx=4&sn=bb3362a017f2670bbdb2c30c773019ac",
@@ -3725,6 +3726,15 @@
         "created_at": "2021-08-07",
         "archive": "gh_bf54f24b2e87_2021-08-07_2247515901_RM8CBVp1WU.y.tar.gz",
         "censored_date": "2021-08-09 02:48:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655429748&idx=6&sn=b1d3d14b16f5e7598cf6c4d1379cbb1e",
+        "title": "南京2岁男童做核酸检测被感染，多地核酸检测人员密集无序！",
+        "nickname": "中国基金报",
+        "created_at": "2021-08-08",
+        "archive": "gh_a4a87df43a4c_2021-08-08_2655429748_vA5q0EPOMT.y.tar.gz",
+        "censored_date": "2021-08-09 04:40:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
