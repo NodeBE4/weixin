@@ -3648,10 +3648,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMzA4MzUyMw==&mid=2651665482&idx=1&sn=7876620f4ed61dab3600c37e6b165f00",
         "title": "黄金时段4天连播！淮安主创纪录片《红色苏皖边》明晚首登央视",
+        "title_eng": "4 days continuous broadcast during prime time! Huai'an's main documentary Red Jiangsu and Anhui debuts on CCTV tomorrow night",
         "nickname": "淮安发布",
         "created_at": "2021-08-08",
         "archive": "gh_e8a9d366aea8_2021-08-08_2651665482_3DYMK7Z20d.y.tar.gz",
         "censored_date": "2021-08-08 19:15:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651883483&idx=2&sn=0036dcebffe1e767bdaca5f3e7ef4702",
+        "title": "阿里回应“破冰文化”",
+        "nickname": "澎湃新闻",
+        "created_at": "2021-08-08",
+        "archive": "gh_d29e0d22a6f9_2021-08-08_2651883483_nzH0b7jIDo.y.tar.gz",
+        "censored_date": "2021-08-08 20:39:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652247432&idx=1&sn=2d77b08aa298584fab8e5ad81d590124",
+        "title": "北京：连续四天零新增，中高风险地区人员暂不允许进京",
+        "title_eng": "Beijing: No new additions have been made for four consecutive days, and personnel in high-risk areas are temporarily not allowed to enter Beijing",
+        "nickname": "北京新闻广播",
+        "created_at": "2021-08-08",
+        "archive": "gh_fb258eeffb8d_2021-08-08_2652247432_k7cu9OgXPs.y.tar.gz",
+        "censored_date": "2021-08-08 19:35:21",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
