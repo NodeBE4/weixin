@@ -3529,6 +3529,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTg0MTk0Nw==&mid=2676122209&idx=2&sn=98d9d600aee810876c4381cdd15a0772",
         "title": "一个已婚男人的自述：婚外情只是为了肉体爽",
+        "title_eng": "A married man’s account",
         "nickname": "毒舌女",
         "created_at": "2021-08-07",
         "archive": "gh_98589e99a248_2021-08-07_2676122209_ut90GEpjgW.y.tar.gz",
@@ -3538,10 +3539,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDEzOTU2Mw==&mid=2650004130&idx=1&sn=e4ae58ac82aa576f1e4df9d15268ae68",
         "title": "罗新 止庵 包丽敏 董风云：历史学家如何参与对现实的改造丨燕京讲稿",
+        "title_eng": "Luo Xin, Zhi'an, Bao Limin, and Dong Fengyun: How historians participate in the transformation of reality丨Yenching speech",
         "nickname": "民族史",
         "created_at": "2021-08-08",
         "archive": "gh_af78a7ce12de_2021-08-08_2650004130_A8l0HCTqc2.y.tar.gz",
         "censored_date": "2021-08-08 12:54:55",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjYxOTczNg==&mid=2247488875&idx=2&sn=d4229dbc154317e60fb9f638cbcc84d8",
+        "title": "恐怖:“新冠超级变种”将杀死1/3感染者, 末日场景成“现实可能”! 更多变种涌现, 横扫世界…",
+        "title_eng": "Horror: New Crown Super Variant will kill 1/3 of the infected, and the doomsday scene becomes a realistic possibility! More variants emerge, sweeping the world...",
+        "nickname": "主流看点",
+        "created_at": "2021-08-06",
+        "archive": "gh_41151db80680_2021-08-06_2247488875_cZ72vhWr5S.y.tar.gz",
+        "censored_date": "2021-08-08 13:23:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 11:26:22"
     }
 ]
