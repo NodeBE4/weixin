@@ -3700,7 +3700,8 @@
         "created_at": "2021-08-08",
         "archive": "gh_6bf0375ffd3e_2021-08-08_2651560365_Xos86yniCF.y.tar.gz",
         "censored_date": "2021-08-09 00:13:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 00:52:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247515901&idx=1&sn=e66269194b8370bcdbb3f9babe2bcd66",
@@ -3968,5 +3969,16 @@
         "censored_date": "2021-08-09 22:40:35",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-09 01:39:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247527808&idx=2&sn=6cb565e82795faf3365ce82f552950bb",
+        "title": "我，45岁，工资3500，靠副业一年赚了30万！",
+        "title_eng": "I, 45 years old, have a salary of 3,500, and earn 300,000 a year from my side business!",
+        "nickname": "今读史",
+        "created_at": "2021-08-07",
+        "archive": "gh_5e008ceefb25_2021-08-07_2247527808_SjUi7nu8JB.y.tar.gz",
+        "censored_date": "2021-08-10 01:28:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-07 19:42:45"
     }
 ]
