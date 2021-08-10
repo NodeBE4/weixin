@@ -4132,7 +4132,8 @@
         "created_at": "2021-08-10",
         "archive": "gh_6c7ba81a631b_2021-08-10_2653346886_3fJBeOLyiY.y.tar.gz",
         "censored_date": "2021-08-10 19:52:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-11 01:35:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247538037&idx=3&sn=f974df36f8debf305292b1ab33aa3bea",
@@ -4187,5 +4188,15 @@
         "censored_date": "2021-08-10 23:36:19",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-10 02:30:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651884450&idx=4&sn=ee452b844af413caba804f009ccb7dd7",
+        "title": "南京一律师隐瞒行程，被警方带走",
+        "title_eng": "A lawyer in Nanjing concealed his itinerary and was taken away by the police",
+        "nickname": "澎湃新闻",
+        "created_at": "2021-08-10",
+        "archive": "gh_d29e0d22a6f9_2021-08-10_2651884450_0zLIoFSp6D.y.tar.gz",
+        "censored_date": "2021-08-11 01:39:18",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
