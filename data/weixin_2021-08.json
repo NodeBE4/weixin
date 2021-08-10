@@ -3883,7 +3883,8 @@
         "created_at": "2021-08-08",
         "archive": "gh_d017447a7b5d_2021-08-08_2247506816_PfZ01YBIpL.y.tar.gz",
         "censored_date": "2021-08-09 21:23:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 10:05:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805071&idx=1&sn=7b2d3ae13d27cab3a7a644fe4f88cad0",
@@ -3905,7 +3906,7 @@
         "archive": "gh_85ceeb96c96a_2021-08-08_2247521534_xWZ8LoNlAk.y.tar.gz",
         "censored_date": "2021-08-09 22:15:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-09 00:44:10"
+        "update_date": "2021-08-10 10:30:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651883604&idx=3&sn=27ffe1e6f94cf0140db4ba5045d969b6",
@@ -4022,5 +4023,26 @@
         "archive": "gh_e76b6086b960_2021-08-07_2247589296_JkpaBZ0lz3.y.tar.gz",
         "censored_date": "2021-08-10 05:54:29",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDA0NDA4NA==&mid=2651249231&idx=1&sn=e74b5f11b0427c73264de00f31ca0dd6",
+        "title": "魏小东任北京市政协党组书记",
+        "title_eng": "Wei Xiaodong served as secretary of the Beijing Municipal Committee of the CPPCC",
+        "nickname": "长安街知事",
+        "created_at": "2021-08-10",
+        "archive": "gh_4226ad5d721f_2021-08-10_2651249231_zKC6ZILgJP.y.tar.gz",
+        "censored_date": "2021-08-10 10:26:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 08:59:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3Nzk3Njg4Mw==&mid=2247607568&idx=1&sn=7102af83f486cdd7750a94412d5679a2",
+        "title": "消灾祈福，报答佛恩，助印《无量寿经》广利人天，饶益众生，迅猛消业，庞延子孙后代！",
+        "nickname": "纽约华人资讯网",
+        "created_at": "2021-08-09",
+        "archive": "gh_01c1849cb866_2021-08-09_2247607568_CYwnSrsW1A.y.tar.gz",
+        "censored_date": "2021-08-10 10:36:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 08:38:32"
     }
 ]
