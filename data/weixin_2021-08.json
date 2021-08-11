@@ -4191,7 +4191,7 @@
         "archive": "gh_e76b6086b960_2021-08-08_2247589370_whnNB5qQf0.y.tar.gz",
         "censored_date": "2021-08-10 23:36:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-10 02:30:34"
+        "update_date": "2021-08-12 05:41:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651884450&idx=4&sn=ee452b844af413caba804f009ccb7dd7",
@@ -4640,6 +4640,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMzU3OTkzMQ==&mid=2247519713&idx=2&sn=765459929c3270919bde90b8a5850cc8",
         "title": "勃列日涅夫：大器晚成的小说家",
+        "title_eng": "Brezhnev: a late bloomer novelist",
         "nickname": "花月满楼",
         "created_at": "2021-08-11",
         "archive": "gh_7adeb1229340_2021-08-11_2247519713_HT7GsAMhBw.y.tar.gz",
@@ -4666,5 +4667,25 @@
         "archive": "gh_e76b6086b960_2021-08-09_2247589503_qLo5Iwdutn.y.tar.gz",
         "censored_date": "2021-08-12 04:14:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTQ3ODAyNA==&mid=2661715601&idx=4&sn=1ce871a5a51a7791e38275df5a8c422b",
+        "title": "15号！贺州城区大面积停电 长达7小时",
+        "nickname": "贺州城事",
+        "created_at": "2021-08-10",
+        "archive": "gh_045f648a9533_2021-08-10_2661715601_bYR0ueWgms.y.tar.gz",
+        "censored_date": "2021-08-12 05:43:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 21:39:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493478&idx=5&sn=b5282c7236035ee264000efcb61dd1d3",
+        "title": "代妻入狱4年,竟被迫离婚,签完字被拉去参加宴会，各方大佬吓得坐立不安！",
+        "nickname": "历史微时刻",
+        "created_at": "2021-08-09",
+        "archive": "gh_31930173e92d_2021-08-09_2247493478_waZbJRHQx8.y.tar.gz",
+        "censored_date": "2021-08-12 06:01:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-10 16:34:04"
     }
 ]
