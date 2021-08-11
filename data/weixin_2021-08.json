@@ -4094,7 +4094,7 @@
         "archive": "gh_a517719487ef_2021-08-10_2652220109_9yteJRnwjs.y.tar.gz",
         "censored_date": "2021-08-10 16:44:12",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-08-11 19:14:21"
+        "update_date": "2021-08-12 04:44:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491803&idx=2&sn=4f507f0921071071fd93833aa256cbd6",
@@ -4201,7 +4201,8 @@
         "created_at": "2021-08-10",
         "archive": "gh_d29e0d22a6f9_2021-08-10_2651884450_0zLIoFSp6D.y.tar.gz",
         "censored_date": "2021-08-11 01:39:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-12 03:46:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494409&idx=2&sn=df4e20ba8cb3f4454f6104b2bce48437",
@@ -4619,6 +4620,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653067187&idx=2&sn=987ecff3afb968310e3239e3ee411d93",
         "title": "警惕！8月“大考”，A股或有巨变！",
+        "title_eng": "alert! In August, Big Test, A shares may change dramatically!",
         "nickname": "财闻要参",
         "created_at": "2021-08-10",
         "archive": "gh_34471e1f4b56_2021-08-10_2653067187_uVMlYeNpsT.y.tar.gz",
@@ -4628,10 +4630,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDUyOTE4Ng==&mid=2247490205&idx=2&sn=9e642e83dceade7041fec2a91d05e348",
         "title": "为什么说《易经》是人生「答案之书」（30岁之后必看）",
+        "title_eng": "Why is it said that Book of Changes is the Book of Answers in life (must read after the age of 30)",
         "nickname": "华人讲堂",
         "created_at": "2021-08-09",
         "archive": "gh_c93c40faa998_2021-08-09_2247490205_fBMG021zxO.y.tar.gz",
         "censored_date": "2021-08-12 02:53:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMzU3OTkzMQ==&mid=2247519713&idx=2&sn=765459929c3270919bde90b8a5850cc8",
+        "title": "勃列日涅夫：大器晚成的小说家",
+        "nickname": "花月满楼",
+        "created_at": "2021-08-11",
+        "archive": "gh_7adeb1229340_2021-08-11_2247519713_HT7GsAMhBw.y.tar.gz",
+        "censored_date": "2021-08-12 05:08:14",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650114051&idx=1&sn=fc68ccdcb8889f2826dde60bee952f37",
+        "title": "冀宏主持召开旗委常委会2021年第33次会议暨财经委员会议、国家委员会议、党建工作领导小组会议、党史学习教育领导小组会议",
+        "title_eng": "Ji Hong presided over the 33rd meeting of the Standing Committee of the Banner Committee in 2021 and the meeting of the Finance and Economics Committee, the National Committee, the Party Building Work Leading Group Meeting, and the Party History Study and Education Leading Group Meeting",
+        "nickname": "察右前旗融媒体中心",
+        "created_at": "2021-08-10",
+        "archive": "gh_ae0b732889ae_2021-08-10_2650114051_4TwLeA3zjK.y.tar.gz",
+        "censored_date": "2021-08-12 04:25:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-11 03:25:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247589503&idx=8&sn=5543c7c20ef7623a7cf46f394fa296e6",
+        "title": "烹饪到底有多快乐，用了这口锅你就能感受到！",
+        "title_eng": "How happy cooking is, you can feel it with this pot!",
+        "nickname": "凤凰网财经",
+        "created_at": "2021-08-09",
+        "archive": "gh_e76b6086b960_2021-08-09_2247589503_qLo5Iwdutn.y.tar.gz",
+        "censored_date": "2021-08-12 04:14:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
