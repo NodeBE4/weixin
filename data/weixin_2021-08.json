@@ -4374,6 +4374,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjAzNTkzMQ==&mid=2660290753&idx=1&sn=00420104f1f0d7974785baa3c0e6f884",
         "title": "阿里上司强奸女员工,早就不是第一次了吧……",
+        "title_eng": "It’s not the first time that boss Ali raped a female employee...",
         "nickname": "颜辞",
         "created_at": "2021-08-10",
         "archive": "gh_70adee9aa9f7_2021-08-10_2660290753_jqf9lCsGbW.y.tar.gz",
@@ -4384,6 +4385,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTI4MzMxMg==&mid=2651033185&idx=1&sn=99c98211663d9d192f5b2652b51b36d4",
         "title": "紧急通报！福建该地发现一例阳性！全国疫情风险地区又有新增",
+        "title_eng": "Urgent notification! A positive case was found in Fujian! There is another new increase in epidemic risk areas across the country",
         "nickname": "石狮日报",
         "created_at": "2021-08-10",
         "archive": "gh_d358f97769c0_2021-08-10_2651033185_jSKg9TMzRc.y.tar.gz",
@@ -4394,10 +4396,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652248153&idx=2&sn=f5233a499d53dd08fadf0299ad8d4909",
         "title": "《旗帜》第二十八集 | 仝保民：用体育弘扬传统文化",
+        "title_eng": "The Banner Episode 28 | Tong Baomin: Using Sports to Promote Traditional Culture",
         "nickname": "北京新闻广播",
         "created_at": "2021-08-11",
         "archive": "gh_fb258eeffb8d_2021-08-11_2652248153_rlYZVyO5wx.y.tar.gz",
         "censored_date": "2021-08-11 13:14:29",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDM5NTc0Ng==&mid=2654450964&idx=5&sn=da5f2c93bf9f6e55ded76bf3711d071b",
+        "title": "中国抵制「驻立陶宛台湾代表处」 美谴责北京报复行为",
+        "title_eng": "China boycotts Taiwan Representative Office in Lithuania, U.S. condemns Beijing's retaliation",
+        "nickname": "洛杉矶e生活",
+        "created_at": "2021-08-11",
+        "archive": "gh_dd8ae0655f27_2021-08-11_2654450964_tU1ZFyp9GH.y.tar.gz",
+        "censored_date": "2021-08-11 13:56:11",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-11 12:35:58"
     }
 ]
