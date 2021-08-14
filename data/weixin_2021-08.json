@@ -5078,7 +5078,8 @@
         "created_at": "2021-08-13",
         "archive": "gh_60925f68396c_2021-08-13_2650030490_QJ68imE0KN.y.tar.gz",
         "censored_date": "2021-08-13 19:45:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-14 17:12:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247537337&idx=1&sn=fb7eb678954a877f30d5f5e054064d67",
@@ -5461,6 +5462,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc3NDQ0Mg==&mid=2667124563&idx=1&sn=f4b4a6f40c46b3ade81bce0032330bd6",
         "title": "最有参考价值的疫苗数据，看看到底有没有用，哪个更管用",
+        "title_eng": "The most valuable vaccine data, see if it is useful, and which one is more useful",
         "nickname": "肖仲华开讲",
         "created_at": "2021-08-14",
         "archive": "gh_b0c6552453ce_2021-08-14_2667124563_DgmYZnS8Jo.y.tar.gz",
@@ -5477,5 +5479,15 @@
         "censored_date": "2021-08-14 15:38:01",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-13 14:08:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3MzQ2MDEwNQ==&mid=2247486891&idx=1&sn=d4b1324d41a7d06c44997a5cd9579006",
+        "title": "兽爷丨激情过后",
+        "nickname": "兽楼处",
+        "created_at": "2021-08-13",
+        "archive": "gh_a42e663c8f32_2021-08-13_2247486891_98kCHsRZBf.y.tar.gz",
+        "censored_date": "2021-08-14 16:52:56",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-13 19:34:22"
     }
 ]
