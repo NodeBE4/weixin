@@ -5166,7 +5166,7 @@
         "archive": "gh_610312e22ed3_2021-08-12_2247491809_fSJT9QzHjC.y.tar.gz",
         "censored_date": "2021-08-13 23:45:24",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-13 00:32:22"
+        "update_date": "2021-08-15 06:04:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491809&idx=4&sn=f07dac4b39fb6024973de8f4576217af",
@@ -5177,7 +5177,7 @@
         "archive": "gh_610312e22ed3_2021-08-12_2247491809_dwqxC8HuhP.y.tar.gz",
         "censored_date": "2021-08-13 23:45:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-13 00:33:09"
+        "update_date": "2021-08-15 06:05:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247491807&idx=5&sn=aaebcfad60ac55595a4a8fc826b47577",
@@ -5545,7 +5545,7 @@
         "archive": "gh_799459543f35_2021-08-13_2650688597_tpePEJakKS.y.tar.gz",
         "censored_date": "2021-08-14 22:48:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-13 21:13:24"
+        "update_date": "2021-08-15 05:42:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247640821&idx=1&sn=f77ea1f5e8f656eeeee5a7da9e3cb3bb",
@@ -5555,7 +5555,8 @@
         "created_at": "2021-08-13",
         "archive": "gh_08885da058c6_2021-08-13_2247640821_a7AZS0NvUJ.y.tar.gz",
         "censored_date": "2021-08-14 22:56:47",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-15 05:50:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247493984&idx=3&sn=36267a619da5fd7e2a695c6b560efe94",
@@ -5612,6 +5613,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMDc1NzUxNA==&mid=2247489513&idx=1&sn=01c497d554b51fc7c582060d60c40aaa",
         "title": "昨天写不打疫苗情况说明的律师，今天要开紧急会议",
+        "title_eng": "The lawyer who wrote the statement on the non-vaccination situation yesterday has an emergency meeting today",
         "nickname": "不严肃讲话",
         "created_at": "2021-08-11",
         "archive": "gh_edb03ef29487_2021-08-11_2247489513_V0Ohca05Aw.y.tar.gz",
