@@ -5744,7 +5744,7 @@
         "archive": "gh_eaf5f773d1d5_2021-08-16_2656635182_OdaZAxsVec.y.tar.gz",
         "censored_date": "2021-08-16 22:07:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-17 23:24:31"
+        "update_date": "2021-08-19 05:09:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjkwNTYwMw==&mid=2653347590&idx=2&sn=ddc2975fe61dbbe642b49cc4ebf05ea3",
@@ -6145,7 +6145,7 @@
         "archive": "gh_1aecabdf0add_2021-08-16_2247522077_s1b9j0xzMW.y.tar.gz",
         "censored_date": "2021-08-18 21:06:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-17 23:58:46"
+        "update_date": "2021-08-19 04:53:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247522077&idx=2&sn=738d0a57afd9f64acab155e1a3f272ec",
@@ -6155,7 +6155,8 @@
         "created_at": "2021-08-16",
         "archive": "gh_1aecabdf0add_2021-08-16_2247522077_qHyprUl4wJ.y.tar.gz",
         "censored_date": "2021-08-18 21:00:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-19 04:51:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247522077&idx=3&sn=178112adf194807a6978232ab1418efd",
@@ -6165,7 +6166,8 @@
         "created_at": "2021-08-16",
         "archive": "gh_1aecabdf0add_2021-08-16_2247522077_0G4MP53BaO.y.tar.gz",
         "censored_date": "2021-08-18 21:01:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-19 04:54:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTA1MTQ1OA==&mid=2651512935&idx=1&sn=3d4ae732b84c8ac01b8a2a017935cef9",
@@ -6370,6 +6372,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653896065&idx=2&sn=b1a3b89232f4039bb8b489848b762e8b",
         "title": "生理反应越强，爱你越深？",
+        "title_eng": "The stronger the physiological response, the deeper I love you?",
         "nickname": "烧伤超人阿宝",
         "created_at": "2021-08-14",
         "archive": "gh_50a31d057fec_2021-08-14_2653896065_tnOpQRjeHD.y.tar.gz",
@@ -6380,11 +6383,54 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDI5MzYzNA==&mid=2650667401&idx=1&sn=85d8a5845211f2de2c855cd63e86e300",
         "title": "「网红医生」张文宏，再次跌入粪坑。",
+        "title_eng": "Internet celebrity doctor Zhang Wenhong fell into the cesspit again.",
         "nickname": "医学之声",
         "created_at": "2021-08-16",
         "archive": "gh_ecbc847c90d4_2021-08-16_2650667401_0xwI1qrmzB.y.tar.gz",
         "censored_date": "2021-08-19 03:57:49",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-16 22:56:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494164&idx=3&sn=a6b658e34463af0a6e7ab9518b2a21e6",
+        "title": "网易云音乐推迟上市！或因市场信心不足 预计持续亏损至2023年",
+        "nickname": "创投新风向",
+        "created_at": "2021-08-16",
+        "archive": "gh_46fa18dba691_2021-08-16_2247494164_DRB6ktF5oQ.y.tar.gz",
+        "censored_date": "2021-08-19 05:02:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-17 23:09:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494164&idx=2&sn=200700ae36cd4171eed3eaf82cba6841",
+        "title": "从负债6万到身家千万：他说这样赚钱，才能过上想要的生活",
+        "title_eng": "From debts of 60,000 to tens of millions of net worth: He said that by making money in this way, he can live the life he wants",
+        "nickname": "创投新风向",
+        "created_at": "2021-08-16",
+        "archive": "gh_46fa18dba691_2021-08-16_2247494164_RJs0qCGQun.y.tar.gz",
+        "censored_date": "2021-08-19 05:03:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-17 01:38:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494164&idx=1&sn=15426eefb322e9065ed4829f894bb8df",
+        "title": "北京惊现“小三二奶培训班”！19800元搞定富二代：最后到底谁才是赢家？",
+        "nickname": "创投新风向",
+        "created_at": "2021-08-16",
+        "archive": "gh_46fa18dba691_2021-08-16_2247494164_gBXw1CNKMc.y.tar.gz",
+        "censored_date": "2021-08-19 05:06:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-17 23:05:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494164&idx=4&sn=1b57985eb0e390dbecd94ba53c7bd83c",
+        "title": "人到30岁之后，越早读懂《易经》，越好命",
+        "title_eng": "After a person reaches 30 years old, the sooner he can read the Book of Changes, the better his life will be",
+        "nickname": "创投新风向",
+        "created_at": "2021-08-16",
+        "archive": "gh_46fa18dba691_2021-08-16_2247494164_oqTBEY1AS9.y.tar.gz",
+        "censored_date": "2021-08-19 05:03:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-17 01:37:37"
     }
 ]
