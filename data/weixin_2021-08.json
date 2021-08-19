@@ -6312,7 +6312,8 @@
         "created_at": "2021-08-18",
         "archive": "gh_16cc427c8e02_2021-08-18_2247651138_zmrX6qhjCH.y.tar.gz",
         "censored_date": "2021-08-19 00:23:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-20 05:56:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzg0NDIzNg==&mid=2655142361&idx=1&sn=f41ba81571d988ccd5f5acede3dac5af",
@@ -6344,7 +6345,8 @@
         "created_at": "2021-08-18",
         "archive": "gh_d29e0d22a6f9_2021-08-18_2651887733_ou34ymnBOz.y.tar.gz",
         "censored_date": "2021-08-19 01:12:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-20 06:05:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650081948&idx=7&sn=8296f6305b937ae6e5f869be5856449e",
@@ -6625,7 +6627,7 @@
         "archive": "gh_09fd5b6316b9_2021-08-18_2652009981_H3PC0qBuk6.y.tar.gz",
         "censored_date": "2021-08-19 23:52:23",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-08-18 22:06:54"
+        "update_date": "2021-08-20 05:51:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650151315&idx=2&sn=7fec73ca1a75a9e577ad68e34cbc818c",
@@ -6703,11 +6705,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650114721&idx=1&sn=afe2f17783ef3e254a74543d822e24ab",
         "title": "冀宏主持召开十五届旗委2021年第3次常委会议暨第1次学习会",
+        "title_eng": "Ji Hong hosted the 3rd Standing Committee Meeting and 1st Study Meeting of the 15th National Flag Committee in 2021",
         "nickname": "察右前旗融媒体中心",
         "created_at": "2021-08-18",
         "archive": "gh_ae0b732889ae_2021-08-18_2650114721_AusfQRC5BV.y.tar.gz",
         "censored_date": "2021-08-20 04:47:36",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-19 03:15:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2MDMxMA==&mid=2247494303&idx=1&sn=5b0ebd8e16f21efeb640a7a85337da4a",
+        "title": "美国为什么为这件事紧急乞求中国？它决定美国的生死！",
+        "title_eng": "Why is the United States begging China urgently for this? It determines the life and death of America!",
+        "nickname": "老徐微记",
+        "created_at": "2021-08-18",
+        "archive": "gh_7678d69b1732_2021-08-18_2247494303_ZhFIAHCBJ4.y.tar.gz",
+        "censored_date": "2021-08-20 05:28:22",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
