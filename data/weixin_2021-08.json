@@ -6233,7 +6233,8 @@
         "created_at": "2021-08-18",
         "archive": "wxid_6050960510211_2021-08-18_2653516077_pVh0g8H34M.y.tar.gz",
         "censored_date": "2021-08-18 23:06:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-19 20:42:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247491348&idx=3&sn=98e7cdce3ed31a23585fe460e6c9d47b",
@@ -6559,11 +6560,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493554&idx=5&sn=e16ed441fe64779be12440d2588bfc72",
         "title": "22岁当镇长，26岁当市委书记，他是怎么做到的？",
+        "title_eng": "How did he become the mayor at the age of 22 and the secretary of the municipal party committee at the age of 26?",
         "nickname": "历史微时刻",
         "created_at": "2021-08-18",
         "archive": "gh_31930173e92d_2021-08-18_2247493554_P0DJXYZK5y.y.tar.gz",
         "censored_date": "2021-08-19 19:22:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-18 21:13:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NTU0NDE4Mw==&mid=2247525932&idx=1&sn=ae0265096b8e6570c0d811f808ba7cb2",
+        "title": "要降息了吗？",
+        "title_eng": "Are you going to cut interest rates?",
+        "nickname": "覃汉投资笔记",
+        "created_at": "2021-08-19",
+        "archive": "gh_576cb26ebee4_2021-08-19_2247525932_IO4LnBwdo1.y.tar.gz",
+        "censored_date": "2021-08-19 19:35:40",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
