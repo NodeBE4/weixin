@@ -6236,7 +6236,7 @@
         "archive": "wxid_6050960510211_2021-08-18_2653516077_pVh0g8H34M.y.tar.gz",
         "censored_date": "2021-08-18 23:06:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-19 20:42:28"
+        "update_date": "2021-08-21 06:42:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247491348&idx=3&sn=98e7cdce3ed31a23585fe460e6c9d47b",
@@ -6609,7 +6609,7 @@
         "archive": "gh_8f29429f71d7_2021-08-18_2247528634_6zFAYcj72Z.y.tar.gz",
         "censored_date": "2021-08-19 23:22:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-21 03:30:24"
+        "update_date": "2021-08-21 06:40:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODMwMDIwNQ==&mid=2651611857&idx=1&sn=b872df870ed205d2f3ec1dbea40304d6",
@@ -7029,7 +7029,7 @@
         "archive": "gh_644f262a3d2c_2021-08-19_2650995316_EVyRszUvSd.y.tar.gz",
         "censored_date": "2021-08-21 03:32:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-20 02:08:56"
+        "update_date": "2021-08-21 06:45:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDM2Njc5MA==&mid=2650321598&idx=1&sn=65e554c4b79a0ffe1a381a98becb98ef",
@@ -7045,11 +7045,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493554&idx=4&sn=bbaa214721d2bfd4993442147222c78e",
         "title": "注意！核酸检测可能充满风险，千万不可大意",
+        "title_eng": "Attention! Nucleic acid testing may be full of risks, so don’t be careless",
         "nickname": "历史微时刻",
         "created_at": "2021-08-18",
         "archive": "gh_31930173e92d_2021-08-18_2247493554_HiBXs8ETAz.y.tar.gz",
         "censored_date": "2021-08-21 05:58:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-19 19:21:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTg4MTQyMg==&mid=2649801915&idx=1&sn=4859d769086b1e9674946c8be89c0cfa",
+        "title": "柯毅：城市更新的双城实践",
+        "nickname": "全经联",
+        "created_at": "2021-08-16",
+        "archive": "gh_2871e4d9e713_2021-08-16_2649801915_ba7yrYtzDm.y.tar.gz",
+        "censored_date": "2021-08-21 06:55:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-18 23:24:07"
     }
 ]
