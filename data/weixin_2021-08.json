@@ -6181,7 +6181,7 @@
         "archive": "gh_b57c8c978774_2021-08-18_2651512935_6muelE7HiA.y.tar.gz",
         "censored_date": "2021-08-18 20:54:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-20 02:11:49"
+        "update_date": "2021-08-20 08:00:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247522077&idx=5&sn=9c8d6cccd0e53559f7178855593da477",
@@ -6701,7 +6701,8 @@
         "created_at": "2021-08-18",
         "archive": "gh_20c11146e1c7_2021-08-18_2247498252_suYaiHG6xq.y.tar.gz",
         "censored_date": "2021-08-20 02:12:36",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-20 08:01:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODA4MzQ4NA==&mid=2650114721&idx=1&sn=afe2f17783ef3e254a74543d822e24ab",
@@ -6727,6 +6728,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493543&idx=5&sn=e44552d74f3db13b70b44454515f4551",
         "title": "服役七年父母大哥自杀，家人失踪，华夏五星战神一声令下十万将士奔来！",
+        "title_eng": "After serving for seven years, the eldest brother of his parents committed suicide and his family disappeared. The Chinese Five-Star God of War ordered one hundred thousand soldiers to come!",
         "nickname": "历史微时刻",
         "created_at": "2021-08-17",
         "archive": "gh_31930173e92d_2021-08-17_2247493543_tV7klmAWKZ.y.tar.gz",
@@ -6737,10 +6739,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493534&idx=2&sn=139d25701a58012d273b2a0d55742ea1",
         "title": "32个家庭要乱了：上海金融大老获无期，承认潜规则32名女下属",
+        "title_eng": "32 families are going to be in chaos: Shanghai financial elders won indefinitely, admits 32 female subordinates of unspoken rules",
         "nickname": "历史微时刻",
         "created_at": "2021-08-16",
         "archive": "gh_31930173e92d_2021-08-16_2247493534_qfMsk7yEGB.y.tar.gz",
         "censored_date": "2021-08-20 07:18:17",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5Njk5Nzg5NA==&mid=2653571405&idx=2&sn=a2bf709b41eae2c059a1b9d25f446e47",
+        "title": "邓晓芒：我们到底要把下一代教育成为什么样的人？",
+        "title_eng": "Deng Xiaomang: What kind of people do we want to educate the next generation?",
+        "nickname": "悦读馆",
+        "created_at": "2021-08-17",
+        "archive": "gh_242b51c4a048_2021-08-17_2653571405_SiXp4yxCtE.y.tar.gz",
+        "censored_date": "2021-08-20 07:40:31",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-17 20:48:53"
     }
 ]
