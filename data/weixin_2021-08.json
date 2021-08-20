@@ -6542,7 +6542,8 @@
         "created_at": "2021-08-19",
         "archive": "gh_ccd6562d7551_2021-08-19_2650800248_C7OK1ZvluB.y.tar.gz",
         "censored_date": "2021-08-19 18:15:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-20 22:55:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516203&idx=2&sn=0e17d0a14db49fb2182209b37129c3d1",
@@ -6552,7 +6553,8 @@
         "created_at": "2021-08-18",
         "archive": "gh_bf54f24b2e87_2021-08-18_2247516203_Ry0vZhiVgs.y.tar.gz",
         "censored_date": "2021-08-19 17:52:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-20 22:48:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516182&idx=3&sn=c48365572d67c66b6ae3c13ba80edaa2",
@@ -6563,7 +6565,7 @@
         "archive": "gh_bf54f24b2e87_2021-08-17_2247516182_JwkLI40X19.y.tar.gz",
         "censored_date": "2021-08-19 17:56:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-18 20:29:33"
+        "update_date": "2021-08-20 22:49:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493554&idx=5&sn=e16ed441fe64779be12440d2588bfc72",
@@ -6876,6 +6878,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516182&idx=2&sn=0c34ece1a8aed53910f6057c55eb799e",
         "title": "2021年法官、律师、检察官、公安，哪个法律职业最好？",
+        "title_eng": "Judge, lawyer, prosecutor, public security officer, which legal profession is the best in 2021?",
         "nickname": "法苑茶语",
         "created_at": "2021-08-17",
         "archive": "gh_bf54f24b2e87_2021-08-17_2247516182_4zcHDZaXeU.y.tar.gz",
@@ -6886,6 +6889,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDUyMjgyMw==&mid=2651860300&idx=1&sn=06967d879d5629bbec224829b6fe7471",
         "title": "中国华融巨亏后将获国资领衔战投并排除债务重组 美元债价格急速反弹",
+        "title_eng": "China Huarong will be led by state-owned assets after huge losses and will eliminate debt restructuring, U.S. dollar bond prices rebound rapidly",
         "nickname": "彭博Bloomberg",
         "created_at": "2021-08-19",
         "archive": "gh_b0a4200dcde3_2021-08-19_2651860300_wFJxmPClBM.y.tar.gz",
@@ -6895,10 +6899,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjEzODQ2Ng==&mid=2655997193&idx=1&sn=ae2fe76826d098050351f044470ccaaf",
         "title": "【一线微观】一名16年驾龄男子侥幸酒驾 A照降级B照自砸“饭碗”",
+        "title_eng": "[First-line micro] A 16-year-old man who has been driving fortunately drunk driving with his A-license downgraded and his B-licensed self-inflicted rice bowl",
         "nickname": "邯郸交巡警微发布",
         "created_at": "2021-08-19",
         "archive": "gh_7e997cc66c5b_2021-08-19_2655997193_zZAGSrtB8P.y.tar.gz",
         "censored_date": "2021-08-20 21:51:17",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490376&idx=2&sn=ab800d08622467727796304879d45d73",
+        "title": "张文宏被举报抄袭前的240小时！",
+        "title_eng": "240 hours before Zhang Wenhong was reported for plagiarism!",
+        "nickname": "江南隐士",
+        "created_at": "2021-08-18",
+        "archive": "gh_65f5271d2a21_2021-08-18_2247490376_Ua4Yd60IDf.y.tar.gz",
+        "censored_date": "2021-08-20 22:53:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-19 21:21:10"
     }
 ]
