@@ -7006,7 +7006,8 @@
         "created_at": "2021-08-19",
         "archive": "gh_69f7ba479665_2021-08-19_2247506331_vj8JL9WIwk.y.tar.gz",
         "censored_date": "2021-08-21 02:24:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-21 05:45:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247519574&idx=2&sn=32d308ea6ab1c9a13574555d53a211c3",
@@ -7017,7 +7018,7 @@
         "archive": "gh_05006dfaee36_2021-08-19_2247519574_JkcnWAgeof.y.tar.gz",
         "censored_date": "2021-08-21 03:01:33",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-20 01:09:09"
+        "update_date": "2021-08-21 06:13:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjY1OTM4Mg==&mid=2650995316&idx=4&sn=bbdb65b4c95e3115e2f19402c460ea22",
@@ -7033,11 +7034,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDM2Njc5MA==&mid=2650321598&idx=1&sn=65e554c4b79a0ffe1a381a98becb98ef",
         "title": "就算是30万只羊，塔利班一个星期也抓不完",
+        "title_eng": "Even if it’s 300,000 sheep, the Taliban can’t catch them in a week.",
         "nickname": "财经深度",
         "created_at": "2021-08-18",
         "archive": "gh_6f2e8549919d_2021-08-18_2650321598_Fszkn3H520.y.tar.gz",
         "censored_date": "2021-08-21 04:39:43",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-18 16:45:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247493554&idx=4&sn=bbaa214721d2bfd4993442147222c78e",
+        "title": "注意！核酸检测可能充满风险，千万不可大意",
+        "nickname": "历史微时刻",
+        "created_at": "2021-08-18",
+        "archive": "gh_31930173e92d_2021-08-18_2247493554_HiBXs8ETAz.y.tar.gz",
+        "censored_date": "2021-08-21 05:58:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-19 19:21:11"
     }
 ]
