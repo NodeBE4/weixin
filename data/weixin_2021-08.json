@@ -6848,7 +6848,8 @@
         "created_at": "2021-08-19",
         "archive": "gh_45220e40f13c_2021-08-19_2650082364_rnv0ZOiT4M.y.tar.gz",
         "censored_date": "2021-08-20 19:03:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-21 16:48:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTYyODMwOTMwMQ==&mid=2650376554&idx=1&sn=ed78361c49e254d54ab7e79e9b39d897",
@@ -7288,5 +7289,15 @@
         "censored_date": "2021-08-21 13:32:41",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-20 12:24:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5OTc5NzM0NA==&mid=2247523680&idx=2&sn=60f240194e2526c8149f2fe5c0bc47e2",
+        "title": "这个会议，把最高层未来10年要做的、想要的，一次性说完了！",
+        "nickname": "米宅海外",
+        "created_at": "2021-08-20",
+        "archive": "gh_f7fd59868455_2021-08-20_2247523680_SQrOjZ08sB.y.tar.gz",
+        "censored_date": "2021-08-21 17:00:04",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-20 19:06:48"
     }
 ]
