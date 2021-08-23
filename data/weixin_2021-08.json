@@ -7837,6 +7837,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506381&idx=1&sn=a8a2c87a5a21a5d04f52db79b0217ffe",
         "title": "国内首档离婚综艺火上热搜：尺度之大，令人咋舌...",
+        "title_eng": "The first domestic divorce variety show is hot search: the scale is so big that it is staggering...",
         "nickname": "老板思维论",
         "created_at": "2021-08-20",
         "archive": "gh_69f7ba479665_2021-08-20_2247506381_Dy8mVzaQSq.y.tar.gz",
@@ -7847,6 +7848,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506381&idx=2&sn=ae188fe69df3100a7a484fb7eef5a8a2",
         "title": "从负债10万到存款30万：会赚钱的人都在做这件事",
+        "title_eng": "From 100,000 debts to 300,000 deposits: people who can make money are doing this",
         "nickname": "老板思维论",
         "created_at": "2021-08-20",
         "archive": "gh_69f7ba479665_2021-08-20_2247506381_PTN9Hgvlem.y.tar.gz",
@@ -7857,10 +7859,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652010078&idx=1&sn=f647d62f8a0b628f3d46323be1a7fc55",
         "title": "我为祖国打疫苗",
+        "title_eng": "I vaccinate my country",
         "nickname": "亮哥在读书",
         "created_at": "2021-08-23",
         "archive": "gh_09fd5b6316b9_2021-08-23_2652010078_wX6QHNtdmK.y.tar.gz",
         "censored_date": "2021-08-23 23:05:36",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506381&idx=3&sn=ea36c50f6eb09deaa07369639b55af19",
+        "title": "在线教育之后，下一个密集倒下的会不会是社区团购？",
+        "title_eng": "After online education, will community group buying be the next intensive fall?",
+        "nickname": "老板思维论",
+        "created_at": "2021-08-20",
+        "archive": "gh_69f7ba479665_2021-08-20_2247506381_5cxzRKPk18.y.tar.gz",
+        "censored_date": "2021-08-23 23:28:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-22 00:53:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664324078&idx=2&sn=371e68577af2460cb6f1fd5e5e2c99a9",
+        "title": "首次团购特惠 | 2022年《文化纵横》订阅",
+        "title_eng": "First group purchase special | 2022 Culture subscription",
+        "nickname": "文化纵横",
+        "created_at": "2021-08-21",
+        "archive": "gh_f85d25e406e2_2021-08-21_2664324078_gGHZyc0dFR.y.tar.gz",
+        "censored_date": "2021-08-24 00:04:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-23 00:08:06"
     }
 ]
