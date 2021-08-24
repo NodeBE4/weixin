@@ -7870,7 +7870,8 @@
         "created_at": "2021-08-23",
         "archive": "gh_09fd5b6316b9_2021-08-23_2652010078_wX6QHNtdmK.y.tar.gz",
         "censored_date": "2021-08-23 23:05:36",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-24 21:41:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506381&idx=3&sn=ea36c50f6eb09deaa07369639b55af19",
@@ -8077,11 +8078,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650324727&idx=1&sn=f210b7b75c8f207a3ce37e3d553c0f34",
         "title": "【小心上当受骗】关于装修公司假冒华昌御湖名郡项目合作伙伴的声明",
+        "title_eng": "[Beware of being deceived] Statement on the decoration company counterfeiting the Huachang Yuhu Ming County project partner",
         "nickname": "高安百事通",
         "created_at": "2021-08-23",
         "archive": "gh_1d97537c840d_2021-08-23_2650324727_1TYGRxZAk6.y.tar.gz",
         "censored_date": "2021-08-24 20:42:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-23 22:35:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652010078&idx=2&sn=88f13c314eb5f079f9bca4e7f0605982",
+        "title": "学术届的乱象是怎么产生的？",
+        "nickname": "亮哥在读书",
+        "created_at": "2021-08-23",
+        "archive": "gh_09fd5b6316b9_2021-08-23_2652010078_mdsyWHcr9v.y.tar.gz",
+        "censored_date": "2021-08-24 21:33:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
