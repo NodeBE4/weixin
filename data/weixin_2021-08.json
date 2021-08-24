@@ -7837,7 +7837,8 @@
         "created_at": "2021-08-21",
         "archive": "gh_69f7ba479665_2021-08-21_2247506459_RxhyYeIK1P.y.tar.gz",
         "censored_date": "2021-08-23 18:34:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-24 20:11:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506381&idx=1&sn=a8a2c87a5a21a5d04f52db79b0217ffe",
@@ -8065,11 +8066,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjEyMzYxMg==&mid=2657585807&idx=2&sn=11f9f17d4e4010be56da94e45f32f183",
         "title": "习近平为何考察塞罕坝？",
+        "title_eng": "Why did Xi Jinping inspect Saihanba?",
         "nickname": "经济日报",
         "created_at": "2021-08-24",
         "archive": "gh_a09deab6adec_2021-08-24_2657585807_10zZmRhulT.y.tar.gz",
         "censored_date": "2021-08-24 18:30:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-24 17:15:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650324727&idx=1&sn=f210b7b75c8f207a3ce37e3d553c0f34",
+        "title": "【小心上当受骗】关于装修公司假冒华昌御湖名郡项目合作伙伴的声明",
+        "nickname": "高安百事通",
+        "created_at": "2021-08-23",
+        "archive": "gh_1d97537c840d_2021-08-23_2650324727_1TYGRxZAk6.y.tar.gz",
+        "censored_date": "2021-08-24 20:42:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-23 22:35:48"
     }
 ]
