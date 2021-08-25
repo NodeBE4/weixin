@@ -8262,6 +8262,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518470&idx=2&sn=37f49741d6c8d48d9265fbca863cbaef",
         "title": "故事很短，却说出了人性！最后一条绝了！",
+        "title_eng": "The story is short, but it speaks humanity! The last one is absolutely!",
         "nickname": "牧者讲道",
         "created_at": "2021-08-23",
         "archive": "gh_ab6c4e04286d_2021-08-23_2247518470_uGgiX37aj0.y.tar.gz",
@@ -8272,6 +8273,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMzE4Njc3Mg==&mid=2247583421&idx=1&sn=d81c6fab36785d195587fcfae0f0d0aa",
         "title": "河南的这一对夫妻了不起，做了很多人都不敢做的事！",
+        "title_eng": "This couple in Henan is amazing and has done things that many people dared not do!",
         "nickname": "加拿大中文报",
         "created_at": "2021-08-24",
         "archive": "gh_d8ee703d4de1_2021-08-24_2247583421_9HicTQ3PEz.y.tar.gz",
@@ -8282,11 +8284,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518470&idx=1&sn=d0003e87d2bc160cc73dc0805f001cbd",
         "title": "4个故事，我看了3遍，沉默了3小时！思想了一下午",
+        "title_eng": "I watched 4 stories 3 times and was silent for 3 hours! Thought for a whole afternoon",
         "nickname": "牧者讲道",
         "created_at": "2021-08-23",
         "archive": "gh_ab6c4e04286d_2021-08-23_2247518470_bODz0BWFci.y.tar.gz",
         "censored_date": "2021-08-25 10:48:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-24 10:16:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NTI4MzMxMg==&mid=2651035483&idx=1&sn=3d0d3c4190315e70dad5b6c695c77952",
+        "title": "为期一周！专项整治！针对校外培训机构……",
+        "title_eng": "For a week! Special rectification! For off-campus training institutions...",
+        "nickname": "石狮日报",
+        "created_at": "2021-08-25",
+        "archive": "gh_d358f97769c0_2021-08-25_2651035483_IYnuAG6LSN.y.tar.gz",
+        "censored_date": "2021-08-25 12:11:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649821758&idx=1&sn=1523eb564dc8606f582288ea64979d8e",
+        "title": "八万八？天价蚕丝被内幕被曝光，这个叫王惠的女人在全国火了！",
+        "title_eng": "Eighty-eight? The sky-high price of silk was exposed by the inside story, and this woman named Wang Hui became popular all over the country!",
+        "nickname": "华哥读报",
+        "created_at": "2021-08-24",
+        "archive": "gh_7a402e27f818_2021-08-24_2649821758_6OtWbTzVne.y.tar.gz",
+        "censored_date": "2021-08-25 11:38:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-24 13:01:18"
     }
 ]
