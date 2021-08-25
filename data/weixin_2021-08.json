@@ -7967,7 +7967,8 @@
         "created_at": "2021-08-24",
         "archive": "gh_e4a86c912099_2021-08-24_2654927835_WdhvYbgapZ.y.tar.gz",
         "censored_date": "2021-08-24 10:33:26",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-25 15:56:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653226808&idx=1&sn=d9145d104c43302f53fe58b508f90cde",
@@ -8324,5 +8325,16 @@
         "censored_date": "2021-08-25 14:21:02",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-24 09:41:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247594234&idx=2&sn=640a1ecd67e42a42da717e514382ff14",
+        "title": "丈夫与妻子吵架后泼汽油纵火，一家四口被严重烧伤",
+        "title_eng": "Husband and wife quarreled with petrol and set fire, and a family of four were severely burned",
+        "nickname": "红星新闻",
+        "created_at": "2021-08-24",
+        "archive": "gh_1ede6c42db01_2021-08-24_2247594234_KZ6uMFf7v0.y.tar.gz",
+        "censored_date": "2021-08-25 15:50:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-24 15:41:15"
     }
 ]
