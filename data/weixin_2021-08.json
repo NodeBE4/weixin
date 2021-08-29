@@ -9114,7 +9114,7 @@
         "archive": "gh_ca804ae6f24f_2021-08-27_2656207250_jVaOWuSX82.y.tar.gz",
         "censored_date": "2021-08-28 18:08:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-27 18:19:53"
+        "update_date": "2021-08-29 19:54:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDIzNzAzMg==&mid=2650058523&idx=1&sn=4eb38ad9c35f30b177c567ffd68ffe80",
@@ -9304,6 +9304,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655629821&idx=1&sn=2942753e788ac9a43df1c4213915d54c",
         "title": "公安厅原总队长因无视禁酒令被双开",
+        "title_eng": "The former captain of the Public Security Department was double-opened for ignoring the prohibition on alcohol",
         "nickname": "阿SIR",
         "created_at": "2021-08-28",
         "archive": "gh_0af747913cab_2021-08-28_2655629821_DI0n93ZQlC.y.tar.gz",
@@ -9314,11 +9315,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655629773&idx=1&sn=d591932c94d213e57a12b35acdeb0912",
         "title": "原副省长、省公安厅原厅长被逮捕",
+        "title_eng": "The former deputy governor and the former director of the Provincial Public Security Department were arrested",
         "nickname": "阿SIR",
         "created_at": "2021-08-27",
         "archive": "gh_0af747913cab_2021-08-27_2655629773_gcnBOZ3Qoz.y.tar.gz",
         "censored_date": "2021-08-29 18:31:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-08-28 19:46:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1OTM5OTY0Mw==&mid=2247511238&idx=1&sn=92a61583c5014a2c3024100757bb442a",
+        "title": "赵薇为何被封杀？这个女人，远比你想象的可怕",
+        "title_eng": "Why was Zhao Wei blocked? This woman is far scarier than you think",
+        "nickname": "天涯时事",
+        "created_at": "2021-08-28",
+        "archive": "gh_944c2d759f7e_2021-08-28_2247511238_MDbo2PH5B7.y.tar.gz",
+        "censored_date": "2021-08-29 19:46:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655629821&idx=4&sn=7f3ca40928794e1c9e961f9e32dd2a87",
+        "title": "公安局交警局被立案调查！",
+        "title_eng": "The Traffic Police Department of the Public Security Bureau was investigated!",
+        "nickname": "阿SIR",
+        "created_at": "2021-08-28",
+        "archive": "gh_0af747913cab_2021-08-28_2655629821_RVymqzZ6Pn.y.tar.gz",
+        "censored_date": "2021-08-29 20:10:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-28 18:55:16"
     }
 ]
