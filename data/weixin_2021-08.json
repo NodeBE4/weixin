@@ -9618,7 +9618,7 @@
         "archive": "gh_8fe24b4816f0_2021-08-29_2650787787_MXFd0o5YmA.y.tar.gz",
         "censored_date": "2021-08-30 18:54:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-08-30 00:15:41"
+        "update_date": "2021-08-31 17:36:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649822513&idx=1&sn=63ef4221ba89ad87512f4a78f0cb9929",
@@ -9628,7 +9628,8 @@
         "created_at": "2021-08-29",
         "archive": "gh_7a402e27f818_2021-08-29_2649822513_O69FTLysic.y.tar.gz",
         "censored_date": "2021-08-30 19:02:26",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-08-31 17:36:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494707&idx=2&sn=126f50b7ca0cfcaafc523c1d15904bde",
@@ -9892,6 +9893,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTYwNzYwOQ==&mid=2655592659&idx=1&sn=3366401e3533acd8bbe9466aa9ece462",
         "title": "王国乡：苦难人生中的学术研究（连载之一）",
+        "title_eng": "Wang Guoxiang: Academic Research in the Suffering Life (Part One)",
         "nickname": "人文经济课堂",
         "created_at": "2021-08-30",
         "archive": "gh_506f6d75187f_2021-08-30_2655592659_waXzdKrWtc.y.tar.gz",
@@ -9902,11 +9904,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651860676&idx=1&sn=19c50f62d1d878908b4c01ce5e058b1c",
         "title": "广东最大的蟑螂是机场！为什么我们看什么都像蟑螂？",
+        "title_eng": "The biggest cockroach in Guangdong is the airport! Why do we look like cockroaches in everything?",
         "nickname": "果壳",
         "created_at": "2021-08-30",
         "archive": "wxid_5637156371511_2021-08-30_2651860676_XpJfdIGub0.y.tar.gz",
         "censored_date": "2021-08-31 17:25:17",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-08-30 22:11:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926737123&idx=2&sn=e094aaa71ec947e28a43a038fcf0f349",
+        "title": "武汉一年后，《柳叶刀》发布中国学者关于新冠后遗症最新研究",
+        "title_eng": "One year later in Wuhan, The Lancet released the latest research on the sequelae of the new crown by Chinese scholars",
+        "nickname": "医学界",
+        "created_at": "2021-08-30",
+        "archive": "gh_9352cb95ad49_2021-08-30_2926737123_x4MXpyh019.y.tar.gz",
+        "censored_date": "2021-08-31 17:30:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-30 23:27:09"
     }
 ]
