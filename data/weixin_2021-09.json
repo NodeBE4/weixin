@@ -1531,7 +1531,7 @@
         "archive": "gh_3a40db54fa36_2021-08-31_2650618241_cfHKS0wosj.y.tar.gz",
         "censored_date": "2021-08-31 21:29:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-01 22:18:33"
+        "update_date": "2021-09-02 05:31:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTA3NjkzMQ==&mid=2650810997&idx=1&sn=a8a4bda35b4886e82e9d4bc245a29746",
@@ -1781,7 +1781,7 @@
         "archive": "gh_c7f9947afc98_2021-08-30_2247491956_t7LFBkeiZG.y.tar.gz",
         "censored_date": "2021-09-01 22:48:20",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-01 01:54:25"
+        "update_date": "2021-09-02 05:55:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247491956&idx=4&sn=efc0bab55dd94616d8046edd8a0a4c77",
@@ -1792,7 +1792,7 @@
         "archive": "gh_c7f9947afc98_2021-08-30_2247491956_fZjN7dimqO.y.tar.gz",
         "censored_date": "2021-09-01 22:52:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-01 00:01:14"
+        "update_date": "2021-09-02 06:05:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658976200&idx=3&sn=14cdf3c5bb405510d73b1bc4dd9ae9bb",
@@ -1802,7 +1802,7 @@
         "archive": "gh_dda6a93672f5_2021-08-31_2658976200_cuZLXaN0Q3.y.tar.gz",
         "censored_date": "2021-09-01 23:14:56",
         "censored_msg": "此帐号已被屏蔽,",
-        "update_date": "2021-09-01 00:57:50"
+        "update_date": "2021-09-02 06:18:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658976200&idx=2&sn=70039c07e007573d565eab81eee295bd",
@@ -1812,7 +1812,8 @@
         "created_at": "2021-08-31",
         "archive": "gh_dda6a93672f5_2021-08-31_2658976200_wNPY40yr3R.y.tar.gz",
         "censored_date": "2021-09-01 23:09:39",
-        "censored_msg": "此帐号已被屏蔽,"
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2021-09-02 06:19:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247505269&idx=2&sn=15987221956aa3ed712984c9f104d4e6",
@@ -1822,7 +1823,8 @@
         "created_at": "2021-08-31",
         "archive": "gh_728dda09b5fa_2021-08-31_2247505269_NQiJyCeWOg.y.tar.gz",
         "censored_date": "2021-09-01 23:16:36",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-02 06:26:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MzIxOTMyNA==&mid=2658976200&idx=1&sn=57f9ca437d3aa677d211564f654414ec",
@@ -1914,6 +1916,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506850&idx=1&sn=20b82d40c3d0f125f27352b96fec5228",
         "title": "14岁少女在厕所被凌辱，多人轮流......施暴者：出事我扛着",
+        "title_eng": "The 14-year-old girl was abused in the toilet, and many people took turns... Perpetrator: I carried the accident",
         "nickname": "老板思维论",
         "created_at": "2021-08-30",
         "archive": "gh_69f7ba479665_2021-08-30_2247506850_CVN0TE8pYH.y.tar.gz",
@@ -1924,6 +1927,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247506850&idx=3&sn=004efa87838203ba209c4aabd419dcf5",
         "title": "“股市老司机”徐晓峰翻车内情",
+        "title_eng": "Old stock market driver Xu Xiaofeng overturned the inside story",
         "nickname": "老板思维论",
         "created_at": "2021-08-30",
         "archive": "gh_69f7ba479665_2021-08-30_2247506850_IkqDBU3P7g.y.tar.gz",
@@ -1945,6 +1949,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAxMjM4MA==&mid=2652341551&idx=2&sn=0d19a107d969bd2ae0ebca01e670f73f",
         "title": "朋友圈细思极恐的8个小故事，看完我人傻了...",
+        "title_eng": "I thought about 8 short stories that were terrifying in the circle of friends. After reading it, I was stupid...",
         "nickname": "暴走漫画",
         "created_at": "2021-08-31",
         "archive": "gh_8684153de4e9_2021-08-31_2652341551_muWvBMXOcy.y.tar.gz",
