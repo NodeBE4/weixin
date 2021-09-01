@@ -1255,7 +1255,8 @@
         "created_at": "2021-08-30",
         "archive": "gh_17da801bc3bd_2021-08-30_2656693088_CTtGE01Wxy.y.tar.gz",
         "censored_date": "2021-08-31 19:02:59",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-02 03:28:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247494707&idx=3&sn=8d1430af019a9c2ae2f7c012eccddabe",
@@ -1475,7 +1476,7 @@
         "archive": "wxid_6050960510211_2021-08-31_2653518211_Ow9dA5mHxe.y.tar.gz",
         "censored_date": "2021-08-31 23:01:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-01 18:53:00"
+        "update_date": "2021-09-02 03:48:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926737123&idx=2&sn=e094aaa71ec947e28a43a038fcf0f349",
@@ -1887,5 +1888,25 @@
         "archive": "gh_8dd6b5346ab2_2021-09-01_2247607478_HZtc8VogS2.y.tar.gz",
         "censored_date": "2021-09-02 00:48:24",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247528574&idx=2&sn=7281594d7c44fefcfa577ecdc0709ae9",
+        "title": "扑朔迷离！赵薇发帖“没跑”，随后又删帖…",
+        "nickname": "遮眼看天",
+        "created_at": "2021-08-30",
+        "archive": "gh_b984621ff266_2021-08-30_2247528574_Ea3xY4dJeI.y.tar.gz",
+        "censored_date": "2021-09-02 04:26:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-31 20:08:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247528574&idx=1&sn=6a12cd57e229927f09927c782ca7caf8",
+        "title": "赵薇被控七宗罪 主因疑是……",
+        "nickname": "遮眼看天",
+        "created_at": "2021-08-30",
+        "archive": "gh_b984621ff266_2021-08-30_2247528574_lgts6FAYS8.y.tar.gz",
+        "censored_date": "2021-09-02 04:28:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-08-31 01:41:09"
     }
 ]
