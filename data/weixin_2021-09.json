@@ -2055,7 +2055,7 @@
         "archive": "gh_dbf026350d23_2021-09-02_2651901030_QvOytMr0aE.y.tar.gz",
         "censored_date": "2021-09-02 14:19:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-02 15:29:20"
+        "update_date": "2021-09-03 15:41:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjcxOTY1NQ==&mid=2651901030&idx=3&sn=1e3d151466f0fb7cb40a8098051982eb",
@@ -2076,7 +2076,8 @@
         "created_at": "2021-09-02",
         "archive": "gh_a2c7ee2ac820_2021-09-02_2649210038_Bcan9xFtmQ.y.tar.gz",
         "censored_date": "2021-09-02 14:49:44",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-03 15:41:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTk0MjA2Mw==&mid=2247504564&idx=1&sn=f1f3723aa4ccdffe19c2b117bae3264f",
@@ -2107,7 +2108,8 @@
         "created_at": "2021-09-02",
         "archive": "gh_ccd6562d7551_2021-09-02_2650800677_cuVfKzP5ol.y.tar.gz",
         "censored_date": "2021-09-02 19:31:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-03 16:31:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0OTcwMTc4Ng==&mid=2247515766&idx=3&sn=a1a7f2cd52f226f97394af996f7a4957",
@@ -2294,6 +2296,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NDExMjUwOA==&mid=2650034457&idx=2&sn=4b895b0fb3771f76919db3a303f1749f",
         "title": "什么样的封面才能呈现：悬案、少年犯、父母失格、虐童",
+        "title_eng": "What kind of cover can present: unsettled cases, juvenile offenders, parental disqualification, child abuse",
         "nickname": "做書",
         "created_at": "2021-09-03",
         "archive": "gh_965149974efc_2021-09-03_2650034457_504pySncs7.y.tar.gz",
