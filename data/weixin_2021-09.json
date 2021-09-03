@@ -2131,7 +2131,8 @@
         "created_at": "2021-09-02",
         "archive": "gh_62a9937cd776_2021-09-02_2651572935_vPjp4cYQNW.y.tar.gz",
         "censored_date": "2021-09-02 20:36:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-03 22:14:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjcwNTEwMw==&mid=2652048063&idx=1&sn=d3ced2ba0e41549331a03095f03d8286",
@@ -2152,7 +2153,8 @@
         "created_at": "2021-09-02",
         "archive": "gh_7001ed9b2b9f_2021-09-02_2247523789_fsxkTamNR7.y.tar.gz",
         "censored_date": "2021-09-02 21:18:38",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-03 22:22:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247523215&idx=3&sn=b84b375e30b2e26742b4c8a69afe2955",
@@ -2329,6 +2331,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Nzg5OTcxMg==&mid=2650733149&idx=1&sn=9629d3e68807a4fcec6ef01fd859164e",
         "title": "张维迎：市场经济与共同富裕",
+        "title_eng": "Zhang Weiying: Market Economy and Common Prosperity",
         "nickname": "后E视野",
         "created_at": "2021-09-02",
         "archive": "gh_1792a2f1e62b_2021-09-02_2650733149_BdPGK5UNkF.y.tar.gz",
@@ -2355,6 +2358,7 @@
         "created_at": "2021-09-03",
         "archive": "gh_b57c8c978774_2021-09-03_2651513213_vU6xQbIDrz.y.tar.gz",
         "censored_date": "2021-09-03 20:50:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-03 22:16:37"
     }
 ]
