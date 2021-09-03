@@ -2098,7 +2098,8 @@
         "created_at": "2021-09-02",
         "archive": "gh_358c7d1e341c_2021-09-02_2247531291_t1zKcR9lDW.y.tar.gz",
         "censored_date": "2021-09-02 18:53:07",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-03 20:02:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650800677&idx=1&sn=0b341ce22063a14054197f2eedd2e00c",
@@ -2323,5 +2324,26 @@
         "archive": "gh_c85e450fc15f_2021-09-02_2651454413_G8s2veD97i.y.tar.gz",
         "censored_date": "2021-09-03 18:21:36",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5Nzg5OTcxMg==&mid=2650733149&idx=1&sn=9629d3e68807a4fcec6ef01fd859164e",
+        "title": "张维迎：市场经济与共同富裕",
+        "nickname": "后E视野",
+        "created_at": "2021-09-02",
+        "archive": "gh_1792a2f1e62b_2021-09-02_2650733149_BdPGK5UNkF.y.tar.gz",
+        "censored_date": "2021-09-03 20:38:07",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-02 23:41:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247653773&idx=1&sn=597d716fece78323e3ca7063b0652fa5",
+        "title": "兰州交大遇害研究生家属：学校已赔偿200万，配合警方后续调查",
+        "title_eng": "Family members of graduate students killed in Lanzhou Jiaotong University: The school has compensated 2 million yuan and cooperates with the police follow-up investigation",
+        "nickname": "新京报",
+        "created_at": "2021-09-02",
+        "archive": "gh_16cc427c8e02_2021-09-02_2247653773_7S0oYq350N.y.tar.gz",
+        "censored_date": "2021-09-03 19:31:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-02 19:04:32"
     }
 ]
