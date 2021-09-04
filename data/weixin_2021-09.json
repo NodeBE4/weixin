@@ -2121,7 +2121,7 @@
         "archive": "gh_c225404568b3_2021-09-02_2247515766_wDhmIAxQrj.y.tar.gz",
         "censored_date": "2021-09-02 20:24:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-03 22:41:01"
+        "update_date": "2021-09-05 06:02:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTAzMDU1NA==&mid=2651572935&idx=1&sn=bd3bed4e4770923a7708de9c7ff38d9f",
@@ -2154,7 +2154,7 @@
         "archive": "gh_7001ed9b2b9f_2021-09-02_2247523789_fsxkTamNR7.y.tar.gz",
         "censored_date": "2021-09-02 21:18:38",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-03 22:22:52"
+        "update_date": "2021-09-05 06:00:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247523215&idx=3&sn=b84b375e30b2e26742b4c8a69afe2955",
@@ -2374,7 +2374,7 @@
         "archive": "gh_b8582cfc694b_2021-09-02_2649246765_QkuqiKm1ZC.y.tar.gz",
         "censored_date": "2021-09-03 23:01:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-03 01:43:06"
+        "update_date": "2021-09-05 06:23:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198452&idx=4&sn=06949416d80f5c348a5c4f107c93cd2b",
@@ -2528,6 +2528,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198452&idx=3&sn=97fbd0a95ab113e7296caa1ef3eaed3d",
         "title": "航空公司建议接种疫苗的人不要坐飞机！",
+        "title_eng": "The airline advises vaccinated people not to fly!",
         "nickname": "小明有爆料",
         "created_at": "2021-09-01",
         "archive": "gh_8cfa220f916e_2021-09-01_2451198452_nW5Sv8ZxKf.y.tar.gz",
@@ -2538,11 +2539,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247504313&idx=1&sn=a39ea5f247241bee38f51a87ff574b1e",
         "title": "否定中国东南经济发展模式，极其危险！",
+        "title_eng": "It is extremely dangerous to deny the economic development model of Southeast China!",
         "nickname": "冰川思享号",
         "created_at": "2021-09-03",
         "archive": "gh_e80b5c3c8b87_2021-09-03_2247504313_A6kIpQNPEC.y.tar.gz",
         "censored_date": "2021-09-05 05:17:05",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-04 22:13:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653285740&idx=1&sn=b5a42b3b365aa06bf8b9197161099e6a",
+        "title": "1死5伤！茂名石化“3·15”爆炸事故调查报告",
+        "nickname": "化工707",
+        "created_at": "2021-09-02",
+        "archive": "gh_430d84f19d48_2021-09-02_2653285740_0O59xfjW30.y.tar.gz",
+        "censored_date": "2021-09-05 05:35:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-03 00:19:36"
     }
 ]
