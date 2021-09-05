@@ -2711,10 +2711,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzY3MDQxOA==&mid=2247507927&idx=2&sn=0045c94459fe7ac4f4e2acb35f7994f1",
         "title": "澳门，也开始出现西方走狗了？",
+        "title_eng": "Western lackeys have begun to appear in Macau?",
         "nickname": "补壹刀",
         "created_at": "2021-09-05",
         "archive": "gh_d017447a7b5d_2021-09-05_2247507927_wS07ykE2ab.y.tar.gz",
         "censored_date": "2021-09-05 22:39:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyOTI4Mzg2NQ==&mid=2650093366&idx=2&sn=f2c778f582fdc11ec5ab04eba428a990",
+        "title": "易中天：我真的对中国知识界极其···",
+        "title_eng": "Yi Zhongtian: I am really very good to Chinese intellectuals...",
+        "nickname": "90后洞见",
+        "created_at": "2021-09-03",
+        "archive": "gh_63ac0d780c3a_2021-09-03_2650093366_pRt3Ti7Am1.y.tar.gz",
+        "censored_date": "2021-09-05 23:50:26",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-04 21:07:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247595893&idx=2&sn=b79c15465ce7e6bec9b4d432fd8d533f",
+        "title": "黑龙江交通事故15名遇难者身份确定",
+        "title_eng": "Identification of 15 victims in Heilongjiang traffic accident",
+        "nickname": "红星新闻",
+        "created_at": "2021-09-04",
+        "archive": "gh_1ede6c42db01_2021-09-04_2247595893_dfqPvrJQ0w.y.tar.gz",
+        "censored_date": "2021-09-06 00:08:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-05 00:37:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650898449&idx=2&sn=f30a44ba7761c44d69ecec8479301254",
+        "title": "我的摄影技术终于有救了",
+        "nickname": "三联生活周刊",
+        "created_at": "2021-09-05",
+        "archive": "wxid_1ytkcyvr0m0g11_2021-09-05_2650898449_NwSt4fdb8F.y.tar.gz",
+        "censored_date": "2021-09-06 00:32:03",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
