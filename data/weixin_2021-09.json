@@ -2471,7 +2471,7 @@
         "archive": "gh_8684153de4e9_2021-09-03_2652341993_TnmCYsvaG0.y.tar.gz",
         "censored_date": "2021-09-04 20:14:22",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-03 23:18:33"
+        "update_date": "2021-09-05 22:50:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247524900&idx=5&sn=7dd3dae3cfd106bf1cefe5b6ebd6d785",
@@ -2706,6 +2706,15 @@
         "created_at": "2021-09-05",
         "archive": "gh_24f69528a8d4_2021-09-05_2651497938_cGjfMSPFqi.y.tar.gz",
         "censored_date": "2021-09-05 19:29:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNzY3MDQxOA==&mid=2247507927&idx=2&sn=0045c94459fe7ac4f4e2acb35f7994f1",
+        "title": "澳门，也开始出现西方走狗了？",
+        "nickname": "补壹刀",
+        "created_at": "2021-09-05",
+        "archive": "gh_d017447a7b5d_2021-09-05_2247507927_wS07ykE2ab.y.tar.gz",
+        "censored_date": "2021-09-05 22:39:41",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
