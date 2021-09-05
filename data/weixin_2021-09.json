@@ -2743,6 +2743,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650898449&idx=2&sn=f30a44ba7761c44d69ecec8479301254",
         "title": "我的摄影技术终于有救了",
+        "title_eng": "My photography skills are finally saved",
         "nickname": "三联生活周刊",
         "created_at": "2021-09-05",
         "archive": "wxid_1ytkcyvr0m0g11_2021-09-05_2650898449_NwSt4fdb8F.y.tar.gz",
@@ -2785,6 +2786,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247528696&idx=4&sn=eafea5e126d82bb79283bbe20a6fa578",
         "title": "新冠疫苗成“印钞机”，科兴半年大赚500亿元，或赶超辉瑞登顶榜首",
+        "title_eng": "The new crown vaccine becomes a money printing machine, and Kexing earns 50 billion yuan in half a year, or catches up with Pfizer to top the list",
         "nickname": "遮眼看天",
         "created_at": "2021-09-01",
         "archive": "gh_b984621ff266_2021-09-01_2247528696_Vhen9qf3Io.y.tar.gz",
@@ -2813,5 +2815,25 @@
         "censored_date": "2021-09-06 01:01:37",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-04 23:46:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652010293&idx=2&sn=9a2d75eb809edec554553c38ee59d2c6",
+        "title": "美国史上最严堕胎禁令：被性侵怀孕也不能堕胎",
+        "title_eng": "The strictest abortion ban in U.S. history",
+        "nickname": "亮哥在读书",
+        "created_at": "2021-09-04",
+        "archive": "gh_09fd5b6316b9_2021-09-04_2652010293_tzNcQ4EqwB.y.tar.gz",
+        "censored_date": "2021-09-06 02:05:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3ODM2OTU5Mg==&mid=2247493378&idx=1&sn=b6d7eecd93a5825ac3f354b4f09bde97",
+        "title": "入秋泡脚加一物，活血排毒祛寒湿，皮肤白净，睡眠香甜，减少便秘，大肚腩也没了",
+        "title_eng": "Add one thing to soak your feet in autumn to invigorate blood, detoxify and dispel cold and dampness, whiten your skin, sleep sweet, reduce constipation, and lose your belly",
+        "nickname": "熊老六",
+        "created_at": "2021-09-04",
+        "archive": "gh_a2cb8e003f7b_2021-09-04_2247493378_krfsRIO5X8.y.tar.gz",
+        "censored_date": "2021-09-06 02:06:43",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
