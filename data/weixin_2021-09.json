@@ -2573,6 +2573,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5OTQyMDgyOQ==&mid=2652616313&idx=7&sn=1233eeb3d48c5bdc95b9ef6dcbf4a41e",
         "title": "2021年9月4日物联网新闻",
+        "title_eng": "Internet of Things News for September 4, 2021",
         "nickname": "冯站长之家",
         "created_at": "2021-09-04",
         "archive": "gh_ba6105d7c051_2021-09-04_2652616313_2LnGi85hYZ.y.tar.gz",
@@ -2583,10 +2584,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjE4Mw==&mid=2450909846&idx=1&sn=8acd4d5bfafacbb8d7a0478c388a08dc",
         "title": "支付宝又出新功能，新功能已上线",
+        "title_eng": "Alipay has another new feature, and the new feature has been launched",
         "nickname": "医健趋势",
         "created_at": "2021-09-05",
         "archive": "gh_a432d3267262_2021-09-05_2450909846_rZBxLvWRil.y.tar.gz",
         "censored_date": "2021-09-05 11:16:24",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490371&idx=2&sn=093f1e83936bd4e9672d79114d429524",
+        "title": "风靡全国的《身体自愈课程》微信群，免费开课啦！睡得香、精神足、免疫力迅速提高！抓紧进群，免费学习！",
+        "title_eng": "The WeChat group Body Self-Healing Course, which is popular all over the country, is now available for free! Sleep soundly, have enough energy, and improve immunity quickly! Join the group and learn for free!",
+        "nickname": "世纪观察",
+        "created_at": "2021-09-04",
+        "archive": "gh_26762a56c129_2021-09-04_2247490371_Bg6cUxab3v.y.tar.gz",
+        "censored_date": "2021-09-05 11:43:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-04 11:08:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0MzM3ODc2OQ==&mid=2247551726&idx=2&sn=3905b2de3b24af0e008d2318b7b0a898",
+        "title": "张维迎：所谓市场经济的毛病，都是“卖拐”的人编造出来的",
+        "title_eng": "Zhang Weiying: The so-called market economy problems are fabricated by traffickers",
+        "nickname": "中企思智库",
+        "created_at": "2021-09-02",
+        "archive": "gh_2b00d0c19228_2021-09-02_2247551726_WRjoSuzNKx.y.tar.gz",
+        "censored_date": "2021-09-05 12:05:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-04 12:24:02"
     }
 ]
