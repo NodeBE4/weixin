@@ -2690,7 +2690,8 @@
         "created_at": "2021-09-05",
         "archive": "gh_92cc81922040_2021-09-05_2650991863_wcoWpP9l0X.y.tar.gz",
         "censored_date": "2021-09-05 15:27:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-06 16:29:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTM4OTQ4MA==&mid=2247491567&idx=1&sn=6156ffe588e4363f09ce94b9bd52d4c9",
@@ -2982,5 +2983,27 @@
         "censored_date": "2021-09-06 13:06:30",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-05 14:01:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTM4OTQ4MA==&mid=2247491590&idx=1&sn=56051fca748e3315263d83e5b4c34eda",
+        "title": "塔利班发言人：阿富汗全面禁止音乐活动，女性出门需由男性陪同",
+        "title_eng": "Taliban spokesperson: Afghanistan completely bans music activities, women must be accompanied by men when they go out",
+        "nickname": "明说全天下",
+        "created_at": "2021-09-03",
+        "archive": "gh_e8c61422c833_2021-09-03_2247491590_0xrObmPM5v.y.tar.gz",
+        "censored_date": "2021-09-06 15:57:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-05 14:39:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NTA1ODIwMQ==&mid=2650712516&idx=1&sn=58cef8b2d0288d6da7ea28bc004432eb",
+        "title": "挂名牌、傍名校，1年学费超3万！“宁德北大培文”真是北大所办？北大两次发函：未授权！",
+        "title_eng": "The tuition fee is over 30,000 yuan per year in famous universities and famous schools! Ningde Peking University Pei Wen is really a Peking University? Peking University sent letters twice: not authorized!",
+        "nickname": "观八闽",
+        "created_at": "2021-09-05",
+        "archive": "gh_cf7f88f0bfe8_2021-09-05_2650712516_xDW6geLF4z.y.tar.gz",
+        "censored_date": "2021-09-06 15:36:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-05 16:26:03"
     }
 ]
