@@ -2746,7 +2746,7 @@
         "archive": "gh_1ede6c42db01_2021-09-04_2247595893_dfqPvrJQ0w.y.tar.gz",
         "censored_date": "2021-09-06 00:08:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-05 00:37:25"
+        "update_date": "2021-09-07 04:29:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650898449&idx=2&sn=f30a44ba7761c44d69ecec8479301254",
@@ -2833,7 +2833,8 @@
         "created_at": "2021-09-04",
         "archive": "gh_09fd5b6316b9_2021-09-04_2652010293_tzNcQ4EqwB.y.tar.gz",
         "censored_date": "2021-09-06 02:05:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 05:08:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODM2OTU5Mg==&mid=2247493378&idx=1&sn=b6d7eecd93a5825ac3f354b4f09bde97",
@@ -3286,5 +3287,15 @@
         "censored_date": "2021-09-07 01:01:51",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-06 02:37:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247528938&idx=1&sn=7f73893d060ef225d18c91dfe8469b96",
+        "title": "今天，黑龙江学生会干部张美玉火了",
+        "nickname": "遮眼看天",
+        "created_at": "2021-09-02",
+        "archive": "gh_b984621ff266_2021-09-02_2247528938_1hgtXkDfKc.y.tar.gz",
+        "censored_date": "2021-09-07 04:41:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-06 00:55:32"
     }
 ]
