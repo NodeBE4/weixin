@@ -2713,7 +2713,7 @@
         "archive": "gh_24f69528a8d4_2021-09-05_2651497938_cGjfMSPFqi.y.tar.gz",
         "censored_date": "2021-09-05 19:29:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-06 20:07:23"
+        "update_date": "2021-09-08 00:26:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzY3MDQxOA==&mid=2247507927&idx=2&sn=0045c94459fe7ac4f4e2acb35f7994f1",
@@ -3142,7 +3142,7 @@
         "archive": "gh_451ac223b741_2021-09-04_2247486062_pIdwfz7s3a.y.tar.gz",
         "censored_date": "2021-09-06 18:10:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-05 20:33:24"
+        "update_date": "2021-09-07 23:59:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMjE5OTYyOA==&mid=2247509382&idx=1&sn=e58bf02debc68176cb399b6628979dfe",
@@ -3472,6 +3472,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247494629&idx=2&sn=12eeceb03391211cf7805c7a8dae2b0f",
         "title": "好运全部都在中.晚年的三个生.肖，看看里面有你吗？",
+        "title_eng": "Good luck is all in the middle. Three Chinese zodiac signs in the old age. See if you are in it?",
         "nickname": "独眼辣评",
         "created_at": "2021-09-05",
         "archive": "gh_0e52cf0e55c4_2021-09-05_2247494629_zDRTtbVs2i.y.tar.gz",
@@ -3482,6 +3483,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTIxOTA4Nw==&mid=2652957773&idx=1&sn=5d67520cf3b1d11852caa2eefdbb6cf3",
         "title": "西安地铁事件：一个女性是如何被合谋扒光的",
+        "title_eng": "The Xi'an Subway Incident: How a woman was stripped naked by conspiracy",
         "nickname": "她刊",
         "created_at": "2021-09-04",
         "archive": "gh_95d87a6a5865_2021-09-04_2652957773_bcyrmIFTAU.y.tar.gz",
@@ -3498,5 +3500,26 @@
         "censored_date": "2021-09-07 22:38:32",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-09-06 21:22:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMTY2OTc4MQ==&mid=2247501380&idx=1&sn=2b847a251c6a1186b66a8b26b51e8fa0",
+        "title": "普洱茶，切忌不懂装懂（建议收藏）",
+        "title_eng": "Pu'er tea, do not know how to pretend to understand (recommended to collect)",
+        "nickname": "赤剑天涯讲堂",
+        "created_at": "2021-09-06",
+        "archive": "gh_ed7d58d184ae_2021-09-06_2247501380_dNmBVs4ZjS.y.tar.gz",
+        "censored_date": "2021-09-08 00:28:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 01:37:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653456282&idx=3&sn=910f18e634cb07357b3c4f02442f28ee",
+        "title": "央企“退房”进行时：广宇发展股权置换全面“押注”新能源赛道丨公司",
+        "title_eng": "When the central enterprises check out: Guangyu Development's equity replacement fully bets on the new energy track丨The company",
+        "nickname": "中国房地产报",
+        "created_at": "2021-09-07",
+        "archive": "gh_3dda95af34d0_2021-09-07_2653456282_YhlTktX0ec.y.tar.gz",
+        "censored_date": "2021-09-07 23:40:59",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
