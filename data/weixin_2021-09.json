@@ -3020,8 +3020,8 @@
         "created_at": "2021-09-05",
         "archive": "gh_8b9b044b10a2_2021-09-05_2247485632_MI0vEj8qnZ.y.tar.gz",
         "censored_date": "2021-09-06 16:47:55",
-        "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-05 18:27:57"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-07 20:13:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MDY3MjY2Mg==&mid=2247485632&idx=3&sn=c536326f9672d04859616e5866cffda6",
@@ -3086,7 +3086,8 @@
         "created_at": "2021-09-04",
         "archive": "gh_26dc4a571852_2021-09-04_2651653833_8ijaRy0mt0.y.tar.gz",
         "censored_date": "2021-09-06 17:36:11",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-07 20:35:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODc4NTUzNA==&mid=2247486062&idx=3&sn=b56e1050c565e0b6798c735e09ab00e1",
