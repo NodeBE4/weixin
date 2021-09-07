@@ -3042,7 +3042,8 @@
         "created_at": "2021-09-06",
         "archive": "gh_06140cfad959_2021-09-06_2247534262_0gE59cGDld.y.tar.gz",
         "censored_date": "2021-09-06 17:00:46",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-07 16:24:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2247747798&idx=2&sn=03bee6fcab99b759e0347cd196d9ffac",
@@ -3359,11 +3360,44 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652468237&idx=1&sn=1ea35dea111d2d98bc76079997d14ead",
         "title": "性、谎言与避孕套：“阿里女员工被侵害”事件复盘",
+        "title_eng": "Sex, lies and condoms: Ali female employee was violated incident re-examined",
         "nickname": "南方周末",
         "created_at": "2021-09-07",
         "archive": "nanfangzhoumo_2021-09-07_2652468237_NzPxX2UV4l.y.tar.gz",
         "censored_date": "2021-09-07 14:52:51",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-07 13:36:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyMjE5OTYyOA==&mid=2247509432&idx=1&sn=a8fc079736b1b588168b151ad2c4ef31",
+        "title": "周江勇落马原因披露!",
+        "title_eng": "The reason for Zhou Jiangyong's fall was disclosed!",
+        "nickname": "今日律法评道",
+        "created_at": "2021-09-06",
+        "archive": "gh_0e57b0f7a611_2021-09-06_2247509432_eTRmQWpZgw.y.tar.gz",
+        "censored_date": "2021-09-07 16:15:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-06 16:34:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516699&idx=5&sn=37f5a5159e9afa002ca3e8b265455209",
+        "title": "国务院：鼓励事业单位人员在职创办企业，不用辞职！",
+        "nickname": "法苑茶语",
+        "created_at": "2021-09-05",
+        "archive": "gh_bf54f24b2e87_2021-09-05_2247516699_htkuyZcr28.y.tar.gz",
+        "censored_date": "2021-09-07 16:25:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-06 15:17:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyMjE5OTYyOA==&mid=2247509432&idx=3&sn=c7390d4cf9758cfc1001bc88d603c907",
+        "title": "重磅！人社部发布：因病或非因工死亡待遇新规（2021.9.1 施行）",
+        "title_eng": "Heavy! The Ministry of Human Resources and Social Security Issued: New Regulations on the Treatment of Death due to Sickness or Non-work-related Deaths (implemented on September 1, 2021)",
+        "nickname": "今日律法评道",
+        "created_at": "2021-09-06",
+        "archive": "gh_0e57b0f7a611_2021-09-06_2247509432_MRh8tP7OQI.y.tar.gz",
+        "censored_date": "2021-09-07 16:15:37",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-06 16:35:20"
     }
 ]
