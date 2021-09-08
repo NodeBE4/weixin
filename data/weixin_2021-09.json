@@ -3417,7 +3417,7 @@
         "archive": "gh_5b2733a9764d_2021-09-06_2247512664_39gnarQ8lL.y.tar.gz",
         "censored_date": "2021-09-07 17:30:25",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-06 20:31:49"
+        "update_date": "2021-09-09 01:25:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650088535&idx=4&sn=87554e91fcc5dbda0a78a9ae4fc4efe7",
@@ -3428,7 +3428,7 @@
         "archive": "gh_45220e40f13c_2021-09-06_2650088535_gpSje8N7Gr.y.tar.gz",
         "censored_date": "2021-09-07 17:43:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-06 20:37:04"
+        "update_date": "2021-09-09 01:26:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658736286&idx=1&sn=1907b45ff97f5372a40d6a5d37d6dc41",
@@ -3438,7 +3438,8 @@
         "created_at": "2021-09-07",
         "archive": "gh_e3ae8ac3dd21_2021-09-07_2658736286_1GxgyeZfiC.y.tar.gz",
         "censored_date": "2021-09-07 17:36:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-09 01:25:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516699&idx=1&sn=afb43e9874208faff925004c74f00396",
@@ -3755,11 +3756,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516724&idx=5&sn=c8ce8b6bc2f760a93beff98d3dc27925",
         "title": "最高院民一庭：离婚协议中将自己名下房产赠与子女或他人的约定不得撤销(2021.7)",
+        "title_eng": "The First Court of the Supreme Court: The agreement in the divorce agreement to donate real estate under one's name to children or others cannot be revoked (2021.7)",
         "nickname": "法苑茶语",
         "created_at": "2021-09-06",
         "archive": "gh_bf54f24b2e87_2021-09-06_2247516724_g291cQpKiT.y.tar.gz",
         "censored_date": "2021-09-09 00:32:58",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-07 21:32:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTUwNzUyMQ==&mid=2652140428&idx=2&sn=ba3f955b949ba6706d78bac8c80d5f87",
+        "title": "“90后”博士女镇长，拟任副县长",
+        "title_eng": "Post-90s doctoral female mayor, proposed to be deputy county mayor",
+        "nickname": "决策杂志",
+        "created_at": "2021-09-07",
+        "archive": "gh_704d5d8d259f_2021-09-07_2652140428_yRwiIqXrcl.y.tar.gz",
+        "censored_date": "2021-09-09 01:03:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 21:18:12"
     }
 ]
