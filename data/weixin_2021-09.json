@@ -3175,7 +3175,7 @@
         "archive": "gh_a53dbc2e04b7_2021-09-05_2652251356_5RJYk0lyAo.y.tar.gz",
         "censored_date": "2021-09-06 19:07:58",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-05 21:01:08"
+        "update_date": "2021-09-08 08:43:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652976675&idx=2&sn=0709dbe491eb9a298313d08150f00f09",
@@ -3185,7 +3185,8 @@
         "created_at": "2021-09-06",
         "archive": "gh_40f2418747aa_2021-09-06_2652976675_bZV3RKJAfN.y.tar.gz",
         "censored_date": "2021-09-06 19:02:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-08 08:43:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODc4NTUzNA==&mid=2247486062&idx=5&sn=e7135b43af9f82fb25327b82f39e7599",
@@ -3240,7 +3241,7 @@
         "archive": "gh_644f262a3d2c_2021-09-06_2650997785_f8baIHSpyU.y.tar.gz",
         "censored_date": "2021-09-06 20:42:24",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-08 02:45:23"
+        "update_date": "2021-09-08 08:46:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247507104&idx=1&sn=03798eafc130345b126ed0f9dee9ab8c",
@@ -3512,7 +3513,7 @@
         "archive": "gh_ed7d58d184ae_2021-09-06_2247501380_dNmBVs4ZjS.y.tar.gz",
         "censored_date": "2021-09-08 00:28:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-07 01:37:54"
+        "update_date": "2021-09-08 07:43:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653456282&idx=3&sn=910f18e634cb07357b3c4f02442f28ee",
@@ -3608,5 +3609,26 @@
         "archive": "gh_336ea9863c03_2021-09-06_2651788579_J5UF7sakxi.y.tar.gz",
         "censored_date": "2021-09-08 05:36:23",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjAxMjM4MA==&mid=2652342072&idx=3&sn=63e0ef15d4cb0f868c520ac12b9e6315",
+        "title": "发现了绿茶闺蜜勾引男友的全过程！！",
+        "nickname": "暴走漫画",
+        "created_at": "2021-09-06",
+        "archive": "gh_8684153de4e9_2021-09-06_2652342072_HI0qokBJ52.y.tar.gz",
+        "censored_date": "2021-09-08 08:53:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 02:07:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDQ4NjUwOA==&mid=2457354926&idx=1&sn=e89dfdfeba14e22d03b8a4871edac9d9",
+        "title": "重磅！人社部发布因病或非因工死亡待遇新规（附全文）",
+        "title_eng": "Heavy! The Ministry of Human Resources and Social Security Issued New Regulations on the Treatment of Death due to Sickness or Non-work-related Death (with full text)",
+        "nickname": "劳动法研究",
+        "created_at": "2021-09-06",
+        "archive": "gh_94627ab028a8_2021-09-06_2457354926_9ALvRGCFIx.y.tar.gz",
+        "censored_date": "2021-09-08 07:51:38",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-07 00:27:35"
     }
 ]
