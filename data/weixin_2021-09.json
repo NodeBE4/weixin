@@ -3439,7 +3439,7 @@
         "archive": "gh_e3ae8ac3dd21_2021-09-07_2658736286_1GxgyeZfiC.y.tar.gz",
         "censored_date": "2021-09-07 17:36:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-09 01:25:02"
+        "update_date": "2021-09-09 05:42:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516699&idx=1&sn=afb43e9874208faff925004c74f00396",
@@ -3471,7 +3471,8 @@
         "created_at": "2021-09-07",
         "archive": "gh_74c9c263a949_2021-09-07_2650401064_yK5LbEaZJw.y.tar.gz",
         "censored_date": "2021-09-07 21:50:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-09 05:25:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247494629&idx=2&sn=12eeceb03391211cf7805c7a8dae2b0f",
@@ -3800,6 +3801,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247528504&idx=1&sn=5b58b36a9a60dffcba01dd854d50123d",
         "title": "别了，娘炮！",
+        "title_eng": "Farewell, motherfucker!",
         "nickname": "今读史",
         "created_at": "2021-09-07",
         "archive": "gh_5e008ceefb25_2021-09-07_2247528504_Pu1oz4rsMA.y.tar.gz",
@@ -3810,11 +3812,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247529169&idx=1&sn=5c97c1be5ff58f2d69a42be8cd974df9",
         "title": "现在连公务员都要离开北京了",
+        "title_eng": "Now even civil servants have to leave Beijing",
         "nickname": "遮眼看天",
         "created_at": "2021-09-07",
         "archive": "gh_b984621ff266_2021-09-07_2247529169_gstSp0XzQh.y.tar.gz",
         "censored_date": "2021-09-09 05:03:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-08 00:58:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655713070&idx=1&sn=047e36efce6ee1158a13887286ca3d4b",
+        "title": "被开会缠住的大厂人",
+        "nickname": "虎嗅APP",
+        "created_at": "2021-09-07",
+        "archive": "wxid_7620846208112_2021-09-07_2655713070_nChRE9YaOX.y.tar.gz",
+        "censored_date": "2021-09-09 06:17:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-08 01:36:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247592993&idx=7&sn=98714c7a3e0d5d631aef5f71bb98eed4",
+        "title": "还没到中秋，这月饼就要没了，连盒子都是精品，今年这款故宫月饼再次风靡全网",
+        "nickname": "凤凰网财经",
+        "created_at": "2021-09-06",
+        "archive": "gh_e76b6086b960_2021-09-06_2247592993_sBhtReVy00.y.tar.gz",
+        "censored_date": "2021-09-09 06:26:57",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-08 01:45:58"
     }
 ]
