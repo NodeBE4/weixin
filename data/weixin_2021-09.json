@@ -3525,7 +3525,8 @@
         "created_at": "2021-09-07",
         "archive": "gh_3dda95af34d0_2021-09-07_2653456282_YhlTktX0ec.y.tar.gz",
         "censored_date": "2021-09-07 23:40:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-09 07:14:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655630778&idx=3&sn=82605ecfac29835040db62268570d424",
@@ -3823,6 +3824,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655713070&idx=1&sn=047e36efce6ee1158a13887286ca3d4b",
         "title": "被开会缠住的大厂人",
+        "title_eng": "Big factory people caught in meetings",
         "nickname": "虎嗅APP",
         "created_at": "2021-09-07",
         "archive": "wxid_7620846208112_2021-09-07_2655713070_nChRE9YaOX.y.tar.gz",
@@ -3833,11 +3835,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247592993&idx=7&sn=98714c7a3e0d5d631aef5f71bb98eed4",
         "title": "还没到中秋，这月饼就要没了，连盒子都是精品，今年这款故宫月饼再次风靡全网",
+        "title_eng": "Before the Mid-Autumn Festival, this mooncake will be gone, even the box is a boutique, this year this Forbidden City mooncake once again swept the whole Internet",
         "nickname": "凤凰网财经",
         "created_at": "2021-09-06",
         "archive": "gh_e76b6086b960_2021-09-06_2247592993_sBhtReVy00.y.tar.gz",
         "censored_date": "2021-09-09 06:26:57",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-08 01:45:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247523547&idx=3&sn=3dba23d07179410d42ed8284af87af04",
+        "title": "又一家千亿房企暴雷了！",
+        "nickname": "环球冷眼",
+        "created_at": "2021-09-06",
+        "archive": "gh_1aecabdf0add_2021-09-06_2247523547_0l890QPiBO.y.tar.gz",
+        "censored_date": "2021-09-09 07:24:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 16:28:50"
     }
 ]
