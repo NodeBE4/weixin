@@ -3543,7 +3543,8 @@
         "created_at": "2021-09-05",
         "archive": "gh_46fa18dba691_2021-09-05_2247495012_5uidKU9bt4.y.tar.gz",
         "censored_date": "2021-09-08 03:19:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-08 09:20:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247529024&idx=1&sn=7bbdca84a34a614cdb10d0cb4af8a517",
@@ -3554,7 +3555,7 @@
         "archive": "gh_b984621ff266_2021-09-04_2247529024_f1wtDYsVAi.y.tar.gz",
         "censored_date": "2021-09-08 04:00:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-07 01:35:29"
+        "update_date": "2021-09-08 10:03:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495012&idx=4&sn=a508b1bfaf06e3f3fa730b7216a90be3",
@@ -3565,7 +3566,7 @@
         "archive": "gh_46fa18dba691_2021-09-05_2247495012_1j6bmG3Wpk.y.tar.gz",
         "censored_date": "2021-09-08 03:22:24",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-07 01:11:00"
+        "update_date": "2021-09-08 09:23:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247507104&idx=2&sn=69f240d0e2d811a1fde76f0b116b04c6",
@@ -3613,6 +3614,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAxMjM4MA==&mid=2652342072&idx=3&sn=63e0ef15d4cb0f868c520ac12b9e6315",
         "title": "发现了绿茶闺蜜勾引男友的全过程！！",
+        "title_eng": "Discovered the whole process of green tea girlfriend seduce her boyfriend! !",
         "nickname": "暴走漫画",
         "created_at": "2021-09-06",
         "archive": "gh_8684153de4e9_2021-09-06_2652342072_HI0qokBJ52.y.tar.gz",
@@ -3630,5 +3632,59 @@
         "censored_date": "2021-09-08 07:51:38",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-09-07 00:27:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495052&idx=5&sn=3fc3db03b3ff12ffa39c1d8c16124ffe",
+        "title": "宁可手下无兵，也要辞退负面的员工！",
+        "title_eng": "I would rather have no soldiers, but also dismiss the negative employees!",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-06",
+        "archive": "gh_46fa18dba691_2021-09-06_2247495052_f5msGvJw4x.y.tar.gz",
+        "censored_date": "2021-09-08 09:22:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 01:09:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495052&idx=3&sn=2922476cc92a99ae22da853b972da7ff",
+        "title": "用咖啡收割中国市场？星巴克、瑞幸、Tims们的生死时速！",
+        "title_eng": "Use coffee to harvest the Chinese market? The speed of life and death of Starbucks, Luckin, and Tims!",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-06",
+        "archive": "gh_46fa18dba691_2021-09-06_2247495052_ta0BT1qpI7.y.tar.gz",
+        "censored_date": "2021-09-08 09:22:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 01:08:04"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495052&idx=6&sn=40a2c4a18815d5d2e09918a6a85b5ffc",
+        "title": "从细节看穿一个人！（建议收藏）",
+        "title_eng": "See through a person from the details! (Recommended collection)",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-06",
+        "archive": "gh_46fa18dba691_2021-09-06_2247495052_YLlUChI5j9.y.tar.gz",
+        "censored_date": "2021-09-08 09:23:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-07 01:10:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495052&idx=4&sn=82ebd0ba9cf684e0da072a6b1c5a6685",
+        "title": "为什么说把Excel练好，是职场上最划算的事？",
+        "title_eng": "Why is it said that practicing Excel well is the most cost-effective thing in the workplace?",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-06",
+        "archive": "gh_46fa18dba691_2021-09-06_2247495052_QvmCO9ESYJ.y.tar.gz",
+        "censored_date": "2021-09-08 09:19:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-08 03:18:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495052&idx=2&sn=98c8ceffd1611a66c1d668bf07dbf463",
+        "title": "公开求偶遭央视痛批，“人类高质量男性”真面目曝光：中国式审丑，正在毁掉你",
+        "title_eng": "Public courtship was severely criticized by CCTV, and the true face of human high-quality males was exposed: Chinese-style ugliness is ruining you",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-06",
+        "archive": "gh_46fa18dba691_2021-09-06_2247495052_0pO9gRm3ev.y.tar.gz",
+        "censored_date": "2021-09-08 09:19:32",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
