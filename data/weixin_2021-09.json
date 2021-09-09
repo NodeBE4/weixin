@@ -3722,7 +3722,8 @@
         "created_at": "2021-09-08",
         "archive": "wxid_6064290663512_2021-09-08_2653039824_pmyngTBPrG.y.tar.gz",
         "censored_date": "2021-09-08 16:42:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-09 17:42:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490386&idx=2&sn=7e2d48939464d5e10b7e0e8780c196c3",
@@ -3956,11 +3957,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247487698&idx=2&sn=3ad73085f74fa17eef2633ca7f2ab667",
         "title": "别傻了！还在商场买翡翠？在缅甸源头买高档翡翠，少花冤枉钱！",
+        "title_eng": "Do not be silly! Still buying jade in the mall? Buy high-end jade at the source of Myanmar, and spend less money!",
         "nickname": "实事聚焦",
         "created_at": "2021-09-07",
         "archive": "gh_28a27f6c0472_2021-09-07_2247487698_ZlaIw61QPf.y.tar.gz",
         "censored_date": "2021-09-09 16:43:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-08 12:47:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODM5NTcwNQ==&mid=2650515610&idx=2&sn=bb7a98a3bc8ba0f2a4c93e36588a473c",
+        "title": "高价买的虫草，至少有一半钱被中间商赚走了，源头虫草才这个价！",
+        "title_eng": "For cordyceps bought at a high price, at least half of the money is earned by middlemen, and the source Cordyceps is at this price!",
+        "nickname": "中国搜索",
+        "created_at": "2021-09-08",
+        "archive": "gh_c01450c997fa_2021-09-08_2650515610_u4VWTidKv5.y.tar.gz",
+        "censored_date": "2021-09-09 17:56:27",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-08 16:48:52"
     }
 ]
