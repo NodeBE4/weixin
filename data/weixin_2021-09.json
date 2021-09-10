@@ -3526,7 +3526,7 @@
         "archive": "gh_3dda95af34d0_2021-09-07_2653456282_YhlTktX0ec.y.tar.gz",
         "censored_date": "2021-09-07 23:40:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-09 07:14:39"
+        "update_date": "2021-09-10 07:57:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655630778&idx=3&sn=82605ecfac29835040db62268570d424",
@@ -3745,7 +3745,7 @@
         "archive": "gh_c9f56d3a48bd_2021-09-08_2650083759_0EHiV2Kvyo.y.tar.gz",
         "censored_date": "2021-09-08 22:29:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-10 03:53:18"
+        "update_date": "2021-09-10 08:10:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652125954&idx=1&sn=8a060f4e8bba89571f44ba461a5fcbca",
@@ -3756,7 +3756,7 @@
         "archive": "gh_4b9b0448fa81_2021-09-08_2652125954_jFBPYRZwIU.y.tar.gz",
         "censored_date": "2021-09-08 22:43:30",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-10 04:32:31"
+        "update_date": "2021-09-10 08:49:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247516724&idx=5&sn=c8ce8b6bc2f760a93beff98d3dc27925",
@@ -4067,11 +4067,13 @@
         "created_at": "2021-09-08",
         "archive": "gh_ae0b732889ae_2021-09-08_2650116919_c5tNo8Qsar.y.tar.gz",
         "censored_date": "2021-09-10 04:57:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-10 09:14:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=3&sn=2c13cdb26fed30218cd4db3b09107b0e",
         "title": "名创优品的出海困局",
+        "title_eng": "MINISO's overseas dilemma",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_0l4ythbLqr.y.tar.gz",
@@ -4082,6 +4084,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=1&sn=de09860a08b90c0727606b7a17836707",
         "title": "“花十几万白养你了？”上海男教练与女学员暧昧被富婆抓包！背后真相却令人泪目..",
+        "title_eng": "Spent hundreds of thousands to raise you? The Shanghai male coach and female trainee were ambiguously caught by the rich woman! The truth behind it is tearful...",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_I0oakUY9K6.y.tar.gz",
@@ -4092,6 +4095,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=2&sn=7a60e34add24daf0e817bf271a590a12",
         "title": "《易经》64卦只说了一个道理：如何过好这一生（强推）",
+        "title_eng": "The 64 hexagrams in the Book of Changes only say one truth: how to live this life well (forced push)",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_Tlk2tu8f9a.y.tar.gz",
@@ -4102,6 +4106,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=6&sn=c5c4ae0b431cfbdb8a242766c01c501a",
         "title": "让步，是涵养，也是善良！",
+        "title_eng": "Concession is both self-cultivation and kindness!",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_GlNbIaAef7.y.tar.gz",
@@ -4112,6 +4117,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=5&sn=315e3b58ae6828fbf72c4bd6c808db61",
         "title": "最让老板满意的工作到位是这样的！（附思维导图）",
+        "title_eng": "The job that satisfies the boss the most is in place! (With mind map)",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_P2V50yJu1x.y.tar.gz",
@@ -4122,11 +4128,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495098&idx=4&sn=afe9bf9f67e1483ab24bbdcbf94af427",
         "title": "工资5500，学会理财，一年存了数十万：成年人请用脑子赚钱",
+        "title_eng": "Wages of 5500, learn to manage money, save hundreds of thousands a year: adults, please use your brain to make money",
         "nickname": "创投新风向",
         "created_at": "2021-09-07",
         "archive": "gh_46fa18dba691_2021-09-07_2247495098_gAEyHGcrCN.y.tar.gz",
         "censored_date": "2021-09-10 07:15:56",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-09 05:07:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495136&idx=3&sn=2be27d2e8a876b6baef7655350057ab9",
+        "title": "终于有人把碳达峰、碳中和讲明白了",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-08",
+        "archive": "gh_46fa18dba691_2021-09-08_2247495136_Fd7XsrLuHO.y.tar.gz",
+        "censored_date": "2021-09-10 09:20:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-10 05:03:43"
     }
 ]
