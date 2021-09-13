@@ -4447,7 +4447,7 @@
         "archive": "gh_2c0c42337576_2021-09-11_2650336257_weA1Fs2Z6d.y.tar.gz",
         "censored_date": "2021-09-11 20:00:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-12 21:48:09"
+        "update_date": "2021-09-13 20:05:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NDY4MzU0OA==&mid=2247661421&idx=3&sn=81f85c2b1770cef7dd3dd9c9d267db0a",
@@ -4814,6 +4814,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455543401&idx=1&sn=9c418e205be55c2d22dfdd8b04c4c4b8",
         "title": "别再乱买安溪铁观音了，源头直供拒绝差价",
+        "title_eng": "Don't buy Anxi Tieguanyin anymore",
         "nickname": "船夫日记",
         "created_at": "2021-09-12",
         "archive": "gh_ba71c6c7d57e_2021-09-12_2455543401_uStMfBzdlm.y.tar.gz",
@@ -4823,11 +4824,44 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NTY5MzUxMQ==&mid=2651101208&idx=1&sn=22db946865415a628abce3e3698d195a",
         "title": "省委书记连夜赴莆田，国务院工作组也到了：以最快速度控制疫情",
+        "title_eng": "The Secretary of the Provincial Party Committee went to Putian overnight, and the State Council Working Group also arrived: Control the epidemic as quickly as possible",
         "nickname": "政知见",
         "created_at": "2021-09-12",
         "archive": "gh_dcc41ab0f688_2021-09-12_2651101208_lBAtM01VPJ.y.tar.gz",
         "censored_date": "2021-09-13 18:36:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-12 21:41:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzU4OTczMA==&mid=2247570065&idx=4&sn=c9209826311a75b08a3e5d3d4a20b3cc",
+        "title": "为什么别人总先知道新鲜讯息？",
+        "title_eng": "Why do others always know fresh information first?",
+        "nickname": "杜绍斐 DUSHAOFEI",
+        "created_at": "2021-09-07",
+        "archive": "gh_2dd796e16eb0_2021-09-07_2247570065_VLYpqEmJtK.y.tar.gz",
+        "censored_date": "2021-09-13 20:04:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-13 00:05:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650199067&idx=2&sn=2e522a9d9ce84904342b691a4c04d1e9",
+        "title": "从190斤瘦到150斤，减肥的核心原理是什么？",
+        "title_eng": "From 190 catties to 150 catties, what is the core principle of weight loss?",
+        "nickname": "酷玩实验室",
+        "created_at": "2021-09-11",
+        "archive": "gh_f33ea5eaf126_2021-09-11_2650199067_L3FID8OEl2.y.tar.gz",
+        "censored_date": "2021-09-13 20:26:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-13 00:34:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NDEzMzY1Mg==&mid=2652258106&idx=2&sn=a6d1a3b958f5e79c46637da8a8ff790e",
+        "title": "打击两霸及保护伞！贵州一地布举报方式",
+        "title_eng": "Fight against the two tyrants and umbrellas! Guizhou a local cloth report method",
+        "nickname": "多彩贵州网",
+        "created_at": "2021-09-13",
+        "archive": "gh_6bd4e5daaad0_2021-09-13_2652258106_Yyj7EmkMBn.y.tar.gz",
+        "censored_date": "2021-09-13 20:04:12",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
