@@ -5544,6 +5544,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTUxNjAzMw==&mid=2651849822&idx=1&sn=809d274c0ebb2dee800b8d759aadab71",
         "title": "海南华文媒体：海南有好些新闻素材值得挖掘和宣传",
+        "title_eng": "Hainan Chinese Media: There are a lot of news materials in Hainan that are worthy of excavation and promotion",
         "nickname": "海南头条NEWS",
         "created_at": "2021-09-14",
         "archive": "gh_6ee763b1ab93_2021-09-14_2651849822_0pZXOaqrk6.y.tar.gz",
@@ -5553,11 +5554,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653132921&idx=2&sn=b9ee9e05d8a0308f7dbdc3d03ca7faf0",
         "title": "秋冬季宝妈必备！【加拿大配方】婴儿马油滋润霜，深层滋润、修护、保湿、锁水！",
+        "title_eng": "A must-have for mom in autumn and winter! [Canadian Formula] Baby Horse Oil Moisturizing Cream, deeply moisturizes, repairs, moisturizes and locks in moisture!",
         "nickname": "拾文化",
         "created_at": "2021-09-12",
         "archive": "gh_f65867e77e76_2021-09-12_2653132921_jJfHqr7nmp.y.tar.gz",
         "censored_date": "2021-09-15 22:14:19",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-14 12:39:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDQ3NjkzMw==&mid=2651561493&idx=1&sn=5fef4c4b2adb7dc9bbaebeb20551a7e1",
+        "title": "本土确诊清零后，来看看江苏这56天……",
+        "nickname": "人民网江苏频道",
+        "created_at": "2021-09-14",
+        "archive": "gh_6bf0375ffd3e_2021-09-14_2651561493_1J9sQxVu8W.y.tar.gz",
+        "censored_date": "2021-09-15 23:04:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-14 16:09:34"
     }
 ]
