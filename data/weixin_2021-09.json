@@ -5891,6 +5891,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247542096&idx=2&sn=5129914122f6a8feb8cf36ec428d265b",
         "title": "肖战背后的资本玩家",
+        "title_eng": "The capital player behind Xiao Zhan",
         "nickname": "万小刀",
         "created_at": "2021-09-15",
         "archive": "gh_db3c2486e7de_2021-09-15_2247542096_U3rDGRoW7j.y.tar.gz",
@@ -5900,6 +5901,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247525316&idx=4&sn=005e35a5d4c5513efa02420c08642dcf",
         "title": "恒大！恒大？",
+        "title_eng": "Evergrande! Evergrande?",
         "nickname": "天狐观察",
         "created_at": "2021-09-14",
         "archive": "gh_fd5f7267524b_2021-09-14_2247525316_WYg2jMcyAx.y.tar.gz",
@@ -5909,6 +5911,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTUwNzUyMQ==&mid=2652140896&idx=1&sn=9e405cdc62b9b780b83f3ca94387b5cd",
         "title": "停职！深入调查！",
+        "title_eng": "Suspended! look deep into!",
         "nickname": "决策杂志",
         "created_at": "2021-09-15",
         "archive": "gh_704d5d8d259f_2021-09-15_2652140896_6TrDNYHm9f.y.tar.gz",
@@ -5919,10 +5922,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654330194&idx=1&sn=0c43358259eaeb2d863c7c1505407adf",
         "title": "2021中国企业家太阳岛年会开幕 | 王兆力、宫喜祥、弗拉基米尔·奥谢普科夫致辞",
+        "title_eng": "2021 Chinese Entrepreneurs Sun Island Annual Conference Opening | Speeches by Wang Zhaoli, Gong Xixiang, and Vladimir Oshepukov",
         "nickname": "新晚报",
         "created_at": "2021-09-16",
         "archive": "gh_5aa41f572ba1_2021-09-16_2654330194_kBqmGAsJS8.y.tar.gz",
         "censored_date": "2021-09-16 16:57:00",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzM1OTgyMA==&mid=2652009513&idx=3&sn=051464111019c7d854dde9becc797638",
+        "title": "转需！2021年遂宁市船山区公开考调机关事业单位工作人员22名",
+        "title_eng": "Need to be transferred! In 2021, there are 22 staff in public institutions and institutions in Chuanshan District, Suining City",
+        "nickname": "在遂宁",
+        "created_at": "2021-09-15",
+        "archive": "gh_472719844fd1_2021-09-15_2652009513_U92HB8avzJ.y.tar.gz",
+        "censored_date": "2021-09-16 17:28:04",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-15 16:01:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652749836&idx=2&sn=2d83a8484ed7ac662e2009853d69fdb4",
+        "title": "大牌捡漏，折扣力度这么大的吗？",
+        "title_eng": "Is the discount of such a big discount?",
+        "nickname": "8号风曝",
+        "created_at": "2021-09-14",
+        "archive": "gh_a0404706a1d9_2021-09-14_2652749836_VqkLyboErQ.y.tar.gz",
+        "censored_date": "2021-09-16 18:27:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-15 16:11:35"
     }
 ]
