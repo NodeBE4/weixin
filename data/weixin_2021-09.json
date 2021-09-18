@@ -6276,7 +6276,8 @@
         "created_at": "2021-09-17",
         "archive": "gh_2645c7f5e15e_2021-09-17_2247489058_HWRNLPYsqk.y.tar.gz",
         "censored_date": "2021-09-17 21:57:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-19 06:04:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTYwODUzOQ==&mid=2651654321&idx=1&sn=b4d4e8b10cf7ab951b15a45975eb4aa3",
@@ -6604,11 +6605,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3MDY0NzM0Nw==&mid=2247496389&idx=1&sn=1477a0fb7b3f62a182626cbaccfc8326",
         "title": "余建洲：毛主席指引的道路是农民最好的出路",
+        "title_eng": "Yu Jianzhou: The path guided by Chairman Mao is the best way out for farmers",
         "nickname": "乌有之乡思想",
         "created_at": "2021-09-17",
         "archive": "gh_9e50958ae5c8_2021-09-17_2247496389_ZnB3pAx5dh.y.tar.gz",
         "censored_date": "2021-09-19 04:36:56",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-09-18 01:05:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247529781&idx=1&sn=fda10560edad5ff771f72dda11671436",
+        "title": "2021年9月房地产公司暴雷排行榜",
+        "nickname": "遮眼看天",
+        "created_at": "2021-09-17",
+        "archive": "gh_b984621ff266_2021-09-17_2247529781_ya5j7JdLE9.y.tar.gz",
+        "censored_date": "2021-09-19 06:13:42",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
