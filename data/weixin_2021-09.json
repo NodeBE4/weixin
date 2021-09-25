@@ -7914,7 +7914,7 @@
         "archive": "gh_b36d56b73a7b_2021-09-23_2652049150_G0dDpgAm7L.y.tar.gz",
         "censored_date": "2021-09-23 20:25:15",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-24 19:28:23"
+        "update_date": "2021-09-25 23:59:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247500265&idx=2&sn=1dad3c76aafd3e755c65589168c80b6e",
@@ -8330,7 +8330,8 @@
         "created_at": "2021-09-24",
         "archive": "gh_8823091faea0_2021-09-24_2247489285_ohKnyE04wI.y.tar.gz",
         "censored_date": "2021-09-24 19:14:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-26 00:00:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652262876&idx=1&sn=fd2812859093701b718a6eac42632b3f",
@@ -8341,7 +8342,7 @@
         "archive": "gh_fb258eeffb8d_2021-09-24_2652262876_28Hxy0b7Su.y.tar.gz",
         "censored_date": "2021-09-24 18:35:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-24 18:06:37"
+        "update_date": "2021-09-26 00:01:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247494155&idx=5&sn=8c0290736f3bead2980e58bd2f35dcc3",
@@ -8675,5 +8676,27 @@
         "archive": "gh_5e008ceefb25_2021-09-23_2247528873_6JcyoaLVdT.y.tar.gz",
         "censored_date": "2021-09-25 20:47:56",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjY2NTQ1OQ==&mid=2247502343&idx=4&sn=e32aa2d87cf7dba5f562c178463999ac",
+        "title": "澳大利亚惨遭打脸！试图用印度代替中国，却走了一步臭棋...",
+        "title_eng": "Australia was slapped in the face! Attempting to replace China with India, but took a foul move...",
+        "nickname": "环球看热闹",
+        "created_at": "2021-09-24",
+        "archive": "gh_6897b8d2258f_2021-09-24_2247502343_xqh3fj5CDX.y.tar.gz",
+        "censored_date": "2021-09-25 23:56:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-24 21:45:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjY2NTQ1OQ==&mid=2247502343&idx=3&sn=f49c0de7dc54aa7ea71b66dccbff826a",
+        "title": "加拿大政坛地震，特鲁多如意算盘彻底落空，孟晚舟案或成其致命滑铁卢！",
+        "title_eng": "The Canadian political earthquake, Trudeau's wishful thinking was completely defeated, and Meng Wanzhou's case may become its fatal Waterloo!",
+        "nickname": "环球看热闹",
+        "created_at": "2021-09-24",
+        "archive": "gh_6897b8d2258f_2021-09-24_2247502343_GCcboZrt9B.y.tar.gz",
+        "censored_date": "2021-09-25 23:56:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-24 21:44:35"
     }
 ]
