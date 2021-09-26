@@ -8375,7 +8375,7 @@
         "archive": "gh_1d97537c840d_2021-09-24_2650330192_GvSUpoIfOq.y.tar.gz",
         "censored_date": "2021-09-24 23:18:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-26 01:35:06"
+        "update_date": "2021-09-26 23:54:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247487552&idx=2&sn=2d9317b66f991a4c5946916efca247bc",
@@ -8705,7 +8705,7 @@
         "archive": "gh_6897b8d2258f_2021-09-24_2247502343_GCcboZrt9B.y.tar.gz",
         "censored_date": "2021-09-25 23:56:09",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-24 21:44:35"
+        "update_date": "2021-09-26 23:47:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651236608&idx=2&sn=74911dc83d088c2e2b3ad771b993c9ab",
@@ -8931,5 +8931,25 @@
         "censored_date": "2021-09-26 20:36:07",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-09-25 22:45:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247528897&idx=2&sn=d09e34245dddb01306301e36bb83a6ef",
+        "title": "通知：2021年0基础理财交流群正式开放！扫码进！",
+        "nickname": "今读史",
+        "created_at": "2021-09-24",
+        "archive": "gh_5e008ceefb25_2021-09-24_2247528897_JpwE1kDXud.y.tar.gz",
+        "censored_date": "2021-09-27 00:40:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-24 20:43:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247595091&idx=1&sn=42b5166199be57af7a0854695da42372",
+        "title": "这就是华为速度：2.69秒完成BERT训练！新发CANN 5.0加持，还公开了背后技术",
+        "title_eng": "This is the Huawei speed: 2.69 seconds to complete the BERT training! Newly issued CANN 5.0 blessing, and also disclosed the technology behind it",
+        "nickname": "量子位",
+        "created_at": "2021-09-26",
+        "archive": "gh_114e76fd6e5d_2021-09-26_2247595091_Me6QCztfSg.y.tar.gz",
+        "censored_date": "2021-09-27 00:26:14",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
