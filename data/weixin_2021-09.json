@@ -8594,7 +8594,8 @@
         "created_at": "2021-09-25",
         "archive": "gh_850f0e1c30a8_2021-09-25_2665719435_4u89Drj6Jq.y.tar.gz",
         "censored_date": "2021-09-25 15:40:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-26 17:31:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649508127&idx=1&sn=b84e590f6a885875f66e8ee31678d2db",
@@ -8891,6 +8892,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247532384&idx=1&sn=fb480cad1650489809ac31a3e1d7bcf3",
         "title": "昨天的深圳和东北，上演关于电的冰火两重天......",
+        "title_eng": "Yesterday's Shenzhen and Northeast, staged the two days of ice and fire about electricity...",
         "nickname": "海外财经",
         "created_at": "2021-09-26",
         "archive": "gh_8f29429f71d7_2021-09-26_2247532384_i08ISpo5tv.y.tar.gz",
@@ -8900,10 +8902,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247532285&idx=2&sn=8c3cbb6456f4709c6712d95e5d6cbb5e",
         "title": "19城写字楼空置率超过30%！比房价下跌更严重的事，已经来了......",
+        "title_eng": "The vacancy rate of office buildings in 19 cities exceeds 30%! Something more serious than falling house prices has come...",
         "nickname": "海外财经",
         "created_at": "2021-09-25",
         "archive": "gh_8f29429f71d7_2021-09-25_2247532285_wzJY93r4Lk.y.tar.gz",
         "censored_date": "2021-09-26 17:08:08",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247494196&idx=1&sn=8dd08d08bd68ec4c99734fc0b602263d",
+        "title": "文革风云人物，今安在？",
+        "nickname": "历史微时刻",
+        "created_at": "2021-09-25",
+        "archive": "gh_31930173e92d_2021-09-25_2247494196_FB3CQ7ezaK.y.tar.gz",
+        "censored_date": "2021-09-26 18:10:07",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-25 20:09:58"
     }
 ]
