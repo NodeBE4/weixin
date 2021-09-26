@@ -8452,7 +8452,7 @@
         "archive": "gh_52a264d06413_2021-09-23_2651978086_lDtrYh5086.y.tar.gz",
         "censored_date": "2021-09-25 01:48:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-26 05:25:07"
+        "update_date": "2021-09-26 09:07:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247502064&idx=1&sn=42321c360a49d4738da385b05be1c52e",
@@ -8746,7 +8746,7 @@
         "archive": "gh_5515b6300853_2021-09-24_2649865421_CIkLdEZXhg.y.tar.gz",
         "censored_date": "2021-09-26 04:26:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-25 01:50:43"
+        "update_date": "2021-09-26 08:06:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247595233&idx=8&sn=e8399683661e2f45fcf06a5c3ecdd318",
@@ -8773,6 +8773,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649819780&idx=2&sn=8b73cb7d9152d3a74b1b2af58db199ad",
         "title": "如果你没空学英语，推荐你关注这几个英语大神都在看的视频号！",
+        "title_eng": "If you have no time to learn English, I recommend you to pay attention to the video numbers that these English gods are watching!",
         "nickname": "近现代史论",
         "created_at": "2021-09-24",
         "archive": "gh_ef9695b6d53c_2021-09-24_2649819780_Xld9Mr8cDu.y.tar.gz",
@@ -8789,5 +8790,26 @@
         "archive": "gh_da8ebc430bef_2021-09-24_2247504652_ZGgm9TDQKM.y.tar.gz",
         "censored_date": "2021-09-26 06:27:10",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MzM0OTk1Mw==&mid=2247490996&idx=1&sn=19eb9472caaeb198794a656934dfc943",
+        "title": "昨天许子东复旦大学《白鹿原》讲座遭学生举报",
+        "title_eng": "Yesterday Xu Zidong Fudan University's Bailuyuan lecture was reported by students",
+        "nickname": "很短",
+        "created_at": "2021-09-24",
+        "archive": "gh_ea29502905c1_2021-09-24_2247490996_jNAqcniZRV.y.tar.gz",
+        "censored_date": "2021-09-26 07:55:10",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-24 11:00:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247564558&idx=2&sn=a74b9d73a77c706e71b69315fb12ed63",
+        "title": "陈皮又被媒体曝光！没想到长期喝最后竟然变成了……",
+        "nickname": "演讲与人生",
+        "created_at": "2021-09-24",
+        "archive": "gh_e525ae7f03af_2021-09-24_2247564558_M3zWjxowH0.y.tar.gz",
+        "censored_date": "2021-09-26 09:25:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-25 08:40:47"
     }
 ]
