@@ -8888,7 +8888,8 @@
         "created_at": "2021-09-26",
         "archive": "gh_934132851dd2_2021-09-26_2650192566_2asbuDpJVX.y.tar.gz",
         "censored_date": "2021-09-26 13:25:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-27 11:37:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247532384&idx=1&sn=fb480cad1650489809ac31a3e1d7bcf3",
@@ -8898,7 +8899,8 @@
         "created_at": "2021-09-26",
         "archive": "gh_8f29429f71d7_2021-09-26_2247532384_i08ISpo5tv.y.tar.gz",
         "censored_date": "2021-09-26 17:07:19",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-27 12:12:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247532285&idx=2&sn=8c3cbb6456f4709c6712d95e5d6cbb5e",
@@ -9064,6 +9066,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTk1MjIwODAwMQ==&mid=2651096964&idx=4&sn=f5983ac2f1c14f6ca28bb22b6e808c0b",
         "title": "广东金融学院回应",
+        "title_eng": "Guangdong Institute of Finance responded",
         "nickname": "南方都市报",
         "created_at": "2021-09-26",
         "archive": "wxid_4783107810411_2021-09-26_2651096964_YXHE1dmwGb.y.tar.gz",
