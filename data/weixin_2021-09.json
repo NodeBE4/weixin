@@ -8922,7 +8922,7 @@
         "archive": "gh_31930173e92d_2021-09-25_2247494196_FB3CQ7ezaK.y.tar.gz",
         "censored_date": "2021-09-26 18:10:07",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-25 20:09:58"
+        "update_date": "2021-09-27 15:36:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODcwNDE5OA==&mid=2651311818&idx=1&sn=eeaefd2ec8f6db1263a39a5bbacaf687",
@@ -9077,6 +9077,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDcxMjkwOQ==&mid=2652404821&idx=2&sn=d70a6a66ee7b3a661125a347369c1569",
         "title": "“全面建设小康社会”系列新闻发布会晋城市卫健委专场发布会召开",
+        "title_eng": "Building a well-off society in an all-round way series of press conferences Jincheng City Health Commission held a special press conference",
         "nickname": "黄河新闻网晋城频道",
         "created_at": "2021-09-26",
         "archive": "gh_e7b55fd153c0_2021-09-26_2652404821_0jhSzXRyCM.y.tar.gz",
@@ -9087,10 +9088,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjE4Mw==&mid=2450910471&idx=1&sn=5938685c1a2b359bd6d945b55c42a869",
         "title": "无聊刷刷短视频，躺平赚得小收入～",
+        "title_eng": "Bored to scan short videos, lie flat and earn a small income~",
         "nickname": "医健趋势",
         "created_at": "2021-09-27",
         "archive": "gh_a432d3267262_2021-09-27_2450910471_dO3CZnb4yK.y.tar.gz",
         "censored_date": "2021-09-27 15:12:23",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjE4NzUyNQ==&mid=2651046839&idx=1&sn=b5787d35c20e1e5cf0f5743ec9bff209",
+        "title": "拉闸限电，为什么我们要限制工厂的生产？",
+        "title_eng": "Why should we limit the production of the factory?",
+        "nickname": "鸟叔看天下",
+        "created_at": "2021-09-26",
+        "archive": "gh_40ebcc8bfe58_2021-09-26_2651046839_DMnhumJaVB.y.tar.gz",
+        "censored_date": "2021-09-27 16:00:17",
+        "censored_msg": "此内容被投诉且经审核涉嫌侵权，无法查看。"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjc0MjkzNQ==&mid=2247538816&idx=2&sn=f84c15b67ccc44e3d0fb7e0c0f661551",
+        "title": "几十元和几千元白酒的区别，说出来你都不信！",
+        "title_eng": "You don't believe the difference between tens of yuan and a few thousand yuan in liquor!",
+        "nickname": "起点人文plus",
+        "created_at": "2021-09-26",
+        "archive": "gh_afb7e3bcbae3_2021-09-26_2247538816_FACYT2k4Lx.y.tar.gz",
+        "censored_date": "2021-09-27 16:19:38",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-09-27 01:05:31"
     }
 ]
