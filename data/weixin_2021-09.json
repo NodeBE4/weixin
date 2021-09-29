@@ -9893,6 +9893,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652751359&idx=2&sn=20cf873bfbd51879f2c498a05e21d9fe",
         "title": "丝滑柔软的它也太时髦了！",
+        "title_eng": "It's silky and soft too fashionable!",
         "nickname": "8号风曝",
         "created_at": "2021-09-28",
         "archive": "gh_a0404706a1d9_2021-09-28_2652751359_gd3sfBjbaC.y.tar.gz",
@@ -9902,6 +9903,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652751269&idx=2&sn=989df948442392b5c2c26a02b59167c0",
         "title": "这东西还能抗氧化呢？",
+        "title_eng": "Can this thing resist oxidation?",
         "nickname": "8号风曝",
         "created_at": "2021-09-27",
         "archive": "gh_a0404706a1d9_2021-09-27_2652751269_iurv8Gpg7d.y.tar.gz",
@@ -9911,10 +9913,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652751166&idx=2&sn=edbdfce11b839399324ebd40d9a0d14f",
         "title": "不会没有人还不知道它吧？",
+        "title_eng": "No one doesn’t know it yet, right?",
         "nickname": "8号风曝",
         "created_at": "2021-09-26",
         "archive": "gh_a0404706a1d9_2021-09-26_2652751166_Z87gnbSNI5.y.tar.gz",
         "censored_date": "2021-09-29 22:03:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NjAxMDA4NA==&mid=2649459802&idx=2&sn=66504e29972ce50ced20da5b7d76132f",
+        "title": "电视剧《功勋》热播，《默默无闻张富清》将于10月2日开播！",
+        "nickname": "恩施发布",
+        "created_at": "2021-09-29",
+        "archive": "gh_8c661d574af6_2021-09-29_2649459802_Qyj5nhEzJF.y.tar.gz",
+        "censored_date": "2021-09-29 22:35:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-29 22:40:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247524963&idx=1&sn=0ad83268e7caf63a978dc29fc43429ea",
+        "title": "限电限产愈演愈烈，你不知道的4个真相…….",
+        "title_eng": "Electricity and production restrictions are becoming more and more intense, 4 truths you didn't know...",
+        "nickname": "环球冷眼",
+        "created_at": "2021-09-26",
+        "archive": "gh_1aecabdf0add_2021-09-26_2247524963_turbpFEvlj.y.tar.gz",
+        "censored_date": "2021-09-29 23:07:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-28 18:26:44"
     }
 ]
