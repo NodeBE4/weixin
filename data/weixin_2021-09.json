@@ -9545,7 +9545,7 @@
         "archive": "gh_8dd6b5346ab2_2021-09-27_2247613710_ixnyX1SVHN.y.tar.gz",
         "censored_date": "2021-09-28 22:33:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-27 23:35:15"
+        "update_date": "2021-09-30 05:41:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzY2MDczMw==&mid=2654783318&idx=3&sn=c6812afe0fd197d4c9d482cd8495fd94",
@@ -9556,7 +9556,7 @@
         "archive": "gh_54f6a9af1ea1_2021-09-27_2654783318_Id0laJbe1H.y.tar.gz",
         "censored_date": "2021-09-28 23:01:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-27 21:09:31"
+        "update_date": "2021-09-30 05:41:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247507529&idx=1&sn=2c1e2f64508a4afa9e6cf355e746f922",
@@ -10075,6 +10075,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTc4MTM2Ng==&mid=2650110911&idx=2&sn=1fec474b9b41b8798aa4c4a6cb86c1a2",
         "title": "“我在珠峰上，被人强奸了2次……”：姑娘们，这世上真有禽兽！",
+        "title_eng": "I was raped twice on Mount Everest...: Girls, there are really beasts in this world!",
         "nickname": "深度文摘录",
         "created_at": "2021-09-27",
         "archive": "gh_5a083ac7d06d_2021-09-27_2650110911_EUFXdgxtre.y.tar.gz",
@@ -10085,6 +10086,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU0NjMwNQ==&mid=2650801826&idx=2&sn=a1a47529f4cc4a645d9ed57c9998c0d3",
         "title": "中国信通院“卓信大数据计划”开展邮政行业专项数据安全培训",
+        "title_eng": "China Academy of Information and Communications Technology Zhuoxin Big Data Project launches special data security training for the postal industry",
         "nickname": "中国信通院CAICT",
         "created_at": "2021-09-28",
         "archive": "gh_ccd6562d7551_2021-09-28_2650801826_GimXPCYaLR.y.tar.gz",
@@ -10106,6 +10108,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247506975&idx=1&sn=4e34e307ec4989daf67dc08e09fc9960",
         "title": "今年大会静悄悄",
+        "title_eng": "This year's conference is quiet",
         "nickname": "登山望岳",
         "created_at": "2021-09-28",
         "archive": "gh_728dda09b5fa_2021-09-28_2247506975_2Zyxrca1hE.y.tar.gz",
@@ -10116,10 +10119,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247558460&idx=2&sn=2c65eed19d947b92b94fdf1a72a11c6f",
         "title": "限电、下棋与斗狠！",
+        "title_eng": "Power limit, chess and fighting!",
         "nickname": "金融茶社",
         "created_at": "2021-09-27",
         "archive": "gh_5f5aaff92191_2021-09-27_2247558460_WHR398NPl6.y.tar.gz",
         "censored_date": "2021-09-30 04:56:37",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654337229&idx=1&sn=7d53cd9f1df25eb0b707eb1801803518",
+        "title": "关于哈尔滨市松北区、巴彦县疫情防控工作中履职不力党员干部追责问责情况的通报",
+        "nickname": "新晚报",
+        "created_at": "2021-09-28",
+        "archive": "gh_5aa41f572ba1_2021-09-28_2654337229_pa1kP7M6bJ.y.tar.gz",
+        "censored_date": "2021-09-30 05:57:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-29 01:32:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651383206&idx=2&sn=b72bb1484da6ac8f2125721fddf27e79",
+        "title": "大面积限电、停电，背后的内幕不简单！",
+        "nickname": "金融五道口",
+        "created_at": "2021-09-29",
+        "archive": "gh_517f0d8d1792_2021-09-29_2651383206_wlB0UthmKr.y.tar.gz",
+        "censored_date": "2021-09-30 06:26:37",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
