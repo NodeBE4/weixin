@@ -9534,7 +9534,7 @@
         "archive": "gh_7ce7fa0b919e_2021-09-28_2655149163_jU2ThO8YSl.y.tar.gz",
         "censored_date": "2021-09-28 22:07:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-28 22:09:31"
+        "update_date": "2021-09-30 00:43:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTY4MTI0Mw==&mid=2247613710&idx=3&sn=9c762f03601133b112c91a6168961062",
@@ -9923,6 +9923,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjAxMDA4NA==&mid=2649459802&idx=2&sn=66504e29972ce50ced20da5b7d76132f",
         "title": "电视剧《功勋》热播，《默默无闻张富清》将于10月2日开播！",
+        "title_eng": "The TV series Meritorious hits the air, and The Obscure Zhang Fuqing will be broadcast on October 2nd!",
         "nickname": "恩施发布",
         "created_at": "2021-09-29",
         "archive": "gh_8c661d574af6_2021-09-29_2649459802_Qyj5nhEzJF.y.tar.gz",
@@ -9940,5 +9941,25 @@
         "censored_date": "2021-09-29 23:07:11",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-09-28 18:26:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653500982&idx=6&sn=ca3bb1da1ffad832b2fa3e3317679ffe",
+        "title": "确诊患者家中3只猫核酸阳性被安乐死，当事人发声",
+        "title_eng": "Three cats in the home of the confirmed patient were euthanized with positive nucleic acid",
+        "nickname": "环球时报",
+        "created_at": "2021-09-29",
+        "archive": "gh_95b0feda9646_2021-09-29_2653500982_758mFMDcvA.y.tar.gz",
+        "censored_date": "2021-09-29 23:46:28",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTA1MTQ1OA==&mid=2651513516&idx=2&sn=604a5259f43c2763fa31882f9e887074",
+        "title": "灌南县检察院在全省分享办理破产案件经验做法",
+        "title_eng": "Guannan County Procuratorate shares its experience and practices in handling bankruptcy cases across the province",
+        "nickname": "灌南县人民检察院",
+        "created_at": "2021-09-29",
+        "archive": "gh_b57c8c978774_2021-09-29_2651513516_3HR0MtgEIY.y.tar.gz",
+        "censored_date": "2021-09-30 00:03:11",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
