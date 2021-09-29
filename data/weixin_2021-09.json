@@ -9523,7 +9523,8 @@
         "created_at": "2021-09-26",
         "archive": "gh_14ef0e644b8f_2021-09-26_2652825481_Cpi8wSnO1L.y.tar.gz",
         "censored_date": "2021-09-28 21:45:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-30 06:39:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzg0NDIzNg==&mid=2655149163&idx=1&sn=ea4e9649bca9af1a72f9dec444b833bf",
@@ -9589,7 +9590,7 @@
         "archive": "gh_aeb97e10b0fd_2021-09-28_2651174703_02cvCxR0jm.y.tar.gz",
         "censored_date": "2021-09-28 23:34:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-09-29 00:27:00"
+        "update_date": "2021-09-30 06:31:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247517333&idx=5&sn=31f44674bb97032fba7d6fa6d5b0bf1b",
@@ -10028,7 +10029,7 @@
         "archive": "gh_34694b68f48f_2021-09-28_2247487570_f085qgRWrP.y.tar.gz",
         "censored_date": "2021-09-30 02:16:23",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-09-28 17:43:09"
+        "update_date": "2021-09-30 06:55:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTE3NTUxNQ==&mid=2651416152&idx=3&sn=95cc05a63b44774192c09b333ad57df9",
@@ -10129,6 +10130,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTU1MTY5Mg==&mid=2654337229&idx=1&sn=7d53cd9f1df25eb0b707eb1801803518",
         "title": "关于哈尔滨市松北区、巴彦县疫情防控工作中履职不力党员干部追责问责情况的通报",
+        "title_eng": "Circular on the accountability of party members and cadres who fail to perform their duties in the epidemic prevention and control work in Songbei District and Bayan County, Harbin City",
         "nickname": "新晚报",
         "created_at": "2021-09-28",
         "archive": "gh_5aa41f572ba1_2021-09-28_2654337229_pa1kP7M6bJ.y.tar.gz",
@@ -10139,10 +10141,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651383206&idx=2&sn=b72bb1484da6ac8f2125721fddf27e79",
         "title": "大面积限电、停电，背后的内幕不简单！",
+        "title_eng": "Large-scale power rationing, power outages, the inside story behind it is not simple!",
         "nickname": "金融五道口",
         "created_at": "2021-09-29",
         "archive": "gh_517f0d8d1792_2021-09-29_2651383206_wlB0UthmKr.y.tar.gz",
         "censored_date": "2021-09-30 06:26:37",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247495854&idx=1&sn=425dc713248e2c6cf474815dfa545c92",
+        "title": "一夜狂赚3000万，逼女友卖身接客：最令人羡慕的男人，翻车了！",
+        "title_eng": "Earn 30 million overnight, forcing his girlfriend to sell himself to pick up customers: The most enviable man has overturned!",
+        "nickname": "创投新风向",
+        "created_at": "2021-09-27",
+        "archive": "gh_46fa18dba691_2021-09-27_2247495854_CHGc03ATgL.y.tar.gz",
+        "censored_date": "2021-09-30 06:29:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-29 00:23:25"
     }
 ]
