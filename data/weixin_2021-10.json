@@ -1360,7 +1360,8 @@
         "created_at": "2021-09-28",
         "archive": "wxid_2965349653612_2021-09-28_2652044686_aLyIH6Bd84.y.tar.gz",
         "censored_date": "2021-09-29 12:45:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-01 11:31:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNjUxODY1NA==&mid=2247523484&idx=3&sn=2e8d745c5eddd60438e06fa808af7e8b",
@@ -1370,7 +1371,8 @@
         "created_at": "2021-09-29",
         "archive": "gh_997758c7ed25_2021-09-29_2247523484_awXMV0W43u.y.tar.gz",
         "censored_date": "2021-09-29 13:10:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-01 11:36:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490510&idx=1&sn=25e645a2c0de69427c91ca178fe65ce2",
@@ -1391,7 +1393,8 @@
         "created_at": "2021-09-28",
         "archive": "gh_d29e0d22a6f9_2021-09-28_2651905148_Y8fUOm4Tcq.y.tar.gz",
         "censored_date": "2021-09-29 13:40:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-01 12:31:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490513&idx=1&sn=479ca85fd053eb2cb70622e7e1961f82",
@@ -1915,7 +1918,7 @@
         "archive": "gh_b57c8c978774_2021-09-29_2651513516_3HR0MtgEIY.y.tar.gz",
         "censored_date": "2021-09-30 00:03:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-01 07:54:15"
+        "update_date": "2021-10-01 11:37:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjMxNTM0NzE0MQ==&mid=2653400225&idx=1&sn=f7decb179fba93941c011ed4b9626ecf",
@@ -1941,6 +1944,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjAzNTkzMQ==&mid=2660293980&idx=2&sn=d13cf50a64c5055143ea1dd3a191a632",
         "title": "婚外情：男人生理反应越强，就爱你越深？",
+        "title_eng": "Extramarital affairs: The stronger a man's physiological reaction, the deeper he will love you?",
         "nickname": "颜辞",
         "created_at": "2021-09-25",
         "archive": "gh_70adee9aa9f7_2021-09-25_2660293980_Qh5O2v7s0e.y.tar.gz",
