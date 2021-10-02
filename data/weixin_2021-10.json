@@ -2173,6 +2173,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjY4NzYzOA==&mid=2247562321&idx=1&sn=777040b83e5d8cd033c007314f961c4c",
         "title": "新疆各族各界向人民英雄敬献花篮",
+        "title_eng": "All ethnic groups and all walks of life in Xinjiang presented flower baskets to the people's heroes",
         "nickname": "阿勒泰市零距离",
         "created_at": "2021-09-30",
         "archive": "gh_204d11e7b3bd_2021-09-30_2247562321_JZhv2pDHMG.y.tar.gz",
@@ -2183,11 +2184,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0MDk2MA==&mid=2652802391&idx=1&sn=b231f449a52707642b878f7062bb5da2",
         "title": "看牙贵，不报销？黄金周看牙超划算！",
+        "title_eng": "It is expensive to see the tooth, not reimbursed? It's a bargain to see the teeth during the Golden Week!",
         "nickname": "广州日报",
         "created_at": "2021-09-30",
         "archive": "gh_dc27928a48a5_2021-09-30_2652802391_2V8krhUz7n.y.tar.gz",
         "censored_date": "2021-10-02 14:55:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-01 10:47:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NzYwMzU1MQ==&mid=2247515456&idx=1&sn=14cec14d97e3647925b5221d39b7c722",
+        "title": "供需双降",
+        "title_eng": "Supply and demand double down",
+        "nickname": "泽平宏观",
+        "created_at": "2021-10-01",
+        "archive": "gh_4c2e0e3b8196_2021-10-01_2247515456_2IgPxJkWAb.y.tar.gz",
+        "censored_date": "2021-10-02 15:32:04",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
