@@ -1853,7 +1853,7 @@
         "archive": "gh_95b0feda9646_2021-09-29_2653500982_758mFMDcvA.y.tar.gz",
         "censored_date": "2021-09-29 23:46:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-01 03:27:12"
+        "update_date": "2021-10-02 14:21:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247502459&idx=2&sn=ca58ef93083110f5176542af95c1be90",
@@ -2117,6 +2117,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198522&idx=1&sn=352e5a2e19a5cf677439eee108696812",
         "title": "刚刚，孟晚舟发了条朋友圈",
+        "title_eng": "Just now, Meng Wanzhou posted a circle of friends",
         "nickname": "小明有爆料",
         "created_at": "2021-09-28",
         "archive": "gh_8cfa220f916e_2021-09-28_2451198522_Swhj47Hor9.y.tar.gz",
@@ -2127,6 +2128,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198519&idx=2&sn=dc025e71360bec6df0ae60974d3aefd5",
         "title": "噩梦才刚刚开始！恒大的购房者，晚上能睡着吗？",
+        "title_eng": "The nightmare has just begun! Can Evergrande buyers fall asleep at night?",
         "nickname": "小明有爆料",
         "created_at": "2021-09-27",
         "archive": "gh_8cfa220f916e_2021-09-27_2451198519_G705eA8UCP.y.tar.gz",
@@ -2137,11 +2139,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198522&idx=5&sn=06d02c5dc2a86d2dbd7a19340a7774b4",
         "title": "《钓鱼》的结局，惊醒无数人",
+        "title_eng": "The ending of Fishing has awakened countless people",
         "nickname": "小明有爆料",
         "created_at": "2021-09-28",
         "archive": "gh_8cfa220f916e_2021-09-28_2451198522_J7N4CoP5HL.y.tar.gz",
         "censored_date": "2021-10-02 13:22:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-01 02:02:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198519&idx=3&sn=3b2d34b620ce14e9b42dc4ccf6055780",
+        "title": "最新的俄罗斯走上正轨，颠覆你的想象！",
+        "title_eng": "The latest Russia is on the right track, subverting your imagination!",
+        "nickname": "小明有爆料",
+        "created_at": "2021-09-27",
+        "archive": "gh_8cfa220f916e_2021-09-27_2451198519_u4zvP6D70h.y.tar.gz",
+        "censored_date": "2021-10-02 13:25:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-01 01:56:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTIyNzE5Mg==&mid=2451198522&idx=4&sn=89455cbcacd8966ac1ed9867627f9e43",
+        "title": "突击扫黄，精彩堪比大片！",
+        "title_eng": "The assault sweeping pornography is as exciting as a blockbuster!",
+        "nickname": "小明有爆料",
+        "created_at": "2021-09-28",
+        "archive": "gh_8cfa220f916e_2021-09-28_2451198522_bBnVIUJAE6.y.tar.gz",
+        "censored_date": "2021-10-02 13:24:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-09-29 23:16:12"
     }
 ]
