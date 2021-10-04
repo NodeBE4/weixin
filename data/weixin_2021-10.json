@@ -2543,6 +2543,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDYwMTk3NA==&mid=2247525357&idx=2&sn=7dd2eb336bbde264d2ec59353ba914ac",
         "title": "万万没想到停止进口澳大利亚煤炭........",
+        "title_eng": "Never expected to stop importing Australian coal...",
         "nickname": "网舆勘策院",
         "created_at": "2021-10-02",
         "archive": "gh_54b8f06e06b4_2021-10-02_2247525357_5J9daelQH1.y.tar.gz",
@@ -2553,6 +2554,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247536143&idx=2&sn=d287698778ba38eec60e68a8c0b6b759",
         "title": "傅政华落马！昨天被公安部会议点名，多名记者网络曝光其滥权细节",
+        "title_eng": "Fu Zhenghua fell! Yesterday, he was named by a meeting of the Ministry of Public Security, and several reporters exposed the details of his abuse of power online.",
         "nickname": "女律师札记",
         "created_at": "2021-10-03",
         "archive": "gh_06140cfad959_2021-10-03_2247536143_jI026Zs8SW.y.tar.gz",
@@ -2563,6 +2565,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650192531&idx=3&sn=b0fb20b2ac6d82bcd755de494ab69273",
         "title": "过节结婚热？40%年轻人因为没钱不敢结婚！",
+        "title_eng": "Wedding fever? 40% of young people dare not get married because they have no money!",
         "nickname": "经济学博士",
         "created_at": "2021-10-03",
         "archive": "gh_e1a04d0a7b17_2021-10-03_2650192531_UI9KdHv7pc.y.tar.gz",
@@ -2573,6 +2576,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247565242&idx=2&sn=188d609e5662011b3697f1418a810184",
         "title": "暗中保护许家印的大老虎，首次现身！全球震惊",
+        "title_eng": "The big tiger who secretly protected Xu Jiayin appeared for the first time! Global shock",
         "nickname": "演讲与人生",
         "created_at": "2021-10-02",
         "archive": "gh_e525ae7f03af_2021-10-02_2247565242_VRT8d20fjZ.y.tar.gz",
@@ -2583,11 +2587,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODU1MTIyMw==&mid=2247624933&idx=3&sn=9ccf62d94fbddb0b21773427b0d21c6f",
         "title": "国庆长假，看看前方摄影师拍的这些照片，我不厚道地笑了！",
+        "title_eng": "During the National Day holiday, looking at these photos taken by the photographer in front, I smiled unkindly!",
         "nickname": "正商参阅",
         "created_at": "2021-10-03",
         "archive": "gh_8e70dd8eb27e_2021-10-03_2247624933_T4lN28JgBc.y.tar.gz",
         "censored_date": "2021-10-04 22:31:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-04 01:56:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDkxMDUzOQ==&mid=2656638589&idx=2&sn=3a9fa8939c6f398de6502696b6f94b46",
+        "title": "熟人印象里的傅政华",
+        "title_eng": "Fu Zhenghua in the impression of acquaintances",
+        "nickname": "徐雪芬",
+        "created_at": "2021-10-03",
+        "archive": "gh_eaf5f773d1d5_2021-10-03_2656638589_xMw7Venm2D.y.tar.gz",
+        "censored_date": "2021-10-04 23:32:03",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
