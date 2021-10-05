@@ -2399,7 +2399,7 @@
         "archive": "gh_2837b93c1976_2021-10-03_2654128802_jBYP6FrhbU.y.tar.gz",
         "censored_date": "2021-10-03 18:29:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-04 17:10:27"
+        "update_date": "2021-10-05 22:10:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MTQzMTE0MjcyMQ==&mid=2667003618&idx=3&sn=8ab20589698723b465a33cae37b90f51",
@@ -2747,7 +2747,8 @@
         "created_at": "2021-10-05",
         "archive": "gh_0af747913cab_2021-10-05_2655631991_HAJ0xcyNXS.y.tar.gz",
         "censored_date": "2021-10-05 19:03:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-05 22:00:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTc3MTg4MA==&mid=2654128349&idx=1&sn=2c5d92ff1adaf997063a4cacd4ceb27e",
@@ -2759,5 +2760,27 @@
         "censored_date": "2021-10-05 21:16:10",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-05 01:39:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247522093&idx=3&sn=9b64daf20941e1e1e3f23ae093c0ee65",
+        "title": "傅政华落马！多名记者网络曝光其滥权细节",
+        "title_eng": "Fu Zhenghua fell! Several reporters exposed details of his abuse of power online",
+        "nickname": "难得视界",
+        "created_at": "2021-10-03",
+        "archive": "gh_1c6cefeca9ab_2021-10-03_2247522093_3uHkdzKXvT.y.tar.gz",
+        "censored_date": "2021-10-05 22:13:08",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-03 21:44:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490530&idx=1&sn=b7789099bd0f5c24cf2ac04c1c0087a2",
+        "title": "定了！9月3日起居民用电将发生改变，你还不知道吗",
+        "title_eng": "deal! Residents’ electricity consumption will change from September 3rd, don’t you know?",
+        "nickname": "世纪观察",
+        "created_at": "2021-10-03",
+        "archive": "gh_26762a56c129_2021-10-03_2247490530_b58i60PGtL.y.tar.gz",
+        "censored_date": "2021-10-05 22:25:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-03 20:46:51"
     }
 ]
