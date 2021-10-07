@@ -2857,7 +2857,7 @@
         "archive": "gh_fc276be154e5_2021-10-04_2247501530_sDpUxjBT5I.y.tar.gz",
         "censored_date": "2021-10-06 13:35:05",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-10-05 18:51:19"
+        "update_date": "2021-10-07 10:15:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247507304&idx=3&sn=84fd6d3517ff2b08e30443ca7201a596",
@@ -2882,11 +2882,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655632017&idx=2&sn=71db759e6956be2499a8533738ae7e76",
         "title": "河北民警向全国战友求助！",
+        "title_eng": "Hebei police ask for help from comrades all over the country!",
         "nickname": "阿SIR",
         "created_at": "2021-10-06",
         "archive": "gh_0af747913cab_2021-10-06_2655632017_7sRYXakmFL.y.tar.gz",
         "censored_date": "2021-10-07 08:44:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-06 15:40:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMTE0MjcyMQ==&mid=2667005585&idx=2&sn=18b7aeb17ac4c06aa4c0586b4215f414",
+        "title": "法国多名政客，执意窜访台湾！",
+        "title_eng": "Many French politicians insisted on visiting Taiwan!",
+        "nickname": "环球网",
+        "created_at": "2021-10-06",
+        "archive": "wxid_3718957189212_2021-10-06_2667005585_d9lJMNxso0.y.tar.gz",
+        "censored_date": "2021-10-07 10:16:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-06 16:29:23"
     }
 ]
