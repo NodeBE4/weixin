@@ -3809,6 +3809,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247568284&idx=7&sn=a1952341a9d8cff9357027df8118c4a0",
         "title": "一眼惊喜",
+        "title_eng": "Surprise at a glance",
         "nickname": "叙拉古之惑",
         "created_at": "2021-10-11",
         "archive": "gh_c9984a3987c1_2021-10-11_2247568284_bGRMKISite.y.tar.gz",
@@ -3819,11 +3820,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650817688&idx=2&sn=be6a43408831855ef0dbab2afc5b3a69",
         "title": "黄有龙的背景可怕在哪里？",
+        "title_eng": "Where is Huang Youlong's background scary?",
         "nickname": "环球局势洞见",
         "created_at": "2021-10-09",
         "archive": "gh_a217bb0c34bc_2021-10-09_2650817688_E6cC52OUju.y.tar.gz",
         "censored_date": "2021-10-13 05:09:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-11 11:11:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649588736&idx=1&sn=51cdda689092a513edae98579cdd4155",
+        "title": "退休金上亿！联想跌倒，柳传志吃饱？",
+        "nickname": "观点",
+        "created_at": "2021-10-11",
+        "archive": "gh_2ac9b41ee17c_2021-10-11_2649588736_gN7oeFHWr1.y.tar.gz",
+        "censored_date": "2021-10-13 06:01:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-12 18:45:35"
     }
 ]
