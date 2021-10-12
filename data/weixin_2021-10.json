@@ -3723,10 +3723,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTA1MTMyMQ==&mid=2651900278&idx=1&sn=1ce77d95a9cc07199d1847ac77a591b5",
         "title": "陈道明骂人，够狂的",
+        "title_eng": "Chen Daoming is mad enough",
         "nickname": "最箴言",
         "created_at": "2021-10-12",
         "archive": "gh_96233a9afe6e_2021-10-12_2651900278_EFmjpsYBrM.y.tar.gz",
         "censored_date": "2021-10-13 00:37:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzY1MjIwNA==&mid=2652276285&idx=2&sn=daf3639953964247a1bdfdf247ca6fa7",
+        "title": "福州人注意！又有50家单位被通报！",
+        "title_eng": "Attention Fuzhou people! Another 50 units were notified!",
+        "nickname": "福州日报",
+        "created_at": "2021-10-12",
+        "archive": "gh_516642c12ba2_2021-10-12_2652276285_rjVGMe8cZ2.y.tar.gz",
+        "censored_date": "2021-10-13 01:05:51",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
