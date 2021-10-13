@@ -3733,7 +3733,8 @@
         "created_at": "2021-10-12",
         "archive": "gh_96233a9afe6e_2021-10-12_2651900278_EFmjpsYBrM.y.tar.gz",
         "censored_date": "2021-10-13 00:37:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-14 02:49:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzY1MjIwNA==&mid=2652276285&idx=2&sn=daf3639953964247a1bdfdf247ca6fa7",
@@ -4005,5 +4006,15 @@
         "archive": "gh_20542841a698_2021-10-13_2247633903_96ISmdZ3XB.y.tar.gz",
         "censored_date": "2021-10-13 23:32:09",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247543949&idx=1&sn=323c411993752e9bda06ab28608dba78",
+        "title": "阶级如何逆袭？秘诀在性格教育",
+        "nickname": "视角学社",
+        "created_at": "2021-10-12",
+        "archive": "gh_afce72ae9715_2021-10-12_2247543949_1lhzYOINw5.y.tar.gz",
+        "censored_date": "2021-10-14 03:19:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-13 00:49:20"
     }
 ]
