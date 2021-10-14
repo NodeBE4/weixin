@@ -3974,7 +3974,7 @@
         "archive": "gh_9dfb3dfc2afd_2021-10-13_2653818242_iUf6nXCtod.y.tar.gz",
         "censored_date": "2021-10-13 19:40:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-15 01:58:35"
+        "update_date": "2021-10-15 07:22:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247515847&idx=5&sn=ab5c3d3ff069883e962b7c02d18a7424",
@@ -4072,7 +4072,8 @@
         "created_at": "2021-10-12",
         "archive": "gh_1aecabdf0add_2021-10-12_2247525989_obXdayBGuN.y.tar.gz",
         "censored_date": "2021-10-14 03:38:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-15 06:30:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247597546&idx=8&sn=a651afda471fa4638d1ab39b3a759d2f",
@@ -4258,7 +4259,7 @@
         "archive": "gh_69f7ba479665_2021-10-11_2247508229_uI2RMrUbqw.y.tar.gz",
         "censored_date": "2021-10-15 01:18:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-14 00:58:26"
+        "update_date": "2021-10-15 06:49:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247508229&idx=3&sn=8c0ae00305d3c4c2c957ebe41ab48ca5",
@@ -4269,7 +4270,7 @@
         "archive": "gh_69f7ba479665_2021-10-11_2247508229_RguoVAjxKB.y.tar.gz",
         "censored_date": "2021-10-15 01:21:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-14 01:44:58"
+        "update_date": "2021-10-15 06:55:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247559430&idx=8&sn=9f162294e7609826d2d1ac4105043156",
@@ -4328,6 +4329,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5OTY2NzQ1MQ==&mid=2247489309&idx=2&sn=ebb602a3792ddf5ab6eec7d141243d53",
         "title": "一般人看不到的内部公众号！（刚刚开放）",
+        "title_eng": "An internal official account that most people can't see! (Just opened)",
         "nickname": "阅尽热门",
         "created_at": "2021-10-11",
         "archive": "gh_2645c7f5e15e_2021-10-11_2247489309_0P9DAd0fTH.y.tar.gz",
@@ -4338,11 +4340,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5OTY2NzQ1MQ==&mid=2247489298&idx=2&sn=4cfb02e75a130ce0b350600f5763a352",
         "title": "一般人看不到的内部公众号！（刚刚开放）",
+        "title_eng": "An internal official account that most people can't see! (Just opened)",
         "nickname": "阅尽热门",
         "created_at": "2021-10-10",
         "archive": "gh_2645c7f5e15e_2021-10-10_2247489298_HzhlCWAny5.y.tar.gz",
         "censored_date": "2021-10-15 05:59:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-14 02:33:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247500175&idx=1&sn=8450574e1c28ef311c0e4e57d0b54b9c",
+        "title": "正式通知，漳州人恭喜啦！",
+        "nickname": "闽南网漳州",
+        "created_at": "2021-10-12",
+        "archive": "gh_36c36bdef701_2021-10-12_2247500175_xfWqo36p0C.y.tar.gz",
+        "censored_date": "2021-10-15 06:56:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-12 17:23:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655722562&idx=1&sn=7b5f1ea74824281975cdda83d4d0427a",
+        "title": "联想“财务疑云”",
+        "nickname": "虎嗅APP",
+        "created_at": "2021-10-12",
+        "archive": "wxid_7620846208112_2021-10-12_2655722562_s0zFN61yaJ.y.tar.gz",
+        "censored_date": "2021-10-15 06:33:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-14 03:43:23"
     }
 ]
