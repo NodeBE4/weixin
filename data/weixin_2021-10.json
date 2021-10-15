@@ -4374,6 +4374,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650920277&idx=2&sn=a8eda4c7ecd28abaea2ea4c506dab72e",
         "title": "加了微信才知道，云南直供的普洱茶这么便宜，茶农才卖这价！",
+        "title_eng": "Only after adding WeChat did I know that the Pu'er tea directly supplied from Yunnan is so cheap that tea farmers only sell it at this price!",
         "nickname": "天下说法",
         "created_at": "2021-10-14",
         "archive": "gh_9d4eb92add23_2021-10-14_2650920277_j1AnPs7I2a.y.tar.gz",
@@ -4384,11 +4385,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MTE2NDI1NQ==&mid=2247486825&idx=1&sn=67a590e713d7590f0a08cce5fa1faed0",
         "title": "2021.10.12 早午盘",
+        "title_eng": "2021.10.12 morning and afternoon",
         "nickname": "股票早午盘",
         "created_at": "2021-10-13",
         "archive": "gh_f2ecca440ae9_2021-10-13_2247486825_USpuZ0kWHf.y.tar.gz",
         "censored_date": "2021-10-15 09:03:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-14 08:15:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MjI3NTA4Mw==&mid=2247721069&idx=1&sn=84a77a7ae5c57d979bdff974633387a2",
+        "title": "《长津湖》爆红第13天，吴京还是出事了……",
+        "title_eng": "On the 13th day that Changjin Lake became popular, Wu Jing still had an accident...",
+        "nickname": "国馆",
+        "created_at": "2021-10-13",
+        "archive": "gh_9524bd6f8e75_2021-10-13_2247721069_l73JTHxuSG.y.tar.gz",
+        "censored_date": "2021-10-15 09:55:09",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-14 11:35:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzIwNzQyMw==&mid=2651898024&idx=2&sn=2e06bf40653b404bb421809e15799d11",
+        "title": "全国1.3亿空置房，你为什么还是买不起房？",
+        "title_eng": "There are 130 million vacant houses in the country, why can't you buy a house?",
+        "nickname": "维基解迷",
+        "created_at": "2021-10-11",
+        "archive": "gh_a2e05cde0069_2021-10-11_2651898024_TtmRFLWUKM.y.tar.gz",
+        "censored_date": "2021-10-15 09:49:21",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
