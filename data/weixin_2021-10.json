@@ -4007,7 +4007,7 @@
         "archive": "gh_20542841a698_2021-10-13_2247633903_96ISmdZ3XB.y.tar.gz",
         "censored_date": "2021-10-13 23:32:09",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-15 03:19:48"
+        "update_date": "2021-10-15 08:36:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247543949&idx=1&sn=323c411993752e9bda06ab28608dba78",
@@ -4292,7 +4292,7 @@
         "archive": "gh_95b0feda9646_2021-10-13_2653506330_ekpfnD24v8.y.tar.gz",
         "censored_date": "2021-10-15 02:15:45",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-14 01:18:16"
+        "update_date": "2021-10-15 07:40:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTQ1NTcxNg==&mid=2652618489&idx=2&sn=260b5710307293e85773e72be71f89a7",
@@ -4324,7 +4324,8 @@
         "created_at": "2021-10-14",
         "archive": "gh_0538c4e6a15c_2021-10-14_2247501755_1ksKI5PvbM.y.tar.gz",
         "censored_date": "2021-10-15 03:15:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-15 08:31:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5OTY2NzQ1MQ==&mid=2247489309&idx=2&sn=ebb602a3792ddf5ab6eec7d141243d53",
@@ -4351,6 +4352,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247500175&idx=1&sn=8450574e1c28ef311c0e4e57d0b54b9c",
         "title": "正式通知，漳州人恭喜啦！",
+        "title_eng": "Formally notified, Zhangzhou people, congratulations!",
         "nickname": "闽南网漳州",
         "created_at": "2021-10-12",
         "archive": "gh_36c36bdef701_2021-10-12_2247500175_xfWqo36p0C.y.tar.gz",
@@ -4361,11 +4363,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655722562&idx=1&sn=7b5f1ea74824281975cdda83d4d0427a",
         "title": "联想“财务疑云”",
+        "title_eng": "Lenovo's financial suspicion",
         "nickname": "虎嗅APP",
         "created_at": "2021-10-12",
         "archive": "wxid_7620846208112_2021-10-12_2655722562_s0zFN61yaJ.y.tar.gz",
         "censored_date": "2021-10-15 06:33:20",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-14 03:43:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NjI1ODEyMA==&mid=2650920277&idx=2&sn=a8eda4c7ecd28abaea2ea4c506dab72e",
+        "title": "加了微信才知道，云南直供的普洱茶这么便宜，茶农才卖这价！",
+        "nickname": "天下说法",
+        "created_at": "2021-10-14",
+        "archive": "gh_9d4eb92add23_2021-10-14_2650920277_j1AnPs7I2a.y.tar.gz",
+        "censored_date": "2021-10-15 09:17:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-14 12:32:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MTE2NDI1NQ==&mid=2247486825&idx=1&sn=67a590e713d7590f0a08cce5fa1faed0",
+        "title": "2021.10.12 早午盘",
+        "nickname": "股票早午盘",
+        "created_at": "2021-10-13",
+        "archive": "gh_f2ecca440ae9_2021-10-13_2247486825_USpuZ0kWHf.y.tar.gz",
+        "censored_date": "2021-10-15 09:03:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-14 08:15:16"
     }
 ]
