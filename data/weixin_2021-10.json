@@ -4765,6 +4765,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529370&idx=2&sn=51a3dcd561eb89863640ad51f285f7c2",
         "title": "消失五年服役神秘部队，归家见妻女受辱，一声令下十万将士奔来！",
+        "title_eng": "Disappeared for five years and served in a mysterious army. Seeing his wife and daughter humiliated when he returned home, he ordered one hundred thousand soldiers to come!",
         "nickname": "今读史",
         "created_at": "2021-10-14",
         "archive": "gh_5e008ceefb25_2021-10-14_2247529370_31AU8cOS9k.y.tar.gz",
@@ -4775,6 +4776,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529391&idx=2&sn=201dba1e196deb4a311d10cead3779ee",
         "title": "学会家庭教育，轻松解决教育困惑！孩子再也不叛逆",
+        "title_eng": "Learn family education and easily solve educational puzzles! Children never rebellious",
         "nickname": "今读史",
         "created_at": "2021-10-15",
         "archive": "gh_5e008ceefb25_2021-10-15_2247529391_gft4zFdDjm.y.tar.gz",
@@ -4785,10 +4787,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTY4MTI0Mw==&mid=2247618085&idx=3&sn=dbffad49f0598e2c12b83ab9d4b7e803",
         "title": "新源县2021年民族团结进步示范区、示范单位名单",
+        "title_eng": "List of Xinyuan County National Unity and Progress Demonstration Zones and Demonstration Units in 2021",
         "nickname": "新源零距离",
         "created_at": "2021-10-16",
         "archive": "gh_8dd6b5346ab2_2021-10-16_2247618085_rjANnu0CiD.y.tar.gz",
         "censored_date": "2021-10-16 19:00:03",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247516113&idx=1&sn=c7aa7f931250af34e10e4aa9d3dcdaf9",
+        "title": "最新消息：国家电网最新通知，这个通知事关每家每户！！",
+        "title_eng": "Latest news: The latest announcement from the State Grid, this announcement concerns every household! !",
+        "nickname": "葫芦岛都市网",
+        "created_at": "2021-10-15",
+        "archive": "gh_f86665431cb0_2021-10-15_2247516113_juMvnDJGVT.y.tar.gz",
+        "censored_date": "2021-10-16 19:38:18",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-15 22:38:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODE3MjkwMw==&mid=2651796649&idx=1&sn=ea06f382a6d1835d30ab0c8ccb20439e",
+        "title": "银川一男子使用电热毯引发火灾，吸入浓烟中毒昏迷！",
+        "title_eng": "A man in Yinchuan used an electric blanket to cause a fire and inhaled smoke to become poisoned and unconscious!",
+        "nickname": "银川新闻网",
+        "created_at": "2021-10-16",
+        "archive": "gh_c69aeef5cadc_2021-10-16_2651796649_IFQoC0cpka.y.tar.gz",
+        "censored_date": "2021-10-16 20:13:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-16 20:34:36"
     }
 ]
