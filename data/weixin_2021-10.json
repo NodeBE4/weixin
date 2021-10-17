@@ -4807,7 +4807,7 @@
         "archive": "gh_f86665431cb0_2021-10-15_2247516113_juMvnDJGVT.y.tar.gz",
         "censored_date": "2021-10-16 19:38:18",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-10-15 22:38:53"
+        "update_date": "2021-10-17 19:08:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODE3MjkwMw==&mid=2651796649&idx=1&sn=ea06f382a6d1835d30ab0c8ccb20439e",
@@ -4818,7 +4818,7 @@
         "archive": "gh_c69aeef5cadc_2021-10-16_2651796649_IFQoC0cpka.y.tar.gz",
         "censored_date": "2021-10-16 20:13:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-16 20:34:36"
+        "update_date": "2021-10-17 19:10:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490608&idx=1&sn=5ca08aabc93b96477fbbf2cad1b860b7",
@@ -4931,11 +4931,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652126952&idx=2&sn=40ee211a8d81c273a66a0076a956c288",
         "title": "这5种药注定坑害中国人一辈子，几乎每家都有！",
+        "title_eng": "These 5 medicines are destined to harm Chinese people for a lifetime, and almost every family has them!",
         "nickname": "小肖说世界",
         "created_at": "2021-10-16",
         "archive": "gh_4b9b0448fa81_2021-10-16_2652126952_CNOajqo9Ug.y.tar.gz",
         "censored_date": "2021-10-17 17:47:54",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-16 22:34:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247547060&idx=1&sn=e9283c975733f689d8913326eb46d9b4",
+        "title": "字节跳动，去深圳投了一家芯片公司",
+        "nickname": "投资界",
+        "created_at": "2021-10-16",
+        "archive": "gh_6488c708f8ec_2021-10-16_2247547060_TlmbYwVU9t.y.tar.gz",
+        "censored_date": "2021-10-17 18:46:56",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-17 00:00:50"
     }
 ]
