@@ -4971,7 +4971,8 @@
         "created_at": "2021-10-16",
         "archive": "gh_5f5aaff92191_2021-10-16_2247559854_r2WnDEXc1P.y.tar.gz",
         "censored_date": "2021-10-17 21:52:24",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-18 22:39:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MDIxMzQwOA==&mid=2247505119&idx=1&sn=56755be37a1ec7eac26d79e58043cf37",
@@ -4981,7 +4982,8 @@
         "created_at": "2021-10-17",
         "archive": "gh_da8ebc430bef_2021-10-17_2247505119_rB0RKkTOE4.y.tar.gz",
         "censored_date": "2021-10-18 01:24:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-18 22:53:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490608&idx=2&sn=7f5d7e5408afc09a7bf7d75b9c46349e",
@@ -5125,6 +5127,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247508435&idx=4&sn=6cd1a27ca9a59ba2bcd65a12421fbed9",
         "title": "工资4K，利用空闲时间做原画接稿，月入上W，一单100~2000不等!",
+        "title_eng": "The salary is 4K, and the free time is used to do the original drawing. The monthly income is W, and a single order ranges from 100 to 2000!",
         "nickname": "老板思维论",
         "created_at": "2021-10-16",
         "archive": "gh_69f7ba479665_2021-10-16_2247508435_AzLuh3wIcE.y.tar.gz",
@@ -5135,11 +5138,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247508435&idx=3&sn=da5669b882fb91046eb3e048e74f8de1",
         "title": "牌桌推倒重来，教培机构能玩好新一局吗？",
+        "title_eng": "After the poker table is overturned, can the education and training institutions play a new game?",
         "nickname": "老板思维论",
         "created_at": "2021-10-16",
         "archive": "gh_69f7ba479665_2021-10-16_2247508435_AykdDHQu2s.y.tar.gz",
         "censored_date": "2021-10-18 22:20:44",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-18 02:11:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjY4NzYzOA==&mid=2247563003&idx=2&sn=d204bf95589c78d8759c94c7ff98c7ef",
+        "title": "【雪都热点】阿勒泰市召开疫情防控工作警示教育大会",
+        "nickname": "阿勒泰市零距离",
+        "created_at": "2021-10-17",
+        "archive": "gh_204d11e7b3bd_2021-10-17_2247563003_9oFBYPLeW3.y.tar.gz",
+        "censored_date": "2021-10-18 22:38:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-18 02:20:19"
     }
 ]
