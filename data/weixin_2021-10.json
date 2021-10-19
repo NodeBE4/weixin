@@ -5080,7 +5080,8 @@
         "created_at": "2021-10-18",
         "archive": "gh_0008713c31f5_2021-10-18_2653356475_2VBEd4DZA0.y.tar.gz",
         "censored_date": "2021-10-18 15:45:22",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-19 13:49:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529572&idx=2&sn=c7a22c88614262e7a89edf15aec97924",
@@ -5340,5 +5341,25 @@
         "censored_date": "2021-10-19 11:28:28",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-18 15:15:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTY0NjA4MQ==&mid=2650157454&idx=2&sn=ad478b7480adae14c1acc3e758da7fb4",
+        "title": "【传销】亳州盛泰生物“风云会”六级分销，产品或涉嫌虚假宣传",
+        "title_eng": "[MLM] Bozhou Shengtai Biological Fengyunhui six-level distribution, products or suspected of false publicity",
+        "nickname": "反传联盟",
+        "created_at": "2021-10-19",
+        "archive": "gh_65c37a6436e8_2021-10-19_2650157454_0YJ3rwfGE4.y.tar.gz",
+        "censored_date": "2021-10-19 13:48:25",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4ODIzNzExNw==&mid=2653554237&idx=3&sn=bd6f3ea089a1933ab5b24365106a8a4d",
+        "title": "新中国首颗原子弹爆炸成功，没有广东这个地方真不行！一起了解一下？",
+        "title_eng": "The first atomic bomb in New China was successfully detonated. It would be impossible without this place like Guangdong! Let's find out together?",
+        "nickname": "珠江商报",
+        "created_at": "2021-10-19",
+        "archive": "gh_62913c457c3a_2021-10-19_2653554237_zj1XL65oMW.y.tar.gz",
+        "censored_date": "2021-10-19 14:18:26",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
