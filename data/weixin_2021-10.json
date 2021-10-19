@@ -5549,6 +5549,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247493968&idx=3&sn=38319189a8bd754fd9e80c2d537f2157",
         "title": "魅力几何，那些令你上瘾的食品！",
+        "title_eng": "The charm is geometric, those foods that make you addicted!",
         "nickname": "首富商圈",
         "created_at": "2021-10-17",
         "archive": "gh_c7f9947afc98_2021-10-17_2247493968_NUTIcos8vz.y.tar.gz",
@@ -5559,6 +5560,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247493968&idx=4&sn=3a7232320ffe267027f430dacbafce49",
         "title": "女上司的提拔之路，泥潭之深，令人瞠目结舌...",
+        "title_eng": "The road to promotion of the female boss, the depth of the quagmire, is jaw-dropping...",
         "nickname": "首富商圈",
         "created_at": "2021-10-17",
         "archive": "gh_c7f9947afc98_2021-10-17_2247493968_rOXqxhbGzR.y.tar.gz",
@@ -5580,6 +5582,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247496745&idx=3&sn=b2a6989704a7f499d069e8b0629073b1",
         "title": "普通人能做，一天能挣300-500的小生意，门槛很低！",
+        "title_eng": "Ordinary people can do a small business that can earn 300-500 a day, the threshold is very low!",
         "nickname": "创投新风向",
         "created_at": "2021-10-17",
         "archive": "gh_46fa18dba691_2021-10-17_2247496745_S5hbu2nqBV.y.tar.gz",
@@ -5590,11 +5593,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247496745&idx=4&sn=809ac439e80e5cdbb0a7b4823489b89a",
         "title": "女上司的提拔之路，泥潭之深，令人瞠目结舌...",
+        "title_eng": "The road to promotion of the female boss, the depth of the quagmire, is jaw-dropping...",
         "nickname": "创投新风向",
         "created_at": "2021-10-17",
         "archive": "gh_46fa18dba691_2021-10-17_2247496745_9mbOC0En7M.y.tar.gz",
         "censored_date": "2021-10-20 05:42:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-18 21:51:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247496745&idx=2&sn=20d35c2dd1491ce3ec5b4415b1428629",
+        "title": "警惕！这些小毛病可能是身体「求救信号」，别不当回事！",
+        "nickname": "创投新风向",
+        "created_at": "2021-10-17",
+        "archive": "gh_46fa18dba691_2021-10-17_2247496745_LlQEbsTnV8.y.tar.gz",
+        "censored_date": "2021-10-20 06:38:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-18 01:52:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650152275&idx=1&sn=fbee78a6eeaba5a9e188ec3a9581ddcd",
+        "title": "再见了，MAO台！终于有一款酒把你碾压，还不贵。",
+        "nickname": "云石",
+        "created_at": "2021-10-18",
+        "archive": "gh_cffa19ce8f37_2021-10-18_2650152275_C5VlEaPoTJ.y.tar.gz",
+        "censored_date": "2021-10-20 06:55:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-18 10:05:55"
     }
 ]
