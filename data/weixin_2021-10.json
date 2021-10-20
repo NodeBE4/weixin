@@ -5427,7 +5427,7 @@
         "archive": "gh_541a7f1cf2c2_2021-10-15_2651252227_0Z3UM7xJDO.y.tar.gz",
         "censored_date": "2021-10-19 22:09:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-18 23:38:41"
+        "update_date": "2021-10-20 07:32:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0MjAwNTQzOA==&mid=2649947300&idx=2&sn=23e7bfabc0ecbfbb04a2d5caf9e3837c",
@@ -5438,7 +5438,7 @@
         "archive": "gh_c11a31a1fe76_2021-10-17_2649947300_op4dRxmFa6.y.tar.gz",
         "censored_date": "2021-10-19 22:39:24",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-18 23:51:28"
+        "update_date": "2021-10-20 07:39:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDQ2MzMzNg==&mid=2247510438&idx=1&sn=5fd17df5857971af6030b82c1f310a9e",
@@ -5604,6 +5604,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247496745&idx=2&sn=20d35c2dd1491ce3ec5b4415b1428629",
         "title": "警惕！这些小毛病可能是身体「求救信号」，别不当回事！",
+        "title_eng": "alert! These minor illnesses may be the distress signal of the body, don't take it seriously!",
         "nickname": "创投新风向",
         "created_at": "2021-10-17",
         "archive": "gh_46fa18dba691_2021-10-17_2247496745_LlQEbsTnV8.y.tar.gz",
@@ -5614,11 +5615,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650152275&idx=1&sn=fbee78a6eeaba5a9e188ec3a9581ddcd",
         "title": "再见了，MAO台！终于有一款酒把你碾压，还不贵。",
+        "title_eng": "Goodbye, MAO station! Finally, there is a wine that crushes you, and it's not expensive.",
         "nickname": "云石",
         "created_at": "2021-10-18",
         "archive": "gh_cffa19ce8f37_2021-10-18_2650152275_C5VlEaPoTJ.y.tar.gz",
         "censored_date": "2021-10-20 06:55:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-18 10:05:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTMyMDg0Ng==&mid=2650481601&idx=4&sn=ffc9f5e7fea49a85cd5fdd6b5d9e4471",
+        "title": "【首发】聚焦智慧检验新赛道，品峰医疗完成亿元A轮融资",
+        "title_eng": "[First issue] Focusing on the new track of smart inspection, Pinfeng Medical completes 100 million yuan A round of financing",
+        "nickname": "动脉网",
+        "created_at": "2021-10-20",
+        "archive": "gh_f8aa9a7fdb3a_2021-10-20_2650481601_pe8qUr0oRZ.y.tar.gz",
+        "censored_date": "2021-10-20 09:09:34",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
