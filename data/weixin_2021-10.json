@@ -5299,7 +5299,7 @@
         "archive": "gh_92f5bf5a21f0_2021-10-19_2247629593_XGJBEM8jZ3.y.tar.gz",
         "censored_date": "2021-10-19 09:05:44",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-19 14:42:55"
+        "update_date": "2021-10-20 22:45:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTQyODQxMw==&mid=2247500536&idx=3&sn=360e1e89109d8ef1dc9fbd12d5d4e8e0",
@@ -5354,7 +5354,7 @@
         "archive": "gh_65c37a6436e8_2021-10-19_2650157454_0YJ3rwfGE4.y.tar.gz",
         "censored_date": "2021-10-19 13:48:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-19 17:59:26"
+        "update_date": "2021-10-20 22:43:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODIzNzExNw==&mid=2653554237&idx=3&sn=bd6f3ea089a1933ab5b24365106a8a4d",
@@ -5406,7 +5406,8 @@
         "created_at": "2021-10-19",
         "archive": "gh_3861c01522f7_2021-10-19_2652262425_lzwEFVLkPy.y.tar.gz",
         "censored_date": "2021-10-19 16:49:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-20 22:43:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650088490&idx=2&sn=5bbb87423d7576488b88fe85006a8aa4",
@@ -5725,10 +5726,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDY5NDM3OQ==&mid=2247660429&idx=1&sn=4bade072e3beadf539d9ab4130314703",
         "title": "嫌1万块生活费太少，她骂亲爹是畜生",
+        "title_eng": "Feeling that 10,000 yuan is too small for living expenses, she scolds her father as a beast",
         "nickname": "凤凰WEEKLY",
         "created_at": "2021-10-19",
         "archive": "gh_44e51cde40c7_2021-10-19_2247660429_O0YKLUnSGt.y.tar.gz",
         "censored_date": "2021-10-20 21:30:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650897710&idx=3&sn=22c67e4ad8fc2c24cf82586c6e86369c",
+        "title": "王君正同志职务调整",
+        "title_eng": "Comrade Wang Junzheng's job adjustment",
+        "nickname": "新疆新发现",
+        "created_at": "2021-10-19",
+        "archive": "gh_be938204fcfa_2021-10-19_2650897710_JiuLFmeQnS.y.tar.gz",
+        "censored_date": "2021-10-20 22:46:04",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTE0NzIxMw==&mid=2650897710&idx=6&sn=a4be027f5f2b62c8dce9bb649420da8d",
+        "title": "陈全国主持召开自治区党委全面依法治疆委员会会议",
+        "title_eng": "Chen Quanguo presided over a meeting of the Autonomous Region Party Committee Committee for Comprehensively Governing Xinjiang According to Law",
+        "nickname": "新疆新发现",
+        "created_at": "2021-10-19",
+        "archive": "gh_be938204fcfa_2021-10-19_2650897710_LTaQGe500F.y.tar.gz",
+        "censored_date": "2021-10-20 22:57:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 16:50:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDM4MDExNQ==&mid=2832519156&idx=1&sn=9211320fd7e7c0fb3aee6037f1c1d71a",
+        "title": "一位「女航天员」和她的最后一条朋友圈",
+        "nickname": "知乎日报",
+        "created_at": "2021-10-20",
+        "archive": "gh_e59ba9dfaa66_2021-10-20_2832519156_uFyg6KBMRn.y.tar.gz",
+        "censored_date": "2021-10-20 23:29:12",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
