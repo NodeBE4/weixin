@@ -5851,6 +5851,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529592&idx=2&sn=3a361cd2fc27d52ea6de3a977355ea3d",
         "title": "别傻了！还在高价买翡翠么？良心老板讲述惊人内幕...",
+        "title_eng": "Do not be silly! Are you still buying jadeite at a high price? The conscientious boss tells the amazing inside story...",
         "nickname": "今读史",
         "created_at": "2021-10-18",
         "archive": "gh_5e008ceefb25_2021-10-18_2247529592_dDTVzKnCqv.y.tar.gz",
@@ -5861,6 +5862,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529592&idx=1&sn=16a0867abfb25adbc6a11b049a6ea883",
         "title": "新冠病毒神秘大撤退，令人匪夷所思！",
+        "title_eng": "The mysterious retreat of the new crown virus is incredible!",
         "nickname": "今读史",
         "created_at": "2021-10-18",
         "archive": "gh_5e008ceefb25_2021-10-18_2247529592_ZhPaEmKIpH.y.tar.gz",
@@ -5893,11 +5895,67 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649828914&idx=1&sn=ac38162a1c5b3fb44459d3fc9bd86ff8",
         "title": "加了微信才知道，福鼎直供的白茶这么便宜，茶农才卖这价！",
+        "title_eng": "Only after adding WeChat did I know that the white tea directly supplied by Fuding is so cheap that tea farmers only sell it at this price!",
         "nickname": "华哥读报",
         "created_at": "2021-10-20",
         "archive": "gh_7a402e27f818_2021-10-20_2649828914_zcWV5a3Nn6.y.tar.gz",
         "censored_date": "2021-10-21 11:03:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-20 09:29:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655632364&idx=1&sn=bbcd9d7dba1fb35b87c302669264294e",
+        "title": "派出所原教导员问过案件被双开",
+        "title_eng": "The original instructor of the police station asked about the case and was opened",
+        "nickname": "阿SIR",
+        "created_at": "2021-10-15",
+        "archive": "gh_0af747913cab_2021-10-15_2655632364_hCpHqQAvPB.y.tar.gz",
+        "censored_date": "2021-10-21 11:48:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 18:41:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652753536&idx=2&sn=5e75f27a0dbe2bf8e8941de0940d33ee",
+        "title": "没有人会拒绝它",
+        "title_eng": "No one will reject it",
+        "nickname": "8号风曝",
+        "created_at": "2021-10-14",
+        "archive": "gh_a0404706a1d9_2021-10-14_2652753536_aUAxl3SbGY.y.tar.gz",
+        "censored_date": "2021-10-21 12:10:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 19:26:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652753404&idx=2&sn=43c477c51bce23583719e3e68c3c3ad0",
+        "title": "还在担心脖子上的年轮“颈”报？",
+        "title_eng": "Are you still worried about the annual ring neck report on your neck?",
+        "nickname": "8号风曝",
+        "created_at": "2021-10-13",
+        "archive": "gh_a0404706a1d9_2021-10-13_2652753404_8rpFYO3UTX.y.tar.gz",
+        "censored_date": "2021-10-21 12:17:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 19:24:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652753617&idx=2&sn=8044798c58515d6248cf4f6b1519bbd5",
+        "title": "超模同厂，真丝美衣，美得高级又温柔！",
+        "title_eng": "The supermodel is from the same factory, the silk is beautiful, the beauty is advanced and gentle!",
+        "nickname": "8号风曝",
+        "created_at": "2021-10-15",
+        "archive": "gh_a0404706a1d9_2021-10-15_2652753617_3iwdKURJjW.y.tar.gz",
+        "censored_date": "2021-10-21 12:18:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 19:26:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655632459&idx=1&sn=599506c1a4ca33848cd877d90bc7c3a3",
+        "title": "习近平《求是》发文：要适当提高公务员特别是基层一线公务员及国有企事业单位基层职工工资待遇",
+        "title_eng": "Xi Jinping's Seeking Truth issued a document: It is necessary to appropriately improve the salary and treatment of civil servants, especially the frontline civil servants at the grassroots level and the grassroots employees of state-owned enterprises and institutions",
+        "nickname": "阿SIR",
+        "created_at": "2021-10-17",
+        "archive": "gh_0af747913cab_2021-10-17_2655632459_EaJASWDjQK.y.tar.gz",
+        "censored_date": "2021-10-21 11:50:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-19 18:35:54"
     }
 ]
