@@ -6265,7 +6265,8 @@
         "created_at": "2021-10-21",
         "archive": "gh_26762a56c129_2021-10-21_2247490647_xSa5WPv1ue.y.tar.gz",
         "censored_date": "2021-10-22 14:03:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-22 16:51:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI0NTUwNQ==&mid=2654039389&idx=3&sn=49a3c36e9e32619d61fee3a03fd5f99d",
@@ -6288,5 +6289,15 @@
         "censored_date": "2021-10-22 15:58:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-21 12:50:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653509743&idx=5&sn=e0e5e4d6fa77cf8e146cffa0334068f5",
+        "title": "最新民调：90.9%日本人对中国印象不好",
+        "nickname": "环球时报",
+        "created_at": "2021-10-21",
+        "archive": "gh_95b0feda9646_2021-10-21_2653509743_9iVA3kNI5c.y.tar.gz",
+        "censored_date": "2021-10-22 17:07:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-21 11:25:17"
     }
 ]
