@@ -7245,7 +7245,8 @@
         "created_at": "2021-10-25",
         "archive": "gh_08885da058c6_2021-10-25_2247669381_cv7Ri6oGIA.y.tar.gz",
         "censored_date": "2021-10-26 00:35:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-26 02:17:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247497045&idx=4&sn=9b68e304cbd87a21d17888ce817b5d59",
@@ -7293,11 +7294,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAwNzI0MA==&mid=2652109998&idx=4&sn=45be44ef951b1c8201f2b7b3d71c3197",
         "title": "事儿君精选！麦维他巧克力球！万圣节巧克力！一波甜甜零食暖心又减压！",
+        "title_eng": "Shierjun's selection! Maivita Chocolate Balls! Halloween chocolate! A wave of sweet snacks warms the heart and relieves pressure!",
         "nickname": "英国那些事儿",
         "created_at": "2021-10-23",
         "archive": "gh_dc9a573d9cfd_2021-10-23_2652109998_mzSDdNKFIl.y.tar.gz",
         "censored_date": "2021-10-26 01:32:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-25 03:01:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2OTA3MTA5Mg==&mid=2651918747&idx=2&sn=36fbc78d04323ab71aeaa62c4d2118cc",
+        "title": "30多年过去了，为什么这个男人仍是顶流",
+        "title_eng": "More than 30 years have passed, why is this man still the top class?",
+        "nickname": "新世相",
+        "created_at": "2021-10-23",
+        "archive": "gh_e94f3c95d65a_2021-10-23_2651918747_sKEQf0oCMi.y.tar.gz",
+        "censored_date": "2021-10-26 01:52:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-25 03:09:43"
     }
 ]
