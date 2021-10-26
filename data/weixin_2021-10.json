@@ -7495,6 +7495,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI5OTI1OA==&mid=2653129792&idx=3&sn=a54cca60b6315dc0c6abd8d3173b7394",
         "title": "张杰出事后，令人愤怒的一幕出现了！",
+        "title_eng": "After Zhang Jie's incident, an irritating scene appeared!",
         "nickname": "李月亮",
         "created_at": "2021-10-24",
         "archive": "gh_0d184b37505f_2021-10-24_2653129792_Lg0JYUpSZH.y.tar.gz",
@@ -7505,6 +7506,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654928486&idx=8&sn=f803190b40246f5881557d0310f6462b",
         "title": "芒果新综艺，招募要求令人心疼…",
+        "title_eng": "Mango's new variety show, the recruitment requirements are distressing...",
         "nickname": "观察者网",
         "created_at": "2021-10-26",
         "archive": "gh_5c9e0938601d_2021-10-26_2654928486_8oOtxlkQv0.y.tar.gz",
@@ -7521,5 +7523,15 @@
         "censored_date": "2021-10-26 23:02:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-26 01:21:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODI2MDg5Mg==&mid=2650691579&idx=1&sn=7300e0faf1999c647a63394895d38fd9",
+        "title": "重磅！黑芝麻背后真相惊人，千年传承即将毁于一旦！",
+        "title_eng": "Heavy! The truth behind black sesame seeds is amazing, and the millennium heritage is about to be destroyed!",
+        "nickname": "郭一平说真话",
+        "created_at": "2021-10-25",
+        "archive": "gh_799459543f35_2021-10-25_2650691579_3fNZXxPlzO.y.tar.gz",
+        "censored_date": "2021-10-26 23:43:22",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
