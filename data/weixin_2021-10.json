@@ -7535,7 +7535,8 @@
         "created_at": "2021-10-25",
         "archive": "gh_799459543f35_2021-10-25_2650691579_3fNZXxPlzO.y.tar.gz",
         "censored_date": "2021-10-26 23:43:22",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-10-28 07:15:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247532477&idx=1&sn=9c28745ef78b5d69482557999b98cc99",
@@ -7816,7 +7817,7 @@
         "archive": "gh_088decdf1338_2021-10-26_2650032237_jOprTiNfD2.y.tar.gz",
         "censored_date": "2021-10-28 04:16:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-27 01:38:39"
+        "update_date": "2021-10-28 07:05:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247494332&idx=1&sn=d1919c55e81f586d996e470327b9b1c2",
@@ -7832,6 +7833,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650532716&idx=1&sn=a048c09779a400360f9d92814605c502",
         "title": "地产寒冬下，这些深陷危机的房企还能活下来吗？",
+        "title_eng": "In the cold real estate winter, can these crisis-stricken real estate companies survive?",
         "nickname": "界面新闻",
         "created_at": "2021-10-26",
         "archive": "gh_93119cc8064a_2021-10-26_2650532716_EQijfreNA9.y.tar.gz",
@@ -7842,6 +7844,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652274161&idx=1&sn=00700176e8f434203fdc021ca7262906",
         "title": "注意！购买这“四类药品”需持医院诊断证明，朝阳区对药店升级防控要求",
+        "title_eng": "Notice! The purchase of these four types of drugs requires a hospital diagnosis certificate, and Chaoyang District has upgraded the prevention and control requirements for pharmacies",
         "nickname": "北京新闻广播",
         "created_at": "2021-10-26",
         "archive": "gh_fb258eeffb8d_2021-10-26_2652274161_piN3GkB8Yo.y.tar.gz",
@@ -7851,11 +7854,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247599132&idx=1&sn=538f2bb29f46c1c6b2e6f49768e469a8",
         "title": "恒大核算师普华永道被查，曾“踩雷”瑞幸，刚因高管辱华致歉",
+        "title_eng": "Evergrande’s accountant PricewaterhouseCoopers was investigated for having “stepped on thunder” Rui Xing, and just apologized for insulting China by executives",
         "nickname": "凤凰网财经",
         "created_at": "2021-10-25",
         "archive": "gh_e76b6086b960_2021-10-25_2247599132_BdZnuVwGhJ.y.tar.gz",
         "censored_date": "2021-10-28 06:06:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-27 03:01:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMzc4MA==&mid=2652754926&idx=2&sn=0f6a0e4190c78fc06ef09a72110d2ae3",
+        "title": "用了它，白雪公主不是梦",
+        "nickname": "8号风曝",
+        "created_at": "2021-10-25",
+        "archive": "gh_a0404706a1d9_2021-10-25_2652754926_bUJqxE7rPw.y.tar.gz",
+        "censored_date": "2021-10-28 06:45:09",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
