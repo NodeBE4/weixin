@@ -7513,7 +7513,8 @@
         "created_at": "2021-10-26",
         "archive": "gh_5c9e0938601d_2021-10-26_2654928486_8oOtxlkQv0.y.tar.gz",
         "censored_date": "2021-10-26 23:22:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-28 03:26:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490496&idx=1&sn=a082ec72c554461923204ae3fd58f92f",
@@ -7784,7 +7785,7 @@
         "archive": "gh_e2a46987ac3a_2021-10-26_2247506252_on807NcX09.y.tar.gz",
         "censored_date": "2021-10-27 21:48:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-26 20:07:06"
+        "update_date": "2021-10-28 03:52:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODM0MjE1Ng==&mid=2651019286&idx=2&sn=907ae3141252e937290856c8cef2642a",
@@ -7805,5 +7806,15 @@
         "archive": "gh_16cc427c8e02_2021-10-27_2247663789_16FzTbPsxj.y.tar.gz",
         "censored_date": "2021-10-28 00:53:24",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2650032237&idx=7&sn=eb053739243633b5dd469e56bf9414b9",
+        "title": "让你的业余时间变得更有价值的是这几个公众号",
+        "nickname": "智谷趋势",
+        "created_at": "2021-10-26",
+        "archive": "gh_088decdf1338_2021-10-26_2650032237_jOprTiNfD2.y.tar.gz",
+        "censored_date": "2021-10-28 04:16:57",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-27 01:38:39"
     }
 ]
