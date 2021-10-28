@@ -8019,6 +8019,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODQxNjMwMA==&mid=2653649914&idx=2&sn=419f500f826f1b5a159cb769799f2841",
         "title": "一抹“橙”扮靓一座城",
+        "title_eng": "A touch of orange dresses up a city",
         "nickname": "遗爱网",
         "created_at": "2021-10-27",
         "archive": "gh_efb8a134bb93_2021-10-27_2653649914_CzbMsTIWfH.y.tar.gz",
@@ -8028,11 +8029,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653513584&idx=1&sn=e24269b4a3e0c02557124d3b807dd8b2",
         "title": "云南瑞丽一隔离人员跳楼轻生？",
+        "title_eng": "An isolated person in Ruili, Yunnan committed suicide by jumping off the building?",
         "nickname": "环球时报",
         "created_at": "2021-10-28",
         "archive": "gh_95b0feda9646_2021-10-28_2653513584_tfiF04Qn8z.y.tar.gz",
         "censored_date": "2021-10-28 22:11:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-28 22:13:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652274823&idx=1&sn=81e9063863e043815dfa6323f7302c10",
+        "title": "只进不出、全员核酸！北京朝阳区第一城6号院实施临时管控",
+        "title_eng": "Only in, no out, nucleic acid for all employees! No. 6 Courtyard of the First City, Chaoyang District, Beijing implements temporary control",
+        "nickname": "北京新闻广播",
+        "created_at": "2021-10-28",
+        "archive": "gh_fb258eeffb8d_2021-10-28_2652274823_zN0uUlAdRo.y.tar.gz",
+        "censored_date": "2021-10-28 23:00:26",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
