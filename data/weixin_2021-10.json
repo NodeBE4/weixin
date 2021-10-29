@@ -8039,7 +8039,7 @@
         "archive": "gh_95b0feda9646_2021-10-28_2653513584_tfiF04Qn8z.y.tar.gz",
         "censored_date": "2021-10-28 22:11:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-30 01:10:19"
+        "update_date": "2021-10-30 05:17:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjU0MDg0MQ==&mid=2652274823&idx=1&sn=81e9063863e043815dfa6323f7302c10",
@@ -8364,6 +8364,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODUwNDA0MQ==&mid=2649465014&idx=1&sn=65897c996ce5213af0972571d24995f2",
         "title": "本澳45.6人已接种新冠疫苗 打疫苗者可望延核检有效期 加强针及适用年龄须评估",
+        "title_eng": "45.6 people in Macao have received the new crown vaccine",
         "nickname": "澳亞衛視",
         "created_at": "2021-10-28",
         "archive": "gh_8d5298075476_2021-10-28_2649465014_3d8U09C1Pi.y.tar.gz",
@@ -8373,10 +8374,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjY4NzYzOA==&mid=2247563494&idx=6&sn=c4927c9bcb514ae277b456a9b57cf7f4",
         "title": "【雪都宣讲】“雪都”冬不拉小分队展播作品《感恩之心 歌颂之声》",
+        "title_eng": "[Snow Capital Preaching] Snow Capital Dongbula Squad's work Grateful Heart, Voice of Sing",
         "nickname": "阿勒泰市零距离",
         "created_at": "2021-10-29",
         "archive": "gh_204d11e7b3bd_2021-10-29_2247563494_XSO8n2oI7x.y.tar.gz",
         "censored_date": "2021-10-30 04:09:55",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247508892&idx=3&sn=88cab90cb3a2f3a5e87ba98ece9b4b2c",
+        "title": "《英雄联盟手游》背后，谁在“骂骂咧咧”？",
+        "nickname": "老板思维论",
+        "created_at": "2021-10-27",
+        "archive": "gh_69f7ba479665_2021-10-27_2247508892_02sRi9guUz.y.tar.gz",
+        "censored_date": "2021-10-30 05:05:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-10-29 00:51:33"
     }
 ]
