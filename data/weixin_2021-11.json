@@ -1332,7 +1332,8 @@
         "created_at": "2021-10-31",
         "archive": "gh_95b0feda9646_2021-10-31_2653514660_uZwlmkOe0n.y.tar.gz",
         "censored_date": "2021-10-31 16:49:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-01 14:28:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjM2NzEwNg==&mid=2658908987&idx=2&sn=4fdccfd84c977d937de32c4f568cc573",
@@ -1453,5 +1454,15 @@
         "censored_date": "2021-11-01 11:00:24",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-10-31 11:54:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650533399&idx=1&sn=f64592c555c99b8ceb2e503e4141f6f8",
+        "title": "北京卫健委：正在京外出差、旅游等人员请暂缓回京",
+        "title_eng": "Beijing Health Commission: People who are traveling or traveling in Beijing, please postpone their return to Beijing",
+        "nickname": "界面新闻",
+        "created_at": "2021-11-01",
+        "archive": "gh_93119cc8064a_2021-11-01_2650533399_g5zEePK0iq.y.tar.gz",
+        "censored_date": "2021-11-01 13:49:50",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
