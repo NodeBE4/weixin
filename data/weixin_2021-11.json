@@ -1552,7 +1552,8 @@
         "created_at": "2021-10-31",
         "archive": "gh_a53dbc2e04b7_2021-10-31_2652262342_3ZOiYNjqpc.y.tar.gz",
         "censored_date": "2021-11-01 20:37:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-02 21:13:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651920565&idx=3&sn=0012204d66611aa8bcb09d76b5bde585",
@@ -1563,7 +1564,7 @@
         "archive": "gh_d29e0d22a6f9_2021-10-31_2651920565_cS5gtqpfvU.y.tar.gz",
         "censored_date": "2021-11-01 20:48:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-10-31 22:56:52"
+        "update_date": "2021-11-02 21:13:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455543561&idx=1&sn=589a3862160716ab1b195f0d69492b7a",
@@ -1574,7 +1575,7 @@
         "archive": "gh_ba71c6c7d57e_2021-10-31_2455543561_pG9N408Xvz.y.tar.gz",
         "censored_date": "2021-11-01 20:56:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-01 00:17:37"
+        "update_date": "2021-11-02 21:14:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805198&idx=1&sn=3f95b9ce6eabf95ec33f38cb5aff1402",
@@ -1915,6 +1916,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjM2MzE2OQ==&mid=2652924551&idx=1&sn=b5564e37f07fd89ffb701b5d1b25b428",
         "title": "电影院都开放啦，9.9元抢980元尊享电影卡！",
+        "title_eng": "Cinemas are all open, grab a movie card for 980 yuan for 9.9 yuan!",
         "nickname": "老歌回放",
         "created_at": "2021-10-31",
         "archive": "gh_81a0e7cec153_2021-10-31_2652924551_nWUa36Moid.y.tar.gz",
