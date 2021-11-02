@@ -1597,7 +1597,7 @@
         "archive": "gh_c7f9947afc98_2021-10-29_2247494505_f59yQCIRA0.y.tar.gz",
         "censored_date": "2021-11-02 00:31:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-01 02:41:29"
+        "update_date": "2021-11-03 01:17:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247509065&idx=4&sn=0275042aedbeef3eccadfc31288cfa7b",
@@ -1641,7 +1641,7 @@
         "archive": "gh_46fa18dba691_2021-10-30_2247497364_qhrZOGQeWz.y.tar.gz",
         "censored_date": "2021-11-02 00:45:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-01 01:22:24"
+        "update_date": "2021-11-03 01:18:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247494505&idx=1&sn=adaab89a7146a4fd48bcdbc683ba4d43",
@@ -1652,7 +1652,7 @@
         "archive": "gh_c7f9947afc98_2021-10-29_2247494505_LTI7piBmFf.y.tar.gz",
         "censored_date": "2021-11-02 00:38:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-01 00:12:47"
+        "update_date": "2021-11-03 01:18:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247497364&idx=1&sn=6d42ead70033d2208dafcfbd65b78236",
@@ -1662,7 +1662,8 @@
         "created_at": "2021-10-30",
         "archive": "gh_46fa18dba691_2021-10-30_2247497364_lw15sOHEWa.y.tar.gz",
         "censored_date": "2021-11-02 00:41:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-03 01:10:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520153&idx=2&sn=06d972fbaaf55cb0ee413a6488ea787d",
@@ -1695,7 +1696,7 @@
         "archive": "gh_34471e1f4b56_2021-10-31_2653074185_bc9fGQdkiZ.y.tar.gz",
         "censored_date": "2021-11-02 01:29:15",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-01 02:57:47"
+        "update_date": "2021-11-03 01:19:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDA4MTYxMQ==&mid=2651876635&idx=1&sn=a0fdb1bc6f572866e5ebee312a114221",
@@ -2002,10 +2003,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650856120&idx=1&sn=50a4633d77bf48242a489c091b938197",
         "title": "2021.11.2 周二 农历九月廿八 台媒爆美军“特战合作组”将成“常驻台湾协训编制",
+        "title_eng": "2021.11.2 Tuesday, September 28 of the lunar calendar, Taiwan mediated the US military’s Special Warfare Cooperation Group to become the Taiwan Cooperative Training Organization",
         "nickname": "荣茂读报",
         "created_at": "2021-11-02",
         "archive": "gh_11d6ef0dd9d4_2021-11-02_2650856120_IUb85rmRiE.y.tar.gz",
         "censored_date": "2021-11-03 00:30:25",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247509072&idx=3&sn=c8ac33aaba5e6f93c320820748e31348",
+        "title": "咖啡馆越开越多，年轻人还够用吗？",
+        "title_eng": "Cafes are opening more and more, is it enough for young people?",
+        "nickname": "老板思维论",
+        "created_at": "2021-10-31",
+        "archive": "gh_69f7ba479665_2021-10-31_2247509072_6KrcPUqBJX.y.tar.gz",
+        "censored_date": "2021-11-03 01:17:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-02 02:18:11"
     }
 ]
