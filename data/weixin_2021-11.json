@@ -1464,7 +1464,8 @@
         "created_at": "2021-11-01",
         "archive": "gh_93119cc8064a_2021-11-01_2650533399_g5zEePK0iq.y.tar.gz",
         "censored_date": "2021-11-01 13:49:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-02 14:08:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzY2MDkzOQ==&mid=2650742109&idx=1&sn=ffa3b19602c1b4b02f95bce413ad312b",
@@ -1474,7 +1475,8 @@
         "created_at": "2021-11-01",
         "archive": "gh_8e14a2cc7d73_2021-11-01_2650742109_bwR3zPf0ke.y.tar.gz",
         "censored_date": "2021-11-01 16:12:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-02 13:58:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTc2Mzg2Mg==&mid=2659016727&idx=1&sn=03b8813dc74b372f35b933eb7d22fb6e",
@@ -1872,6 +1874,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDg5MzMwMQ==&mid=2671294124&idx=1&sn=6f2ed2196c08a564ba419eca31689c50",
         "title": "31省区市前三季度GDP公布！云南增速位列全国第18位",
+        "title_eng": "31 provinces, autonomous regions and municipalities announced their GDP in the first three quarters! Yunnan's growth rate ranks 18th in the country",
         "nickname": "云南网",
         "created_at": "2021-11-01",
         "archive": "gh_3033f4cf486d_2021-11-01_2671294124_kGiSz9qE0y.y.tar.gz",
@@ -1881,6 +1884,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650158881&idx=1&sn=e1a5fc0274bd3d26b2baff8d8c598549",
         "title": "[建党百年 学术百家]丁声树：从爱国主义走向共产主义",
+        "title_eng": "[One Hundred Years of the Founding of the Party] Ding Shengshu: From Patriotism to Communism",
         "nickname": "中国社会科学网",
         "created_at": "2021-11-02",
         "archive": "gh_60e26bf6d108_2021-11-02_2650158881_G0LbsBf0eW.y.tar.gz",
@@ -1890,10 +1894,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650158881&idx=2&sn=ab4b658612f98f5d2eee3e2c3f800f03",
         "title": "“元技术”塑造新闻业发展新图景",
+        "title_eng": "Meta Technology Shapes New Vision of Journalism Development",
         "nickname": "中国社会科学网",
         "created_at": "2021-11-02",
         "archive": "gh_60e26bf6d108_2021-11-02_2650158881_NUiz0uDIPF.y.tar.gz",
         "censored_date": "2021-11-02 12:44:27",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247505442&idx=1&sn=10a9586f06ac6d931e491628b34e9a01",
+        "title": "重磅！@辅警们，条例颁布，你们的工资提高了",
+        "nickname": "政e视角",
+        "created_at": "2021-10-31",
+        "archive": "gh_4d1e27733468_2021-10-31_2247505442_nEq9kUH8IY.y.tar.gz",
+        "censored_date": "2021-11-02 13:37:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-01 16:08:04"
     }
 ]
