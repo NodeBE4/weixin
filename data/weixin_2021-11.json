@@ -1476,7 +1476,7 @@
         "archive": "gh_8e14a2cc7d73_2021-11-01_2650742109_bwR3zPf0ke.y.tar.gz",
         "censored_date": "2021-11-01 16:12:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-02 13:58:18"
+        "update_date": "2021-11-03 16:03:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTc2Mzg2Mg==&mid=2659016727&idx=1&sn=03b8813dc74b372f35b933eb7d22fb6e",
@@ -1902,7 +1902,8 @@
         "created_at": "2021-11-02",
         "archive": "gh_60e26bf6d108_2021-11-02_2650158881_NUiz0uDIPF.y.tar.gz",
         "censored_date": "2021-11-02 12:44:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-03 15:47:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247505442&idx=1&sn=10a9586f06ac6d931e491628b34e9a01",
@@ -2142,5 +2143,25 @@
         "censored_date": "2021-11-03 10:47:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-02 11:29:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247505534&idx=3&sn=b54256940579293e5f4d67b48ca5d08d",
+        "title": "中纪委答复：公务员借钱给别人，能不能要利息？",
+        "nickname": "政e视角",
+        "created_at": "2021-11-01",
+        "archive": "gh_4d1e27733468_2021-11-01_2247505534_uJ5wqiPoCO.y.tar.gz",
+        "censored_date": "2021-11-03 16:31:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-02 16:33:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247505534&idx=5&sn=9912012fe082a61f49cf555ef735417d",
+        "title": "公安执法中多为辅警参与，违反了法律法规规定的“人民警察不得少于两人”等的规定，程序违法",
+        "title_eng": "In public security law enforcement, auxiliary police are mostly involved, violating laws and regulations that “the people’s police should not be less than two people”, etc., and the procedure is illegal.",
+        "nickname": "政e视角",
+        "created_at": "2021-11-01",
+        "archive": "gh_4d1e27733468_2021-11-01_2247505534_RbX8p6Zhe1.y.tar.gz",
+        "censored_date": "2021-11-03 16:28:07",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
