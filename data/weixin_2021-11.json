@@ -2473,6 +2473,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzI1ODEzNA==&mid=2650521998&idx=1&sn=032dcec70d6112d761e99f2a1adb16a2",
         "title": "“双减”让我丢了工作，现在当保姆每月3万5",
+        "title_eng": "Double reduction made me lose my job, now I am a babysitter 30000 per month",
         "nickname": "财经",
         "created_at": "2021-11-02",
         "archive": "gh_cdc8f0652ff7_2021-11-02_2650521998_VnYmDe6iIq.y.tar.gz",
@@ -2483,6 +2484,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247526598&idx=4&sn=d3d19491da1302b4fba6cece328f20b7",
         "title": "一首歌唱哭评委！把新疆棉农的爱情送上了热搜……",
+        "title_eng": "A song crying judges! Put the love of Xinjiang cotton farmers on the hot search...",
         "nickname": "西域都护",
         "created_at": "2021-11-03",
         "archive": "gh_5023d7e73573_2021-11-03_2247526598_4HqGBt2dk1.y.tar.gz",
@@ -2493,11 +2495,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjM2NzEwNg==&mid=2658909020&idx=2&sn=680f4f0f0c8400a43427289e2cbb94bf",
         "title": "女教师补课，遭家长设计仙人跳！结局大快人心！",
+        "title_eng": "Female teachers make up lessons and are designed by parents to dance fairy tales! Happy ending!",
         "nickname": "星火好望角",
         "created_at": "2021-11-02",
         "archive": "gh_89eda7c5881b_2021-11-02_2658909020_vjLGkQghna.y.tar.gz",
         "censored_date": "2021-11-04 15:21:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-03 14:11:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwOTk0MjA2Mw==&mid=2247504960&idx=1&sn=bd9bf24680f37ce8f5b4e79582946ab4",
+        "title": "没有莫名其妙的下跌~",
+        "title_eng": "There is no inexplicable fall~",
+        "nickname": "卫斯理观察",
+        "created_at": "2021-11-02",
+        "archive": "gh_4481ed4b2d9b_2021-11-02_2247504960_QjeHwibr5I.y.tar.gz",
+        "censored_date": "2021-11-04 15:37:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-03 16:29:40"
     }
 ]
