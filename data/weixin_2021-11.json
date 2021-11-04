@@ -2211,7 +2211,7 @@
         "archive": "gh_e3e018a7e41b_2021-11-02_2649542863_KJduXrem3q.y.tar.gz",
         "censored_date": "2021-11-03 20:01:07",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-02 21:19:25"
+        "update_date": "2021-11-04 22:53:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzQxNjg2MA==&mid=2247592611&idx=1&sn=8402cecaeb76aab8b470caf19918bd3f",
@@ -2362,7 +2362,8 @@
         "created_at": "2021-11-03",
         "archive": "gh_20542841a698_2021-11-03_2247635057_il5aHM6OSp.y.tar.gz",
         "censored_date": "2021-11-04 01:41:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-04 22:51:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247529927&idx=2&sn=cb402be42d7eac8dbd11318e8dcac70f",
@@ -2573,6 +2574,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1MjM4NTg2Mw==&mid=2247525700&idx=1&sn=be0f21ba8b146a93a883653a392debb9",
         "title": "提个醒，早上起床后，第一件事不是排便，也不是喝水，早知道早受益！",
+        "title_eng": "Wake up, after getting up in the morning, the first thing is not to defecate, nor to drink water, I would have benefited early!",
         "nickname": "郭一平发声",
         "created_at": "2021-11-03",
         "archive": "gh_69088f1e3941_2021-11-03_2247525700_Vj1vcDkMiX.y.tar.gz",
@@ -2583,11 +2585,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODI2MDg5Mg==&mid=2650691940&idx=1&sn=da8f2f1d7d78885f113f388d086a5fd6",
         "title": "提个醒，早上起床后，第一件事不是排便，也不是喝水，早知道早受益！",
+        "title_eng": "Wake up, after getting up in the morning, the first thing is not to defecate, nor to drink water, I would have benefited early!",
         "nickname": "郭一平说真话",
         "created_at": "2021-11-03",
         "archive": "gh_799459543f35_2021-11-03_2650691940_lobBWR4uvK.y.tar.gz",
         "censored_date": "2021-11-04 22:14:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-03 23:22:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMjMyMTQyMg==&mid=2247635057&idx=1&sn=ac1fbfd17bb046fb1ace693ef33c2994",
+        "title": "承载国家战略的青岛，为何需要这个千亿大项目？",
+        "title_eng": "Why does Qingdao, which carries the national strategy, need this billion-dollar project?",
+        "nickname": "凤凰网青岛",
+        "created_at": "2021-11-03",
+        "archive": "gh_20542841a698_2021-11-03_2247635057_wEb1TBdYFi.y.tar.gz",
+        "censored_date": "2021-11-04 22:51:03",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-04 01:41:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660471194&idx=1&sn=be654df1944536327bf615ab4eb342e4",
+        "title": "中国经济的欧洲化",
+        "title_eng": "Europeanization of the Chinese Economy",
+        "nickname": "重要的是经济",
+        "created_at": "2021-11-03",
+        "archive": "gh_1137e6936d9f_2021-11-03_2660471194_SqGzrN1DEa.y.tar.gz",
+        "censored_date": "2021-11-04 23:26:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
