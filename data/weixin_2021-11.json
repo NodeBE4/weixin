@@ -2519,6 +2519,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655633366&idx=2&sn=52d77e7bca066377bd2272af30a82cc6",
         "title": "全场1折起，战术棉服低至69元！断码通勤裤99元！",
+        "title_eng": "The audience is 1% off, and the tactical cotton clothing is as low as 69 yuan! 99 yuan for broken code commuter pants!",
         "nickname": "阿SIR",
         "created_at": "2021-11-01",
         "archive": "gh_0af747913cab_2021-11-01_2655633366_cZg3G81KEl.y.tar.gz",
@@ -2529,11 +2530,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247513604&idx=1&sn=dee80f45f6ee165a1543a64ebd6582c3",
         "title": "盼望战争的，都是人渣",
+        "title_eng": "Those who look forward to war are scumbags",
         "nickname": "潇湘经略",
         "created_at": "2021-11-03",
         "archive": "gh_30b5796604e2_2021-11-03_2247513604_yvHo3OXS8A.y.tar.gz",
         "censored_date": "2021-11-04 19:14:57",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-11-03 21:19:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDM0Mzk0Mw==&mid=2651571835&idx=1&sn=d1ee1e31dc7c2993823e58f351086d83",
+        "title": "【速递】全省暂停执行有序用电、翔安区民营企业奖励政策兑现→  企业焦点资讯最新汇总",
+        "title_eng": "[Express] The province suspends orderly use of electricity, and the reward policy for private enterprises in Xiang'an District is honored → The latest summary of corporate focus information",
+        "nickname": "中小企业在线",
+        "created_at": "2021-11-03",
+        "archive": "gh_8ce2dad470ac_2021-11-03_2651571835_JDIPmYNWAn.y.tar.gz",
+        "censored_date": "2021-11-04 19:43:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247506834&idx=2&sn=c2ac674721cec15bf75371488ba530f5",
+        "title": "欢迎来到不需要头条的年代",
+        "title_eng": "Welcome to the age without headlines",
+        "nickname": "冰川思享号",
+        "created_at": "2021-11-04",
+        "archive": "gh_e80b5c3c8b87_2021-11-04_2247506834_oQd7FKubXp.y.tar.gz",
+        "censored_date": "2021-11-04 19:48:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
