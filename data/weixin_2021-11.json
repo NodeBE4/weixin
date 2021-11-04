@@ -2310,7 +2310,7 @@
         "archive": "gh_728dda09b5fa_2021-11-02_2247508915_uDYX4z00ZB.y.tar.gz",
         "censored_date": "2021-11-03 23:18:53",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-11-03 01:52:02"
+        "update_date": "2021-11-05 02:55:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653673723&idx=3&sn=072e0d05fab63c151380984630f94457",
@@ -2321,7 +2321,7 @@
         "archive": "gh_e3cf7cb85f44_2021-10-31_2653673723_vhMjPSWsi5.y.tar.gz",
         "censored_date": "2021-11-03 23:11:44",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-03 00:22:46"
+        "update_date": "2021-11-05 02:55:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2650033449&idx=7&sn=b57929f0e623aa4c62aa77460c51b205",
@@ -2733,5 +2733,15 @@
         "censored_date": "2021-11-05 02:09:47",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-11-04 17:29:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjA5NDI3Ng==&mid=2690809471&idx=4&sn=9c2fbc4b2b31c535e687e8ac77218cc8",
+        "title": "党史百年天天读 · 11月3日",
+        "nickname": "漳平融媒体",
+        "created_at": "2021-11-03",
+        "archive": "gh_57533e17ec66_2021-11-03_2690809471_X4rOGLMsTo.y.tar.gz",
+        "censored_date": "2021-11-05 02:38:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-04 03:38:06"
     }
 ]
