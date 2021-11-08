@@ -3173,7 +3173,7 @@
         "archive": "gh_d29e0d22a6f9_2021-11-06_2651923353_IvARo0q2Gj.y.tar.gz",
         "censored_date": "2021-11-06 20:38:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-07 14:27:55"
+        "update_date": "2021-11-08 22:58:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247495188&idx=5&sn=06934c3c9e84757a5f16d63bb1f9d3c6",
@@ -3699,6 +3699,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649820878&idx=2&sn=d5d9e5ce873968e45f4f58aa68f2e0d4",
         "title": "极速上网，看见更大的世界，秒开秒用，无须下载，0打扰服务。",
+        "title_eng": "Surf the Internet at high speeds, see a bigger world, use every second, no need to download, and no interruption to the service.",
         "nickname": "近现代史论",
         "created_at": "2021-11-07",
         "archive": "gh_ef9695b6d53c_2021-11-07_2649820878_aJxwR5uYBc.y.tar.gz",
@@ -3708,10 +3709,44 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzAyMzE4Nw==&mid=2457515793&idx=1&sn=538310722fb951ca5132087f4a695d91",
         "title": "EDG赢了后，很多人变成了“电竞流氓”",
+        "title_eng": "After EDG won, many people became e-sports hooligans",
         "nickname": "为你写一个故事",
         "created_at": "2021-11-08",
         "archive": "gh_4c87bae15e04_2021-11-08_2457515793_yNAIbFdHV5.y.tar.gz",
         "censored_date": "2021-11-08 22:05:52",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247538559&idx=8&sn=eb2604c757cba19e95b92ba74b849207",
+        "title": "俞敏洪：教培时代结束，新东方捐献8万套课桌椅给乡村学校",
+        "title_eng": "Yu Minhong: At the end of the education and training era, New Oriental donated 80,000 sets of desks and chairs to rural schools",
+        "nickname": "经济学家圈",
+        "created_at": "2021-11-08",
+        "archive": "gh_358c7d1e341c_2021-11-08_2247538559_TogA1tdcVY.y.tar.gz",
+        "censored_date": "2021-11-08 22:48:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-08 19:59:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTY4MTI0Mw==&mid=2247622985&idx=4&sn=b4de8e2c4780d5c7961b4c98a01d86e2",
+        "title": "你还不知道如何申领场所二维码，快来学习起来吧！",
+        "title_eng": "You don’t know how to apply for a QR code for a place, come and learn!",
+        "nickname": "新源零距离",
+        "created_at": "2021-11-08",
+        "archive": "gh_8dd6b5346ab2_2021-11-08_2247622985_TCagM4N0As.y.tar.gz",
+        "censored_date": "2021-11-08 22:33:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-08 22:09:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NzQ0OTQ5Mw==&mid=2247503298&idx=1&sn=ed48bd1b3e8f2685abf3580268fb2ac8",
+        "title": "双十一免单，限50份，错过等一年！",
+        "title_eng": "Double eleven free orders, limited to 50 copies, missed to wait for a year!",
+        "nickname": "新退休生活",
+        "created_at": "2021-11-07",
+        "archive": "gh_7134776aea5c_2021-11-07_2247503298_0K0VcHha5v.y.tar.gz",
+        "censored_date": "2021-11-08 22:29:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-07 16:42:21"
     }
 ]
