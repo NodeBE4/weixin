@@ -4038,7 +4038,7 @@
         "archive": "gh_dbb88fe35e60_2021-11-09_2247485387_wfVRve6mEY.y.tar.gz",
         "censored_date": "2021-11-09 10:36:14",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2021-11-09 08:26:38"
+        "update_date": "2021-11-10 18:03:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI1MTk2OA==&mid=2652126990&idx=1&sn=f9432e100a35277ae4cd1755be8b5ad9",
@@ -4422,6 +4422,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDQ2MjYyMQ==&mid=2247525157&idx=7&sn=7a77e1e0f861339f412f78ce44d29830",
         "title": "管轶：清零没机会了",
+        "title_eng": "Guan Yi: There is no chance of resetting",
         "nickname": "法科生之家",
         "created_at": "2021-11-09",
         "archive": "gh_e62ae5ca4cc9_2021-11-09_2247525157_y3oOL5P0r6.y.tar.gz",
@@ -4432,11 +4433,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTc3ODU1OA==&mid=2651856379&idx=1&sn=a4b963f1ffcfaa6f3f5413ac42b55b55",
         "title": "病毒学家管轶：不要再动不动做全员核酸检测了，该做一下全员抗体检测了",
+        "title_eng": "Virologist Guan Yi: Stop doing all-member nucleic acid tests anymore, it's time to do all-member antibody tests",
         "nickname": "商业真知",
         "created_at": "2021-11-09",
         "archive": "gh_d9f8111bcdc1_2021-11-09_2651856379_3J6KC0fj9u.y.tar.gz",
         "censored_date": "2021-11-10 16:39:34",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-11-09 14:52:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzU4ODk2MA==&mid=2735483542&idx=1&sn=3195fb34fc94b65b794ae8fecdfc5035",
+        "title": "大反转！国内农业崛起，现在西方国家都抢着要，被誉为“生命之源”",
+        "title_eng": "Big reversal! The rise of domestic agriculture, and now Western countries are rushing to take it, known as the source of life",
+        "nickname": "平局",
+        "created_at": "2021-11-09",
+        "archive": "gh_ec3d4018f2a9_2021-11-09_2735483542_N5lRDwMIOk.y.tar.gz",
+        "censored_date": "2021-11-10 17:57:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-09 11:24:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3Mjk0MDEyOA==&mid=2655588747&idx=1&sn=d29a00366c955e4b7a7a0f8dd19aa588",
+        "title": "多省公安厅腐败干部被处理！",
+        "title_eng": "Corrupt cadres of the Public Security Departments in many provinces have been dealt with!",
+        "nickname": "海运仓内参",
+        "created_at": "2021-11-08",
+        "archive": "gh_ad1cc49daf82_2021-11-08_2655588747_0DSKHpd89Y.y.tar.gz",
+        "censored_date": "2021-11-10 17:59:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-09 15:04:02"
     }
 ]
