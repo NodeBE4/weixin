@@ -3786,7 +3786,7 @@
         "archive": "gh_4226ad5d721f_2021-11-08_2651256029_9Qg0Lsx7Uw.y.tar.gz",
         "censored_date": "2021-11-09 00:29:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-10 07:03:43"
+        "update_date": "2021-11-10 11:50:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652034102&idx=2&sn=bb2fb5a8131ae7ca03af92114491ab8d",
@@ -4379,11 +4379,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNDMwNDE4NQ==&mid=2247509931&idx=1&sn=f9e4da1793cfaa29e3af9a146c5ebd92",
         "title": "赵金成被查",
+        "title_eng": "Zhao Jincheng was investigated",
         "nickname": "华睿说法",
         "created_at": "2021-11-07",
         "archive": "gh_fc462f1a6144_2021-11-07_2247509931_M70uVSBmi4.y.tar.gz",
         "censored_date": "2021-11-10 10:57:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-09 04:00:03"
+        "update_date": "2021-11-10 12:13:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247584165&idx=1&sn=16eb77de31ec74dfaed11feccfd60007",
+        "title": "刚刚，茅台惨遭“降维打击”，从此再也无人喝茅台....",
+        "title_eng": "Just now, Moutai suffered a dimension reduction blow, and no one drinks Moutai ever since....",
+        "nickname": "第一法商",
+        "created_at": "2021-11-09",
+        "archive": "gh_5980b8ba5607_2021-11-09_2247584165_HILYJFE7Wt.y.tar.gz",
+        "censored_date": "2021-11-10 12:25:13",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
