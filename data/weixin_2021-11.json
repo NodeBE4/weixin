@@ -5190,7 +5190,7 @@
         "archive": "gh_355d7095d51f_2021-11-13_2651636069_5JgWYR8jDv.y.tar.gz",
         "censored_date": "2021-11-13 16:47:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-15 06:10:56"
+        "update_date": "2021-11-15 22:28:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650114477&idx=4&sn=fb346af5eb2088fa59f82e79ed4e3bf5",
@@ -5729,6 +5729,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247509710&idx=3&sn=23e364b88cb3290a8b55be300aedb420",
         "title": "腾讯的上限与下限",
+        "title_eng": "Tencent's upper and lower limits",
         "nickname": "老板思维论",
         "created_at": "2021-11-13",
         "archive": "gh_69f7ba479665_2021-11-13_2247509710_UzrFj1DIBE.y.tar.gz",
@@ -5738,6 +5739,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247509710&idx=1&sn=3acf7e0ffdd1d649920e2b276f49b825",
         "title": "“丁克”17年，丈夫与小三出轨生子：为什么我劝你不要对抗人性？",
+        "title_eng": "In 17 years of Dink, her husband cheated on Xiaosan and gave birth to children: Why do I persuade you not to confront humanity?",
         "nickname": "老板思维论",
         "created_at": "2021-11-13",
         "archive": "gh_69f7ba479665_2021-11-13_2247509710_pDYt9fAzLm.y.tar.gz",
@@ -5747,6 +5749,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247509710&idx=2&sn=fabc359099d2bd0f31a2218ae7d6c38b",
         "title": "收藏翡翠你不得不知的知识！关于翡翠最实用的精品帖！",
+        "title_eng": "What you have to know about collecting jade! The most practical boutique post about jade!",
         "nickname": "老板思维论",
         "created_at": "2021-11-13",
         "archive": "gh_69f7ba479665_2021-11-13_2247509710_LUi5akeqZb.y.tar.gz",
@@ -5756,10 +5759,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNTE5MTIyMQ==&mid=2651654825&idx=2&sn=7e8ceb1ce5a1d02b013f9523497a004c",
         "title": "美籍律师袭警竟称“合法自卫”，法官斥荒谬！丨香港一日",
+        "title_eng": "The American lawyer attacked the police and called it legal self-defense. The judge reprimanded it as absurd!丨Hong Kong One Day",
         "nickname": "直新闻",
         "created_at": "2021-11-15",
         "archive": "gh_8d6b93d2a414_2021-11-15_2651654825_Q94J8rR6H0.y.tar.gz",
         "censored_date": "2021-11-15 22:01:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247518772&idx=3&sn=c5053fe6f566d483015f227032c07bc1",
+        "title": "爸爸有案底，孩子能通过公务员政审吗？",
+        "title_eng": "Dad has a case, can the child pass the civil service trial?",
+        "nickname": "法苑茶语",
+        "created_at": "2021-11-11",
+        "archive": "gh_bf54f24b2e87_2021-11-11_2247518772_qynui3Yk15.y.tar.gz",
+        "censored_date": "2021-11-15 22:38:47",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-15 06:21:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247518772&idx=5&sn=e4199b3bb4bd64ca294c0afe2f813f2b",
+        "title": "高院判例：员工承诺不缴社保，事后反悔要补偿违反诚信原则！",
+        "title_eng": "The case of the High Court: The employee promised not to pay social security, and regretted afterwards to compensate for the violation of the principle of good faith!",
+        "nickname": "法苑茶语",
+        "created_at": "2021-11-11",
+        "archive": "gh_bf54f24b2e87_2021-11-11_2247518772_pTAHJ70rXn.y.tar.gz",
+        "censored_date": "2021-11-15 22:38:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-13 20:05:08"
     }
 ]
