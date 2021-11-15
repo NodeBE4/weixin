@@ -5954,6 +5954,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5Njc0NjAyMg==&mid=2247492540&idx=4&sn=826ee27a0d2c0d0c728d1ee07601d0b8",
         "title": "仍无通关时间表！香港海关一姐：正为通关做准备",
+        "title_eng": "There is still no timetable for customs clearance! The first sister of Hong Kong Customs: preparing for customs clearance",
         "nickname": "港评",
         "created_at": "2021-11-14",
         "archive": "gh_ef50b9c2fb1e_2021-11-14_2247492540_LBXVtKTlo2.y.tar.gz",
@@ -5964,6 +5965,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247518801&idx=3&sn=0fc2ac612f39a7d7e95c7fda41e41de4",
         "title": "潘墀被查！",
+        "title_eng": "Pan Chi was investigated!",
         "nickname": "法苑茶语",
         "created_at": "2021-11-13",
         "archive": "gh_bf54f24b2e87_2021-11-13_2247518801_zsDnOJNYP5.y.tar.gz",
@@ -5974,6 +5976,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODM2OTU5Mg==&mid=2247496995&idx=2&sn=65ba642fcfc2f76107315be4e8349d10",
         "title": "世界500强经理辞职种燕麦：7年烧掉3个亿，只为种出一碗健康早餐",
+        "title_eng": "Fortune 500 managers resign to grow oats: burned 300 million yuan in 7 years, just to grow a bowl of healthy breakfast",
         "nickname": "熊老六",
         "created_at": "2021-11-15",
         "archive": "gh_a2cb8e003f7b_2021-11-15_2247496995_GpJE9fH7Bk.y.tar.gz",
@@ -5983,10 +5986,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520193&idx=2&sn=cc6f862e9bc89db94d5fe489bea32f23",
         "title": "终于买得起迪奥口红了！99元限量抢迪奥999！便宜到尖叫！",
+        "title_eng": "Finally can afford Dior lipstick! 99 yuan limited edition grab Dior 999! It's so cheap!",
         "nickname": "莫问大叔",
         "created_at": "2021-11-14",
         "archive": "gh_05006dfaee36_2021-11-14_2247520193_BnsO95gcrq.y.tar.gz",
         "censored_date": "2021-11-16 02:10:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDc1Njc0Ng==&mid=2247506745&idx=2&sn=796a0993fd1d742a57dba2c5be622c59",
+        "title": "​不想交物业费？这5种理由记清楚了！（普法）！",
+        "title_eng": "Don't want to pay property fees? Remember these 5 reasons clearly! (French popularization)!",
+        "nickname": "法治讲坛",
+        "created_at": "2021-11-13",
+        "archive": "gh_21744088d622_2021-11-13_2247506745_s03LQCkrcH.y.tar.gz",
+        "censored_date": "2021-11-16 02:30:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-15 10:31:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODU1MTIyMw==&mid=2247635676&idx=8&sn=a0fac4bfe21cd498e70d577833c77102",
+        "title": "日本人从不穿秋裤，只因他们有这个习惯.....",
+        "nickname": "正商参阅",
+        "created_at": "2021-11-14",
+        "archive": "gh_8e70dd8eb27e_2021-11-14_2247635676_KXsfZeFtnW.y.tar.gz",
+        "censored_date": "2021-11-16 03:02:55",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
