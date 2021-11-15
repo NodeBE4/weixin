@@ -5377,7 +5377,7 @@
         "archive": "gh_49fff09a3c92_2021-11-13_2653967467_JpisyYO0wT.y.tar.gz",
         "censored_date": "2021-11-14 13:04:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-14 15:44:27"
+        "update_date": "2021-11-15 11:56:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDgxMzM2OQ==&mid=2649749582&idx=1&sn=c83c558fbc4cc19850bcbe0db977a17a",
@@ -5566,6 +5566,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518679&idx=4&sn=aba669b49f56694d94e21dd62cbc1ff4",
         "title": "晚上睡不着的时候，看看吧！",
+        "title_eng": "When you can't sleep at night, take a look!",
         "nickname": "牧者讲道",
         "created_at": "2021-11-12",
         "archive": "gh_ab6c4e04286d_2021-11-12_2247518679_4l8In7FJxp.y.tar.gz",
@@ -5576,6 +5577,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518679&idx=5&sn=93c83855576f8f4e0c5826cc8e5a2ca1",
         "title": "男人最不喜欢女人做的八件事",
+        "title_eng": "Eight things men least like women to do",
         "nickname": "牧者讲道",
         "created_at": "2021-11-12",
         "archive": "gh_ab6c4e04286d_2021-11-12_2247518679_34Ia68pbJx.y.tar.gz",
@@ -5586,6 +5588,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518679&idx=2&sn=2cc63888f501ff45b75f371e88887926",
         "title": "1 +1=1；1 +2=1；3 +4=1",
+        "title_eng": "1 1=1; 1 2=1; 3 4=1",
         "nickname": "牧者讲道",
         "created_at": "2021-11-12",
         "archive": "gh_ab6c4e04286d_2021-11-12_2247518679_aZLDtnKY7G.y.tar.gz",
@@ -5596,6 +5599,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518679&idx=1&sn=e6c2795774e302b34e9d791bfcf97398",
         "title": "话语的力量，写的真的太好！",
+        "title_eng": "The power of words is really good!",
         "nickname": "牧者讲道",
         "created_at": "2021-11-12",
         "archive": "gh_ab6c4e04286d_2021-11-12_2247518679_DKXF0cIOad.y.tar.gz",
@@ -5606,11 +5610,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNjYyNTQzOA==&mid=2247518679&idx=8&sn=90e6553b510faa3e97679b1ba08168d7",
         "title": "孩子偷拿纸巾后，妈妈只问了4个问题，结果很感动...",
+        "title_eng": "After the child stole the tissues, the mother only asked 4 questions and was very moved...",
         "nickname": "牧者讲道",
         "created_at": "2021-11-12",
         "archive": "gh_ab6c4e04286d_2021-11-12_2247518679_ErVdbwBPRz.y.tar.gz",
         "censored_date": "2021-11-15 11:11:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-13 00:16:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjY4ODYwNA==&mid=2651735123&idx=2&sn=cb9990928e7cad9314c2f0b8d97e8f6d",
+        "title": "清代当官最久之人，长达52年历经三朝都不倒，后世对其褒贬不一",
+        "title_eng": "The man who was the longest official in the Qing Dynasty. He has not fallen for 52 years after three dynasties. Later generations praised him differently.",
+        "nickname": "水煮历史",
+        "created_at": "2021-11-15",
+        "archive": "gh_b8e851bb117a_2021-11-15_2651735123_9DGBh1qCa8.y.tar.gz",
+        "censored_date": "2021-11-15 11:43:39",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
