@@ -6322,6 +6322,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNTUxMTk3OQ==&mid=2247487885&idx=4&sn=3e8ea974c49e9e498adddd8c988f80b0",
         "title": "医院门口贴对联，看了没有不笑的！",
+        "title_eng": "The couplet was posted at the entrance of the hospital, and no one didn't laugh after seeing it!",
         "nickname": "实事聚焦",
         "created_at": "2021-11-14",
         "archive": "gh_28a27f6c0472_2021-11-14_2247487885_prhPlDsLCt.y.tar.gz",
@@ -6332,6 +6333,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650152948&idx=1&sn=3ae0b566d8464e86991d8f593ccbc37f",
         "title": "这三种白酒被禁止了，白送都不要，赶快来看看，如果有赶紧倒掉！",
+        "title_eng": "These three kinds of liquor have been banned. Don't give it away for free. Come and have a look. If there are any, throw it away!",
         "nickname": "云石",
         "created_at": "2021-11-15",
         "archive": "gh_cffa19ce8f37_2021-11-15_2650152948_I5YkBZDRAJ.y.tar.gz",
@@ -6342,6 +6344,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247569079&idx=2&sn=f50d67e73870f0011122dfc79f92af77",
         "title": "“陈皮”为什么越喝越健康，已被列入“预防方案”现在知道还不晚！",
+        "title_eng": "Why Dried Chenpi has been included in the Prevention Plan as you drink it, the healthier it is, it is not too late to know!",
         "nickname": "演讲与人生",
         "created_at": "2021-11-15",
         "archive": "gh_e525ae7f03af_2021-11-15_2247569079_KwAFoNMS9f.y.tar.gz",
@@ -6352,6 +6355,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODY3NTU0MQ==&mid=2247531951&idx=1&sn=d38e56cde5bc94ad048db0c38651fdc6",
         "title": "中日联谊医院院长被女护士砍头，杀人后她从20楼跳下…",
+        "title_eng": "The head of the China-Japan Friendship Hospital was beheaded by a female nurse. After the murder, she jumped off the 20th floor...",
         "nickname": "柏举居士",
         "created_at": "2021-11-16",
         "archive": "gh_c1335a131ff4_2021-11-16_2247531951_8DEGJ2aios.y.tar.gz",
@@ -6367,5 +6371,15 @@
         "archive": "gh_28a27f6c0472_2021-11-15_2247487887_2GXJxC5Nj0.y.tar.gz",
         "censored_date": "2021-11-16 13:42:47",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247513009&idx=1&sn=249765744a0398e4b9ad48c7500d0489",
+        "title": "陈建平被查!",
+        "nickname": "律法帝国",
+        "created_at": "2021-11-14",
+        "archive": "gh_b3c0e9559e02_2021-11-14_2247513009_Sciu4BzLm8.y.tar.gz",
+        "censored_date": "2021-11-16 15:14:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-15 13:32:56"
     }
 ]
