@@ -5674,7 +5674,7 @@
         "archive": "gh_bf54f24b2e87_2021-11-13_2247518801_g0ndJwVEmO.y.tar.gz",
         "censored_date": "2021-11-15 17:14:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-14 21:57:58"
+        "update_date": "2021-11-16 20:38:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247518801&idx=4&sn=6663a1ef6675c7f9c04bba4a8a9694b4",
@@ -6423,15 +6423,28 @@
         "created_at": "2021-11-14",
         "archive": "gh_0af747913cab_2021-11-14_2655633837_695CEVxFAB.y.tar.gz",
         "censored_date": "2021-11-16 18:07:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-16 19:48:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDM4ODE4Nw==&mid=2652628601&idx=4&sn=2ab25a8634124e381125c656352f97a1",
         "title": "好消息！东林寺白塔预计本月底换新颜",
+        "title_eng": "good news! The white pagoda of Donglin Temple is expected to have a new look at the end of this month",
         "nickname": "万盛发布",
         "created_at": "2021-11-16",
         "archive": "gh_27c8a36e2fd9_2021-11-16_2652628601_kBNepFMl1d.y.tar.gz",
         "censored_date": "2021-11-16 19:17:33",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyODk2OTAyNQ==&mid=2247504635&idx=5&sn=a2c06a0c8efe08fd8781df871f0b0569",
+        "title": "广州保安持刀捅死奔驰车主更多细节！嫌疑人怒喊：开奔驰了不起？",
+        "title_eng": "Guangzhou security guard stabbed Mercedes-Benz owner with a knife. More details! The suspect shouted angrily: Driving a Mercedes is great?",
+        "nickname": "勿忘忧草",
+        "created_at": "2021-11-15",
+        "archive": "gh_03060036aee6_2021-11-15_2247504635_z50Ju9rc2s.y.tar.gz",
+        "censored_date": "2021-11-16 19:45:21",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-11-15 18:32:33"
     }
 ]
