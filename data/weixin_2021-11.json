@@ -7335,7 +7335,7 @@
         "archive": "gh_a9e59d63f206_2021-11-19_2676407762_FRJGYM5gTf.y.tar.gz",
         "censored_date": "2021-11-20 00:52:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-20 23:18:29"
+        "update_date": "2021-11-21 20:03:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNzc5ODc5NA==&mid=2247640087&idx=2&sn=1dc0b33a1ed62c9cdfca90621b347028",
@@ -7488,7 +7488,7 @@
         "archive": "gh_3ed9f9ebf0d3_2021-11-19_2650011914_1saUMXuLvw.y.tar.gz",
         "censored_date": "2021-11-20 22:22:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-19 23:19:19"
+        "update_date": "2021-11-21 19:32:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzEyODI4OQ==&mid=2651289451&idx=2&sn=4fe18a07a8fab89625f9dd524f16872e",
@@ -7509,7 +7509,8 @@
         "created_at": "2021-11-19",
         "archive": "gh_8517501d42e7_2021-11-19_2247506611_MNOLXzKyfm.y.tar.gz",
         "censored_date": "2021-11-20 22:41:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-21 20:09:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655634021&idx=1&sn=53c1a5311ee7da83d018ddd7c6683c6c",
@@ -7803,5 +7804,14 @@
         "censored_date": "2021-11-21 17:13:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-20 21:20:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660471509&idx=2&sn=7289ca615a4fbc8fc053bf5482d02318",
+        "title": "同频小圈子，授人以渔",
+        "nickname": "重要的是经济",
+        "created_at": "2021-11-20",
+        "archive": "gh_1137e6936d9f_2021-11-20_2660471509_CvhWe6l0YO.y.tar.gz",
+        "censored_date": "2021-11-21 20:35:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
