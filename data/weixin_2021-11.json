@@ -7980,6 +7980,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653676549&idx=4&sn=2d346d6157e26a5a11c8ab759d175e16",
         "title": "健康，显大，不到20块钱，哪个男人不喜欢？",
+        "title_eng": "Healthy, big, less than 20 yuan, which man doesn't like it?",
         "nickname": "电影工厂",
         "created_at": "2021-11-18",
         "archive": "gh_e3cf7cb85f44_2021-11-18_2653676549_kpg1owBVWO.y.tar.gz",
@@ -7990,6 +7991,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDE2MjgxNQ==&mid=2657924922&idx=6&sn=f5ca4413c9709bca9c118a0b7b3c674b",
         "title": "逼着西方国家做好战争准备？俄军下定决心：72小时内摧毁乌克兰",
+        "title_eng": "Forcing Western countries to prepare for war? The Russian army is determined: to destroy Ukraine within 72 hours",
         "nickname": "国际日爆",
         "created_at": "2021-11-20",
         "archive": "gh_923adb0b0d19_2021-11-20_2657924922_dqgmF5I3vx.y.tar.gz",
@@ -8000,10 +8002,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDIzNzAzMg==&mid=2650058925&idx=3&sn=061bb4abe17bb6f260fb31232b0078aa",
         "title": "底层人的呐喊",
+        "title_eng": "The cry of the bottom people",
         "nickname": "小彻小悟",
         "created_at": "2021-11-20",
         "archive": "gh_1304b5a2a3e7_2021-11-20_2650058925_woWtzhfnVi.y.tar.gz",
         "censored_date": "2021-11-22 22:15:00",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653231107&idx=1&sn=a6bfa63948c6efb0a3d630791c9cbe3e",
+        "title": "克格勃女间谍“燕子”训练揭秘，看完让人目瞪口呆",
+        "title_eng": "The secret of KGB female spy Swallow training is stunned after reading it",
+        "nickname": "腾飞讲史",
+        "created_at": "2021-11-21",
+        "archive": "gh_8492bb8e8be7_2021-11-21_2653231107_Cl942uGrA6.y.tar.gz",
+        "censored_date": "2021-11-22 23:15:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-21 11:01:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNzIyMTM5Ng==&mid=2652886902&idx=1&sn=cf0e930b6d8c9718f8f846c075fe526c",
+        "title": "突发，再见了 某宝！事关每一个人！",
+        "title_eng": "Suddenly, goodbye, a treasure! It matters to everyone!",
+        "nickname": "第一普法视野",
+        "created_at": "2021-11-22",
+        "archive": "gh_c84e84cd2e79_2021-11-22_2652886902_rEwtcXzH0M.y.tar.gz",
+        "censored_date": "2021-11-22 23:04:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMTc2NDAwMw==&mid=2247493228&idx=1&sn=fc45c8828438cd36d71fe1e295d788bc",
+        "title": "“我爸是李刚”的李启铭：十年后重返社会，现状令人咋舌",
+        "title_eng": "My dad is Li Gang Li Qiming: Returning to society after ten years, the current situation is staggering",
+        "nickname": "57洞见",
+        "created_at": "2021-11-21",
+        "archive": "gh_ee02c2953c0a_2021-11-21_2247493228_VD3Yy2THt0.y.tar.gz",
+        "censored_date": "2021-11-22 23:18:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-21 11:06:19"
     }
 ]
