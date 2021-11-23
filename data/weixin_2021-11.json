@@ -7935,7 +7935,8 @@
         "created_at": "2021-11-21",
         "archive": "gh_46b1ce89978a_2021-11-21_2247525199_4YAGHsOFdv.y.tar.gz",
         "censored_date": "2021-11-22 19:10:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-23 21:10:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247534006&idx=1&sn=5c85d6723cb8b6ab545dcede4e44bee1",
@@ -8266,5 +8267,16 @@
         "censored_date": "2021-11-23 15:35:24",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-23 17:08:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247541324&idx=4&sn=d51004510a2bf6a4ddad46fe82b13c8c",
+        "title": "最高院民一庭：夫妻一方在婚姻关系存续期间以个人名义对外负债，所借款项没有用于夫妻共同生活的，债权人能否要求夫妻双方连带偿还？",
+        "title_eng": "Supreme Court: If a spouse is in debt in his own name during the marriage relationship, and the loan is not used for the married life of the spouse, can the creditor require both spouses to repay it together?",
+        "nickname": "律法读报",
+        "created_at": "2021-11-19",
+        "archive": "gh_cbe49e48bd1e_2021-11-19_2247541324_ihHoBbOG9P.y.tar.gz",
+        "censored_date": "2021-11-23 21:11:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-22 19:33:58"
     }
 ]
