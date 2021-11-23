@@ -7857,7 +7857,8 @@
         "created_at": "2021-11-21",
         "archive": "gh_31b5ffb9617b_2021-11-21_2652735701_cGJHk8rF40.y.tar.gz",
         "censored_date": "2021-11-22 10:14:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-23 10:36:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650498839&idx=2&sn=120db877a57bf93b425b5c58b0f8981c",
@@ -8087,6 +8088,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247541411&idx=4&sn=3be5b52814f3f073924b26b3bffdfea2",
         "title": "最高院民一庭：与公司没有劳动关系的“法律顾问”，是否只要有委托书即可代理该公司参加民事诉讼",
+        "title_eng": "The First Court of the Supreme People's Court: Whether the legal consultant who has no labor relationship with the company can represent the company in civil litigation as long as there is a power of attorney",
         "nickname": "律法读报",
         "created_at": "2021-11-20",
         "archive": "gh_cbe49e48bd1e_2021-11-20_2247541411_85TX4CEbqd.y.tar.gz",
@@ -8096,6 +8098,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247541411&idx=3&sn=b11af554107d87454265cfeb13f4764b",
         "title": "高院: 人社局劳动监察责令公司补缴社保, 错! 你没这权力!",
+        "title_eng": "High Court: The Labor Supervision Bureau of the Human Resources and Social Security Bureau ordered the company to pay back social security, wrong! You don't have this right!",
         "nickname": "律法读报",
         "created_at": "2021-11-20",
         "archive": "gh_cbe49e48bd1e_2021-11-20_2247541411_SPkMaqGeJp.y.tar.gz",
@@ -8105,11 +8108,56 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247536856&idx=1&sn=d708a6d28500c8e186f19079b5b8b432",
         "title": "为什么大人物只喝酱香酒，真相惊人，是谁剥夺了我们的知情权!",
+        "title_eng": "Why do big people only drink sauce-flavored wine? The truth is amazing, who deprived us of our right to know!",
         "nickname": "海外财经",
         "created_at": "2021-11-21",
         "archive": "gh_8f29429f71d7_2021-11-21_2247536856_Wt81bNKAUE.y.tar.gz",
         "censored_date": "2021-11-23 09:07:29",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-22 19:44:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjI4Njg1OQ==&mid=2650508252&idx=1&sn=a3f325b450e0fb4eba4968be09c27315",
+        "title": "司马南引爆：中国商业史上无数永远的痛！",
+        "title_eng": "Sima Nan detonated: countless eternal pains in the history of Chinese business!",
+        "nickname": "王育琨频道",
+        "created_at": "2021-11-22",
+        "archive": "gh_2fbf3b6efb95_2021-11-22_2650508252_YrJmS50x1V.y.tar.gz",
+        "censored_date": "2021-11-23 09:29:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-22 20:09:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODU1MTIyMw==&mid=2247637844&idx=4&sn=3278c0f00dcb264db67bae743c1b24b9",
+        "title": "年薪7万，签个字，赔了1个亿",
+        "title_eng": "An annual salary of 70,000, signed a word, lost 100 million",
+        "nickname": "正商参阅",
+        "created_at": "2021-11-22",
+        "archive": "gh_8e70dd8eb27e_2021-11-22_2247637844_m0LOxk4fp3.y.tar.gz",
+        "censored_date": "2021-11-23 09:31:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-22 20:13:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247529181&idx=1&sn=11ea184ddb1219fc8b825533080ddcf4",
+        "title": "大佛文儿5500万紫光对刷！DZ第5，天佑绝地翻盘！备2000万票狂怼紫光！老毕出圈踩华矩！",
+        "title_eng": "Big Buddha Wener 55 million purple light brush! DZ No. 5, God Bless the Jedi comeback! Prepare 20 million votes crazy purple light! The old man stepped out of the circle and stepped on the Chinese moment!",
+        "nickname": "歪理歪说Y",
+        "created_at": "2021-11-19",
+        "archive": "gh_c316ab540b5d_2021-11-19_2247529181_wXqrW8SxFv.y.tar.gz",
+        "censored_date": "2021-11-23 09:49:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-22 20:34:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwOTIxMTEwMw==&mid=2649922088&idx=1&sn=2fecbeab5d6764d07fb4fb19a8735f83",
+        "title": "全国“拉闸限电”，最贵的冬天即将来临！",
+        "title_eng": "The nation's cutting the switch to limit electricity, the most expensive winter is coming!",
+        "nickname": "律界之家",
+        "created_at": "2021-11-23",
+        "archive": "gh_53f01a164bb6_2021-11-23_2649922088_VUAGxJvns4.y.tar.gz",
+        "censored_date": "2021-11-23 10:29:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-23 08:40:41"
     }
 ]
