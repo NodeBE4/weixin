@@ -8207,7 +8207,8 @@
         "created_at": "2021-11-21",
         "archive": "gh_26762a56c129_2021-11-21_2247490750_yGMblz0V73.y.tar.gz",
         "censored_date": "2021-11-23 10:58:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-24 11:41:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490750&idx=3&sn=c1e25b34fcf54f0218a4bde9b0747d39",
@@ -8484,11 +8485,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3Nzc0MTE0OQ==&mid=2247512310&idx=1&sn=a6e7f85ae62d3bd60ac1960f7db6c065",
         "title": "法律从业者注意了：热水泡脚加点它，三天逼出体内湿气！大肚腩没了，睡眠好了，人也轻松了...",
+        "title_eng": "Legal practitioners pay attention: add some hot water to soak your feet and force moisture out of the body in three days! The belly is gone, sleep is better, and people are relaxed...",
         "nickname": "住建法律",
         "created_at": "2021-11-23",
         "archive": "gh_a3c39f53de01_2021-11-23_2247512310_OhyP0wm5zW.y.tar.gz",
         "censored_date": "2021-11-24 11:05:13",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2021-11-23 12:30:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650197698&idx=3&sn=16ac2820995b655dd946984eb70cd89c",
+        "title": "清华教授：失业，是因为不够努力吗？",
+        "title_eng": "Professor Tsinghua: Is it because of not working hard enough to be unemployed?",
+        "nickname": "经济学博士",
+        "created_at": "2021-11-22",
+        "archive": "gh_e1a04d0a7b17_2021-11-22_2650197698_wQcE7BinL2.y.tar.gz",
+        "censored_date": "2021-11-24 12:23:04",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-23 11:18:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247585789&idx=1&sn=634e672ce1c37b49d18e046c77eefedf",
+        "title": "专家指出：热水泡脚的时候加点它,三天逼出体内湿气,可惜很少人知道!!!",
+        "title_eng": "Experts pointed out: Adding it when you soak your feet in hot water will force moisture out of the body in three days. Unfortunately, few people know it!!!",
+        "nickname": "第一法商",
+        "created_at": "2021-11-23",
+        "archive": "gh_5980b8ba5607_2021-11-23_2247585789_PBpncgYOxS.y.tar.gz",
+        "censored_date": "2021-11-24 11:32:09",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-11-23 08:07:33"
     }
 ]
