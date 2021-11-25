@@ -8535,7 +8535,8 @@
         "created_at": "2021-11-23",
         "archive": "gh_2ffe7c08aaf7_2021-11-23_2247496770_S8Vy4zKlb3.y.tar.gz",
         "censored_date": "2021-11-24 15:26:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-25 15:33:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTY0MDI1MQ==&mid=2247487741&idx=2&sn=3131b7c7c74138d8f0fd9f106ad4b3f9",
@@ -8970,11 +8971,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247677164&idx=2&sn=10b7926d660731e7f4f9e850b554c251",
         "title": "想成为心理咨询师？武志红联合21位行业大咖带你入门",
+        "title_eng": "Want to become a counselor? Wu Zhihong and 21 industry big names will lead you to get started",
         "nickname": "武志红",
         "created_at": "2021-11-23",
         "archive": "gh_f99a5327b51a_2021-11-23_2247677164_OjLIkeAUyZ.y.tar.gz",
         "censored_date": "2021-11-25 15:19:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-11-24 14:37:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODIzODM1OA==&mid=2651094495&idx=3&sn=973cd44b6cb6f6397f7f71b26fc322ec",
+        "title": "双德会已任广东省商务厅党组成员、副厅长",
+        "title_eng": "Double Virtue Association has served as a member of the party group and deputy director of the Guangdong Provincial Department of Commerce",
+        "nickname": "南方杂志",
+        "created_at": "2021-11-25",
+        "archive": "gh_586f6633228e_2021-11-25_2651094495_jtAwBi47n3.y.tar.gz",
+        "censored_date": "2021-11-25 16:27:07",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
