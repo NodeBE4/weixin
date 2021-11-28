@@ -9686,6 +9686,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NjU0NDU1OA==&mid=2247639712&idx=2&sn=25bd695bfc14ab85dcb07f780e3a97d6",
         "title": "特约 | 9年！从默默无闻到登陆央视，他用另一种方式诠释了“佛系”的真正含义！",
+        "title_eng": "Special offer | 9 years! From obscurity to landing on CCTV, he explained the true meaning of Buddha in another way!",
         "nickname": "新三届",
         "created_at": "2021-11-26",
         "archive": "gh_4c1810cb0fcf_2021-11-26_2247639712_aj8o7uwyfq.y.tar.gz",
@@ -9695,6 +9696,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5OTAwNTQxOA==&mid=2649465273&idx=1&sn=40907c1e1db5c3b245295be109f6297b",
         "title": "最新通报：核酸检测均为阴性！从容面对、温暖互助、精准施策，这就是直面疫情遭遇战的杭州态度 | 直击河滨之城封闭31小时",
+        "title_eng": "Latest announcement: Nucleic acid tests are all negative! Facing calmly, helping each other with warmth, and implementing precise policies, this is the attitude of Hangzhou to face the epidemic.",
         "nickname": "都市快报",
         "created_at": "2021-11-27",
         "archive": "gh_81317948cf92_2021-11-27_2649465273_I5XuhF1Toa.y.tar.gz",
@@ -9705,6 +9707,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649834882&idx=1&sn=425fc76e5120c6b0e60639295d6fbf2b",
         "title": "再见了，某台！",
+        "title_eng": "Goodbye, some station!",
         "nickname": "华哥读报",
         "created_at": "2021-11-27",
         "archive": "gh_7a402e27f818_2021-11-27_2649834882_YeTvNCFd0E.y.tar.gz",
@@ -9715,6 +9718,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTE5MzQzMA==&mid=2656113941&idx=2&sn=f43acc9c142a60f87afb2303f2f8c40a",
         "title": "双喜临门！武大靖500米夺冠，任子威1500米金牌",
+        "title_eng": "Double happiness is coming! Wu Dajing won the 500 meters, Ren Ziwei 1500 meters gold medal",
         "nickname": "共青团中央",
         "created_at": "2021-11-28",
         "archive": "gh_9cda6ee40e37_2021-11-28_2656113941_GE5yp9xSrA.y.tar.gz",
@@ -9724,10 +9728,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NjU0NDU1OA==&mid=2247640054&idx=1&sn=8e9bfebf7b9be51ddb6058c45d778f14",
         "title": "昔年丨陆伟国：一个初中生的大跃进岁月",
+        "title_eng": "Past Years丨Lu Weiguo: A Great Leap Forward Years for Junior High School Students",
         "nickname": "新三届",
         "created_at": "2021-11-27",
         "archive": "gh_4c1810cb0fcf_2021-11-27_2247640054_JnXqOxLAvm.y.tar.gz",
         "censored_date": "2021-11-28 18:01:04",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNzIyMTM5Ng==&mid=2652887343&idx=1&sn=42c13522a1c861645792d0a16cde454f",
+        "title": "突发，最新消息，事关每一个人请悉知！！！",
+        "nickname": "第一普法视野",
+        "created_at": "2021-11-27",
+        "archive": "gh_c84e84cd2e79_2021-11-27_2652887343_8VioKf2tmq.y.tar.gz",
+        "censored_date": "2021-11-28 19:14:57",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-27 11:21:56"
     }
 ]
