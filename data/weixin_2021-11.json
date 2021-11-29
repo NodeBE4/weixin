@@ -9815,7 +9815,7 @@
         "archive": "gh_2f60bdf18ae9_2021-11-28_2650121557_eBZDz8Ska2.y.tar.gz",
         "censored_date": "2021-11-28 23:44:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-29 18:28:53"
+        "update_date": "2021-11-30 06:12:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMDk5NjcxNg==&mid=2247496931&idx=1&sn=902c0213dd8da98e904158ffb893770a",
@@ -9912,7 +9912,7 @@
         "archive": "gh_77c41e0fad7f_2021-11-28_2659273296_1I8OjlQEyb.y.tar.gz",
         "censored_date": "2021-11-29 18:38:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-11-29 00:58:02"
+        "update_date": "2021-11-30 06:21:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247510353&idx=1&sn=6a674243c840ce39181d2aee9a7c19a2",
@@ -9922,7 +9922,8 @@
         "created_at": "2021-11-27",
         "archive": "gh_69f7ba479665_2021-11-27_2247510353_Mr19imjHxA.y.tar.gz",
         "censored_date": "2021-11-29 18:47:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-11-30 06:28:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652034576&idx=2&sn=8ae5aa148f17a84baae8097e96a8e96c",
@@ -10098,6 +10099,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926752788&idx=2&sn=52b71cf96f82d4cd83b0ee3b940bd05e",
         "title": "闭环管理期间，上海的医院如何运行的？",
+        "title_eng": "During the closed-loop management period, how did Shanghai's hospitals operate?",
         "nickname": "医学界",
         "created_at": "2021-11-27",
         "archive": "gh_9352cb95ad49_2021-11-27_2926752788_8ZR39VfBdQ.y.tar.gz",
