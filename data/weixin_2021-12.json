@@ -1533,6 +1533,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDk0OTczNw==&mid=2247521752&idx=2&sn=9cdd48799202dc1b61a467b4078c0d4d",
         "title": "国家正式通知！低学历恭喜了！每人补贴6000元，限本科以下学历，政策扶持，名额有限，速看！",
+        "title_eng": "Officially notified by the country! Congratulations on low education! A subsidy of 6000 yuan per person, limited to a bachelor degree or below, policy support, limited places, quick look!",
         "nickname": "法官读库",
         "created_at": "2021-12-01",
         "archive": "gh_ec022d1e140c_2021-12-01_2247521752_H0f46AVpgO.y.tar.gz",
@@ -1542,10 +1543,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMDEyODA4Nw==&mid=2651279491&idx=1&sn=10e0f03e7f5438b0c184b29ef176f56a",
         "title": "长期抽烟又坚持喝茶的人，最后身体都怎么样了？医生给出了答复",
+        "title_eng": "What happens to people who have been smoking for a long time and drinking tea? The doctor gave an answer",
         "nickname": "占豪说天下",
         "created_at": "2021-12-01",
         "archive": "gh_85d589687ef6_2021-12-01_2651279491_rjntZw8UgM.y.tar.gz",
         "censored_date": "2021-12-02 16:56:55",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247526024&idx=2&sn=645eb88c390d482e6467f957a356a951",
+        "title": "年末福利！本科可报！免试入学在职研究生扩招100人！适合体制内上班族！4日截止！",
+        "title_eng": "Year-end benefits! Undergraduate can be reported! Enrollment exempted from exams, enrolling 100 people for in-service graduate students! Suitable for office workers in the system! Deadline on the 4th!",
+        "nickname": "法学小讲",
+        "created_at": "2021-12-01",
+        "archive": "gh_46b1ce89978a_2021-12-01_2247526024_G6iyq9vcle.y.tar.gz",
+        "censored_date": "2021-12-02 18:26:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjc0MjkzNQ==&mid=2247546348&idx=1&sn=c28467710ce5291dbac1b7b3cad989ad",
+        "title": "缅甸内乱，疫情蔓延，翡翠正式进入矿主购买方式！",
+        "nickname": "起点人文plus",
+        "created_at": "2021-11-30",
+        "archive": "gh_afb7e3bcbae3_2021-11-30_2247546348_JU96VIXzG0.y.tar.gz",
+        "censored_date": "2021-12-02 18:30:19",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
