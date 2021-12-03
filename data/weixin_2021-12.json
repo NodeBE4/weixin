@@ -1519,7 +1519,8 @@
         "created_at": "2021-12-02",
         "archive": "gh_815abce96255_2021-12-02_2247488159_T0o9KhVP2C.y.tar.gz",
         "censored_date": "2021-12-02 14:50:49",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-03 11:32:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODk2ODE0Mw==&mid=2247549020&idx=1&sn=560c2708960640a3769dc230e4455a11",
@@ -1529,7 +1530,8 @@
         "created_at": "2021-12-02",
         "archive": "gh_db3c2486e7de_2021-12-02_2247549020_xMV0UD54mG.y.tar.gz",
         "censored_date": "2021-12-02 15:13:10",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-03 11:32:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDk0OTczNw==&mid=2247521752&idx=2&sn=9cdd48799202dc1b61a467b4078c0d4d",
@@ -1644,6 +1646,33 @@
         "created_at": "2021-12-02",
         "archive": "gh_46fa18dba691_2021-12-02_2247498831_rmTxABpcte.y.tar.gz",
         "censored_date": "2021-12-03 10:20:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247498831&idx=3&sn=0e50b2328998070a397e44209728f7f5",
+        "title": "打听同事工资，我被离职了",
+        "nickname": "创投新风向",
+        "created_at": "2021-12-02",
+        "archive": "gh_46fa18dba691_2021-12-02_2247498831_dOvPpjt8oY.y.tar.gz",
+        "censored_date": "2021-12-03 12:37:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247498831&idx=1&sn=a2e2d2386bf2faaee2777a4d7f9c3187",
+        "title": "“结婚5年，老公曾与6个老同学偷情”：他的网购记录暴露了出轨真相…",
+        "nickname": "创投新风向",
+        "created_at": "2021-12-02",
+        "archive": "gh_46fa18dba691_2021-12-02_2247498831_qe3GY8wUHW.y.tar.gz",
+        "censored_date": "2021-12-03 12:37:03",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247498831&idx=2&sn=2e71b466f51142b3ec432960ab158991",
+        "title": "中国未来三年下一个暴利风口，将造就大批千万富翁，很多人不知道！",
+        "nickname": "创投新风向",
+        "created_at": "2021-12-02",
+        "archive": "gh_46fa18dba691_2021-12-02_2247498831_xTIniFd9Sh.y.tar.gz",
+        "censored_date": "2021-12-03 12:38:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
