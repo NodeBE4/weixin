@@ -1682,7 +1682,8 @@
         "created_at": "2021-12-02",
         "archive": "gh_46fa18dba691_2021-12-02_2247498831_xTIniFd9Sh.y.tar.gz",
         "censored_date": "2021-12-03 12:38:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-04 18:19:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652034637&idx=3&sn=fc730ca5edf1ff83beb001131d67e310",
@@ -2066,5 +2067,15 @@
         "archive": "gh_69f7ba479665_2021-12-02_2247510512_PaEBlg05dy.y.tar.gz",
         "censored_date": "2021-12-04 16:36:27",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650514967&idx=1&sn=1a18f50adcbabfe9336ff4f033fac779",
+        "title": "突发！滴滴宣布在纽交所退市，下一步如何走？",
+        "title_eng": "Burst! Didi announced its delisting from the New York Stock Exchange, what's the next step?",
+        "nickname": "中国企业家杂志",
+        "created_at": "2021-12-03",
+        "archive": "wxid_3544675449412_2021-12-03_2650514967_vUZVikAHjS.y.tar.gz",
+        "censored_date": "2021-12-04 18:17:23",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
