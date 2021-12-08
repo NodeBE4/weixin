@@ -2764,7 +2764,8 @@
         "created_at": "2021-12-06",
         "archive": "gh_ae36af7e44bd_2021-12-06_2247610430_3PZiANy9wc.y.tar.gz",
         "censored_date": "2021-12-07 11:20:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-08 11:47:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDM3MDI1OQ==&mid=2652802180&idx=1&sn=4bc07cb434fceabdaa1dd90fff2c17b7",
@@ -2957,5 +2958,14 @@
         "archive": "gh_7c1e674cacab_2021-12-07_2650969608_W0syjkaClV.y.tar.gz",
         "censored_date": "2021-12-08 08:56:44",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MDA2MTc3MA==&mid=2647710797&idx=2&sn=42ec442e3a2219bfac1f396a89fc26a9",
+        "title": "90%的人都有这个致命的弱点！不克服它，人生就难得圆满……",
+        "nickname": "北游独立评论",
+        "created_at": "2021-12-08",
+        "archive": "gh_ecf04b6af469_2021-12-08_2647710797_iZFjVtcWY8.y.tar.gz",
+        "censored_date": "2021-12-08 12:35:56",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
