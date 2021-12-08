@@ -3121,6 +3121,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247507057&idx=8&sn=a35d36c30204d9f4b6596ee53c53ed6b",
         "title": "吃虫草的人，比不吃虫草的人多了3个好处，快告知家人",
+        "title_eng": "People who eat Cordyceps have 3 more benefits than those who do not eat Cordyceps. Tell your family quickly",
         "nickname": "中西ABC",
         "created_at": "2021-12-06",
         "archive": "gh_fc276be154e5_2021-12-06_2247507057_w43M7FkBbQ.y.tar.gz",
@@ -3170,6 +3171,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247507057&idx=1&sn=bf4163c4a999abe9cad53f6bac335bc3",
         "title": "罪犯对法官说：判得太轻了，你再好好审审……",
+        "title_eng": "The offender said to the judge: The sentence was too light. No matter how hard you try...",
         "nickname": "中西ABC",
         "created_at": "2021-12-06",
         "archive": "gh_fc276be154e5_2021-12-06_2247507057_B5EiW2aRoF.y.tar.gz",
@@ -3179,6 +3181,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247507057&idx=2&sn=377b0bdab617c151b3bda6f6b150f9a1",
         "title": "泡沫破裂后你就买得起房了吗？看看日本地产泡沫破裂后的平民生活",
+        "title_eng": "Can you afford a house after the bubble burst? Look at the civilian life after the Japanese real estate bubble burst",
         "nickname": "中西ABC",
         "created_at": "2021-12-06",
         "archive": "gh_fc276be154e5_2021-12-06_2247507057_Kz3oGiCgrd.y.tar.gz",
@@ -3204,5 +3207,23 @@
         "archive": "gh_5e008ceefb25_2021-12-06_2247530892_DpPOFU5BC3.y.tar.gz",
         "censored_date": "2021-12-09 03:52:44",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247535180&idx=2&sn=314d88886ce9e51726b3d6b6370cc1f0",
+        "title": "为什么不集采让大家都能买上保时捷？",
+        "nickname": "医业观察",
+        "created_at": "2021-12-05",
+        "archive": "gh_9cb7cdc6525f_2021-12-05_2247535180_eNivHpoBKC.y.tar.gz",
+        "censored_date": "2021-12-09 05:08:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5MDMyMjQyMg==&mid=2247525910&idx=1&sn=02df796b2c5e5796df8e19fbca75ddf3",
+        "title": "恒大危机发酵，谁来收拾残局？",
+        "nickname": "思想潮",
+        "created_at": "2021-12-06",
+        "archive": "gh_9b8226d6167e_2021-12-06_2247525910_WMycGkavHi.y.tar.gz",
+        "censored_date": "2021-12-09 04:59:49",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
