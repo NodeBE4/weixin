@@ -3063,7 +3063,8 @@
         "created_at": "2021-12-06",
         "archive": "gh_a40ec5f3ac7a_2021-12-06_2650225249_mU1DNlzQp6.y.tar.gz",
         "censored_date": "2021-12-08 20:05:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-10 02:25:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NjIxNjkxNw==&mid=2247502329&idx=1&sn=c9dbb0ac6f0ad2b80352b903e23a5112",
@@ -3597,6 +3598,16 @@
         "created_at": "2021-12-08",
         "archive": "gh_05006dfaee36_2021-12-08_2247520306_SwoEGXC7rF.y.tar.gz",
         "censored_date": "2021-12-10 01:24:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652383895&idx=3&sn=1b78f4843f2f604247c7728c3902984c",
+        "title": "南宁最高奖励5万！举报非法入境等违法犯罪行为，入口戳这里→",
+        "title_eng": "Nanning's highest reward is 50,000! To report illegal entry and other criminal acts, click here for the entrance →",
+        "nickname": "广西新闻频道",
+        "created_at": "2021-12-09",
+        "archive": "gh_002f84048bd4_2021-12-09_2652383895_BT0vQ0cO6H.y.tar.gz",
+        "censored_date": "2021-12-10 01:38:00",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
