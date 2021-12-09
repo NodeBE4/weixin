@@ -2975,7 +2975,8 @@
         "created_at": "2021-12-08",
         "archive": "gh_ecf04b6af469_2021-12-08_2647710797_iZFjVtcWY8.y.tar.gz",
         "censored_date": "2021-12-08 12:35:56",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-09 19:34:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650123162&idx=1&sn=49ade68f4e50da856e25864532f1d8f1",
@@ -2985,7 +2986,8 @@
         "created_at": "2021-12-07",
         "archive": "gh_45220e40f13c_2021-12-07_2650123162_NoCUhl6yS7.y.tar.gz",
         "censored_date": "2021-12-08 14:46:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-09 20:18:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1OTM5OTY0Mw==&mid=2247513663&idx=2&sn=bc951fc28e0e96d83224ab11291601b4",
@@ -3450,5 +3452,43 @@
         "archive": "gh_8f29429f71d7_2021-12-08_2247537757_wOD0H3PrmB.y.tar.gz",
         "censored_date": "2021-12-09 17:57:08",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652156185&idx=3&sn=8f10b5fb363375224c9f066293f83e0f",
+        "title": "快手被曝裁员30%，传国际业务已开始！大厂过冬「南上南」",
+        "title_eng": "Kuaishou has been exposed to layoffs of 30%, and it is said that international business has begun! Dachang spends the winter south to south",
+        "nickname": "新智元",
+        "created_at": "2021-12-07",
+        "archive": "gh_108f2a2a27f4_2021-12-07_2652156185_HI9WswOkSg.y.tar.gz",
+        "censored_date": "2021-12-09 19:30:46",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650124147&idx=4&sn=6cb782df31e5977a5313f3325c3a4ed7",
+        "title": "下线的QQ农场竟然搬到微信来了？！",
+        "nickname": "吐槽星君",
+        "created_at": "2021-12-08",
+        "archive": "gh_45220e40f13c_2021-12-08_2650124147_6qgU5NZPJR.y.tar.gz",
+        "censored_date": "2021-12-09 20:30:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247526423&idx=2&sn=dc2641ae39eff28ac478f7faa12a3230",
+        "title": "小红书被曝推送未成年人身体隐私短视频！",
+        "title_eng": "Xiaohongshu was exposed to push short videos of minors' body privacy!",
+        "nickname": "法学小讲",
+        "created_at": "2021-12-07",
+        "archive": "gh_46b1ce89978a_2021-12-07_2247526423_j0LG4qfOEW.y.tar.gz",
+        "censored_date": "2021-12-09 19:43:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwOTIxMTEwMw==&mid=2649923389&idx=1&sn=9063199e540257a4356bf63d51c50aca",
+        "title": "15年劳动法律师忠告：没有这项能力，你别想拿高薪！",
+        "nickname": "律界之家",
+        "created_at": "2021-12-06",
+        "archive": "gh_53f01a164bb6_2021-12-06_2649923389_CvPWLMUEkn.y.tar.gz",
+        "censored_date": "2021-12-09 20:40:24",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
