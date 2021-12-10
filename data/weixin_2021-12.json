@@ -3411,7 +3411,8 @@
         "created_at": "2021-12-08",
         "archive": "gh_002f84048bd4_2021-12-08_2652383628_E3NpVMsIxa.y.tar.gz",
         "censored_date": "2021-12-09 15:29:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-10 22:07:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652383760&idx=1&sn=48a937eb3d832b785e19a32297264d09",
@@ -3963,6 +3964,42 @@
         "created_at": "2021-12-09",
         "archive": "gh_2ffe7c08aaf7_2021-12-09_2247497179_4nxlSKWb7E.y.tar.gz",
         "censored_date": "2021-12-10 19:40:55",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650160716&idx=3&sn=ff2ca3efc4dcfb640755ed54696e13d2",
+        "title": "马克思主义中国化的百年历程及其历史经验",
+        "nickname": "中国社会科学网",
+        "created_at": "2021-12-09",
+        "archive": "gh_60e26bf6d108_2021-12-09_2650160716_o92W0qZfhC.y.tar.gz",
+        "censored_date": "2021-12-10 21:51:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650160716&idx=4&sn=049bc0bba40cd90641dc91cc487d48f2",
+        "title": "文化建设与未来创新发展",
+        "nickname": "中国社会科学网",
+        "created_at": "2021-12-09",
+        "archive": "gh_60e26bf6d108_2021-12-09_2650160716_97ERlWbnPH.y.tar.gz",
+        "censored_date": "2021-12-10 21:50:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650160716&idx=1&sn=9fe08cbd7fd624d258d9b0702d20ca25",
+        "title": "百年大党的豪迈宣言",
+        "nickname": "中国社会科学网",
+        "created_at": "2021-12-09",
+        "archive": "gh_60e26bf6d108_2021-12-09_2650160716_1d8yFJvDYU.y.tar.gz",
+        "censored_date": "2021-12-10 21:51:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650124573&idx=4&sn=323335c6638b640727df093cf117cc3b",
+        "title": "从 145 斤到 95 斤，这种减肥方法比跑步还有效！",
+        "nickname": "吐槽星君",
+        "created_at": "2021-12-09",
+        "archive": "gh_45220e40f13c_2021-12-09_2650124573_jWn0NhAy4d.y.tar.gz",
+        "censored_date": "2021-12-10 22:21:04",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
