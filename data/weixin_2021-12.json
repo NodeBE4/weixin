@@ -4986,7 +4986,8 @@
         "created_at": "2021-12-13",
         "archive": "gh_df94c5c63559_2021-12-13_2247522780_JsZEQmSMog.y.tar.gz",
         "censored_date": "2021-12-13 23:06:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-14 23:03:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247499364&idx=2&sn=e7b7e28c3d4e7a2ba10a2e3d4f38e9c9",
@@ -5251,6 +5252,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496497&idx=3&sn=d5cbe470e569b69a405e60c10ea9ed97",
         "title": "数万人在B站沉迷虚拟角色，做着月入10万的梦",
+        "title_eng": "Tens of thousands of people indulge in virtual characters at station B, dreaming of a monthly income of 100,000",
         "nickname": "首富商圈",
         "created_at": "2021-12-12",
         "archive": "gh_c7f9947afc98_2021-12-12_2247496497_TbLOKFkuoE.y.tar.gz",
@@ -5260,6 +5262,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496497&idx=4&sn=e69b7af2c57cab59931b0481d46266cf",
         "title": "什么样的翡翠原石适合长期收藏传家?看完这篇文章你就全了解了",
+        "title_eng": "What kind of rough jadeite is suitable for long-term collectors? You will know everything after reading this article",
         "nickname": "首富商圈",
         "created_at": "2021-12-12",
         "archive": "gh_c7f9947afc98_2021-12-12_2247496497_AbIn1sGzCN.y.tar.gz",
@@ -5269,6 +5272,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247499249&idx=2&sn=33e037adc09457cf795b5c2297c8847d",
         "title": "定了！招200名中医爱好者学养生，不限年龄学历，有意者进！",
+        "title_eng": "deal! Recruit 200 Chinese medicine enthusiasts to learn health preservation, regardless of age and education, and those who are interested in it!",
         "nickname": "创投新风向",
         "created_at": "2021-12-12",
         "archive": "gh_46fa18dba691_2021-12-12_2247499249_9vLu2PQwUK.y.tar.gz",
@@ -5278,6 +5282,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496497&idx=1&sn=a4b0e81428370cbf2f1dba410fda1d40",
         "title": "女网红找洋人借精生子，网友炸了...",
+        "title_eng": "Female Internet celebrities find foreigners to borrow sperm to have children, and netizens blow up...",
         "nickname": "首富商圈",
         "created_at": "2021-12-12",
         "archive": "gh_c7f9947afc98_2021-12-12_2247496497_rylEz0HpYi.y.tar.gz",
@@ -5287,6 +5292,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496497&idx=2&sn=189dc015c1423c4a68a228f8788bbaf2",
         "title": "定了！招200名中医爱好者学养生，不限年龄学历，有意者进！",
+        "title_eng": "deal! Recruit 200 Chinese medicine enthusiasts to learn health preservation, regardless of age and education, and those who are interested in it!",
         "nickname": "首富商圈",
         "created_at": "2021-12-12",
         "archive": "gh_c7f9947afc98_2021-12-12_2247496497_Z0GHvgkXPW.y.tar.gz",
@@ -5296,6 +5302,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247499249&idx=4&sn=cecd35c63d1c1565807dba8b0d7cf603",
         "title": "什么样的翡翠原石适合长期收藏传家?看完这篇文章你就全了解了",
+        "title_eng": "What kind of rough jadeite is suitable for long-term collectors? You will know everything after reading this article",
         "nickname": "创投新风向",
         "created_at": "2021-12-12",
         "archive": "gh_46fa18dba691_2021-12-12_2247499249_5fC9wXhlIJ.y.tar.gz",
@@ -5305,6 +5312,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjA3NDQ5Mjc0MQ==&mid=2652640197&idx=1&sn=0b40365b9a2426b311ee10b6e21cc7bf",
         "title": "看见交警不在出租车就疯狂占位等客，广西区医院门口太难停车了！交警：整治！【930新闻眼】",
+        "title_eng": "Seeing that the traffic police were not in the taxi, they would madly occupy their seats and wait for passengers. It was too difficult to park at the entrance of the Guangxi District Hospital! Traffic police: rectify! 【930 News Eye】",
         "nickname": "930老友记",
         "created_at": "2021-12-14",
         "archive": "wxid_1982209821011_2021-12-14_2652640197_MR7NIukZiL.y.tar.gz",
@@ -5314,10 +5322,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520322&idx=2&sn=b95c624ee1a17245e339232b7915eab6",
         "title": "你的内裤该换了！日本女人都穿它，肚子平了，腰也细了，舒适一整天",
+        "title_eng": "It's time to change your underwear! Japanese women wear it. The belly is flat and the waist is thin. It is comfortable all day long.",
         "nickname": "莫问大叔",
         "created_at": "2021-12-12",
         "archive": "gh_05006dfaee36_2021-12-12_2247520322_BdmiKlsbf6.y.tar.gz",
         "censored_date": "2021-12-14 22:19:19",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2652988446&idx=4&sn=c3e4a92049598c776086185fa5cedb83",
+        "title": "新疆公布多段暴恐案视频，多数画面首次披露！暴徒连孕妇都不放过，甚至砍杀同伙",
+        "title_eng": "Xinjiang has released multiple videos of violent terrorism cases, most of which were revealed for the first time! The thugs didn’t even let the pregnant women go, and even hacked and killed their accomplices.",
+        "nickname": "耒阳社区",
+        "created_at": "2021-12-14",
+        "archive": "gh_40f2418747aa_2021-12-14_2652988446_W1SswNZd5p.y.tar.gz",
+        "censored_date": "2021-12-14 23:17:22",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
