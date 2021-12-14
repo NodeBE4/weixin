@@ -4943,7 +4943,8 @@
         "created_at": "2021-12-12",
         "archive": "gh_8bdde197864b_2021-12-12_2650758925_uOk4hKnzDq.y.tar.gz",
         "censored_date": "2021-12-13 16:44:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-15 01:15:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496492&idx=4&sn=de43129aaaf087d83af87e906e82435a",
@@ -5358,5 +5359,15 @@
         "archive": "gh_c84e84cd2e79_2021-12-14_2652888407_iOPBTLypQM.y.tar.gz",
         "censored_date": "2021-12-14 23:56:14",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MDI4MjY4MA==&mid=2247492704&idx=2&sn=5e6ff413f602d1c05a7172eaf20032fd",
+        "title": "富士康要走了，80万员工该怎么办？",
+        "title_eng": "Foxconn is leaving, what should the 800,000 employees do?",
+        "nickname": "洞见环球",
+        "created_at": "2021-12-11",
+        "archive": "gh_303ec1b5ec96_2021-12-11_2247492704_Kgiz74w3RZ.y.tar.gz",
+        "censored_date": "2021-12-15 01:09:46",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
