@@ -6170,7 +6170,8 @@
         "created_at": "2021-12-16",
         "archive": "gh_5e008ceefb25_2021-12-16_2247531156_V4ChGMRpdS.y.tar.gz",
         "censored_date": "2021-12-17 19:23:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-19 06:05:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651349943&idx=3&sn=a892d6238e4caa657352b348c016ba20",
@@ -6180,7 +6181,8 @@
         "created_at": "2021-12-16",
         "archive": "gh_a0b79e79b274_2021-12-16_2651349943_IqsLjFl7vn.y.tar.gz",
         "censored_date": "2021-12-17 18:43:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-19 06:07:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&mid=2650978864&idx=1&sn=244899612513494573cd426834f6039e",
@@ -6634,10 +6636,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAxMjM4MA==&mid=2652350864&idx=3&sn=b1e36cd95d0c25baf92670425eea4213",
         "title": "卧槽！微信头像可以戴圣诞帽了！",
+        "title_eng": "Damn it! WeChat avatars can wear Christmas hats!",
         "nickname": "暴走漫画",
         "created_at": "2021-12-17",
         "archive": "gh_8684153de4e9_2021-12-17_2652350864_hKaDlU74bz.y.tar.gz",
         "censored_date": "2021-12-19 05:24:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-19 05:29:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTU0OTgwMA==&mid=2247495976&idx=1&sn=8f1305f395e86df1f2ded12b74562dc3",
+        "title": "网曝：中建四局六分局人员宁可倒掉饭菜也不给讨薪农民工吃！",
+        "title_eng": "Net exposure: The personnel of the Sixth Sub-bureau of the Fourth Bureau of China Construction would rather throw out the food than give the migrant workers who asked for wages to eat!",
+        "nickname": "独眼辣评",
+        "created_at": "2021-12-16",
+        "archive": "gh_0e52cf0e55c4_2021-12-16_2247495976_D09Na0ngOH.y.tar.gz",
+        "censored_date": "2021-12-19 06:06:58",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
