@@ -6671,7 +6671,8 @@
         "created_at": "2021-12-16",
         "archive": "gh_f85d25e406e2_2021-12-16_2664333211_v6qOZtH453.y.tar.gz",
         "censored_date": "2021-12-19 06:28:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-20 12:34:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247499442&idx=4&sn=64c6e43630e754ede01c060d2370b8a4",
@@ -6958,6 +6959,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649839517&idx=1&sn=f31c68f9d729cb1c6fdfebf4ae6aeb79",
         "title": "刚刚！国内发生了一件意味深长的大事！或将影响很多人！",
+        "title_eng": "just! A significant event happened in China! Or it will affect many people!",
         "nickname": "华哥读报",
         "created_at": "2021-12-19",
         "archive": "gh_7a402e27f818_2021-12-19_2649839517_0pM7whGxVt.y.tar.gz",
@@ -6987,6 +6989,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650857383&idx=2&sn=f731c7c14eac5feb7a37d0c1ad575ab2",
         "title": "自己读懂《易经》~受用一生的改运指南！求人不如求己！",
+        "title_eng": "Read the Book of Changes by yourself~ a lifelong guide to improving luck! It's better to ask for yourself!",
         "nickname": "荣茂读报",
         "created_at": "2021-12-19",
         "archive": "gh_11d6ef0dd9d4_2021-12-19_2650857383_OjXCPiw7cs.y.tar.gz",
@@ -6996,6 +6999,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650200485&idx=2&sn=3ef0e4ddca75a2f9a3d794ec01c6084f",
         "title": "坐拥百亿家产被判死刑！老婆为救他求助大佬仍无济于事",
+        "title_eng": "Sentenced to death for holding tens of billions of property! His wife asked the boss for help to save him, but it didn't help.",
         "nickname": "经济学博士",
         "created_at": "2021-12-19",
         "archive": "gh_e1a04d0a7b17_2021-12-19_2650200485_4VmWrnpLqo.y.tar.gz",
@@ -7005,10 +7009,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzMwODAzMw==&mid=2650697852&idx=1&sn=6d47dae280ff907bd87e1925271b74cb",
         "title": "澳洲重启国门丨最后14天！全球排名头部大学2022年免高考入学机会",
+        "title_eng": "Australia restarts the country丨The last 14 days! Globally ranked top universities for admission opportunities without the college entrance examination in 2022",
         "nickname": "易居海外房产",
         "created_at": "2021-12-17",
         "archive": "gh_8f16c463efc8_2021-12-17_2650697852_MqBxyCwD0Q.y.tar.gz",
         "censored_date": "2021-12-20 11:27:28",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664333289&idx=3&sn=63d022d5b7914092305a56b0d97ed44f",
+        "title": "限量绝版刊还剩40套 | 文化纵横联订8折优惠",
+        "nickname": "文化纵横",
+        "created_at": "2021-12-17",
+        "archive": "gh_f85d25e406e2_2021-12-17_2664333289_UaoI0vzTD3.y.tar.gz",
+        "censored_date": "2021-12-20 12:33:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653232287&idx=1&sn=2204f0af6d116b847dd8c46e9e781064",
+        "title": "李天一“轮奸案”细节水落石出，真相原来如此？",
+        "title_eng": "The details of Li Tianyi's gang rape case have come to light, so is the truth?",
+        "nickname": "腾飞讲史",
+        "created_at": "2021-12-19",
+        "archive": "gh_8492bb8e8be7_2021-12-19_2653232287_2Z6q3i0kbY.y.tar.gz",
+        "censored_date": "2021-12-20 12:29:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651358079&idx=2&sn=f439e375aff163b994e2e2e7c1206ea3",
+        "title": "复旦教授：这是我见过水平极高的公众号！",
+        "nickname": "精英热门",
+        "created_at": "2021-12-16",
+        "archive": "gh_38623feea9d8_2021-12-16_2651358079_jSQlMF9RUY.y.tar.gz",
+        "censored_date": "2021-12-20 12:38:50",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
