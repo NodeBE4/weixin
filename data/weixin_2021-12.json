@@ -6606,7 +6606,8 @@
         "created_at": "2021-12-17",
         "archive": "gh_ae1101605535_2021-12-17_2247484011_1IEHfLAzDh.y.tar.gz",
         "censored_date": "2021-12-19 01:09:44",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-20 09:26:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520360&idx=2&sn=2e77e698c66e97f9e7edf12e1611b282",
@@ -6637,7 +6638,8 @@
         "created_at": "2021-12-18",
         "archive": "gh_8e14a2cc7d73_2021-12-18_2650778910_Y03hFxguPE.y.tar.gz",
         "censored_date": "2021-12-19 02:32:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-20 07:38:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjAxMjM4MA==&mid=2652350864&idx=3&sn=b1e36cd95d0c25baf92670425eea4213",
@@ -6882,6 +6884,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NTIxMTI5Mg==&mid=2247503905&idx=2&sn=e6d881e52ecee260609216288d436740",
         "title": "2021 年，一个 CEO 在朋友圈的胡思乱想",
+        "title_eng": "In 2021, a CEO's cranky thinking in the circle of friends",
         "nickname": "商鞅谋略",
         "created_at": "2021-12-18",
         "archive": "gh_9126b64dcd97_2021-12-18_2247503905_fYihd8RcXI.y.tar.gz",
@@ -6891,20 +6894,64 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDMxMTkwMg==&mid=2650981813&idx=1&sn=c133c47dfb95726207d6dc8a5dd9700a",
         "title": "王荆公与孤独感",
+        "title_eng": "Wang Jinggong and loneliness",
         "nickname": "云台路记事",
         "created_at": "2021-12-18",
         "archive": "gh_22bc785da9c6_2021-12-18_2650981813_uThaf0GzpQ.y.tar.gz",
         "censored_date": "2021-12-20 07:17:18",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-20 07:47:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NTIxMTI5Mg==&mid=2247503905&idx=1&sn=5b8b26968093fd91e41c4bafdf33dc04",
         "title": "体面退场后，俞敏洪跑去美国教中文，真是商业奇才啊",
+        "title_eng": "After a decent exit, Yu Minhong went to the United States to teach Chinese. He was really a business prodigy.",
         "nickname": "商鞅谋略",
         "created_at": "2021-12-18",
         "archive": "gh_9126b64dcd97_2021-12-18_2247503905_kLQugJP94o.y.tar.gz",
         "censored_date": "2021-12-20 06:51:35",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2021-12-20 07:21:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520364&idx=2&sn=c91fae34a292a2053e1f72260b258c49",
+        "title": "疯了吗？199元买SK-II神仙水套盒？这波降价专柜要哭了……",
+        "title_eng": "are you crazy? Buy SK-II fairy water set for 199 yuan? This wave of price reduction counters is about to cry...",
+        "nickname": "莫问大叔",
+        "created_at": "2021-12-18",
+        "archive": "gh_05006dfaee36_2021-12-18_2247520364_ZjPHnL6UYI.y.tar.gz",
+        "censored_date": "2021-12-20 07:55:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247535591&idx=4&sn=fdd78bec6e0da73ff0f8febf7b687d17",
+        "title": "看 过康生真迹你就知道，他为何看不上郭沫若和齐白石了！​",
+        "title_eng": "After seeing Kang Sheng's original work, you will know why he looks down on Guo Moruo and Qi Baishi!​",
+        "nickname": "遮眼看天",
+        "created_at": "2021-12-15",
+        "archive": "gh_b984621ff266_2021-12-15_2247535591_7d8Ghq5sUD.y.tar.gz",
+        "censored_date": "2021-12-20 08:13:04",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654945641&idx=3&sn=0f88fa21a9c254390a12b428aef10292",
+        "title": "遭重罚7.09亿！SOHO中国：诚恳接受，坚决落实",
+        "title_eng": "Was heavily fined 709 million! SOHO China: Sincerely accept, resolutely implement",
+        "nickname": "观察者网",
+        "created_at": "2021-12-18",
+        "archive": "gh_5c9e0938601d_2021-12-18_2654945641_qhO3c80adR.y.tar.gz",
+        "censored_date": "2021-12-20 07:59:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-20 08:28:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247563325&idx=2&sn=45d0892cb29622c64a6d09f68b0ae3f6",
+        "title": "“等我做律师发财了，就和你离婚！”——年度最励志段子",
+        "title_eng": "When I become a lawyer and get rich, I will divorce you!-The most inspirational joke of the year",
+        "nickname": "律法新声",
+        "created_at": "2021-12-17",
+        "archive": "gh_697523b9eb34_2021-12-17_2247563325_SQTydGKjXW.y.tar.gz",
+        "censored_date": "2021-12-20 08:53:50",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
