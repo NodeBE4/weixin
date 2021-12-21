@@ -7081,7 +7081,8 @@
         "created_at": "2021-12-20",
         "archive": "gh_dc5fb6fdb9c6_2021-12-20_2247600817_vGbaZ0p9Nm.y.tar.gz",
         "censored_date": "2021-12-20 19:24:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-21 23:57:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654946325&idx=8&sn=d2143768b910d1bf2fd86a5b7c2162cb",
@@ -7365,7 +7366,8 @@
         "created_at": "2021-12-21",
         "archive": "gh_a0b79e79b274_2021-12-21_2651350019_yD0mjwgWq1.y.tar.gz",
         "censored_date": "2021-12-21 22:11:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-22 00:33:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MzI2NzU5MQ==&mid=2247497298&idx=1&sn=ceefaaa6dc3b868c8107b2f4f29ad454",
@@ -7376,5 +7378,25 @@
         "archive": "gh_7887fb564d0e_2021-12-20_2247497298_QKom9IUJOp.y.tar.gz",
         "censored_date": "2021-12-21 23:25:42",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664333418&idx=3&sn=51a4080c57de1b70b93894ba9a3cb1f0",
+        "title": "限量绝版刊还剩20套 | 文化纵横联订8折优惠",
+        "title_eng": "20 sets of limited out-of-print editions left",
+        "nickname": "文化纵横",
+        "created_at": "2021-12-20",
+        "archive": "gh_f85d25e406e2_2021-12-20_2664333418_70pL5JwtyZ.y.tar.gz",
+        "censored_date": "2021-12-21 23:41:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MzY2MzgwNA==&mid=2247869064&idx=2&sn=de0144a90690cc45c8e9e0c81948aa9d",
+        "title": "这个喜提热搜的小国，正在被一对夫妻操纵",
+        "title_eng": "This small country that likes to be searched is being manipulated by a couple",
+        "nickname": "世界华人周刊",
+        "created_at": "2021-12-20",
+        "archive": "gh_71044192929a_2021-12-20_2247869064_Qyf9Spwe6N.y.tar.gz",
+        "censored_date": "2021-12-22 00:20:44",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
