@@ -7328,7 +7328,7 @@
         "archive": "gh_944c2d759f7e_2021-12-21_2247514003_o0iA8b9HuL.y.tar.gz",
         "censored_date": "2021-12-21 17:50:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2021-12-23 03:32:59"
+        "update_date": "2021-12-23 08:38:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2666481269&idx=2&sn=09f0b26e08b879b5f0a719fa12900d14",
@@ -7404,7 +7404,8 @@
         "created_at": "2021-12-20",
         "archive": "gh_f85d25e406e2_2021-12-20_2664333418_70pL5JwtyZ.y.tar.gz",
         "censored_date": "2021-12-21 23:41:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-23 07:46:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MzY2MzgwNA==&mid=2247869064&idx=2&sn=de0144a90690cc45c8e9e0c81948aa9d",
@@ -7414,7 +7415,8 @@
         "created_at": "2021-12-20",
         "archive": "gh_71044192929a_2021-12-20_2247869064_Qyf9Spwe6N.y.tar.gz",
         "censored_date": "2021-12-22 00:20:44",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2021-12-23 07:47:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTA4NTYxMA==&mid=2247547266&idx=3&sn=6e83332da8d010a64d1b39ad79503066",
@@ -7424,7 +7426,8 @@
         "created_at": "2021-12-20",
         "archive": "gh_3f3b4ee5d724_2021-12-20_2247547266_Ks6THj0kPS.y.tar.gz",
         "censored_date": "2021-12-22 00:57:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-23 07:47:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247496855&idx=2&sn=b248d3c1d1c5d56861834440d3bcd7e4",
@@ -7715,6 +7718,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247543385&idx=1&sn=634a26e8c087590d7e8e0da8460784de",
         "title": "报告：数字化转型是中小企业发展的必然趋势，四个方面亟待破局",
+        "title_eng": "Report: Digital transformation is an inevitable trend for the development of small and medium-sized enterprises, and four aspects need to be broken",
         "nickname": "经济学家圈",
         "created_at": "2021-12-20",
         "archive": "gh_358c7d1e341c_2021-12-20_2247543385_KF1yUadXxf.y.tar.gz",
@@ -7724,6 +7728,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247543304&idx=4&sn=4593456d08f284c7717e4e7954ab6297",
         "title": "张军扩：关于明年经济对策的几点思考",
+        "title_eng": "Zhang Junkuo: Some thoughts on next year's economic countermeasures",
         "nickname": "经济学家圈",
         "created_at": "2021-12-19",
         "archive": "gh_358c7d1e341c_2021-12-19_2247543304_Sg513zAKVQ.y.tar.gz",
@@ -7733,10 +7738,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMDE0MjQ5MQ==&mid=2247543385&idx=2&sn=aa47322d7e25d84ba73c187644d42fbc",
         "title": "肖钢：打通金融与制造业协调发展的“堵点”",
+        "title_eng": "Xiao Gang: Open up the blocking point of the coordinated development of finance and manufacturing",
         "nickname": "经济学家圈",
         "created_at": "2021-12-20",
         "archive": "gh_358c7d1e341c_2021-12-20_2247543385_0j8NsouWLG.y.tar.gz",
         "censored_date": "2021-12-23 07:06:32",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660472429&idx=1&sn=be7ebf025de345396f65d6eecc73ffb6",
+        "title": "薇娅被罚，软阶层的共同富裕时代",
+        "title_eng": "Wei Ya was punished, the era of common prosperity for the soft class",
+        "nickname": "重要的是经济",
+        "created_at": "2021-12-21",
+        "archive": "gh_1137e6936d9f_2021-12-21_2660472429_F0a8oldKsV.y.tar.gz",
+        "censored_date": "2021-12-23 07:38:35",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651349987&idx=5&sn=d75c9213decb33c8a34017ffc33100a5",
+        "title": "北大教授：造假的鸡地屁",
+        "title_eng": "Peking University professor: fake chicken fart",
+        "nickname": "百姓关注话题",
+        "created_at": "2021-12-20",
+        "archive": "gh_a0b79e79b274_2021-12-20_2651349987_khjLI3Hle5.y.tar.gz",
+        "censored_date": "2021-12-23 08:24:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
