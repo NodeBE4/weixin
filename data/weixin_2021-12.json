@@ -8619,7 +8619,8 @@
         "created_at": "2021-12-23",
         "archive": "gh_e06f5843f7ac_2021-12-23_2652035045_gZ6tbhCucD.y.tar.gz",
         "censored_date": "2021-12-26 12:46:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-27 03:31:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652035045&idx=1&sn=06aab76b1da56f1622528f610fdf4588",
@@ -8710,6 +8711,15 @@
         "created_at": "2021-12-24",
         "archive": "gh_16e68ee8982f_2021-12-24_2649270778_fwNampszno.y.tar.gz",
         "censored_date": "2021-12-27 00:18:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247536572&idx=1&sn=a50fe5d45eb7b219bb9ed419313c3e8c",
+        "title": "选择好你的150人朋友圈 I 选择与谁同行，比要去的目的地更重要",
+        "nickname": "医业观察",
+        "created_at": "2021-12-25",
+        "archive": "gh_9cb7cdc6525f_2021-12-25_2247536572_pT8BOW0tlN.y.tar.gz",
+        "censored_date": "2021-12-27 03:45:41",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
