@@ -8741,7 +8741,8 @@
         "created_at": "2021-12-27",
         "archive": "gh_63e439b69de5_2021-12-27_2651065367_zJL8gsOIKE.y.tar.gz",
         "censored_date": "2021-12-27 12:02:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-27 13:10:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650818374&idx=1&sn=98b98da241a57b1c4004e9145f93d15d",
@@ -8761,6 +8762,16 @@
         "created_at": "2021-12-26",
         "archive": "gh_8492bb8e8be7_2021-12-26_2653232500_hFPay5Jq9v.y.tar.gz",
         "censored_date": "2021-12-27 12:36:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNTM2MTkzMA==&mid=2651469939&idx=2&sn=6f58b8ff3186f1e00320914b54011839",
+        "title": "今天，纪念一代伟人毛泽东",
+        "title_eng": "Today, to commemorate a generation of great man Mao Zedong",
+        "nickname": "清风北京",
+        "created_at": "2021-12-26",
+        "archive": "gh_0b0d54544c34_2021-12-26_2651469939_PLX8sQ6AfO.y.tar.gz",
+        "censored_date": "2021-12-27 13:09:34",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
