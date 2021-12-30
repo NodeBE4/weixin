@@ -9485,11 +9485,13 @@
         "created_at": "2021-12-30",
         "archive": "gh_93185b95671c_2021-12-30_2651882180_8Y59nFgXBf.y.tar.gz",
         "censored_date": "2021-12-30 17:41:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2021-12-30 20:46:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMDk5NjcxNg==&mid=2247497554&idx=1&sn=d21217d115e8b70dbed074528150c450",
         "title": "拿下家庭教育证书，帮你轻松解决孩子叛逆！还能提高薪资收入！",
+        "title_eng": "Get a family education certificate to help you easily solve your child's rebellion! It can also increase salary income!",
         "nickname": "法律知识咨询学习平台",
         "created_at": "2021-12-28",
         "archive": "gh_2ffe7c08aaf7_2021-12-28_2247497554_Rz6L3MyA08.y.tar.gz",
@@ -9499,6 +9501,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ==&mid=2650517514&idx=2&sn=2bcf94a492b935ea3c841c35128a80e9",
         "title": "陈宗年：追求超越商业的成功",
+        "title_eng": "Chen Zongnian: Pursue success beyond business",
         "nickname": "中国企业家杂志",
         "created_at": "2021-12-29",
         "archive": "wxid_3544675449412_2021-12-29_2650517514_MYuD6vtpI2.y.tar.gz",
@@ -9508,10 +9511,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDk0OTczNw==&mid=2247523515&idx=2&sn=aafbee2cb29ac7c7407f06f3e7692c27",
         "title": "快过年了又没挣到钱？何不尝试跨境电商，0基础小白也能挑战月入3w+",
+        "title_eng": "It's almost New Year and haven't made any money? Why not try cross-border e-commerce, a zero-based beginner can challenge a monthly income of 3w",
         "nickname": "法官读库",
         "created_at": "2021-12-29",
         "archive": "gh_ec022d1e140c_2021-12-29_2247523515_VqsPj4RQm6.y.tar.gz",
         "censored_date": "2021-12-30 19:17:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247527852&idx=2&sn=7a02bf215cb2c6bca204946cdbd5128b",
+        "title": "通知：家庭教育指导师面向全国招生，教师、家长人群优先！",
+        "title_eng": "Notice: Family education instructors recruit students from all over the country, and teachers and parents are given priority!",
+        "nickname": "法学小讲",
+        "created_at": "2021-12-29",
+        "archive": "gh_46b1ce89978a_2021-12-29_2247527852_PfE850SZaL.y.tar.gz",
+        "censored_date": "2021-12-30 19:41:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455544064&idx=2&sn=d3587161661a37aff26f00ce7edc6ed5",
+        "title": "通知：2021年家庭教育指导师公开招生，前200名免费学习！大专可报！",
+        "nickname": "船夫日记",
+        "created_at": "2021-12-29",
+        "archive": "gh_ba71c6c7d57e_2021-12-29_2455544064_1o2EjbfI00.y.tar.gz",
+        "censored_date": "2021-12-30 20:39:55",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
