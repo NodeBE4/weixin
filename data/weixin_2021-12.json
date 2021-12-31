@@ -9744,6 +9744,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650857806&idx=2&sn=22914c6c4da3dc74cc9a3d15ca33c113",
         "title": "为什么《易经》说，所有的“努力”都是徒劳？看完后不纠结了",
+        "title_eng": "Why does the Book of Changes say that all efforts are in vain? Don't worry after reading it",
         "nickname": "荣茂读报",
         "created_at": "2021-12-30",
         "archive": "gh_11d6ef0dd9d4_2021-12-30_2650857806_APNHXwGc7Z.y.tar.gz",
@@ -9753,6 +9754,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjMxNDQ1Ng==&mid=2247503139&idx=1&sn=825a9dc52f6b728e3591ab22bb6bcf23",
         "title": "再见了， 茅台！",
+        "title_eng": "Goodbye, Moutai!",
         "nickname": "罗西有意思",
         "created_at": "2021-12-30",
         "archive": "gh_0538c4e6a15c_2021-12-30_2247503139_s0nIwGOhX2.y.tar.gz",
@@ -9762,10 +9764,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODc5MzMwNw==&mid=2247512840&idx=1&sn=4584210a52baad401329934cc1a76295",
         "title": "再见了， 某台！",
+        "title_eng": "Goodbye, some station!",
         "nickname": "人文英华",
         "created_at": "2021-12-30",
         "archive": "gh_46052ab4e941_2021-12-30_2247512840_m48ae62Fop.y.tar.gz",
         "censored_date": "2021-12-31 12:56:14",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NTA1ODIwMQ==&mid=2650742424&idx=1&sn=ad021bb30053a23fd931c15f4efb9b13",
+        "title": "2021福建反腐大事记：多名厅官被查、政法系统除害、严惩粮食领域腐败",
+        "title_eng": "2021 Fujian anti-corruption memorabilia: multiple government officials were investigated, the political and legal system was eliminated, and corruption in the food sector was severely punished",
+        "nickname": "观八闽",
+        "created_at": "2021-12-30",
+        "archive": "gh_cf7f88f0bfe8_2021-12-30_2650742424_LdhajsulOZ.y.tar.gz",
+        "censored_date": "2021-12-31 13:52:03",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
