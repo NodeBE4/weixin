@@ -1507,7 +1507,7 @@
         "archive": "gh_9eaf123d0c6f_2021-12-31_2247578492_jduGiHm6Lv.y.tar.gz",
         "censored_date": "2022-01-01 20:49:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-01-01 23:31:31"
+        "update_date": "2022-01-03 00:32:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzIyMTM5Ng==&mid=2652889724&idx=1&sn=364effafd1e4f8d34a63a48e201a3fb1",
@@ -1704,6 +1704,26 @@
         "created_at": "2022-01-02",
         "archive": "gh_f85d25e406e2_2022-01-02_2664334520_vPjKV8fnmJ.y.tar.gz",
         "censored_date": "2022-01-02 21:45:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MTcwMTU0NA==&mid=2247507994&idx=1&sn=db1e37e8e1c18316550275416d7b5404",
+        "title": "8年布局，中国突破美国经济围剿。今日起，中国再一次腾飞！",
+        "title_eng": "In 8 years of layout, China broke through the US economic encirclement and suppression. Starting today, China takes off again!",
+        "nickname": "黑天鹅商业情报站",
+        "created_at": "2022-01-01",
+        "archive": "gh_0bffbf7d8e5d_2022-01-01_2247507994_4wchd9iVzm.y.tar.gz",
+        "censored_date": "2022-01-02 23:33:15",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNDMwNDE4NQ==&mid=2247511293&idx=1&sn=d433fcef89c55ea0f306cd267f46b36b",
+        "title": "2022年1月1日起！受过刑事处罚的人，不能从事这些工作，包括子女！",
+        "title_eng": "From January 1, 2022! People who have been criminally punished cannot engage in these jobs, including their children!",
+        "nickname": "华睿说法",
+        "created_at": "2021-12-31",
+        "archive": "gh_fc462f1a6144_2021-12-31_2247511293_VHXzuolkjh.y.tar.gz",
+        "censored_date": "2022-01-03 00:12:39",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
