@@ -1648,10 +1648,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490943&idx=3&sn=3b52f907fa39fa98d26f16ad00f22dc9",
         "title": "这是你没有见过的毛主席照片：很艰苦！很真实！",
+        "title_eng": "This is a photo of Chairman Mao that you have never seen before: It's hard work! Very real!",
         "nickname": "世纪观察",
         "created_at": "2021-12-28",
         "archive": "gh_26762a56c129_2021-12-28_2247490943_vHDT21nixO.y.tar.gz",
         "censored_date": "2022-01-02 17:21:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650089269&idx=2&sn=c9ad5512dac31dedaed7d713d2b94697",
+        "title": "家长们注意！家庭教育指导师全国招生啦！考过就涨工资！",
+        "title_eng": "Attention, parents! Family education instructors are enrolling students nationwide! Get a salary increase after passing the exam!",
+        "nickname": "掌心大同",
+        "created_at": "2022-01-01",
+        "archive": "gh_69043f48c02f_2022-01-01_2650089269_SIbyJ4cvAK.y.tar.gz",
+        "censored_date": "2022-01-02 17:58:12",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650137572&idx=4&sn=c219b40c2915da0b54ddbc43aab5c264",
+        "title": "女同事和男老板聊天记录流出，实在不忍直视哈哈哈哈",
+        "title_eng": "The chat records of female colleagues and male bosses leaked out, I can’t bear to look directly at it hahahaha",
+        "nickname": "吐槽星君",
+        "created_at": "2021-12-31",
+        "archive": "gh_45220e40f13c_2021-12-31_2650137572_gkqfMF941R.y.tar.gz",
+        "censored_date": "2022-01-02 18:22:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
