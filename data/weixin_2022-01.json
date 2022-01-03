@@ -1666,7 +1666,8 @@
         "created_at": "2022-01-01",
         "archive": "gh_69043f48c02f_2022-01-01_2650089269_SIbyJ4cvAK.y.tar.gz",
         "censored_date": "2022-01-02 17:58:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-03 15:28:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650137572&idx=4&sn=c219b40c2915da0b54ddbc43aab5c264",
@@ -1676,7 +1677,8 @@
         "created_at": "2021-12-31",
         "archive": "gh_45220e40f13c_2021-12-31_2650137572_gkqfMF941R.y.tar.gz",
         "censored_date": "2022-01-02 18:22:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-03 15:29:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247511210&idx=2&sn=3133a29178a9ad9e47d252bd4171b71c",
@@ -1686,7 +1688,8 @@
         "created_at": "2022-01-01",
         "archive": "gh_4d1e27733468_2022-01-01_2247511210_IhC8YcNFDf.y.tar.gz",
         "censored_date": "2022-01-02 18:57:45",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-03 16:07:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjA3NDQ5Mjc0MQ==&mid=2652652927&idx=3&sn=8bc02aaecc104462fdb76f3c848c5461",
@@ -1896,6 +1899,26 @@
         "created_at": "2022-01-02",
         "archive": "wxid_pzhf43hmwizd11_2022-01-02_2657221169_wiuALQS7bK.y.tar.gz",
         "censored_date": "2022-01-03 11:42:19",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650089288&idx=8&sn=df793da6170f6a847c5666015242d873",
+        "title": "大同：刚刚公布了一批名单、电话！请收好备用！",
+        "title_eng": "Datong: A number of lists and phone numbers have just been announced! Please keep it for future use!",
+        "nickname": "掌心大同",
+        "created_at": "2022-01-03",
+        "archive": "gh_69043f48c02f_2022-01-03_2650089288_1hDcBvbjW7.y.tar.gz",
+        "censored_date": "2022-01-03 16:19:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650089288&idx=3&sn=18abf5a722b6c0a085e84212ac4caf2b",
+        "title": "事关大同万城华府3期....  左云县疫情防控中心通告！",
+        "title_eng": "It's about Phase 3 of Datong Wancheng Mansion.... Notice from Zuoyun County Epidemic Prevention and Control Center!",
+        "nickname": "掌心大同",
+        "created_at": "2022-01-03",
+        "archive": "gh_69043f48c02f_2022-01-03_2650089288_HQ0ZdzyITY.y.tar.gz",
+        "censored_date": "2022-01-03 16:17:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
