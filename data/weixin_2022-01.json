@@ -2303,7 +2303,8 @@
         "created_at": "2022-01-05",
         "archive": "gh_e8a9d366aea8_2022-01-05_2651700004_HCEIRSBl74.y.tar.gz",
         "censored_date": "2022-01-05 18:33:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-06 20:40:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653294991&idx=3&sn=dbda308e63b8cee377807900c0bb6167",
@@ -2313,7 +2314,8 @@
         "created_at": "2022-01-04",
         "archive": "gh_430d84f19d48_2022-01-04_2653294991_K1uHLJxzlS.y.tar.gz",
         "censored_date": "2022-01-05 18:50:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-06 20:40:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247500198&idx=3&sn=51d4602cbe8fd94682c037ee7777cf44",
@@ -2730,10 +2732,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTM3MjM5Mg==&mid=2652376106&idx=1&sn=866fc64fea23b21006ba8369d3dbaf1c",
         "title": "长江商学院管理学教授、副院长阎爱民：“共同富裕”下中国企业的发展方向",
+        "title_eng": "Yan Aimin, Professor of Management and Associate Dean of Cheung Kong Graduate School of Business: The development direction of Chinese enterprises under common prosperity",
         "nickname": "公益时报",
         "created_at": "2022-01-06",
         "archive": "gh_54f41521fd04_2022-01-06_2652376106_hIgQsXStPR.y.tar.gz",
         "censored_date": "2022-01-06 19:19:15",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzEzNzQ3MQ==&mid=2650262804&idx=1&sn=199558237fbc055ca76d26b8ce2ef8cb",
+        "title": "2022微信公开课PRO：没有张小龙和公众号，视频号释放重磅信号",
+        "title_eng": "2022 WeChat Open Course PRO: Without Zhang Xiaolong and the official account, the video account releases a heavy signal",
+        "nickname": "微果酱",
+        "created_at": "2022-01-06",
+        "archive": "gh_dc40b0299132_2022-01-06_2650262804_Ha03A4tR5P.y.tar.gz",
+        "censored_date": "2022-01-06 20:28:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-06 20:36:09"
     }
 ]
