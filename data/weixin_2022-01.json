@@ -2763,7 +2763,7 @@
         "archive": "gh_dc40b0299132_2022-01-06_2650262804_Ha03A4tR5P.y.tar.gz",
         "censored_date": "2022-01-06 20:28:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-01-06 20:36:09"
+        "update_date": "2022-01-08 01:03:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjMyMTQyMg==&mid=2247638354&idx=2&sn=5e76164f71dde4f17d0a8f6b78dfcd10",
@@ -3210,5 +3210,24 @@
         "archive": "gh_38623feea9d8_2022-01-06_2651358461_5BmNgw0IPo.y.tar.gz",
         "censored_date": "2022-01-07 23:46:55",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NTIxMTI5Mg==&mid=2247504514&idx=2&sn=cc1fc96c264d21b65ac8b2762e38c22e",
+        "title": "这一次，曹德旺错得离谱！",
+        "title_eng": "This time, Cao Dewang was outrageously wrong!",
+        "nickname": "商鞅谋略",
+        "created_at": "2022-01-05",
+        "archive": "gh_9126b64dcd97_2022-01-05_2247504514_vL09pRYksF.y.tar.gz",
+        "censored_date": "2022-01-08 01:23:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjY1OTM4Mg==&mid=2651006350&idx=1&sn=b015da1c801841dbf1bdc0920782f99f",
+        "title": "新疆检察：巩固拓展党史学习教育成果 做忠诚干净担当检察铁军",
+        "nickname": "新疆检察",
+        "created_at": "2022-01-07",
+        "archive": "gh_644f262a3d2c_2022-01-07_2651006350_86oqCF2TE0.y.tar.gz",
+        "censored_date": "2022-01-08 01:30:31",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
