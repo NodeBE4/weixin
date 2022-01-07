@@ -2979,11 +2979,13 @@
         "created_at": "2022-01-07",
         "archive": "gh_843e358b0214_2022-01-07_2649538290_v1i7Sw4YBR.y.tar.gz",
         "censored_date": "2022-01-07 11:34:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-07 13:35:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIwNDEyMg==&mid=2650860289&idx=1&sn=25b7edebf260abaee35bdcb1fa3117d8",
         "title": "首席分析师晒出224万年薪？！",
+        "title_eng": "The chief analyst posted an annual salary of 2.24 million? !",
         "nickname": "上海证券报",
         "created_at": "2022-01-07",
         "archive": "gh_222a507c7767_2022-01-07_2650860289_FdCtar3m0e.y.tar.gz",
@@ -2993,10 +2995,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODE2NDI5NA==&mid=2653232832&idx=2&sn=7c9a85021488a02d28fdc131d3326823",
         "title": "上海的天价生活，惊掉下巴！",
+        "title_eng": "The sky-high price of life in Shanghai, shocked his chin!",
         "nickname": "腾飞讲史",
         "created_at": "2022-01-05",
         "archive": "gh_8492bb8e8be7_2022-01-05_2653232832_p6GkVqbXrh.y.tar.gz",
         "censored_date": "2022-01-07 13:08:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247490989&idx=2&sn=d812a974f204d13dc6ad8928da160fc7",
+        "title": "事业不顺怎么破解？《周易》说出了我听过最好的答案",
+        "title_eng": "How to solve a business problem? Zhou Yi tells the best answer I have ever heard",
+        "nickname": "世纪观察",
+        "created_at": "2022-01-06",
+        "archive": "gh_26762a56c129_2022-01-06_2247490989_rNTQzktxRL.y.tar.gz",
+        "censored_date": "2022-01-07 13:51:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
