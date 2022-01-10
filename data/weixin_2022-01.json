@@ -3461,7 +3461,7 @@
         "archive": "gh_09fd5b6316b9_2022-01-08_2652011844_NpVK4QXtjL.y.tar.gz",
         "censored_date": "2022-01-09 00:32:33",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-01-10 04:32:22"
+        "update_date": "2022-01-10 07:57:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650216238&idx=4&sn=d87a72e99c9fde3e7ad70cbfad2547a6",
@@ -3773,7 +3773,8 @@
         "created_at": "2022-01-09",
         "archive": "gh_2ffdd6afb5d4_2022-01-09_2657234091_VQjK8y31eF.y.tar.gz",
         "censored_date": "2022-01-10 04:30:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-10 07:56:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652035315&idx=7&sn=2ed1f5d0dbab0829dad812418f5b62b5",
@@ -3858,10 +3859,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455544134&idx=2&sn=d071d6250e25cb7e44652f2d1eb03071",
         "title": "西安封城危机背后的经济学和政治学问题",
+        "title_eng": "Economic and Political Issues Behind Xi'an's Lockdown Crisis",
         "nickname": "船夫日记",
         "created_at": "2022-01-07",
         "archive": "gh_ba71c6c7d57e_2022-01-07_2455544134_Uheg1RD7jZ.y.tar.gz",
         "censored_date": "2022-01-10 07:03:48",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjE4Mw==&mid=2450911795&idx=2&sn=aee2843b20409e3b4ba414e7df4dcb67",
+        "title": "（待会删）4天精通Excel，2022年会Excel的人更值钱！",
+        "title_eng": "(To be deleted later) Proficient in Excel in 4 days, people who will know Excel in 2022 are more valuable!",
+        "nickname": "医健趋势",
+        "created_at": "2022-01-09",
+        "archive": "gh_a432d3267262_2022-01-09_2450911795_03H9Bo5QCs.y.tar.gz",
+        "censored_date": "2022-01-10 08:59:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
