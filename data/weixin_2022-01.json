@@ -4195,6 +4195,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247531445&idx=2&sn=b545707160d61c4be1c26dbc893a5b68",
         "title": "通知：2021年家庭教育指导师公开招生，前200名免费学习！大专可报！",
+        "title_eng": "Notice: Open enrollment for family education instructors in 2021, free study for the first 200! College can apply!",
         "nickname": "法律经典",
         "created_at": "2022-01-09",
         "archive": "gh_f0f1421cd0b3_2022-01-09_2247531445_yIaoGlPOCM.y.tar.gz",
@@ -4204,6 +4205,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247495695&idx=5&sn=a32031ff3a56278d39f09dc8a607d100",
         "title": "今日你看我不起，明日让你高攀不起。 我的逆袭之路，无人能挡！",
+        "title_eng": "Today you can't afford me, and tomorrow you can't afford it. My counterattack is unstoppable!",
         "nickname": "历史微时刻",
         "created_at": "2022-01-10",
         "archive": "gh_31930173e92d_2022-01-10_2247495695_G9YxEuvpwL.y.tar.gz",
@@ -4213,10 +4215,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NjIxNjkxNw==&mid=2247503052&idx=1&sn=daad8a92ce1739493b1e085dec49deea",
         "title": "反垄断之下，抖音逆流“筑墙”",
+        "title_eng": "Under the anti-monopoly, Douyin builds a wall against the current",
         "nickname": "观网财经",
         "created_at": "2022-01-11",
         "archive": "gh_ba653b7a00da_2022-01-11_2247503052_zPBZjRS51m.y.tar.gz",
         "censored_date": "2022-01-11 21:58:43",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652391796&idx=5&sn=a6f66be33c03e72b527a0ab801b81c75",
+        "title": "查验秒通行！全区8个机场推广刷身份证自动核验健康码",
+        "title_eng": "Check second pass! 8 airports in the region promote automatic verification of health codes by swiping ID cards",
+        "nickname": "广西新闻频道",
+        "created_at": "2022-01-11",
+        "archive": "gh_002f84048bd4_2022-01-11_2652391796_rnNgtK00Ge.y.tar.gz",
+        "censored_date": "2022-01-11 23:01:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
