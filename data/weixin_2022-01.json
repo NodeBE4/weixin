@@ -5211,6 +5211,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk2NTAyNA==&mid=2650672559&idx=1&sn=88fc044354179b9a7eeb00ecffb45aa6",
         "title": "收购股份后，华龙网将首次联合上游新闻报道重庆两会",
+        "title_eng": "After the acquisition of the shares, Hualong.com will report the Chongqing Two Sessions together with upstream news for the first time.",
         "nickname": "观媒智库",
         "created_at": "2022-01-14",
         "archive": "gh_c695be0e45ae_2022-01-14_2650672559_X8kDU2j7NP.y.tar.gz",
@@ -5225,6 +5226,16 @@
         "created_at": "2022-01-13",
         "archive": "gh_db3c2486e7de_2022-01-13_2247553100_xSkK91XJ7O.y.tar.gz",
         "censored_date": "2022-01-14 17:10:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNTE5MTIyMQ==&mid=2651663697&idx=2&sn=62bfa0a0eb174990656524d4806806b6",
+        "title": "重磅反腐片，孙力军、王富玉、周江勇等出镜忏悔",
+        "title_eng": "In the blockbuster anti-corruption film, Sun Lijun, Wang Fuyu, Zhou Jiangyong, etc. appeared on the scene to repent",
+        "nickname": "直新闻",
+        "created_at": "2022-01-13",
+        "archive": "gh_8d6b93d2a414_2022-01-13_2651663697_OUS7ilMdoh.y.tar.gz",
+        "censored_date": "2022-01-14 17:55:02",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
