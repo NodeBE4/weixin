@@ -5253,7 +5253,8 @@
         "created_at": "2022-01-13",
         "archive": "gh_95b0feda9646_2022-01-13_2653544807_1ZhGfONik6.y.tar.gz",
         "censored_date": "2022-01-14 20:24:04",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-16 05:04:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650089379&idx=2&sn=941edde41399036464ef36ae719a2ac1",
@@ -5263,7 +5264,8 @@
         "created_at": "2022-01-13",
         "archive": "gh_69043f48c02f_2022-01-13_2650089379_CpG1bgh02X.y.tar.gz",
         "censored_date": "2022-01-14 19:30:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-16 05:04:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MzM5OTczNw==&mid=2247496036&idx=1&sn=3c2cbbb575bd2248e6c9e1d824cb78ce",
@@ -5564,6 +5566,15 @@
         "created_at": "2022-01-14",
         "archive": "gh_fc276be154e5_2022-01-14_2247509526_T3UgzlJ5Ea.y.tar.gz",
         "censored_date": "2022-01-16 03:44:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247527861&idx=3&sn=eb8b538a9846a1f545bcd58196e9b4b0",
+        "title": "深夜突发！网红经济学家任泽平微博遭禁言，微信公众号相关内容无法查看",
+        "nickname": "难得视界",
+        "created_at": "2022-01-13",
+        "archive": "gh_1c6cefeca9ab_2022-01-13_2247527861_d9QhMWeS0r.y.tar.gz",
+        "censored_date": "2022-01-16 05:24:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
