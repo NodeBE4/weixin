@@ -6088,7 +6088,8 @@
         "created_at": "2022-01-16",
         "archive": "gh_31930173e92d_2022-01-16_2247495764_c1uMdhI760.y.tar.gz",
         "censored_date": "2022-01-17 19:06:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-17 22:39:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654955269&idx=4&sn=50cc9ea87ca0e39314d883fc17586027",
@@ -6118,6 +6119,16 @@
         "created_at": "2022-01-16",
         "archive": "gh_1c6cefeca9ab_2022-01-16_2247527987_7eP2WsnbAx.y.tar.gz",
         "censored_date": "2022-01-17 20:41:33",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247554755&idx=3&sn=afedbcfbca53adb0c40c951877ca21a1",
+        "title": "哈佛教授被定罪，“中国计划”再受审视",
+        "title_eng": "Harvard professor convicted, China plan under scrutiny",
+        "nickname": "视角学社",
+        "created_at": "2022-01-16",
+        "archive": "gh_afce72ae9715_2022-01-16_2247554755_RkEaWQs0pr.y.tar.gz",
+        "censored_date": "2022-01-17 23:00:41",
         "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
