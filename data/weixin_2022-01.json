@@ -6468,7 +6468,7 @@
         "archive": "gh_f86665431cb0_2022-01-18_2247518543_JhnHe82Xwp.y.tar.gz",
         "censored_date": "2022-01-18 20:23:49",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-01-18 21:12:49"
+        "update_date": "2022-01-20 04:01:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDI5OTI1OA==&mid=2653173238&idx=3&sn=d4342356d8c4430a2917a1e2c25f263e",
@@ -6478,7 +6478,8 @@
         "created_at": "2022-01-16",
         "archive": "gh_0d184b37505f_2022-01-16_2653173238_qEa2flD3cj.y.tar.gz",
         "censored_date": "2022-01-18 21:26:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-20 04:16:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NTA1OTIwMQ==&mid=2652482490&idx=2&sn=651f1de0d57aa10f5b7a30bceec3fed7",
@@ -6488,7 +6489,8 @@
         "created_at": "2022-01-18",
         "archive": "gh_a72cab17ba48_2022-01-18_2652482490_9FYO06BlzL.y.tar.gz",
         "censored_date": "2022-01-18 21:26:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-20 04:16:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTE3MzkzNQ==&mid=2657795582&idx=5&sn=0c8bd7cae47cacb02c805b97a535f2a2",
@@ -6742,5 +6744,14 @@
         "archive": "gh_da8ebc430bef_2022-01-18_2247507068_9r8WFaBIJM.y.tar.gz",
         "censored_date": "2022-01-20 01:16:04",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNDA3Mzk1OA==&mid=2653083459&idx=1&sn=87619a8d86294309ddf124c039900e3a",
+        "title": "全部禁止！北京突然宣布",
+        "nickname": "财闻要鉴",
+        "created_at": "2022-01-16",
+        "archive": "gh_34471e1f4b56_2022-01-16_2653083459_3BbIRzF4eP.y.tar.gz",
+        "censored_date": "2022-01-20 03:52:13",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
