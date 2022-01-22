@@ -6947,7 +6947,8 @@
         "created_at": "2022-01-20",
         "archive": "gh_8e14a2cc7d73_2022-01-20_2650804951_wb7tsI0Sup.y.tar.gz",
         "censored_date": "2022-01-21 01:23:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:42:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247528051&idx=1&sn=73f37373a8f456aa793df123bf2509ac",
@@ -6957,7 +6958,8 @@
         "created_at": "2022-01-18",
         "archive": "gh_1c6cefeca9ab_2022-01-18_2247528051_Y0inl6PNHE.y.tar.gz",
         "censored_date": "2022-01-21 01:24:32",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:43:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjI5NzkyNA==&mid=2652394046&idx=4&sn=6a37d02410b27d4fd5066204b5f375dd",
@@ -6978,7 +6980,8 @@
         "created_at": "2022-01-18",
         "archive": "gh_5a083ac7d06d_2022-01-18_2650111658_EQBHZhA92v.y.tar.gz",
         "censored_date": "2022-01-21 05:22:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:43:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTc4MTM2Ng==&mid=2650111639&idx=2&sn=8252ded928154189d9e5e3cda77d17c0",
@@ -7437,7 +7440,8 @@
         "created_at": "2022-01-18",
         "archive": "gh_fc462f1a6144_2022-01-18_2247511692_R4tqilSbUV.y.tar.gz",
         "censored_date": "2022-01-22 07:29:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:27:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTU5NDM5OQ==&mid=2247533395&idx=3&sn=98de60e2a756fda55858f479ae51294d",
@@ -7447,7 +7451,8 @@
         "created_at": "2022-01-20",
         "archive": "gh_1aecabdf0add_2022-01-20_2247533395_e0DFhOv1nu.y.tar.gz",
         "censored_date": "2022-01-22 08:25:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 10:24:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650337986&idx=6&sn=8bf5537f7090ba2f11fd9c71e129115d",
@@ -7457,7 +7462,8 @@
         "created_at": "2022-01-19",
         "archive": "gh_4002b1765479_2022-01-19_2650337986_f2Ik00JixL.y.tar.gz",
         "censored_date": "2022-01-22 08:00:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:58:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzY5Mjk1MQ==&mid=2247520515&idx=2&sn=63ebcc5786cc09884d58e8e639f4dd51",
@@ -7467,7 +7473,8 @@
         "created_at": "2022-01-20",
         "archive": "gh_05006dfaee36_2022-01-20_2247520515_7U6ZrDROcq.y.tar.gz",
         "censored_date": "2022-01-22 07:33:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-22 09:31:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NjA3OTkzNw==&mid=2650482547&idx=7&sn=a960105b5a29e7a5494ba821262a7316",
@@ -7478,5 +7485,15 @@
         "archive": "gh_0a801cef3469_2022-01-22_2650482547_DrzeIgpxdb.y.tar.gz",
         "censored_date": "2022-01-22 08:27:50",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNTAwOTcwMg==&mid=2649845114&idx=1&sn=ea29209e8cce06a7b39e0a2af3bf6e8a",
+        "title": "风靡全球的富人定律：你必须相信成功应该很简单！",
+        "title_eng": "The world's most popular law of the rich: You have to believe that success should be easy!",
+        "nickname": "华哥读报",
+        "created_at": "2022-01-21",
+        "archive": "gh_7a402e27f818_2022-01-21_2649845114_VFOfzA1uhp.y.tar.gz",
+        "censored_date": "2022-01-22 09:23:55",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
