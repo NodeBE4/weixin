@@ -8949,7 +8949,8 @@
         "created_at": "2022-01-29",
         "archive": "gh_3e7c18694931_2022-01-29_2651026228_hgQSYvNV6D.y.tar.gz",
         "censored_date": "2022-01-29 23:17:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-31 06:08:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDgxMjEwMQ==&mid=2651026228&idx=3&sn=2d83dbb627c511d971a5de0af2e75e57",
@@ -8959,7 +8960,8 @@
         "created_at": "2022-01-29",
         "archive": "gh_3e7c18694931_2022-01-29_2651026228_hbF5m8Oj1K.y.tar.gz",
         "censored_date": "2022-01-29 23:19:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-31 06:08:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NjQyODUxNg==&mid=2247507768&idx=1&sn=68c8f3a35380c01eaa114ef88c2bfe36",
@@ -8999,7 +9001,8 @@
         "created_at": "2022-01-29",
         "archive": "gh_204d11e7b3bd_2022-01-29_2247567642_BWKVPmS2AI.y.tar.gz",
         "censored_date": "2022-01-30 03:23:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-01-31 06:25:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247526382&idx=1&sn=0af0a1e19c8d79be7c075f6726c44629",
@@ -9167,10 +9170,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247556015&idx=1&sn=b07e972e7bb293219978983b6440a587",
         "title": "安徽弃婴代表美国参加冬奥会，希望找到并告诉亲生父母：“我过得很好”",
+        "title_eng": "Abandoned babies in Anhui represent the United States at the Winter Olympics, hoping to find and tell their biological parents: I'm doing well",
         "nickname": "视角学社",
         "created_at": "2022-01-28",
         "archive": "gh_afce72ae9715_2022-01-28_2247556015_lUGNnLdhvS.y.tar.gz",
         "censored_date": "2022-01-31 05:03:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NTE1NDc3NA==&mid=2650514360&idx=1&sn=1bf0a72ad42c1ac4ce5d88e2b4791421",
+        "title": "漳州市司法局开展律师行业安全稳定和疫情防控督查指导工作",
+        "nickname": "漳州市律师协会",
+        "created_at": "2022-01-29",
+        "archive": "gh_8e98aeecc6c0_2022-01-29_2650514360_QFNgc8dTUY.y.tar.gz",
+        "censored_date": "2022-01-31 05:57:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
