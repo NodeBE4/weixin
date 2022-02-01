@@ -1060,7 +1060,8 @@
         "created_at": "2022-01-30",
         "archive": "gh_93185b95671c_2022-01-30_2651889778_w5MF7W1RU8.y.tar.gz",
         "censored_date": "2022-01-31 19:19:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-01 15:47:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247520528&idx=1&sn=f3baee6a49c44f0937c4850be26c9302",
@@ -1070,7 +1071,8 @@
         "created_at": "2022-01-30",
         "archive": "gh_bf54f24b2e87_2022-01-30_2247520528_k1U0XP6MBA.y.tar.gz",
         "censored_date": "2022-01-31 20:19:17",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-01 16:31:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247540430&idx=1&sn=a17b097d5aafd982e7f0ba166d040d5f",
@@ -1187,10 +1189,12 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650163760&idx=1&sn=fa131c3b59d089d9872d2d1b7b4473fa",
         "title": "李红岩：理论创新是研究创新的前提与先导",
+        "title_eng": "Li Hongyan: Theoretical innovation is the premise and forerunner of research innovation",
         "nickname": "中国社会科学网",
         "created_at": "2022-02-01",
         "archive": "gh_60e26bf6d108_2022-02-01_2650163760_4g2zUG193n.y.tar.gz",
         "censored_date": "2022-02-01 15:10:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-01 16:30:47"
     }
 ]
