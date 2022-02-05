@@ -1718,7 +1718,8 @@
         "created_at": "2022-02-05",
         "archive": "gh_42092c4a3925_2022-02-05_2247546344_srBl3eN0cQ.y.tar.gz",
         "censored_date": "2022-02-05 03:08:09",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-06 01:23:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247532380&idx=3&sn=75004ccf644ab8126e6f2931e02f1799",
@@ -1844,6 +1845,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652012346&idx=4&sn=29d8bfc20a8399f79d70a589df5a4d26",
         "title": "织女和七仙女，是不是被拐妇女？",
+        "title_eng": "Are the Weaver Girl and the Seven Fairies abducted?",
         "nickname": "亮哥读历史",
         "created_at": "2022-02-04",
         "archive": "gh_09fd5b6316b9_2022-02-04_2652012346_YyZBlXU7Eq.y.tar.gz",
@@ -1853,6 +1855,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxOTUyMjQ5NA==&mid=2247528231&idx=2&sn=c3ced2b8b06b56fe8070a4b9b850bc88",
         "title": "文锦渡口岸暂停通关！疑有跨境司机确诊，蔬菜供港受影响",
+        "title_eng": "Man Kam To Port suspends customs clearance! Suspected cross-border driver diagnosed, vegetable supply to Hong Kong affected",
         "nickname": "港澳湾那些事儿",
         "created_at": "2022-02-04",
         "archive": "gh_7001ed9b2b9f_2022-02-04_2247528231_CA8W935rxS.y.tar.gz",
