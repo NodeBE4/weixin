@@ -1785,6 +1785,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzEzOTgzMQ==&mid=2650765644&idx=1&sn=641ae62bac5e8ee60a0f2a328ae5cb62",
         "title": "通报！停业整顿！",
+        "title_eng": "Announcement! Shut down for rectification!",
         "nickname": "淮北传媒发布",
         "created_at": "2022-02-05",
         "archive": "gh_8bdde197864b_2022-02-05_2650765644_e2BE9IwQXR.y.tar.gz",
@@ -1794,10 +1795,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247544954&idx=8&sn=9082f68ba3b375fe0c0ac00967030f86",
         "title": "八孩女刷屏之际，重温拐卖禁片《盲山》",
+        "title_eng": "When the eight girls swipe the screen, revisit the banned film Blind Mountain",
         "nickname": "徐雪芬札记",
         "created_at": "2022-02-05",
         "archive": "gh_06140cfad959_2022-02-05_2247544954_ABt5ELFlyY.y.tar.gz",
         "censored_date": "2022-02-05 17:18:55",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650149235&idx=4&sn=394eadf4aa1c2defe8bc8dcbba9fe81d",
+        "title": "绝绝子，你睡觉的样子暴露了你的异性缘！",
+        "nickname": "吐槽星君",
+        "created_at": "2022-02-04",
+        "archive": "gh_45220e40f13c_2022-02-04_2650149235_poW9uQc4JP.y.tar.gz",
+        "censored_date": "2022-02-05 17:35:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
