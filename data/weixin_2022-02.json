@@ -1921,6 +1921,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247684225&idx=1&sn=052c1c927b2f65ab305200f038b17297",
         "title": "史诗级逆转，女足重回亚洲之巅！（附比赛数据对比图）",
+        "title_eng": "Epic reversal, women's football returns to the top of Asia! (A comparison chart of game data is attached)",
         "nickname": "新京报",
         "created_at": "2022-02-06",
         "archive": "gh_16cc427c8e02_2022-02-06_2247684225_s2EkFxVNdD.y.tar.gz",
@@ -1931,6 +1932,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455544237&idx=3&sn=dd28da8a840a09d83f272a79e7c9d8c5",
         "title": "社会反思：我们的“年味儿”为何越过越淡了？",
+        "title_eng": "Social reflection: Why does our New Year's taste fade away?",
         "nickname": "船夫日記",
         "created_at": "2022-01-30",
         "archive": "gh_ba71c6c7d57e_2022-01-30_2455544237_Ku8T2F4bAL.y.tar.gz",
@@ -1940,10 +1942,38 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247532401&idx=2&sn=766a73a5e701e687286ef7919c994d9a",
         "title": "致家长：求求你学习一下智慧父母吧！",
+        "title_eng": "To parents: I beg you to learn from wise parents!",
         "nickname": "今读史",
         "created_at": "2022-02-04",
         "archive": "gh_5e008ceefb25_2022-02-04_2247532401_TUaszexiQ8.y.tar.gz",
         "censored_date": "2022-02-07 01:07:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247507364&idx=4&sn=4fee8f1e3fc3aa79ed871f9bce8340cf",
+        "title": "铁饭碗！想考公务员的注意了！这份上岸方案请收好！",
+        "nickname": "法眼观察",
+        "created_at": "2022-02-03",
+        "archive": "gh_e2a46987ac3a_2022-02-03_2247507364_teu86UfVK3.y.tar.gz",
+        "censored_date": "2022-02-07 02:02:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247507372&idx=2&sn=1df7cad9595a91b46117f9dd2316f056",
+        "title": "直播带货月入7个w：这个疯狂赚钱的路子，千万别再错过了！",
+        "nickname": "法眼观察",
+        "created_at": "2022-02-04",
+        "archive": "gh_e2a46987ac3a_2022-02-04_2247507372_0TxMsLRthU.y.tar.gz",
+        "censored_date": "2022-02-07 02:00:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247507364&idx=2&sn=689f9eac4030290f9e2ec0e94a699a67",
+        "title": "突然宣布！今天法律人朋友圈刷爆了，这个好消息终于来了...",
+        "nickname": "法眼观察",
+        "created_at": "2022-02-03",
+        "archive": "gh_e2a46987ac3a_2022-02-03_2247507364_tbHjKOBfCo.y.tar.gz",
+        "censored_date": "2022-02-07 02:01:51",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
