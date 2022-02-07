@@ -2248,6 +2248,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247613151&idx=7&sn=68cfff094c831ed11f783639908c30be",
         "title": "捡漏！爱马仕TOP级“香水套盒”只要200多！高级又好闻",
+        "title_eng": "Pick up leaks! Hermes TOP-level perfume set as long as more than 200! Premium and smells good",
         "nickname": "凤凰网财经",
         "created_at": "2022-02-06",
         "archive": "gh_e76b6086b960_2022-02-06_2247613151_g7rEXwZbR0.y.tar.gz",
@@ -2257,10 +2258,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247613066&idx=2&sn=9b181302670d72861a46d0296d55c5a0",
         "title": "中国这本大尺度的历史杂志，果然有点猛料！",
+        "title_eng": "This large-scale history magazine in China is indeed a bit unexpected!",
         "nickname": "凤凰网财经",
         "created_at": "2022-02-05",
         "archive": "gh_e76b6086b960_2022-02-05_2247613066_36eoxKCNcZ.y.tar.gz",
         "censored_date": "2022-02-08 05:18:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NzA5OTkyMA==&mid=2652012387&idx=2&sn=b6d4563829e9aefb022ce91676fc80ae",
+        "title": "人到中年，四种亲戚交往越多，福报越大！",
+        "nickname": "亮哥读历史",
+        "created_at": "2022-02-06",
+        "archive": "gh_09fd5b6316b9_2022-02-06_2652012387_WOrvCnay8M.y.tar.gz",
+        "censored_date": "2022-02-08 05:57:56",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
