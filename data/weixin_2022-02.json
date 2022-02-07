@@ -2168,6 +2168,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652236031&idx=2&sn=f554fd242070788a59bab6371aeeee0a",
         "title": "3年近5万人被拐卖到徐州",
+        "title_eng": "Nearly 50,000 people were trafficked to Xuzhou in 3 years",
         "nickname": "大千世界",
         "created_at": "2022-02-06",
         "archive": "gh_a517719487ef_2022-02-06_2652236031_lXxBZJ1MDz.y.tar.gz",
@@ -2177,6 +2178,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652236031&idx=4&sn=9c83b08d0503826179927bd8a6944399",
         "title": "严歌苓：母亲啊，母亲",
+        "title_eng": "Yan Geling: Mother, mother",
         "nickname": "大千世界",
         "created_at": "2022-02-06",
         "archive": "gh_a517719487ef_2022-02-06_2652236031_7oLmn4Cyi8.y.tar.gz",
@@ -2186,10 +2188,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652236031&idx=5&sn=17af28626d54bb45830945341a2417ac",
         "title": "电影《盲山》未删减版：真实比你想象的更可怕！",
+        "title_eng": "Uncut version of the movie Blind Mountain: The truth is more terrifying than you think!",
         "nickname": "大千世界",
         "created_at": "2022-02-06",
         "archive": "gh_a517719487ef_2022-02-06_2652236031_UfSQVBqh9b.y.tar.gz",
         "censored_date": "2022-02-07 21:38:08",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247522841&idx=2&sn=8cce39700cd3f9dc666777691cdd51f1",
+        "title": "女市长出事了",
+        "nickname": "律政讲坛",
+        "created_at": "2022-02-05",
+        "archive": "gh_21f5b568bfc7_2022-02-05_2247522841_0vJ6RdoPF5.y.tar.gz",
+        "censored_date": "2022-02-07 23:02:55",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247522810&idx=2&sn=d758a9de5a51cfe04961c6f55864d6b1",
+        "title": "女领导的秘密",
+        "nickname": "律政讲坛",
+        "created_at": "2022-02-04",
+        "archive": "gh_21f5b568bfc7_2022-02-04_2247522810_JclZenBguT.y.tar.gz",
+        "censored_date": "2022-02-07 23:04:09",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
