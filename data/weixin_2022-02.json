@@ -2392,6 +2392,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NjIxNjkxNw==&mid=2247503483&idx=2&sn=fc9fa7fa40c4cc581b922f1cca2a4f42",
         "title": "刚交付新一代光刻机，上海微电子被美国下黑手",
+        "title_eng": "Just delivered a new generation of lithography machine, Shanghai Microelectronics was hacked by the United States",
         "nickname": "观网财经",
         "created_at": "2022-02-08",
         "archive": "gh_ba653b7a00da_2022-02-08_2247503483_bevdrsjSL4.y.tar.gz",
@@ -2401,6 +2402,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649823572&idx=2&sn=ec34c24112b91bf13e7bc1ded7753852",
         "title": "【书店停业】全部库存&quot;买2本送5本&quot;清仓处理（存量有限抢完即止）",
+        "title_eng": "【Bookstore closed】All stock",
         "nickname": "近现代史论",
         "created_at": "2022-02-06",
         "archive": "gh_ef9695b6d53c_2022-02-06_2649823572_CKySkc64I0.y.tar.gz",
@@ -2410,10 +2412,71 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjcwNTEwMw==&mid=2652060752&idx=2&sn=d506e2572e29dc88040055d719adb68e",
         "title": "宜宾小伙现身东奥开幕式！骄傲！",
+        "title_eng": "Yibin boy appeared at the opening ceremony of the East Olympics! pride!",
         "nickname": "新三江v",
         "created_at": "2022-02-06",
         "archive": "gh_b36d56b73a7b_2022-02-06_2652060752_u60Obmdtpx.y.tar.gz",
         "censored_date": "2022-02-08 23:28:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036007&idx=3&sn=34ae7ce3d3f00225f852762683c48057",
+        "title": "是否担心俄罗斯吞并乌克兰？外媒逼中方表态，赵立坚亮明中方立场",
+        "title_eng": "Are you worried about Russia's annexation of Ukraine? Foreign media forced China to express its position, Zhao Lijian made clear China’s position",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-06",
+        "archive": "gh_e06f5843f7ac_2022-02-06_2652036007_5eYIsmT2Rt.y.tar.gz",
+        "censored_date": "2022-02-08 23:32:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036007&idx=6&sn=4039776355226b5516af9aabd2ba7a44",
+        "title": "20年前土耳其勒索10亿美元，作为辽宁舰的过路费，中国给了吗",
+        "title_eng": "Turkey extorted 1 billion US dollars 20 years ago, as the toll of the Liaoning ship, did China give it?",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-06",
+        "archive": "gh_e06f5843f7ac_2022-02-06_2652036007_RVeK6jJySP.y.tar.gz",
+        "censored_date": "2022-02-08 23:32:46",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036004&idx=4&sn=6fdcfe43c6e9719e43ed85ad77856423",
+        "title": "台湾和海南硬核对比，面积相当但GDP却天差地别，差距到底在哪？",
+        "title_eng": "Comparing the hard cores of Taiwan and Hainan, the area is the same, but the GDP is very different. Where is the gap?",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-05",
+        "archive": "gh_e06f5843f7ac_2022-02-05_2652036004_WSzCxwoB0h.y.tar.gz",
+        "censored_date": "2022-02-08 23:33:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036007&idx=5&sn=d67083766b8137ea0c933c89077ef4c6",
+        "title": "距离中国7300公里，我国有一座海外大岛，持中国国籍可永久居住",
+        "title_eng": "It is 7,300 kilometers away from China. my country has a large overseas island. People with Chinese nationality can live permanently.",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-06",
+        "archive": "gh_e06f5843f7ac_2022-02-06_2652036007_XMHzy8mePA.y.tar.gz",
+        "censored_date": "2022-02-08 23:31:56",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036007&idx=4&sn=aabcc96f94e574a4c64755e618688bc5",
+        "title": "联合国总部如果迁往中国，是好事还是坏事？那么哪个城市最合适？",
+        "title_eng": "If the UN headquarters is moved to China, will it be a good thing or a bad thing? So which city is the most suitable?",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-06",
+        "archive": "gh_e06f5843f7ac_2022-02-06_2652036007_I7GWDdqsRi.y.tar.gz",
+        "censored_date": "2022-02-08 23:31:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652036004&idx=3&sn=4b7a23528d643254e967278ddb341c71",
+        "title": "抛弃中国国籍，跑去为美国造尖端武器，这些中国人让人心痛",
+        "title_eng": "Abandoning Chinese nationality and running to build cutting-edge weapons for the United States, these Chinese people are heartbreaking",
+        "nickname": "米尔看天下",
+        "created_at": "2022-02-05",
+        "archive": "gh_e06f5843f7ac_2022-02-05_2652036004_Oc6BlExoR0.y.tar.gz",
+        "censored_date": "2022-02-08 23:33:58",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
