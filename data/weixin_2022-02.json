@@ -1734,7 +1734,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247532380&idx=2&sn=ca2ca8537dd5b8e06d587dc4b245f12e",
         "title": "通知：家庭教育指导师面向全国招生，教师、家长人群优先！",
-        "title_eng": "Notice: Family education instructors recruit students nationwide, teachers and parents are given priority!",
+        "title_eng": "Notice: Family education instructors recruit students nationwide, teachers and parents are given priority",
         "nickname": "今读史",
         "created_at": "2022-02-03",
         "archive": "gh_5e008ceefb25_2022-02-03_2247532380_26cirWMKkq.y.tar.gz",
@@ -2366,7 +2366,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247551944&idx=2&sn=396b5ad687493458ed8cd63632d739cb",
         "title": "通知：家庭教育指导师面向全国招生，教师、家长人群优先！",
-        "title_eng": "Notice: Family education instructors recruit students nationwide, teachers and parents are given priority!",
+        "title_eng": "Notice: Family education instructors recruit students nationwide, teachers and parents are given priority",
         "nickname": "學人Scholar",
         "created_at": "2022-02-07",
         "archive": "gh_f7c807150350_2022-02-07_2247551944_4MbROBWdAo.y.tar.gz",
@@ -2617,5 +2617,25 @@
         "censored_date": "2022-02-09 05:46:26",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-09 08:35:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2655758522&idx=1&sn=4309254946d67b51d7df64a6726a5031",
+        "title": "审核员之逝",
+        "title_eng": "Auditor's death",
+        "nickname": "虎嗅APP",
+        "created_at": "2022-02-09",
+        "archive": "wxid_7620846208112_2022-02-09_2655758522_ldjJmrqPhg.y.tar.gz",
+        "censored_date": "2022-02-09 11:38:59",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491207&idx=2&sn=7ea7b4dab902268802653353d7ec1d0a",
+        "title": "通知：家庭教育指导师面向全国招生，教师、家长人群优先",
+        "title_eng": "Notice: Family education instructors recruit students nationwide, teachers and parents are given priority",
+        "nickname": "世纪观察",
+        "created_at": "2022-02-08",
+        "archive": "gh_26762a56c129_2022-02-08_2247491207_HAoVOEP9DS.y.tar.gz",
+        "censored_date": "2022-02-09 11:57:39",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
