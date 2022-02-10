@@ -2923,6 +2923,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490762&idx=4&sn=851e6b471d25a58c273b8957a0df35af",
         "title": "为什么我觉得水门桥拍得还不够好？",
+        "title_eng": "Why do I think the Watergate Bridge is not good enough?",
         "nickname": "江南隐士",
         "created_at": "2022-02-08",
         "archive": "gh_65f5271d2a21_2022-02-08_2247490762_TnWRVF3PlI.y.tar.gz",
@@ -2957,6 +2958,15 @@
         "created_at": "2022-02-09",
         "archive": "gh_65f5271d2a21_2022-02-09_2247490766_nMuYFHyLpq.y.tar.gz",
         "censored_date": "2022-02-10 14:15:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3Nzc0MTE0OQ==&mid=2247513795&idx=1&sn=3fc4aa187c7a92dc3876cd5a6c4c8bad",
+        "title": "重大变化！司法部：律师收费原则由律所制定，风险代理不得超过标的额的18%！（全文）",
+        "nickname": "住建法律",
+        "created_at": "2022-02-08",
+        "archive": "gh_a3c39f53de01_2022-02-08_2247513795_mQe4yVRgls.y.tar.gz",
+        "censored_date": "2022-02-10 15:17:08",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
