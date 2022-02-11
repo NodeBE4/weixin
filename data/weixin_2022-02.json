@@ -3026,7 +3026,8 @@
         "created_at": "2022-02-09",
         "archive": "gh_31930173e92d_2022-02-09_2247495948_ihQRCcDaTX.y.tar.gz",
         "censored_date": "2022-02-10 19:01:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-11 21:33:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMjY3NjEzNA==&mid=2650846220&idx=2&sn=cdc56c6489a263b4ddc533e6355f1c14",
@@ -3036,7 +3037,8 @@
         "created_at": "2022-02-10",
         "archive": "gh_a8b95b3ea1a1_2022-02-10_2650846220_vuOd620FK1.y.tar.gz",
         "censored_date": "2022-02-10 18:32:23",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-11 21:33:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247520353&idx=1&sn=d61c2bfe1e243a113b678dc8ad9ad14e",
@@ -3332,6 +3334,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDMyMjQyMg==&mid=2247528985&idx=1&sn=9d83d3ac17e17cbc0e7466d213adb33b",
         "title": "徐州丰县生育8孩女子事件，最终会如何收场？",
+        "title_eng": "How will the incident of giving birth to 8 women in Fengxian County, Xuzhou, end?",
         "nickname": "思想潮",
         "created_at": "2022-02-10",
         "archive": "gh_9b8226d6167e_2022-02-10_2247528985_OLhxJnWzt6.y.tar.gz",
