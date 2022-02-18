@@ -4225,7 +4225,7 @@
         "archive": "gh_d5b6ac1c9586_2022-02-17_2247510701_IlhDmp1bGN.y.tar.gz",
         "censored_date": "2022-02-17 11:56:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-17 12:08:46"
+        "update_date": "2022-02-18 18:19:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247512163&idx=2&sn=f1ccd411bbe74dff0df94741426ee3fe",
@@ -4236,7 +4236,7 @@
         "archive": "gh_728dda09b5fa_2022-02-16_2247512163_olvrF2cSZ6.y.tar.gz",
         "censored_date": "2022-02-17 12:04:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-17 12:19:25"
+        "update_date": "2022-02-18 18:29:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NjU0NDU1OA==&mid=2247659499&idx=3&sn=70668f787dfa14ae84bc652556218104",
@@ -4267,7 +4267,8 @@
         "created_at": "2022-02-17",
         "archive": "gh_79ddf4ffac70_2022-02-17_2652092853_ybwzLNpxgD.y.tar.gz",
         "censored_date": "2022-02-17 13:32:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-18 17:42:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247519609&idx=4&sn=2337e28db173cac4f08f8ca7291eea3c",
@@ -4277,7 +4278,8 @@
         "created_at": "2022-02-17",
         "archive": "gh_f86665431cb0_2022-02-17_2247519609_Vt5Fhzu4oa.y.tar.gz",
         "censored_date": "2022-02-17 13:40:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-18 17:57:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247541313&idx=1&sn=1906af85301ae63f8a7f792860b030c9",
@@ -4595,6 +4597,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490796&idx=3&sn=201cb3acee72666a4c787ae6c4b2cdda",
         "title": "深度好文：清帝国是怎么输掉甲午战争的？",
+        "title_eng": "In-depth good article: How did the Qing Empire lose the Sino-Japanese War?",
         "nickname": "江南隐士",
         "created_at": "2022-02-16",
         "archive": "gh_65f5271d2a21_2022-02-16_2247490796_hflBTLsJ13.y.tar.gz",
@@ -4605,6 +4608,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490796&idx=4&sn=548b70969f163551752a0450248c1de5",
         "title": "放开那个女孩！每一次网暴，背后都有人偷笑",
+        "title_eng": "Let go of that girl! Every time there is a cyber riot, there is someone snickering behind the scenes",
         "nickname": "江南隐士",
         "created_at": "2022-02-16",
         "archive": "gh_65f5271d2a21_2022-02-16_2247490796_L0cSe3q2Og.y.tar.gz",
@@ -4614,11 +4618,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490790&idx=1&sn=053747d288335cc14442e73837f27206",
         "title": "中国的底牌：万一战争爆发，我们能否顶住？",
+        "title_eng": "China's trump card: If war breaks out, can we withstand it?",
         "nickname": "江南隐士",
         "created_at": "2022-02-15",
         "archive": "gh_65f5271d2a21_2022-02-15_2247490790_mIlrGXaLzi.y.tar.gz",
         "censored_date": "2022-02-18 17:26:13",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-17 13:28:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490796&idx=5&sn=5b7a652a6201ddc0936574545fb1fcaf",
+        "title": "20年内，我们能治愈韩国人自卑而敏感的“精神病”吗？",
+        "title_eng": "In 20 years, can we cure the psychopathy of the low self-esteem and sensitivity of Koreans?",
+        "nickname": "江南隐士",
+        "created_at": "2022-02-16",
+        "archive": "gh_65f5271d2a21_2022-02-16_2247490796_qasCMt2ZUw.y.tar.gz",
+        "censored_date": "2022-02-18 17:26:59",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247519609&idx=3&sn=71e63d27ec938072a8bb983c6e2a7f2f",
+        "title": "【人才急需】招118名学心理咨询师，0基础可报名！",
+        "nickname": "葫芦岛都市网",
+        "created_at": "2022-02-17",
+        "archive": "gh_f86665431cb0_2022-02-17_2247519609_irIcdE6Jaj.y.tar.gz",
+        "censored_date": "2022-02-18 17:54:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-17 13:39:08"
     }
 ]
