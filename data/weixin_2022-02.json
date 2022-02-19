@@ -5158,6 +5158,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjA4MjA4MA==&mid=2654966526&idx=1&sn=7ccad3a1a7420c14ecc6db1b0f6f60c9",
         "title": "大无语！韩国教授要告中国：这电影，把韩国选手搞成&quot;犯规王&quot;",
+        "title_eng": "Great speechless! Korean professor wants to sue China: This movie made Korean players into",
         "nickname": "观察者网",
         "created_at": "2022-02-18",
         "archive": "gh_5c9e0938601d_2022-02-18_2654966526_EiRLHKXPlv.y.tar.gz",
@@ -5167,6 +5168,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247614700&idx=2&sn=574dd05c1df0c4421809907cd56c6a19",
         "title": "华夏银行行长辞职：七宗罪被监管点名",
+        "title_eng": "Hua Xia Bank President Resigns: Seven Deadly Sins Named by Supervision",
         "nickname": "凤凰网财经",
         "created_at": "2022-02-18",
         "archive": "gh_e76b6086b960_2022-02-18_2247614700_gKWivMp5nt.y.tar.gz",
@@ -5184,5 +5186,23 @@
         "censored_date": "2022-02-20 04:15:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-18 02:07:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247622696&idx=1&sn=e2a61dd7ed85b27f0bb6ef8334502e41",
+        "title": "新冠病人露宿街头，香港医院瘫痪了",
+        "nickname": "远方青木",
+        "created_at": "2022-02-18",
+        "archive": "gh_36dfda0fb531_2022-02-18_2247622696_5kOEIbRQfx.y.tar.gz",
+        "censored_date": "2022-02-20 05:20:25",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651972670&idx=2&sn=9b8349f595a24c28a2f460ba7f03e290",
+        "title": "最新！香港新增约3600例确诊，初步阳性约7600例！上海1病例自香港非法越境被立案，多地悬赏走私偷渡线索",
+        "nickname": "券商中国",
+        "created_at": "2022-02-18",
+        "archive": "gh_6df2146bcb82_2022-02-18_2651972670_vXhLqKTJlk.y.tar.gz",
+        "censored_date": "2022-02-20 04:44:44",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
