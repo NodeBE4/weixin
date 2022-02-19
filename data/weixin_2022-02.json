@@ -5115,6 +5115,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247529295&idx=2&sn=df55a6687275d0fb6b61268141684de7",
         "title": "董卿：如果你没​空看书，请一定要逼自己关注这些公众号",
+        "title_eng": "Dong Qing: If you don’t have time to read books, please force yourself to pay attention to these public accounts",
         "nickname": "难得视界",
         "created_at": "2022-02-17",
         "archive": "gh_1c6cefeca9ab_2022-02-17_2247529295_HX3kVN0Qfp.y.tar.gz",
@@ -5125,6 +5126,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247512230&idx=1&sn=420916cc3fc82f6a5ace3ca609eda147",
         "title": "定了，在2月起人人都可以参与的.....",
+        "title_eng": "It's fixed, everyone can participate from February...",
         "nickname": "登山望岳",
         "created_at": "2022-02-18",
         "archive": "gh_728dda09b5fa_2022-02-18_2247512230_dClNQzm1FE.y.tar.gz",
@@ -5135,11 +5137,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NDc5NDgzNA==&mid=2247512308&idx=1&sn=07e9e1b9710ff70dde7564bd6d3379f2",
         "title": "微信又出新功能了，堪称最强副业 ...",
+        "title_eng": "WeChat has a new function, it can be called the strongest sideline...",
         "nickname": "微思时代",
         "created_at": "2022-02-18",
         "archive": "gh_b28632ea9ab2_2022-02-18_2247512308_KVM2mZfyNa.y.tar.gz",
         "censored_date": "2022-02-19 23:15:50",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-02-18 21:48:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjU1ODAxOQ==&mid=2650990316&idx=1&sn=b0dbbb7b2d260e852bf2873539657e61",
+        "title": "“双碳”领域权威专家为何要上综艺节目？",
+        "title_eng": "Why do authoritative experts in the field of Double Carbon appear on variety shows?",
+        "nickname": "中国环境",
+        "created_at": "2022-02-19",
+        "archive": "gh_52274a65081a_2022-02-19_2650990316_n2KvGZEOj0.y.tar.gz",
+        "censored_date": "2022-02-19 23:36:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
