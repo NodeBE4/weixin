@@ -4930,7 +4930,8 @@
         "created_at": "2022-02-17",
         "archive": "gh_65f5271d2a21_2022-02-17_2247490802_d2s3Yo6xFC.y.tar.gz",
         "censored_date": "2022-02-19 13:11:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-20 16:14:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490805&idx=3&sn=8c0815e43efc559b3ab5d5bde4386b60",
@@ -4940,7 +4941,8 @@
         "created_at": "2022-02-18",
         "archive": "gh_65f5271d2a21_2022-02-18_2247490805_YDMl8mt15p.y.tar.gz",
         "censored_date": "2022-02-19 13:09:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-20 16:14:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247568197&idx=6&sn=705f282284dc13acefca9ba525ef8e08",
@@ -5312,5 +5314,16 @@
         "censored_date": "2022-02-20 14:02:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-19 15:11:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMDIzODQxNQ==&mid=2653971902&idx=1&sn=eb2bbf1e9dabd0949bd93524cb961279",
+        "title": "我96年，挑战月入8W”：不是你不会掙銭，而是你的方式有问题！！！",
+        "title_eng": "In 1996, I challenge the monthly income of 8W: It's not that you can't earn money, but that there is something wrong with your way!!!",
+        "nickname": "法语无疆",
+        "created_at": "2022-02-19",
+        "archive": "gh_49fff09a3c92_2022-02-19_2653971902_cxQGvTuXb6.y.tar.gz",
+        "censored_date": "2022-02-20 16:03:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-19 13:18:20"
     }
 ]
