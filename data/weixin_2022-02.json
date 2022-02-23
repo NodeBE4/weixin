@@ -6017,7 +6017,7 @@
         "archive": "gh_6bf0375ffd3e_2022-02-22_2651566053_5VkKyGrBPD.y.tar.gz",
         "censored_date": "2022-02-22 18:12:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-22 19:55:25"
+        "update_date": "2022-02-24 06:49:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzg0NDIzNg==&mid=2655166559&idx=2&sn=cac918ae1fccf551d65198df6374b459",
@@ -6028,7 +6028,7 @@
         "archive": "gh_7ce7fa0b919e_2022-02-22_2655166559_cYdRjT8BFl.y.tar.gz",
         "censored_date": "2022-02-22 20:23:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-24 00:22:48"
+        "update_date": "2022-02-24 07:19:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247529411&idx=1&sn=2e677516eaccc51d4777e48fac4cfd8c",
@@ -6506,6 +6506,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247540189&idx=3&sn=e577e3895004b3c217788a160b41b996",
         "title": "新冠透支了IVD？第三方检验新的出路在哪？",
+        "title_eng": "New crown overdraft IVD? Where is the new way out for third-party inspection?",
         "nickname": "医业观察",
         "created_at": "2022-02-22",
         "archive": "gh_9cb7cdc6525f_2022-02-22_2247540189_Q3iVIMt0b8.y.tar.gz",
@@ -6515,11 +6516,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650818976&idx=1&sn=6fb59f4819fa505578354f6a893b7330",
         "title": "“淫魔”李宗瑞，和嫩模的激荡往事！",
+        "title_eng": "Despicable Demon Li Zongrui, and the turbulent past of the tender model!",
         "nickname": "环球局势洞见",
         "created_at": "2022-02-21",
         "archive": "gh_a217bb0c34bc_2022-02-21_2650818976_RZ0A6tnXr1.y.tar.gz",
         "censored_date": "2022-02-24 06:08:58",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-22 12:57:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjYxOTczNg==&mid=2247489143&idx=1&sn=03159e6ba05b8f115cbc9e12682c9420",
+        "title": "丰县八孩“父亲”董志民家族的前世今生",
+        "nickname": "主流看点",
+        "created_at": "2022-02-22",
+        "archive": "gh_41151db80680_2022-02-22_2247489143_qgjE60hCXF.y.tar.gz",
+        "censored_date": "2022-02-24 06:38:36",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-22 13:28:26"
     }
 ]
