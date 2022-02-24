@@ -6501,7 +6501,8 @@
         "created_at": "2022-02-23",
         "archive": "gh_9d4eb92add23_2022-02-23_2650923689_QcyWNZRoHz.y.tar.gz",
         "censored_date": "2022-02-24 03:47:10",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-24 08:09:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247540189&idx=3&sn=e577e3895004b3c217788a160b41b996",
@@ -6527,11 +6528,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYxOTczNg==&mid=2247489143&idx=1&sn=03159e6ba05b8f115cbc9e12682c9420",
         "title": "丰县八孩“父亲”董志民家族的前世今生",
+        "title_eng": "The past and present life of Dong Zhimin's family, the father of eight children in Fengxian County",
         "nickname": "主流看点",
         "created_at": "2022-02-22",
         "archive": "gh_41151db80680_2022-02-22_2247489143_qgjE60hCXF.y.tar.gz",
         "censored_date": "2022-02-24 06:38:36",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-02-22 13:28:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyOTI4Mzg2NQ==&mid=2650095283&idx=3&sn=e7f0a8ee774995be30b9558050908994",
+        "title": "丰县八孩“父亲”董志民家族的前世今生",
+        "title_eng": "The past and present life of Dong Zhimin's family, the father of eight children in Fengxian County",
+        "nickname": "90后洞见",
+        "created_at": "2022-02-22",
+        "archive": "gh_63ac0d780c3a_2022-02-22_2650095283_95aOgiV2fe.y.tar.gz",
+        "censored_date": "2022-02-24 07:27:47",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-24 03:06:32"
     }
 ]
