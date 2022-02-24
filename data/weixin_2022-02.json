@@ -6289,7 +6289,8 @@
         "created_at": "2022-02-23",
         "archive": "gh_9a7eb2f2b33b_2022-02-23_2247501477_sRSrgfLqdU.y.tar.gz",
         "censored_date": "2022-02-23 13:51:44",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-24 17:19:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2MjE3MDEyOA==&mid=2650913618&idx=2&sn=8462b6e461ece722102dfb035973a875",
@@ -6311,7 +6312,7 @@
         "archive": "gh_ccf6a72b140a_2022-02-22_2247494715_27HaV0rjUf.y.tar.gz",
         "censored_date": "2022-02-23 16:05:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-23 17:31:25"
+        "update_date": "2022-02-24 17:04:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653349539&idx=2&sn=59b6263af94c50dd7130a845319c7867",
@@ -6664,5 +6665,25 @@
         "archive": "gh_1ede6c42db01_2022-02-24_2247626916_yH0oiC3R5h.y.tar.gz",
         "censored_date": "2022-02-24 16:08:50",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494718&idx=2&sn=f5ac4ad8df35e66a1ee1d746e2b7a269",
+        "title": "国家正式通知！本科以下学历每人补贴6000元！政策扶持，名额有限，速看！",
+        "nickname": "北斗局",
+        "created_at": "2022-02-23",
+        "archive": "gh_ccf6a72b140a_2022-02-23_2247494718_jPy17B4O6u.y.tar.gz",
+        "censored_date": "2022-02-24 17:03:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-23 16:04:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjE3MDEyOA==&mid=2650913663&idx=1&sn=e304cdfe252c4697849f38de7d8f5613",
+        "title": "信托业务分类制度改革引热议！信托圈的你怎么看？",
+        "nickname": "上海信托圈",
+        "created_at": "2022-02-24",
+        "archive": "gh_50ff51071597_2022-02-24_2650913663_vpOxPFm0qE.y.tar.gz",
+        "censored_date": "2022-02-24 16:53:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-24 17:03:28"
     }
 ]
