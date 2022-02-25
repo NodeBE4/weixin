@@ -6712,7 +6712,8 @@
         "created_at": "2022-02-23",
         "archive": "gh_65f5271d2a21_2022-02-23_2247490820_7VH3A5dr0p.y.tar.gz",
         "censored_date": "2022-02-24 20:42:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-25 19:50:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzU4OTczMA==&mid=2247580308&idx=1&sn=66bec1c39be9020a35530b6f051f11d5",
@@ -6875,5 +6876,16 @@
         "censored_date": "2022-02-25 13:47:35",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-24 14:07:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDk0OTczNw==&mid=2247526716&idx=1&sn=d8557448ef06d7663176343e6ab888ef",
+        "title": "突发！丰县县委书记被撤职！检察院批捕3名犯罪嫌疑人",
+        "title_eng": "burst! The Secretary of the Fengxian County Party Committee was dismissed! Procuratorate arrests 3 suspects",
+        "nickname": "法官读库",
+        "created_at": "2022-02-23",
+        "archive": "gh_ec022d1e140c_2022-02-23_2247526716_kQYB5DUubg.y.tar.gz",
+        "censored_date": "2022-02-25 19:33:48",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-24 20:17:05"
     }
 ]
