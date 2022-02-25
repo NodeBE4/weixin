@@ -6670,7 +6670,8 @@
         "created_at": "2022-02-24",
         "archive": "gh_1ede6c42db01_2022-02-24_2247626916_yH0oiC3R5h.y.tar.gz",
         "censored_date": "2022-02-24 16:08:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-26 04:14:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494718&idx=2&sn=f5ac4ad8df35e66a1ee1d746e2b7a269",
@@ -6692,7 +6693,7 @@
         "archive": "gh_50ff51071597_2022-02-24_2650913663_vpOxPFm0qE.y.tar.gz",
         "censored_date": "2022-02-24 16:53:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-25 19:05:46"
+        "update_date": "2022-02-26 03:59:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247532789&idx=2&sn=41377a0f71ea8a39b2e627c8b826b9c3",
@@ -6989,11 +6990,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494721&idx=2&sn=d77bbe5b8d732c61fb159ec22b7f3b9d",
         "title": "正式通知！最后2天！全国限招100人！政策扶持，直升本科，考公、考证、升职晋升均可用！",
+        "title_eng": "formal notice! Last 2 days! Recruit 100 people nationwide! Policy support, direct entry to undergraduate, public examination, research, promotion and promotion are all available!",
         "nickname": "北斗局",
         "created_at": "2022-02-24",
         "archive": "gh_ccf6a72b140a_2022-02-24_2247494721_cz1u06yEOU.y.tar.gz",
         "censored_date": "2022-02-26 03:16:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-24 18:25:45"
+        "update_date": "2022-02-26 03:33:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490823&idx=2&sn=1b225fdd3dfe60a949e5c37fce8619b3",
+        "title": "推荐一个PPT副业，日赚800-1000元",
+        "nickname": "江南隐士",
+        "created_at": "2022-02-24",
+        "archive": "gh_65f5271d2a21_2022-02-24_2247490823_aFsQv3uT6y.y.tar.gz",
+        "censored_date": "2022-02-26 03:32:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-26 04:06:19"
     }
 ]
