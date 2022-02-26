@@ -6922,7 +6922,8 @@
         "created_at": "2022-02-25",
         "archive": "gh_4b9b0448fa81_2022-02-25_2652128947_OcYbU4WZXu.y.tar.gz",
         "censored_date": "2022-02-25 22:38:10",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-27 01:27:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTkxMTQxNA==&mid=2247558520&idx=1&sn=61ded62c59582fae59c2958687bfeeb2",
@@ -7191,7 +7192,8 @@
         "created_at": "2022-02-25",
         "archive": "gh_a517719487ef_2022-02-25_2652237850_cTfEH02ax0.y.tar.gz",
         "censored_date": "2022-02-26 16:38:55",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-27 02:17:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651198519&idx=2&sn=7b3d38df4827644fe24cfb9f29df11a5",
@@ -7320,5 +7322,16 @@
         "censored_date": "2022-02-27 00:07:44",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-25 22:05:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652237850&idx=5&sn=c58d732d1897935d993f29f12b1a2510",
+        "title": "与普京不同调！俄150位高官发公开信促停止战争",
+        "title_eng": "Not in tune with Putin! 150 high-ranking Russian officials issue open letter urging end of war",
+        "nickname": "大千世界",
+        "created_at": "2022-02-25",
+        "archive": "gh_a517719487ef_2022-02-25_2652237850_IPwGLEOg1s.y.tar.gz",
+        "censored_date": "2022-02-27 02:17:28",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-25 17:06:52"
     }
 ]
