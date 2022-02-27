@@ -7216,7 +7216,8 @@
         "created_at": "2022-02-26",
         "archive": "gh_3d7d7b24f21b_2022-02-26_2651312303_hyXoxnROZt.y.tar.gz",
         "censored_date": "2022-02-26 17:00:01",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-28 02:32:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652237956&idx=1&sn=dd3314f7a4b5fb18f808100af16046b8",
@@ -7707,5 +7708,15 @@
         "censored_date": "2022-02-28 01:44:37",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-02-25 22:48:04"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MTM2NzAyNg==&mid=2247522108&idx=4&sn=1c6acec7c909603f9ac3b76e6e8bc27d",
+        "title": "俄罗斯为什么要侵略乌克兰",
+        "nickname": "法律检索",
+        "created_at": "2022-02-24",
+        "archive": "gh_be91d3a11617_2022-02-24_2247522108_Rv4uP2aLI0.y.tar.gz",
+        "censored_date": "2022-02-28 02:58:00",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-02-26 22:51:16"
     }
 ]
