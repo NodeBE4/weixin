@@ -7571,6 +7571,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzI1MTg4Mw==&mid=2652017477&idx=3&sn=01505512cdbb6b593a92303990ee1496",
         "title": "无辜的乌克兰民众，我为你哭泣！",
+        "title_eng": "Innocent Ukrainian people, I cry for you!",
         "nickname": "现代与经典",
         "created_at": "2022-02-25",
         "archive": "gh_635067669e47_2022-02-25_2652017477_l8L3CGITft.y.tar.gz",
@@ -7581,6 +7582,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650362013&idx=2&sn=66d95642c03a4bace1cc3fc33cb0c302",
         "title": "高安一女子骑电动车与行人相撞！行人抢救后不幸...",
+        "title_eng": "A woman in Gao An collided with a pedestrian on an electric bike! Pedestrian rescue after unfortunate...",
         "nickname": "高安百事通",
         "created_at": "2022-02-26",
         "archive": "gh_1d97537c840d_2022-02-26_2650362013_SlMPpaCw04.y.tar.gz",
@@ -7591,6 +7593,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247520960&idx=1&sn=051f5eccc996c6f8dbac30a362ea11d2",
         "title": "建议将律师收入一半分给法官，盘点那些让法官热血沸腾的代表建议",
+        "title_eng": "It is recommended to distribute half of the lawyer's income to the judge, and take stock of the representative suggestions that make the judge's blood boil",
         "nickname": "法苑茶语",
         "created_at": "2022-02-26",
         "archive": "gh_bf54f24b2e87_2022-02-26_2247520960_f67BlF0PoV.y.tar.gz",
@@ -7601,10 +7604,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338003&idx=2&sn=e2d6b0b8becb2526118fb74992fcd81f",
         "title": "越南-俄罗斯隐蔽联动? 一个被忽略的大动作 | 文化纵横",
+        "title_eng": "Vietnam-Russia covert linkage? An overlooked big move | Cultural aspect",
         "nickname": "文化纵横",
         "created_at": "2022-02-27",
         "archive": "gh_f85d25e406e2_2022-02-27_2664338003_YFW7xrzvUA.y.tar.gz",
         "censored_date": "2022-02-27 20:56:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247501740&idx=2&sn=a4875779e0dc729e0ce975fc352aabf4",
+        "title": "为什么男人喝酒后，两性时间会更持久，女人更舒服？30岁以上男人建议收藏",
+        "nickname": "毛有话说",
+        "created_at": "2022-02-26",
+        "archive": "gh_097268c5ef0e_2022-02-26_2247501740_FsPIeXOErY.y.tar.gz",
+        "censored_date": "2022-02-27 21:32:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-26 23:43:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247569081&idx=2&sn=b8e6c860df5aad47682877737ca8492d",
+        "title": "2022年3月1日起，对于“欠钱不还”“不接电话”“直接消失”的人，有两个方法解决",
+        "nickname": "律法新声",
+        "created_at": "2022-02-25",
+        "archive": "gh_697523b9eb34_2022-02-25_2247569081_4TZNvSasnB.y.tar.gz",
+        "censored_date": "2022-02-27 22:11:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-27 01:46:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247569081&idx=3&sn=8306ea4b3b3f0b096c052517fbfbac59",
+        "title": "​中院判决：夫妻一方违反忠诚义务向婚外异性大额转款的行为无效，配偶可主张全额返还",
+        "nickname": "律法新声",
+        "created_at": "2022-02-25",
+        "archive": "gh_697523b9eb34_2022-02-25_2247569081_1HYGjw3f0U.y.tar.gz",
+        "censored_date": "2022-02-27 22:07:48",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
