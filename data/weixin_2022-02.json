@@ -7249,7 +7249,7 @@
         "archive": "gh_afb7e3bcbae3_2022-02-26_2247556185_u5nrZ2Wlgo.y.tar.gz",
         "censored_date": "2022-02-26 17:55:19",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-02-26 20:18:16"
+        "update_date": "2022-02-27 20:18:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805446&idx=1&sn=4a1f3d4e247ef98a3d2d7544717f6e0e",
@@ -7260,7 +7260,7 @@
         "archive": "gh_0d903ba9d2be_2022-02-25_2651805446_CFQcl8sn1K.y.tar.gz",
         "censored_date": "2022-02-26 19:58:33",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-02-25 21:09:33"
+        "update_date": "2022-02-27 19:55:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653563931&idx=5&sn=438f31a2576794734a5824e12de5fe7b",
@@ -7531,6 +7531,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653665875&idx=2&sn=f95ed02daa24f31db5b0a90c715faa19",
         "title": "乌克兰曾经也是战斗民族，今天为什么混成这样？",
+        "title_eng": "Ukraine used to be a fighting nation, why is it mixed up like this today?",
         "nickname": "简笔笑画",
         "created_at": "2022-02-24",
         "archive": "gh_c364747d22d0_2022-02-24_2653665875_LzVfKOgBad.y.tar.gz",
@@ -7540,6 +7541,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247520944&idx=2&sn=a666b954a8f01253ca6125f48154fbb2",
         "title": "人生不可不知的8条歪理，歪得很有道理",
+        "title_eng": "8 fallacies you must know in life",
         "nickname": "法苑茶语",
         "created_at": "2022-02-25",
         "archive": "gh_bf54f24b2e87_2022-02-25_2247520944_ASxkYT5ROG.y.tar.gz",
@@ -7549,10 +7551,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDU3NzQ5Mw==&mid=2247542073&idx=1&sn=f9eb1dc890099fc37f5b2f26ee121dec",
         "title": "普洱茶，为什么说“喝生不喝熟”？后悔现在才知道！",
+        "title_eng": "Pu-erh tea, why do you say drink raw or not cooked? Sorry to know only now!",
         "nickname": "海外财经",
         "created_at": "2022-02-26",
         "archive": "gh_8f29429f71d7_2022-02-26_2247542073_mlZXbIp40D.y.tar.gz",
         "censored_date": "2022-02-27 19:17:05",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTE5ODI0Ng==&mid=2247484279&idx=1&sn=28c02c6a87ce98e0edb12535f39c4020",
+        "title": "定了！大势所趋，各大行突然宣布：2022年新政策，全民聚焦该行业！",
+        "title_eng": "deal! With the general trend, the major banks suddenly announced: the new policy in 2022, the whole people will focus on the industry!",
+        "nickname": "牛角鱼2021",
+        "created_at": "2022-02-26",
+        "archive": "gh_ae1101605535_2022-02-26_2247484279_JzZmV20G34.y.tar.gz",
+        "censored_date": "2022-02-27 20:03:13",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
