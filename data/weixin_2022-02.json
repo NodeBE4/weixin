@@ -7785,7 +7785,8 @@
         "created_at": "2022-02-28",
         "archive": "gh_dc5fb6fdb9c6_2022-02-28_2247611023_NinmWJr94d.y.tar.gz",
         "censored_date": "2022-02-28 13:00:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-28 15:35:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652238036&idx=1&sn=b9f608dbc59ffb2ce7f9895f27ca58b9",
@@ -7800,6 +7801,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzMxNjQzMA==&mid=2650756792&idx=1&sn=f46a2cd050b2f0e8f79ea8d362ec20c9",
         "title": "星链首次实战，网络成为俄乌冲突“第二战场” | 新京报专栏",
+        "title_eng": "Star Chain's first actual combat, the Internet has become the second battlefield of the Russia-Ukraine conflict | Beijing News Column",
         "nickname": "新京报评论",
         "created_at": "2022-02-27",
         "archive": "gh_419ea35befa4_2022-02-27_2650756792_G6wc3LPfBM.y.tar.gz",
@@ -7810,11 +7812,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDEyNDQ4OQ==&mid=2657459388&idx=1&sn=fb057ffb823783a8b4b6faaabe8d1aab",
         "title": "齐泽克 | 乌克兰危机：美女棺材里的PUTIN",
+        "title_eng": "Zizek | Ukraine crisis: PUTIN in the coffin of beauty",
         "nickname": "海螺Caracoles",
         "created_at": "2022-02-26",
         "archive": "gh_f193e5fa6f61_2022-02-26_2657459388_bJ1m5A3wBI.y.tar.gz",
         "censored_date": "2022-02-28 15:13:08",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-02-27 18:17:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652749037&idx=1&sn=be16ad12c203ac4c5830cb1d63410e30",
+        "title": "解密通往元宇宙的三大入口，VR先上AR紧跟，但脑机接口才是未来【附下载】| 智东西内参",
+        "title_eng": "Deciphering the three major entrances to the metaverse, VR will follow AR first, but brain-computer interface is the future [download attached] |",
+        "nickname": "智东西",
+        "created_at": "2022-02-27",
+        "archive": "gh_06a331376c81_2022-02-27_2652749037_yPTAVcLh2i.y.tar.gz",
+        "censored_date": "2022-02-28 15:40:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-02-27 20:46:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247516154&idx=1&sn=1fa1e5b98b423e90285ba6eaffcbc71d",
+        "title": "重要：公安事业编分流！",
+        "nickname": "政e视角",
+        "created_at": "2022-02-28",
+        "archive": "gh_4d1e27733468_2022-02-28_2247516154_vPHKIrF8lA.y.tar.gz",
+        "censored_date": "2022-02-28 16:30:51",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
