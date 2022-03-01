@@ -1314,7 +1314,7 @@
         "archive": "gh_f193e5fa6f61_2022-02-26_2657459388_bJ1m5A3wBI.y.tar.gz",
         "censored_date": "2022-02-28 15:13:08",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-02-27 18:17:51"
+        "update_date": "2022-03-01 20:31:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338003&idx=2&sn=e2d6b0b8becb2526118fb74992fcd81f",
@@ -1904,6 +1904,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247573624&idx=5&sn=477eee1ec6098ebf017dd257d5731eec",
         "title": "乌克兰的爆炸声中，普京思想负担比较重",
+        "title_eng": "Amid the explosions in Ukraine, Putin's ideological burden is heavier",
         "nickname": "金融茶社",
         "created_at": "2022-02-28",
         "archive": "gh_5f5aaff92191_2022-02-28_2247573624_YopMV90zX7.y.tar.gz",
@@ -1914,6 +1915,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2660880753&idx=1&sn=fc626359b3610009f104914af4e54154",
         "title": "中美重磅新研究：新冠病毒并非源起实验室，乃自然起源｜钛媒体科普",
+        "title_eng": "New research from China and the United States: the new coronavirus did not originate in a laboratory, but a natural origin | Titanium Media Science",
         "nickname": "钛媒体",
         "created_at": "2022-03-01",
         "archive": "gh_99d4be81cba2_2022-03-01_2660880753_WKxltGMe03.y.tar.gz",
@@ -1923,11 +1925,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247573534&idx=3&sn=bb8455c55a6d8673372f92089547b83a",
         "title": "一个反战者居然不反美，这是我听过最好笑的笑话",
+        "title_eng": "It's the funniest joke I've ever heard that an anti-war person is not anti-American",
         "nickname": "金融茶社",
         "created_at": "2022-02-26",
         "archive": "gh_5f5aaff92191_2022-02-26_2247573534_PIJESulKMx.y.tar.gz",
         "censored_date": "2022-03-01 19:06:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-03-01 03:08:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTA3NjkzMQ==&mid=2650821166&idx=1&sn=0c9df35abb829241911e40137bbc2461",
+        "title": "致敬榜样！关于表扬2021年度广州市学雷锋志愿服务先进典型的通报",
+        "title_eng": "Salute to the example! Announcement on commending the advanced model of Guangzhou's Lei Feng volunteer service in 2021",
+        "nickname": "文明广州",
+        "created_at": "2022-03-01",
+        "archive": "gh_733d96f8c1e7_2022-03-01_2650821166_STZzm5vpuA.y.tar.gz",
+        "censored_date": "2022-03-01 20:09:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-01 20:19:48"
     }
 ]
