@@ -1770,7 +1770,8 @@
         "created_at": "2022-02-28",
         "archive": "gh_c2115bbeae10_2022-02-28_2649529776_1IhBQLlfTR.y.tar.gz",
         "censored_date": "2022-03-01 02:06:30",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-01 17:29:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652749037&idx=1&sn=be16ad12c203ac4c5830cb1d63410e30",
@@ -1876,5 +1877,24 @@
         "archive": "gh_dbc0a5474692_2022-03-01_2650839268_EUQLu6wCXG.y.tar.gz",
         "censored_date": "2022-03-01 15:14:15",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247624657&idx=1&sn=85a59a25b77345a715c167c7ee2ffda8",
+        "title": "被欧美扔下金融核弹后，俄罗斯开始拥抱人民币支付系统",
+        "nickname": "远方青木",
+        "created_at": "2022-02-28",
+        "archive": "gh_36dfda0fb531_2022-02-28_2247624657_YvcgDPNZFb.y.tar.gz",
+        "censored_date": "2022-03-01 17:42:01",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MDIwOTEwNw==&mid=2247561688&idx=1&sn=b336e98468774db4b78ca796f5848a81",
+        "title": "普京甘冒风险“豪赌”乌克兰，精神状况受到关注和质疑",
+        "nickname": "新加坡红蚂蚁",
+        "created_at": "2022-02-28",
+        "archive": "gh_b41ef7c2cea1_2022-02-28_2247561688_l8h0L3Nnvb.y.tar.gz",
+        "censored_date": "2022-03-01 18:29:01",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-01 02:46:02"
     }
 ]
