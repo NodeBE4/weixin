@@ -1608,7 +1608,7 @@
         "archive": "gh_419ea35befa4_2022-02-27_2650756792_G6wc3LPfBM.y.tar.gz",
         "censored_date": "2022-02-28 14:47:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-02-27 20:12:51"
+        "update_date": "2022-03-01 09:53:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650160053&idx=4&sn=d368aa749c5aae02f13feb184179ebad",
@@ -1811,5 +1811,24 @@
         "censored_date": "2022-02-28 14:10:09",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-03-01 09:31:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxNzAwMDkwNQ==&mid=2247624734&idx=2&sn=1f8f2b38f39bef775388736d27e0ca82",
+        "title": "盲盒的新角色？",
+        "nickname": "刺猬公社",
+        "created_at": "2022-03-01",
+        "archive": "gh_e0496918f5f9_2022-03-01_2247624734_lwtsbAQqmn.y.tar.gz",
+        "censored_date": "2022-03-01 10:36:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-01 09:14:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjY4ODYwNA==&mid=2651739070&idx=2&sn=d6d1d5a514733e9d7ee8cf89d1d63c45",
+        "title": "从地缘政治看俄罗斯的软肋",
+        "nickname": "水煮历史",
+        "created_at": "2022-03-01",
+        "archive": "gh_b8e851bb117a_2022-03-01_2651739070_OXrZGWNIYB.y.tar.gz",
+        "censored_date": "2022-03-01 10:46:11",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
