@@ -2282,7 +2282,7 @@
         "archive": "gh_088decdf1338_2022-03-01_2650057035_v68AoC4VPZ.y.tar.gz",
         "censored_date": "2022-03-02 22:28:39",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-02 01:01:21"
+        "update_date": "2022-03-03 05:42:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247540155&idx=3&sn=22e9bf6db1ad3225abb515737fe17cd2",
@@ -2293,7 +2293,7 @@
         "archive": "gh_b984621ff266_2022-03-01_2247540155_6q0k7ABGgC.y.tar.gz",
         "censored_date": "2022-03-02 22:59:08",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-02 01:16:40"
+        "update_date": "2022-03-03 06:14:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247513301&idx=3&sn=3fe8ce2261fb0803058cd253abff36a9",
@@ -2315,7 +2315,7 @@
         "archive": "gh_69f7ba479665_2022-02-28_2247513301_qHlVcW7NuC.y.tar.gz",
         "censored_date": "2022-03-02 23:09:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-02 01:27:08"
+        "update_date": "2022-03-03 06:19:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODA5MzgwNw==&mid=2650057035&idx=1&sn=ede7a54b63219a56bf74f424d5b452fa",
@@ -2446,5 +2446,27 @@
         "censored_date": "2022-03-03 03:01:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-03-01 17:19:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247540155&idx=2&sn=3da4f56bd4aa889c921f3cede50540b4",
+        "title": "3月1日：各国对俄罗斯最新制裁措施汇总",
+        "title_eng": "March 1: A summary of the latest sanctions against Russia by countries",
+        "nickname": "遮眼看天",
+        "created_at": "2022-03-01",
+        "archive": "gh_b984621ff266_2022-03-01_2247540155_73c9FCkUnB.y.tar.gz",
+        "censored_date": "2022-03-03 06:08:24",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-02 01:14:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247539988&idx=1&sn=90212eb56a0ba6ffe2e4e65aade2f05d",
+        "title": "乌克兰总统泽连斯基向全体俄罗斯公民的演讲",
+        "title_eng": "Speech by Ukrainian President Volodymyr Zelensky to all Russian citizens",
+        "nickname": "遮眼看天",
+        "created_at": "2022-02-26",
+        "archive": "gh_b984621ff266_2022-02-26_2247539988_Hf5dOC9oeL.y.tar.gz",
+        "censored_date": "2022-03-03 06:10:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-02 01:16:14"
     }
 ]
