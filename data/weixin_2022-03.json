@@ -1949,7 +1949,7 @@
         "archive": "gh_733d96f8c1e7_2022-03-01_2650821166_STZzm5vpuA.y.tar.gz",
         "censored_date": "2022-03-01 20:09:23",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-01 20:19:48"
+        "update_date": "2022-03-02 20:18:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338003&idx=1&sn=4bf5f187cf23b909072e0bb1d1b9c47d",
@@ -2222,6 +2222,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651359126&idx=2&sn=7745bf0a938d2a490a982ea821cc6ec3",
         "title": "真正厉害的人，早就把人生调成了“静音模式”，优秀的人都在看这几个公众号",
+        "title_eng": "The really powerful people have already turned their lives into silent mode, and outstanding people are watching these public accounts",
         "nickname": "精英热门",
         "created_at": "2022-02-27",
         "archive": "gh_38623feea9d8_2022-02-27_2651359126_jEZapYcqwV.y.tar.gz",
@@ -2231,10 +2232,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650165207&idx=1&sn=ac6d4f4d6881a2caaaef7ce5ee7cd99f",
         "title": "新时代中国特色社会主义文艺观的三维阐释",
+        "title_eng": "Three-dimensional Interpretation of the Socialist Concept of Literature and Art with Chinese Characteristics in the New Era",
         "nickname": "中国社会科学网",
         "created_at": "2022-03-02",
         "archive": "gh_60e26bf6d108_2022-03-02_2650165207_DA5Ew2NGu0.y.tar.gz",
         "censored_date": "2022-03-02 18:38:25",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MzY2MDkzOQ==&mid=2650833947&idx=2&sn=6772c2c8aceb707b7f39ecdd5fb3285c",
+        "title": "【关注】什么是时空伴随者？收到短信后该怎么办？",
+        "title_eng": "[Focus] What is a space-time attendant? What should I do when I receive a text message?",
+        "nickname": "湖北发布",
+        "created_at": "2022-03-01",
+        "archive": "gh_8e14a2cc7d73_2022-03-01_2650833947_TdZfpaSnG7.y.tar.gz",
+        "censored_date": "2022-03-02 19:29:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-01 22:10:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODUxNTA4NA==&mid=2247530737&idx=1&sn=be47870a6812e43c1e548e87542251de",
+        "title": "又遭暴击！俄央行遭制裁！瑞士插刀冻结俄资产！欧盟向乌提供致命性武器！",
+        "title_eng": "Attacked again! Central Bank of Russia is sanctioned! Switzerland freezes Russian assets! EU provides Ukraine with lethal weapons!",
+        "nickname": "时代观察团",
+        "created_at": "2022-03-01",
+        "archive": "gh_b1dc53661818_2022-03-01_2247530737_wULcTA2oe1.y.tar.gz",
+        "censored_date": "2022-03-02 20:04:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-01 23:47:05"
     }
 ]
