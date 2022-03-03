@@ -2634,7 +2634,8 @@
         "created_at": "2022-03-02",
         "archive": "gh_4085c3a821a4_2022-03-02_2669202919_erQGaXtHZ3.y.tar.gz",
         "censored_date": "2022-03-03 18:25:24",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-04 06:09:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247526669&idx=1&sn=60b2e211ecbb9a979d71cc6e0783850c",
@@ -2820,11 +2821,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338137&idx=2&sn=475710a4c284dff8ca43a4e77751da04",
         "title": "还剩2天 | 又一波“冰墩墩”免费送",
+        "title_eng": "2 days left | Another wave of BingdunDun free delivery",
         "nickname": "文化纵横",
         "created_at": "2022-03-02",
         "archive": "gh_f85d25e406e2_2022-03-02_2664338137_nfT4rxDQtH.y.tar.gz",
         "censored_date": "2022-03-04 04:41:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-03-03 16:18:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805456&idx=7&sn=05b3f37bdc6010200d4e6010f20d4c56",
+        "title": "中国流行病学专家曾光：将在合适时间点提出中国式共存路线",
+        "title_eng": "Zeng Guang, a Chinese epidemiologist: will propose a Chinese-style coexistence route at an appropriate time",
+        "nickname": "冷眼文摘",
+        "created_at": "2022-03-02",
+        "archive": "gh_0d903ba9d2be_2022-03-02_2651805456_8YUykQ16DV.y.tar.gz",
+        "censored_date": "2022-03-04 05:27:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-03 17:24:52"
     }
 ]
