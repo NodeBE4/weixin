@@ -2230,7 +2230,8 @@
         "created_at": "2022-02-27",
         "archive": "gh_38623feea9d8_2022-02-27_2651359126_jEZapYcqwV.y.tar.gz",
         "censored_date": "2022-03-02 19:23:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-03 22:15:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDUwMjMxNA==&mid=2650165207&idx=1&sn=ac6d4f4d6881a2caaaef7ce5ee7cd99f",
@@ -2716,5 +2717,14 @@
         "archive": "gh_30b5796604e2_2022-03-02_2247517088_HmCQ2p4cPe.y.tar.gz",
         "censored_date": "2022-03-03 21:12:28",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650184391&idx=3&sn=6a32a29b89210b3f9c55d4a61e3a2974",
+        "title": "研究：华南海鲜市场的新冠病毒或来自人而非动物",
+        "nickname": "财新网",
+        "created_at": "2022-03-03",
+        "archive": "caixinwang_2022-03-03_2650184391_GTyUB0pw7V.y.tar.gz",
+        "censored_date": "2022-03-03 22:00:23",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
