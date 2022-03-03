@@ -2539,10 +2539,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTQ3NTEwMg==&mid=2753614081&idx=1&sn=83bd683c3ff4569ea267cb95cf766f3c",
         "title": "清晨一小时：紫荆公寓火情纪实",
+        "title_eng": "One hour in the morning: Documentary of the fire in Bauhinia Apartment",
         "nickname": "清华大学清新时报",
         "created_at": "2022-03-03",
         "archive": "gh_5c4e342a79a0_2022-03-03_2753614081_IJ6kagSBYm.y.tar.gz",
         "censored_date": "2022-03-03 11:14:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDY4ODEyNg==&mid=2651043956&idx=2&sn=b16930a5d40277f23ef91db068d7f6d7",
+        "title": "为普京呐喊助威的人看看这个视频",
+        "title_eng": "People cheering for Putin watch this video",
+        "nickname": "洞察文摘",
+        "created_at": "2022-03-03",
+        "archive": "gh_303217180b99_2022-03-03_2651043956_h6GMfce5Lu.y.tar.gz",
+        "censored_date": "2022-03-03 12:08:33",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-03 08:43:55"
     }
 ]
