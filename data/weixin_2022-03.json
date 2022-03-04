@@ -2985,7 +2985,8 @@
         "created_at": "2022-03-04",
         "archive": "gh_88e9499896f5_2022-03-04_2247508227_ACS6eu7YE5.y.tar.gz",
         "censored_date": "2022-03-04 22:13:42",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-05 06:59:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653667015&idx=2&sn=79d68830c86d20856fba14168629fb26",
@@ -3071,5 +3072,15 @@
         "archive": "gh_4002b1765479_2022-03-03_2650344890_lZISyU02st.y.tar.gz",
         "censored_date": "2022-03-05 02:03:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDE4MDg4Mw==&mid=2649275181&idx=2&sn=4d740983a9a38321db8cd572b5da9518",
+        "title": "俄-罗-斯 似乎远不如人们想象的那么强大",
+        "nickname": "大数据小伙伴",
+        "created_at": "2022-03-03",
+        "archive": "gh_16e68ee8982f_2022-03-03_2649275181_cAsGyVfEU2.y.tar.gz",
+        "censored_date": "2022-03-05 06:54:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-04 02:22:57"
     }
 ]
