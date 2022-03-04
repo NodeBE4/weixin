@@ -2735,7 +2735,8 @@
         "created_at": "2022-03-03",
         "archive": "caixinwang_2022-03-03_2650184391_GTyUB0pw7V.y.tar.gz",
         "censored_date": "2022-03-03 22:00:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-04 16:28:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805454&idx=2&sn=33d4d7cf428bfac62f0d72f727bbe28c",
@@ -2909,5 +2910,16 @@
         "archive": "gh_65f5271d2a21_2022-03-03_2247490844_8YwvcNxsRq.y.tar.gz",
         "censored_date": "2022-03-04 12:48:26",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDIzNzAzMg==&mid=2650059192&idx=4&sn=6beec03cfcb347034867fd8d2a43d6c4",
+        "title": "俄军围攻基辅再遭重创！5710俄兵阵亡",
+        "title_eng": "The Russian army's siege of Kyiv was hit again! 5710 Russian soldiers killed",
+        "nickname": "小彻小悟",
+        "created_at": "2022-03-02",
+        "archive": "gh_1304b5a2a3e7_2022-03-02_2650059192_PyHTtLnxjM.y.tar.gz",
+        "censored_date": "2022-03-04 16:04:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-03 19:19:31"
     }
 ]
