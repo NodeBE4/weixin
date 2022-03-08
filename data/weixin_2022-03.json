@@ -3622,7 +3622,8 @@
         "created_at": "2022-03-07",
         "archive": "gh_728dda09b5fa_2022-03-07_2247512502_T6S0Ea4fNb.y.tar.gz",
         "censored_date": "2022-03-08 00:55:28",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-08 16:05:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0OTMxNjY2MA==&mid=2247595086&idx=2&sn=7d1f1e9d789bc009f554ad3cd03d7333",
@@ -3718,7 +3719,8 @@
         "created_at": "2022-03-07",
         "archive": "gh_65f5271d2a21_2022-03-07_2247490856_WIMY5BbrwD.y.tar.gz",
         "censored_date": "2022-03-08 12:34:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-08 15:28:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MzcxMDQyNg==&mid=2655986227&idx=1&sn=ac0a6d6b07bd55b08c252e6c08981514",
@@ -3744,6 +3746,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247499799&idx=3&sn=8e70d6df31319029ffdcd730f4e26dee",
         "title": "外卖商家之困，解法是否只在降佣金？",
+        "title_eng": "Is the solution to the problem of takeaway merchants only to reduce commissions?",
         "nickname": "首富商圈",
         "created_at": "2022-03-06",
         "archive": "gh_c7f9947afc98_2022-03-06_2247499799_tinm6zwKNP.y.tar.gz",
@@ -3754,6 +3757,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247499799&idx=2&sn=d79d620ec3cd63a7bcd59b0aed5c9a45",
         "title": "《易经》：改变命运的方法，很简单但很少人知道！",
+        "title_eng": "Book of Changes: The way to change destiny is very simple but few people know it!",
         "nickname": "首富商圈",
         "created_at": "2022-03-06",
         "archive": "gh_c7f9947afc98_2022-03-06_2247499799_xZJgR0yc9P.y.tar.gz",
