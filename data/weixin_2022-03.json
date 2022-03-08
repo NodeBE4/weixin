@@ -3898,6 +3898,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MDcyMzgwNg==&mid=2247498200&idx=1&sn=b2d2222f8106b88acbee21a10ca811ad",
         "title": "跌哭了，说好的两会行情呢？",
+        "title_eng": "I cried, what about the two sessions?",
         "nickname": "钱老师私人笔记",
         "created_at": "2022-03-07",
         "archive": "gh_7fc57d721082_2022-03-07_2247498200_MhpylIbSxf.y.tar.gz",
@@ -3908,10 +3909,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTE5ODI0Ng==&mid=2247484291&idx=1&sn=a4581ae0933712b82a3d38c26db194de",
         "title": "牛角鱼：三八妇女节删改重发，感谢放行，乌拉！",
+        "title_eng": "Hornfish: Reposted and edited for Women's Day on March 8, thank you for letting me go, Ulla!",
         "nickname": "牛角鱼2021",
         "created_at": "2022-03-08",
         "archive": "gh_ae1101605535_2022-03-08_2247484291_79LN01F2tJ.y.tar.gz",
         "censored_date": "2022-03-09 02:46:30",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338359&idx=2&sn=8e9a925661d5ed331239a7b974d7db01",
+        "title": "奥运村同款“雪容融”免费送读者",
+        "nickname": "文化纵横",
+        "created_at": "2022-03-07",
+        "archive": "gh_f85d25e406e2_2022-03-07_2664338359_Z0Rx50aQA2.y.tar.gz",
+        "censored_date": "2022-03-09 04:13:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-08 14:00:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MjM2NDcwMg==&mid=2664338317&idx=2&sn=6da552606740b62d62ef560576ef3f2e",
+        "title": "奥运村同款“雪容融”免费送读者",
+        "nickname": "文化纵横",
+        "created_at": "2022-03-06",
+        "archive": "gh_f85d25e406e2_2022-03-06_2664338317_jVI02nwZEG.y.tar.gz",
+        "censored_date": "2022-03-09 04:14:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-08 14:01:39"
     }
 ]
