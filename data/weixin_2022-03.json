@@ -3884,7 +3884,7 @@
         "archive": "gh_22e35fc485f1_2022-03-08_2247488137_ZT7nRpU2cC.y.tar.gz",
         "censored_date": "2022-03-08 21:53:56",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-09 00:31:42"
+        "update_date": "2022-03-09 22:37:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247534377&idx=3&sn=8cd34a293c2387f2f7b40f6835f4a83a",
@@ -4048,6 +4048,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA1NzcyMA==&mid=2247555915&idx=2&sn=0ce7c2eba96b53a71f8f206a78531910",
         "title": "东航空姐出轨老总，露骨对话曝光：“只要你喜欢，什么要求我都满足你！”",
+        "title_eng": "The hostess of China Eastern Airlines cheated on the boss, and the explicit dialogue was exposed: As long as you like it, I will satisfy you with any request!",
         "nickname": "言情说",
         "created_at": "2022-03-07",
         "archive": "gh_00e66b7f0a40_2022-03-07_2247555915_VWzxIA5Sm9.y.tar.gz",
@@ -4058,6 +4059,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247576992&idx=2&sn=1416bca7b2716c8fa080740244373f5a",
         "title": "定了！本科以下学历每人补贴8000元！政策扶持，名额有限，速看！",
+        "title_eng": "deal! A subsidy of 8,000 yuan per person with a bachelor's degree or below! Policy support, places are limited, hurry up!",
         "nickname": "演讲与人生",
         "created_at": "2022-03-08",
         "archive": "gh_e525ae7f03af_2022-03-08_2247576992_J76Su43r9I.y.tar.gz",
@@ -4067,10 +4069,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI4Njg1OQ==&mid=2650513551&idx=1&sn=e8811e06d6e0486aefe5d0eb8d1f5b46",
         "title": "国内高中生对俄乌局势的看法",
+        "title_eng": "Views of domestic high school students on the situation in Russia and Ukraine",
         "nickname": "王育琨频道",
         "created_at": "2022-03-09",
         "archive": "gh_2fbf3b6efb95_2022-03-09_2650513551_OXjHnQEqDN.y.tar.gz",
         "censored_date": "2022-03-09 22:19:20",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247516864&idx=3&sn=bdf43353019c2fae1f8443786157d44c",
+        "title": "政协委员提议：将问候语中的“公安干警”改为“人民警察”",
+        "nickname": "政e视角",
+        "created_at": "2022-03-07",
+        "archive": "gh_4d1e27733468_2022-03-07_2247516864_LzMDBVpjy7.y.tar.gz",
+        "censored_date": "2022-03-09 23:03:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-07 17:18:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAwMjA0Mg==&mid=2653000712&idx=3&sn=c368bba60a0fae5d95072bd7d290d58d",
+        "title": "免费检查！耒阳市两癌疫苗网上预约启动",
+        "nickname": "耒阳社区",
+        "created_at": "2022-03-09",
+        "archive": "gh_40f2418747aa_2022-03-09_2653000712_URowehA5Mf.y.tar.gz",
+        "censored_date": "2022-03-09 23:08:56",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
