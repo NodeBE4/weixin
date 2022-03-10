@@ -3851,7 +3851,7 @@
         "archive": "gh_31930173e92d_2022-03-08_2247496046_SmVOdkncTp.y.tar.gz",
         "censored_date": "2022-03-08 20:45:14",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-09 18:38:02"
+        "update_date": "2022-03-11 00:00:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyOTI4Mzg2NQ==&mid=2650095506&idx=5&sn=029f3192b505bcdbd35b20f12672f7bc",
@@ -4015,7 +4015,7 @@
         "archive": "gh_d965d8fa0c72_2022-03-09_2247544261_GJDS92g6su.y.tar.gz",
         "censored_date": "2022-03-09 17:55:30",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-09 18:18:28"
+        "update_date": "2022-03-10 23:52:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247513607&idx=1&sn=b3c39f812e0cd4aa7f5c768987eedb51",
@@ -4442,6 +4442,49 @@
         "created_at": "2022-03-10",
         "archive": "gh_a988ad23fb99_2022-03-10_2656341964_5YE0m3qD2R.y.tar.gz",
         "censored_date": "2022-03-10 22:32:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247534447&idx=2&sn=ca6ba664f30bd2fa3dbd2be8a91a0053",
+        "title": "年薪50万，副职级别！注册安全工程师的前途如此光明？",
+        "title_eng": "Annual salary of 500,000, deputy level! The future of registered safety engineers is so bright?",
+        "nickname": "法律经典",
+        "created_at": "2022-03-09",
+        "archive": "gh_f0f1421cd0b3_2022-03-09_2247534447_r6M31PC9Az.y.tar.gz",
+        "censored_date": "2022-03-11 00:04:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-09 21:29:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDc3NjQwMA==&mid=2926767391&idx=1&sn=dbe502dc05b4b6dee30fc7287fb80081",
+        "title": "一家三口全感染：我在海外抗疫21天",
+        "title_eng": "A family of three is fully infected: I fought the epidemic overseas for 21 days",
+        "nickname": "医学界",
+        "created_at": "2022-03-09",
+        "archive": "gh_9352cb95ad49_2022-03-09_2926767391_D8aBYTgrXv.y.tar.gz",
+        "censored_date": "2022-03-11 00:23:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-09 22:47:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MTE5ODI0Ng==&mid=2247484329&idx=1&sn=480e68b387e4ba2a251b9bed7de16318",
+        "title": "注意了：重大调整！",
+        "title_eng": "Attention: Major adjustment!",
+        "nickname": "牛角鱼2021",
+        "created_at": "2022-03-10",
+        "archive": "gh_ae1101605535_2022-03-10_2247484329_O4R7joPW2I.y.tar.gz",
+        "censored_date": "2022-03-10 23:50:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-11 00:05:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NjUwNjI1OA==&mid=2650694093&idx=1&sn=d16ad252d129cc68e42b086a01c38466",
+        "title": "尹锡悦，一个“反女权”总统的上位",
+        "title_eng": "Yin Xiyue, the head of an anti-feminist president",
+        "nickname": "世界说",
+        "created_at": "2022-03-10",
+        "archive": "gh_4c3c2e275d02_2022-03-10_2650694093_3u2oG5VQ7v.y.tar.gz",
+        "censored_date": "2022-03-11 00:29:14",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
