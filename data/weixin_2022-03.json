@@ -4876,6 +4876,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjcwNTEwMw==&mid=2652063168&idx=2&sn=dc23a2e86d85afd64d926fc2701bb60a",
         "title": "快来看看！2022年成都农商银行宜宾分行开始招聘啦……",
+        "title_eng": "Come and see! In 2022, Chengdu Rural Commercial Bank Yibin Branch will start recruiting...",
         "nickname": "新三江v",
         "created_at": "2022-03-10",
         "archive": "gh_b36d56b73a7b_2022-03-10_2652063168_a4Cz1MHV2W.y.tar.gz",
@@ -4885,6 +4886,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651898946&idx=1&sn=3be3880dfeaba3fde03ab776e7055eb0",
         "title": "惊艳！铜仁油菜花海“盛开”央视",
+        "title_eng": "Stunning! The sea of ​​rapeseed flowers in Tongren blooms CCTV",
         "nickname": "微铜仁",
         "created_at": "2022-03-10",
         "archive": "gh_93185b95671c_2022-03-10_2651898946_0eIJuxU0Kd.y.tar.gz",
@@ -4895,10 +4897,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651978556&idx=1&sn=ef2ba3ae5422f873107b74bd16e6a953",
         "title": "上海近期本土确诊病例溯源公布，华亭宾馆存在管理疏漏",
+        "title_eng": "Shanghai recently announced the source of local confirmed cases, Huating Hotel has management omissions",
         "nickname": "澎湃新闻",
         "created_at": "2022-03-11",
         "archive": "gh_d29e0d22a6f9_2022-03-11_2651978556_4MdlFv8jL3.y.tar.gz",
         "censored_date": "2022-03-11 18:58:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjE3MDEyOA==&mid=2650914442&idx=3&sn=a112f642cc893993aeb8557621869fbd",
+        "title": "华润信托、平安信托去年下半年在深圳投诉量居非银行金融机构前列",
+        "title_eng": "China Resources Trust and Ping An Trust ranked the forefront of non-bank financial institutions in Shenzhen in terms of complaints in the second half of last year",
+        "nickname": "上海信托圈",
+        "created_at": "2022-03-11",
+        "archive": "gh_50ff51071597_2022-03-11_2650914442_qF6y0rvOhN.y.tar.gz",
+        "censored_date": "2022-03-11 20:21:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
