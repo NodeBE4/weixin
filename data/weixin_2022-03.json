@@ -5248,10 +5248,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247716262&idx=2&sn=c45e6c700db807e159ef4de80d431b3f",
         "title": "上海疫情突变，无症状感染者比例高达92%，需要恐慌吗？",
+        "title_eng": "The epidemic in Shanghai has mutated, and the proportion of asymptomatic infections is as high as 92%. Do we need to panic?",
         "nickname": "凤凰网",
         "created_at": "2022-03-11",
         "archive": "gh_08885da058c6_2022-03-11_2247716262_SxkaNyB1gw.y.tar.gz",
         "censored_date": "2022-03-12 22:05:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653570623&idx=3&sn=d33eec096c3f7e5b10f7f6c5ad517bed",
+        "title": "西安一确诊病例被一口痰传染",
+        "nickname": "环球时报",
+        "created_at": "2022-03-12",
+        "archive": "gh_95b0feda9646_2022-03-12_2653570623_mUDiXcOBzM.y.tar.gz",
+        "censored_date": "2022-03-12 22:52:13",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
