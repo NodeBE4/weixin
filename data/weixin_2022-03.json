@@ -4921,7 +4921,7 @@
         "archive": "gh_50ff51071597_2022-03-11_2650914442_qF6y0rvOhN.y.tar.gz",
         "censored_date": "2022-03-11 20:21:54",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-11 21:46:55"
+        "update_date": "2022-03-12 23:36:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjY3NDcwMQ==&mid=2656739440&idx=2&sn=3699d766d1ebaaaaf32b3f6b745901f6",
@@ -5258,10 +5258,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653570623&idx=3&sn=d33eec096c3f7e5b10f7f6c5ad517bed",
         "title": "西安一确诊病例被一口痰传染",
+        "title_eng": "A confirmed case in Xi'an was infected by a mouthful of sputum",
         "nickname": "环球时报",
         "created_at": "2022-03-12",
         "archive": "gh_95b0feda9646_2022-03-12_2653570623_mUDiXcOBzM.y.tar.gz",
         "censored_date": "2022-03-12 22:52:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-12 23:44:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247574489&idx=5&sn=8fe42cc7217c5e69404461f1294dd17a",
+        "title": "俄乌打​仗，全世界买单",
+        "nickname": "金融茶社",
+        "created_at": "2022-03-10",
+        "archive": "gh_5f5aaff92191_2022-03-10_2247574489_UvkbRSTwxB.y.tar.gz",
+        "censored_date": "2022-03-13 00:32:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-12 01:00:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTQ5OTk3Mg==&mid=2660276496&idx=2&sn=ee497d8b9d8987092ad5a1b7dd1547ba",
+        "title": "学校、家庭、医院多方联动，小布直击学生核酸检测现场",
+        "title_eng": "Schools, families, and hospitals cooperated with each other, and Xiaobu directly attacked the nucleic acid test site of students",
+        "nickname": "浦东发布",
+        "created_at": "2022-03-12",
+        "archive": "gh_c6ceb2fa467e_2022-03-12_2660276496_wJQZGyqMH9.y.tar.gz",
+        "censored_date": "2022-03-12 23:40:56",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTYzNjk2MA==&mid=2651644974&idx=1&sn=8ec55ce53679a59b13fb77587e2978dc",
+        "title": "琼中封控区检测人员920名结果均为阴性 环境样本3份结果阳性",
+        "title_eng": "The results of 920 testers in the Qiongzhong sealing and control area were all negative, and 3 environmental samples were positive.",
+        "nickname": "人民网海南频道",
+        "created_at": "2022-03-12",
+        "archive": "gh_355d7095d51f_2022-03-12_2651644974_ftnOschKmH.y.tar.gz",
+        "censored_date": "2022-03-13 00:15:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-13 00:34:10"
     }
 ]
