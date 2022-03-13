@@ -5085,7 +5085,7 @@
         "archive": "gh_21f5b568bfc7_2022-03-11_2247523717_dekObsjULt.y.tar.gz",
         "censored_date": "2022-03-12 16:02:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-11 17:34:21"
+        "update_date": "2022-03-14 07:27:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDMyNzgxOA==&mid=2650383651&idx=1&sn=c2be464134b085299cc7ed023ebc9ba2",
@@ -5272,7 +5272,7 @@
         "archive": "gh_95b0feda9646_2022-03-12_2653570623_mUDiXcOBzM.y.tar.gz",
         "censored_date": "2022-03-12 22:52:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-14 02:59:56"
+        "update_date": "2022-03-14 06:38:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247574489&idx=5&sn=8fe42cc7217c5e69404461f1294dd17a",
@@ -5283,7 +5283,7 @@
         "archive": "gh_5f5aaff92191_2022-03-10_2247574489_UvkbRSTwxB.y.tar.gz",
         "censored_date": "2022-03-13 00:32:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-12 01:00:31"
+        "update_date": "2022-03-14 07:08:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTQ5OTk3Mg==&mid=2660276496&idx=2&sn=ee497d8b9d8987092ad5a1b7dd1547ba",
@@ -5639,11 +5639,13 @@
         "created_at": "2022-03-12",
         "archive": "gh_517f0d8d1792_2022-03-12_2651420116_3ueDx5bBkH.y.tar.gz",
         "censored_date": "2022-03-14 03:43:23",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-14 07:19:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247664152&idx=4&sn=2468cb860190992a271a286f78df2b6b",
         "title": "周云蓬十年前海外独自弹唱《九月》",
+        "title_eng": "Zhou Yunpeng played and sang September alone overseas ten years ago",
         "nickname": "摇滚客",
         "created_at": "2022-03-10",
         "archive": "gh_bcae3e46c50c_2022-03-10_2247664152_Splr1ywc9D.y.tar.gz",
@@ -5654,6 +5656,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247664152&idx=3&sn=b1b789af152b31495ee10efe282a3163",
         "title": "林青霞、莫言最爱！它写尽人生百态，治愈无数人",
+        "title_eng": "Brigitte Lin and Mo Yan are the favorites! It writes all about life and heals countless people",
         "nickname": "摇滚客",
         "created_at": "2022-03-10",
         "archive": "gh_bcae3e46c50c_2022-03-10_2247664152_T7JvjAf0XY.y.tar.gz",
@@ -5664,6 +5667,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247664152&idx=2&sn=819dcab9f8b0429c6466c32461e2ab02",
         "title": "止鼾很简单，只是手指大的事",
+        "title_eng": "Stopping snoring is easy, it's just a matter of the size of your fingers",
         "nickname": "摇滚客",
         "created_at": "2022-03-10",
         "archive": "gh_bcae3e46c50c_2022-03-10_2247664152_U5LgjiKZTe.y.tar.gz",
@@ -5674,6 +5678,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650348161&idx=3&sn=763ccf92bcae9009ba80eba639a7938b",
         "title": "何时新冠疫情能结束？曾光教授：与病毒共存需要补上两个漏洞！",
+        "title_eng": "When will the new crown epidemic end? Professor Zeng Guang: Coexistence with viruses requires two loopholes to be filled!",
         "nickname": "北美留学生日报",
         "created_at": "2022-03-12",
         "archive": "gh_4002b1765479_2022-03-12_2650348161_hu9FCD4Baq.y.tar.gz",
