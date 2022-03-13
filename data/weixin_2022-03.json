@@ -5029,7 +5029,8 @@
         "created_at": "2022-03-11",
         "archive": "gh_9026f485c7bd_2022-03-11_2657937544_clEUhTv9tV.y.tar.gz",
         "censored_date": "2022-03-12 08:20:07",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-13 11:16:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNzExMDU5OA==&mid=2649825275&idx=3&sn=6edfd36e4f7d0b3e1ce238dadf8c952a",
@@ -5453,5 +5454,15 @@
         "archive": "gh_26762a56c129_2022-03-12_2247491386_65V0asig0U.y.tar.gz",
         "censored_date": "2022-03-13 10:32:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247548286&idx=1&sn=1607dbf18bf0ff8161ed41e2757d7ea6",
+        "title": "再见了，茅台！",
+        "nickname": "徐雪芬札记",
+        "created_at": "2022-03-12",
+        "archive": "gh_06140cfad959_2022-03-12_2247548286_JLIjw2pbRz.y.tar.gz",
+        "censored_date": "2022-03-13 11:20:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-12 11:00:53"
     }
 ]
