@@ -7054,6 +7054,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0OTMxNjY2MA==&mid=2247596484&idx=1&sn=beb119c9866d76e02541241906638d53",
         "title": "俄乌战争第23天，华为爆出大消息！该来的果然来了！",
+        "title_eng": "On the 23rd day of the Russian-Ukrainian war, Huawei broke big news! It's coming!",
         "nickname": "财闻要鉴",
         "created_at": "2022-03-18",
         "archive": "gh_8ea8fa12c9c5_2022-03-18_2247596484_SzaBGZpgUx.y.tar.gz",
@@ -7085,6 +7086,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247550029&idx=4&sn=ac4f3d74fa1d6887a386aceea15cb50c",
         "title": "“隔夜醉驾”无主观故意的，可不认为是犯罪",
+        "title_eng": "Overnight drunk driving has no subjective intention, but it is not considered a crime",
         "nickname": "律法读报",
         "created_at": "2022-03-18",
         "archive": "gh_cbe49e48bd1e_2022-03-18_2247550029_OdxrHgVGyP.y.tar.gz",
@@ -7095,10 +7097,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650350683&idx=4&sn=db5ebf6f3a1da2a6c3f96f57dda30196",
         "title": "2020年6月离开的4个中国人，又火了",
+        "title_eng": "The 4 Chinese who left in June 2020 became popular again",
         "nickname": "北美留学生日报",
         "created_at": "2022-03-19",
         "archive": "gh_4002b1765479_2022-03-19_2650350683_7LTYZtfvkm.y.tar.gz",
         "censored_date": "2022-03-20 01:01:56",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247514060&idx=3&sn=c5627f0e1d788db326ef59c6e4e670a3",
+        "title": "啤酒行业进入“炼金时代”",
+        "title_eng": "The beer industry has entered the Alchemy Age",
+        "nickname": "老板思维论",
+        "created_at": "2022-03-17",
+        "archive": "gh_69f7ba479665_2022-03-17_2247514060_KMUy7o13lz.y.tar.gz",
+        "censored_date": "2022-03-20 01:59:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247540918&idx=2&sn=2f1a3d492d799c445985edf1ed8f9f21",
+        "title": "国家卫健委：取消新冠无症状诊断，推荐美国新药",
+        "title_eng": "National Health Commission: Cancel asymptomatic diagnosis of new crown, recommend new US drugs",
+        "nickname": "遮眼看天",
+        "created_at": "2022-03-17",
+        "archive": "gh_b984621ff266_2022-03-17_2247540918_f8bzLXg9Wu.y.tar.gz",
+        "censored_date": "2022-03-20 02:08:54",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247540918&idx=1&sn=72ddfaec061f95e26713d9243a36abd9",
+        "title": "重磅！国务院连夜发文，放松防控！轻症无需入院/推荐辉瑞新药/降低出院标准...",
+        "title_eng": "Heavy! The State Council issued a document overnight to relax prevention and control! Mild cases do not require hospital admission/recommend Pfizer's new drugs/lower discharge standards...",
+        "nickname": "遮眼看天",
+        "created_at": "2022-03-17",
+        "archive": "gh_b984621ff266_2022-03-17_2247540918_d53GRVMxlZ.y.tar.gz",
+        "censored_date": "2022-03-20 02:08:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-19 02:59:12"
     }
 ]
