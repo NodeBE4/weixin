@@ -6717,7 +6717,8 @@
         "created_at": "2022-03-17",
         "archive": "gh_9ae741618b08_2022-03-17_2247505648_HekmaRSz7C.y.tar.gz",
         "censored_date": "2022-03-19 03:13:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-19 10:48:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTk1MjA0MA==&mid=2674341023&idx=2&sn=94a3a2631c44bf456141d15e4dd85a7e",
@@ -6728,7 +6729,7 @@
         "archive": "gh_02c1b54329eb_2022-03-14_2674341023_On0pa1t2rE.y.tar.gz",
         "censored_date": "2022-03-19 03:32:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-03-18 03:12:54"
+        "update_date": "2022-03-19 11:19:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247500216&idx=2&sn=4fb313109c7f18bbe6a6aeceb48eaad2",
@@ -6826,5 +6827,14 @@
         "censored_date": "2022-03-19 09:31:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-03-18 10:09:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651028411&idx=7&sn=be9586858fad0b3f10fce29ee57e99c7",
+        "title": "知名院士去世前透露：中国已经不是那个中国……",
+        "nickname": "新老人",
+        "created_at": "2022-03-18",
+        "archive": "gh_2ff5d816ea7a_2022-03-18_2651028411_T38IqBKRz2.y.tar.gz",
+        "censored_date": "2022-03-19 11:28:34",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
