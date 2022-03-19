@@ -6589,7 +6589,8 @@
         "created_at": "2022-03-18",
         "archive": "wxid_1982209821011_2022-03-18_2652697772_WQ7Yf5d1mF.y.tar.gz",
         "censored_date": "2022-03-18 12:27:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-19 15:38:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTgwOTY0MA==&mid=2653969829&idx=1&sn=db64359661c0b06b89eb5bf371d18c4b",
@@ -6599,7 +6600,8 @@
         "created_at": "2022-03-18",
         "archive": "gh_433a1d68bb48_2022-03-18_2653969829_fqhSbEc6vI.y.tar.gz",
         "censored_date": "2022-03-18 14:57:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-19 15:52:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247513910&idx=2&sn=8ada67651b0f002146d942fc0e62fbec",
@@ -6868,6 +6870,26 @@
         "created_at": "2022-03-19",
         "archive": "gh_6d397d8a037d_2022-03-19_2650878343_K530kNWFRp.y.tar.gz",
         "censored_date": "2022-03-19 13:47:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDkwMzczOQ==&mid=2247666167&idx=3&sn=481169ef1bf094e793563fa0fcbf52c6",
+        "title": "王家卫痴迷，冯唐深爱，他写透了人性的情与欲",
+        "title_eng": "Wong Kar-wai is obsessed, and Fung Tang is deeply in love. He has written through the passions and desires of human nature.",
+        "nickname": "摇滚客",
+        "created_at": "2022-03-17",
+        "archive": "gh_bcae3e46c50c_2022-03-17_2247666167_dkBpeHjE0x.y.tar.gz",
+        "censored_date": "2022-03-19 16:20:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-18 16:10:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4ODEwMDY3OA==&mid=2651524835&idx=1&sn=49cc3936514491ec5960c6586a974720",
+        "title": "轨迹公布 | 漳州市龙文区新增1确诊病例活动轨迹涉揭阳",
+        "nickname": "揭阳广电",
+        "created_at": "2022-03-19",
+        "archive": "gh_24f69528a8d4_2022-03-19_2651524835_cGmyfP5XBK.y.tar.gz",
+        "censored_date": "2022-03-19 16:30:29",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
