@@ -6886,6 +6886,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODEwMDY3OA==&mid=2651524835&idx=1&sn=49cc3936514491ec5960c6586a974720",
         "title": "轨迹公布 | 漳州市龙文区新增1确诊病例活动轨迹涉揭阳",
+        "title_eng": "Trajectory announcement | The activity trajectory of 1 new confirmed case in Longwen District, Zhangzhou City involves Jieyang",
         "nickname": "揭阳广电",
         "created_at": "2022-03-19",
         "archive": "gh_24f69528a8d4_2022-03-19_2651524835_cGmyfP5XBK.y.tar.gz",
@@ -6896,6 +6897,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Mjg0NTkzMw==&mid=2649841576&idx=2&sn=6ec7d3f9213c8e624c829a5bde40f6e5",
         "title": "炸街了！女弟子手撕赵本山，爆桃色大瓜！",
+        "title_eng": "Blast the street! The female disciple tore apart Zhao Benshan, bursting the peach-colored melon!",
         "nickname": "读书人冯学荣",
         "created_at": "2022-03-18",
         "archive": "gh_53c6d26c823e_2022-03-18_2649841576_ODMqimETJz.y.tar.gz",
@@ -6905,10 +6907,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650090581&idx=2&sn=495dfd7f8840877b8783888a8db459a3",
         "title": "急招，时薪高，心理咨询师0基础可学，不限地域！",
+        "title_eng": "Urgent recruitment, high hourly salary, 0 basic psychological counselors can learn, not limited to regions!",
         "nickname": "掌心大同",
         "created_at": "2022-03-17",
         "archive": "gh_69043f48c02f_2022-03-17_2650090581_yNfRv9xpVI.y.tar.gz",
         "censored_date": "2022-03-19 16:42:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490894&idx=1&sn=bdd6ff0c799766ab39e99d83b7e45a5d",
+        "title": "加了微信才知道，云南直供的普洱茶这么便宜，茶农才卖这价！",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-17",
+        "archive": "gh_65f5271d2a21_2022-03-17_2247490894_SqHT4V7Dyp.y.tar.gz",
+        "censored_date": "2022-03-19 17:32:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-18 17:32:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490897&idx=2&sn=53c01f755a8e5a813a2b224b00875ac7",
+        "title": "抖音上这群宝妈赚钱的路子有多野？",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-18",
+        "archive": "gh_65f5271d2a21_2022-03-18_2247490897_hiueGHoysz.y.tar.gz",
+        "censored_date": "2022-03-19 17:30:50",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-18 17:30:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODIyOTc2MQ==&mid=2651865677&idx=1&sn=a26064baa80287ec3a52079d7d7a9d75",
+        "title": "以“给羊做核酸”为名顺手牵羊？官方通报：9人被控制",
+        "nickname": "法制网",
+        "created_at": "2022-03-19",
+        "archive": "gh_a72294a4f14b_2022-03-19_2651865677_Xy8D1bPT5M.y.tar.gz",
+        "censored_date": "2022-03-19 17:47:50",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
