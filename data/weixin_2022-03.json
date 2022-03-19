@@ -6917,6 +6917,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490894&idx=1&sn=bdd6ff0c799766ab39e99d83b7e45a5d",
         "title": "加了微信才知道，云南直供的普洱茶这么便宜，茶农才卖这价！",
+        "title_eng": "Only after adding WeChat did I know that the Pu'er tea directly supplied by Yunnan is so cheap that tea farmers sell it at this price!",
         "nickname": "江南隐士",
         "created_at": "2022-03-17",
         "archive": "gh_65f5271d2a21_2022-03-17_2247490894_SqHT4V7Dyp.y.tar.gz",
@@ -6927,6 +6928,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490897&idx=2&sn=53c01f755a8e5a813a2b224b00875ac7",
         "title": "抖音上这群宝妈赚钱的路子有多野？",
+        "title_eng": "How wild is the way for these mothers on Douyin to make money?",
         "nickname": "江南隐士",
         "created_at": "2022-03-18",
         "archive": "gh_65f5271d2a21_2022-03-18_2247490897_hiueGHoysz.y.tar.gz",
@@ -6937,10 +6939,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwODIyOTc2MQ==&mid=2651865677&idx=1&sn=a26064baa80287ec3a52079d7d7a9d75",
         "title": "以“给羊做核酸”为名顺手牵羊？官方通报：9人被控制",
+        "title_eng": "In the name of making nucleic acid for sheep, lead sheep? Official notification: 9 people under control",
         "nickname": "法制网",
         "created_at": "2022-03-19",
         "archive": "gh_a72294a4f14b_2022-03-19_2651865677_Xy8D1bPT5M.y.tar.gz",
         "censored_date": "2022-03-19 17:47:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247533285&idx=1&sn=522044aed76a6aeb5d55b45e071d2704",
+        "title": "重磅！国家卫健委：取消新冠无症状诊断，推荐美国新药",
+        "nickname": "今读史",
+        "created_at": "2022-03-18",
+        "archive": "gh_5e008ceefb25_2022-03-18_2247533285_CvDdyuABnH.y.tar.gz",
+        "censored_date": "2022-03-19 19:04:13",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-18 20:14:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247533263&idx=2&sn=2a8848c236895495d6661d88f3bd1f40",
+        "title": "正式通知！本科以下学历每人补贴8000元！政策扶持，名额有限，速看！",
+        "nickname": "今读史",
+        "created_at": "2022-03-17",
+        "archive": "gh_5e008ceefb25_2022-03-17_2247533263_WAiFmOJVwZ.y.tar.gz",
+        "censored_date": "2022-03-19 19:02:12",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
