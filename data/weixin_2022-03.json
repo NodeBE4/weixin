@@ -6904,7 +6904,8 @@
         "created_at": "2022-03-18",
         "archive": "gh_53c6d26c823e_2022-03-18_2649841576_ODMqimETJz.y.tar.gz",
         "censored_date": "2022-03-19 16:33:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-21 03:38:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQwMzIwMg==&mid=2650090581&idx=2&sn=495dfd7f8840877b8783888a8db459a3",
@@ -7476,6 +7477,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=6&sn=d7f6f934394acfd27d19d6b869640132",
         "title": "在乌华人逃到维也纳，一路见证文明",
+        "title_eng": "Chinese fled to Vienna in Ukrainian, witnessing civilization along the way",
         "nickname": "冷眼文摘",
         "created_at": "2022-03-18",
         "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_SQ407dwNIT.y.tar.gz",
@@ -7486,6 +7488,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=2&sn=31a012e9fd00a7f25ecb44952a526d4c",
         "title": "波兰人跪满大街为乌克兰祈祷",
+        "title_eng": "Poles kneel and pray for Ukraine",
         "nickname": "冷眼文摘",
         "created_at": "2022-03-18",
         "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_ydt00bK4zH.y.tar.gz",
@@ -7496,6 +7499,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=7&sn=e34d4cdbac017599f36da5687c6e0abb",
         "title": "好消息！5家中国企业获准免费仿制辉瑞新冠口服药",
+        "title_eng": "good news! 5 Chinese companies are allowed to copy Pfizer's new crown oral drug for free",
         "nickname": "冷眼文摘",
         "created_at": "2022-03-18",
         "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_IsMl6BHrzW.y.tar.gz",
@@ -7506,6 +7510,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=1&sn=33a7c7cad832971a9fb3f93c5aa389f0",
         "title": "驻乌大使称中国永远不会攻击乌克兰，还会提供经济援助！刚刚，外交部公开表态：支持！",
+        "title_eng": "The ambassador to Ukraine said that China will never attack Ukraine and will provide economic assistance! Just now, the Ministry of Foreign Affairs publicly stated: Support!",
         "nickname": "冷眼文摘",
         "created_at": "2022-03-18",
         "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_549afYGZJO.y.tar.gz",
@@ -7516,6 +7521,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247498344&idx=3&sn=4bacfe64e698776d13f8ceecc35116da",
         "title": "不能娶女法官、不能嫁男律师，否则裤衩子都不保？",
+        "title_eng": "Can't marry a female judge, can't marry a male lawyer, otherwise the pants will not be guaranteed?",
         "nickname": "最高审判指引",
         "created_at": "2022-03-18",
         "archive": "gh_623c5c12b45e_2022-03-18_2247498344_fHOqNIUy3T.y.tar.gz",
@@ -7526,11 +7532,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=3&sn=0d57d928c724d3e968f6b090fc11857a",
         "title": "周国平：行淫的女人",
+        "title_eng": "Zhou Guoping: A woman who commits adultery",
         "nickname": "冷眼文摘",
         "created_at": "2022-03-18",
         "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_FWPqE14nOd.y.tar.gz",
         "censored_date": "2022-03-21 03:15:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-03-19 23:22:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247498351&idx=1&sn=5e401aa722b5a2ae95294b5a6edf97b0",
+        "title": "武长顺往事：涉案74亿，与4警花暧昧，9个私生子仅3个是亲生",
+        "title_eng": "Wu Changshun's past: 7.4 billion involved in the case, ambiguous with 4 police flowers, only 3 of the 9 illegitimate children are biological",
+        "nickname": "最高审判指引",
+        "created_at": "2022-03-19",
+        "archive": "gh_623c5c12b45e_2022-03-19_2247498351_oFEIKieJx4.y.tar.gz",
+        "censored_date": "2022-03-21 03:25:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-20 18:06:09"
     }
 ]
