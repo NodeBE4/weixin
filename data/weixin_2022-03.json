@@ -6959,7 +6959,7 @@
         "archive": "gh_5e008ceefb25_2022-03-18_2247533285_CvDdyuABnH.y.tar.gz",
         "censored_date": "2022-03-19 19:04:13",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-03-18 20:14:35"
+        "update_date": "2022-03-20 21:12:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247533263&idx=2&sn=2a8848c236895495d6661d88f3bd1f40",
@@ -7132,7 +7132,8 @@
         "created_at": "2022-03-17",
         "archive": "gh_b984621ff266_2022-03-17_2247540918_f8bzLXg9Wu.y.tar.gz",
         "censored_date": "2022-03-20 02:08:54",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-03-20 21:08:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0MTY5NzY0Mg==&mid=2247540918&idx=1&sn=72ddfaec061f95e26713d9243a36abd9",
@@ -7415,5 +7416,25 @@
         "censored_date": "2022-03-20 20:08:35",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-03-19 23:29:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=5&sn=c2065c81705130890d371dc03643e19a",
+        "title": "曰本地震，炸出一群愚蠢的“爱国贼”",
+        "nickname": "冷眼文摘",
+        "created_at": "2022-03-18",
+        "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_0Xzg16KNDF.y.tar.gz",
+        "censored_date": "2022-03-20 21:15:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-20 00:08:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805492&idx=8&sn=b36b41ec805aa979f48ba07e7696bf1d",
+        "title": "老坛酸菜制作现场怵目惊心！康师傅股价暴跌",
+        "nickname": "冷眼文摘",
+        "created_at": "2022-03-18",
+        "archive": "gh_0d903ba9d2be_2022-03-18_2651805492_xJpaqk5sgD.y.tar.gz",
+        "censored_date": "2022-03-20 21:15:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-03-20 00:22:28"
     }
 ]
