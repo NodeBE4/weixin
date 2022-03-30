@@ -8209,7 +8209,8 @@
         "created_at": "2022-03-29",
         "archive": "gh_9ae95707089d_2022-03-29_2652011356_4tmONgzd0a.y.tar.gz",
         "censored_date": "2022-03-30 01:04:34",
-        "censored_msg": "Unable"
+        "censored_msg": "Unable",
+        "update_date": "2022-03-30 23:32:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247521456&idx=1&sn=0dc08ff95e567e6389ac9a98a5adc899",
@@ -8487,5 +8488,49 @@
         "archive": "gh_9efaafe1944e_2022-03-30_2650532102_013Y9Q2Uoi.y.tar.gz",
         "censored_date": "2022-03-30 23:07:48",
         "censored_msg": "Unable"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247519057&idx=1&sn=81766af9d7a5dcd0b3cd50d4bd90fd76",
+        "title": "通知：最新发布！2022年心理咨询师公开招生！考过好处多多！",
+        "title_eng": "Announcement: Latest Release! 2022 Psychological Counselor Open Recruitment! There are many benefits to taking the exam!",
+        "nickname": "政e视角",
+        "created_at": "2022-03-28",
+        "archive": "gh_4d1e27733468_2022-03-28_2247519057_GuDWEYbVmI.y.tar.gz",
+        "censored_date": "2022-03-30 23:36:07",
+        "censored_msg": "The",
+        "update_date": "2022-03-29 01:19:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247519057&idx=4&sn=e824683d249fe45594d4f9a69d62dd14",
+        "title": "最高检 公安部：关于逮捕的新要求！",
+        "title_eng": "Supreme Procuratorate, Ministry of Public Security: New requirements for arrests!",
+        "nickname": "政e视角",
+        "created_at": "2022-03-28",
+        "archive": "gh_4d1e27733468_2022-03-28_2247519057_4vTo9cGWgQ.y.tar.gz",
+        "censored_date": "2022-03-30 23:36:30",
+        "censored_msg": "The",
+        "update_date": "2022-03-28 16:39:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNzgzMDQzMA==&mid=2247528123&idx=4&sn=e2fe7848e885e75a0abb6bc01fe75f51",
+        "title": "俄国是侵略还是自卫，这小伙说透了",
+        "title_eng": "Whether Russia is aggression or self-defense, this guy gets it right",
+        "nickname": "春草微视",
+        "created_at": "2022-03-28",
+        "archive": "gh_85ceeb96c96a_2022-03-28_2247528123_JzlqGj05CK.y.tar.gz",
+        "censored_date": "2022-03-30 23:34:10",
+        "censored_msg": "Unable",
+        "update_date": "2022-03-30 01:43:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247519057&idx=3&sn=5e0a493e35118345b2075a53b57b7105",
+        "title": "公务员夫妻异地调动难？省委组织部回复！",
+        "title_eng": "Is it difficult for civil servant couples to transfer from different places? The Provincial Party Committee Organization Department replied!",
+        "nickname": "政e视角",
+        "created_at": "2022-03-28",
+        "archive": "gh_4d1e27733468_2022-03-28_2247519057_Wm72fXbZiJ.y.tar.gz",
+        "censored_date": "2022-03-30 23:35:44",
+        "censored_msg": "The",
+        "update_date": "2022-03-29 01:19:20"
     }
 ]
