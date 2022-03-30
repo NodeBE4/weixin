@@ -8199,7 +8199,7 @@
         "archive": "gh_6706110bf630_2022-03-29_2247525412_lO8hgXPJLc.y.tar.gz",
         "censored_date": "2022-03-30 00:25:11",
         "censored_msg": "The",
-        "update_date": "2022-03-30 00:30:47"
+        "update_date": "2022-03-30 23:27:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDU4OTYyMQ==&mid=2652011356&idx=1&sn=0baf2db7bba4f31d67a6b630f5c6a8cb",
@@ -8450,6 +8450,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDEzNjQwMA==&mid=2655568934&idx=1&sn=9ff1c75bef81b7b8d9ec0a847d57fe50",
         "title": "许家印又变卖家产了？！深圳980平豪宅：狂降1.2亿大“甩卖”！",
+        "title_eng": "Xu Jiayin has become a seller again? ! Shenzhen's 980-square-meter luxury house: a 120 million fire sale!",
         "nickname": "中国基金报",
         "created_at": "2022-03-29",
         "archive": "gh_a4a87df43a4c_2022-03-29_2655568934_NK4VIYnAHP.y.tar.gz",
@@ -8460,6 +8461,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzIwMjQzMA==&mid=2650353345&idx=5&sn=ddb65556d585cb3f008af06b2e89bf5e",
         "title": "互联网大厂裁员数万，为什么？",
+        "title_eng": "Internet giants lay off tens of thousands of employees, why?",
         "nickname": "北美留学生日报",
         "created_at": "2022-03-28",
         "archive": "gh_4002b1765479_2022-03-28_2650353345_hHzBbYIxgu.y.tar.gz",
@@ -8469,10 +8471,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MDI4MjY4MA==&mid=2247493852&idx=6&sn=dba2544c71605dc5a28edafb15b8980d",
         "title": "透彻！不要新冠没死，却死在防控中！",
+        "title_eng": "thorough! Don't die from the new crown, but die in the prevention and control!",
         "nickname": "洞见环球",
         "created_at": "2022-03-29",
         "archive": "gh_303ec1b5ec96_2022-03-29_2247493852_V7Q8MxBCD0.y.tar.gz",
         "censored_date": "2022-03-30 22:09:48",
+        "censored_msg": "Unable"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NzA2OTk4NQ==&mid=2650532102&idx=1&sn=1a8ffc53391a89ec615a4464f385312a",
+        "title": "中产的尽头是滴滴，北大的尽头是县城，马云的尽头是普通人",
+        "title_eng": "The end of the middle class is Didi, the end of Peking University is the county seat, and the end of Jack Ma is the ordinary people.",
+        "nickname": "景来律师",
+        "created_at": "2022-03-30",
+        "archive": "gh_9efaafe1944e_2022-03-30_2650532102_013Y9Q2Uoi.y.tar.gz",
+        "censored_date": "2022-03-30 23:07:48",
         "censored_msg": "Unable"
     }
 ]
