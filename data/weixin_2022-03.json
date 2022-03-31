@@ -8353,7 +8353,7 @@
         "archive": "gh_5980b8ba5607_2022-03-27_2247592226_SJBXmvKibW.y.tar.gz",
         "censored_date": "2022-03-30 19:08:48",
         "censored_msg": "The",
-        "update_date": "2022-03-29 23:16:31"
+        "update_date": "2022-03-31 23:29:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247592226&idx=2&sn=b206c8cc0a7a0b2b80ac8560193bb551",
@@ -8866,6 +8866,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MjQ1NDcwNg==&mid=2651151042&idx=3&sn=76cdc0cb908f097fe4fb0e8c3c54c8e8",
         "title": "排名揭晓！这个挑战赛火爆赣州！",
+        "title_eng": "Ranking revealed! This challenge is hot in Ganzhou!",
         "nickname": "赣南日报",
         "created_at": "2022-03-30",
         "archive": "gh_0cfd33f7cbee_2022-03-30_2651151042_z7BPFVWUiZ.y.tar.gz",
@@ -8875,11 +8876,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2652046029&idx=1&sn=e4963be72a3870535e85fb75f23dfa70",
         "title": "就在这里！您向往的住假生活！",
+        "title_eng": "right here! The holiday life you yearn for!",
         "nickname": "江南晚报",
         "created_at": "2022-03-30",
         "archive": "gh_b6899e873133_2022-03-30_2652046029_IHfrqsMKX3.y.tar.gz",
         "censored_date": "2022-03-31 22:07:36",
         "censored_msg": "The",
         "update_date": "2022-03-30 20:38:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247588764&idx=2&sn=1550be940e2cf544cfff34bd5e593bea",
+        "title": "463所高校入选！又一重要名单公布！",
+        "title_eng": "463 colleges and universities were selected! Another important list announced!",
+        "nickname": "青塔",
+        "created_at": "2022-03-30",
+        "archive": "gh_9eaf123d0c6f_2022-03-30_2247588764_IhXWPp90M4.y.tar.gz",
+        "censored_date": "2022-03-31 23:14:47",
+        "censored_msg": "The",
+        "update_date": "2022-03-30 21:07:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MzA4Mjg2NA==&mid=2652487091&idx=7&sn=921800970a4bcda2cc67ebeaf23da032",
+        "title": "从沙皇三巨头到斯大林再到普京，俄罗斯为什么只能出“沙皇”？",
+        "title_eng": "From the Czar Big Three to Stalin to Putin, why can Russia only produce tsars?",
+        "nickname": "全球博弈",
+        "created_at": "2022-03-30",
+        "archive": "gh_8fe7488faa51_2022-03-30_2652487091_6RzOXE709t.y.tar.gz",
+        "censored_date": "2022-03-31 22:58:04",
+        "censored_msg": "Unable",
+        "update_date": "2022-03-30 22:27:00"
     }
 ]
