@@ -1042,6 +1042,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzkxMDA0OA==&mid=2652075942&idx=1&sn=b2ddf4b31a2ee46da94d18a914d6124e",
         "title": "安徽驰援上海！",
+        "title_eng": "Anhui to help Shanghai!",
         "nickname": "安徽发布",
         "created_at": "2022-03-31",
         "archive": "gh_a99d3b7ea9fa_2022-03-31_2652075942_FbDLPaSmwC.y.tar.gz",
@@ -1052,10 +1053,62 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494898&idx=1&sn=55d604b773d63870ea8a3509731fb3c1",
         "title": "普京突然宣布！俄罗斯打出王炸...",
+        "title_eng": "Putin suddenly announced! Russia hits the king bomb...",
         "nickname": "北斗局",
         "created_at": "2022-03-30",
         "archive": "gh_ccf6a72b140a_2022-03-30_2247494898_lwZi0S5Y6C.y.tar.gz",
         "censored_date": "2022-04-01 16:47:12",
+        "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzU4OTczMA==&mid=2247582322&idx=4&sn=35adfb7160c3f6f9d0b51c0ba89c2144",
+        "title": "远洋渔船上，不能有女人",
+        "title_eng": "There can be no women on ocean-going fishing boats",
+        "nickname": "杜绍斐 DUSHAOFEI",
+        "created_at": "2022-03-25",
+        "archive": "gh_2dd796e16eb0_2022-03-25_2247582322_85OiSDshAF.y.tar.gz",
+        "censored_date": "2022-04-01 18:20:23",
+        "censored_msg": "The",
+        "update_date": "2022-03-31 22:03:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491002&idx=5&sn=4d409c12eaad6d43b85cb9d94dda96f2",
+        "title": "深度好文：为什么中外抗疫模式注定不同？",
+        "title_eng": "In-depth good article: Why are Chinese and foreign anti-epidemic models destined to be different?",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-31",
+        "archive": "gh_65f5271d2a21_2022-03-31_2247491002_Yyo0O0vR6G.y.tar.gz",
+        "censored_date": "2022-04-01 18:00:00",
+        "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491002&idx=1&sn=79288aab1eecdabf1688d54773a3d05f",
+        "title": "突发！中国宣布：重大突破！",
+        "title_eng": "burst! China announces: major breakthrough!",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-31",
+        "archive": "gh_65f5271d2a21_2022-03-31_2247491002_bn240lzcVX.y.tar.gz",
+        "censored_date": "2022-04-01 17:58:27",
+        "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247490990&idx=1&sn=34b5589340f8a0887ee62b806f09409a",
+        "title": "普京突然宣布！俄罗斯打出王炸...",
+        "title_eng": "Putin suddenly announced! Russia hits the king bomb...",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-30",
+        "archive": "gh_65f5271d2a21_2022-03-30_2247490990_j3sOAr1iqG.y.tar.gz",
+        "censored_date": "2022-04-01 17:59:36",
+        "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491002&idx=4&sn=1d4786fac34072904e3f557b59d84085",
+        "title": "昨天，她的死亡上了热搜，留下5字遗言，真实故事却震撼国人......",
+        "title_eng": "Yesterday, her death was on the hot search, leaving a 5-word last word, but the real story shocked the Chinese people...",
+        "nickname": "江南隐士",
+        "created_at": "2022-03-31",
+        "archive": "gh_65f5271d2a21_2022-03-31_2247491002_B0FeYdy9Tj.y.tar.gz",
+        "censored_date": "2022-04-01 17:59:13",
         "censored_msg": "The"
     }
 ]
