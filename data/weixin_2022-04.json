@@ -731,7 +731,8 @@
         "created_at": "2022-03-30",
         "archive": "gh_69043f48c02f_2022-03-30_2650090824_M40oOIH583.y.tar.gz",
         "censored_date": "2022-03-31 18:44:18",
-        "censored_msg": "The"
+        "censored_msg": "The",
+        "update_date": "2022-04-01 19:54:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247494898&idx=2&sn=499ca0bf26cc93b550d74a362012749c",
@@ -741,7 +742,8 @@
         "created_at": "2022-03-30",
         "archive": "gh_ccf6a72b140a_2022-03-30_2247494898_yJKk3ZYzOq.y.tar.gz",
         "censored_date": "2022-03-31 19:02:20",
-        "censored_msg": "The"
+        "censored_msg": "The",
+        "update_date": "2022-04-01 19:54:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTI0NTUyNA==&mid=2650346973&idx=2&sn=4260e14dda9865fb81afde2c2ca261e2",
@@ -1114,6 +1116,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247588865&idx=2&sn=39eb31cace514a537fb32e1dac454dd3",
         "title": "云聚天科大，一起向未来！｜特色强校再出引才新举措，诚邀海内外英才加盟！",
+        "title_eng": "Clouds gather at Tianke University, let's go to the future together! ｜Characteristic strong schools will introduce new measures to attract talents, and sincerely invite talents from home and abroad to join us!",
         "nickname": "青塔",
         "created_at": "2022-03-31",
         "archive": "gh_9eaf123d0c6f_2022-03-31_2247588865_xTv7AIymQZ.y.tar.gz",
@@ -1131,5 +1134,15 @@
         "censored_date": "2022-04-01 19:14:29",
         "censored_msg": "The",
         "update_date": "2022-03-31 18:59:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MjkwNTYwMw==&mid=2653375454&idx=1&sn=757cae04ef75a71f6602032bdcf85fee",
+        "title": "刚刚！泌阳县公布3例无症状感染者活动轨迹，速看！",
+        "title_eng": "just! Biyang County announces the activity trajectory of 3 asymptomatic infected persons, take a look!",
+        "nickname": "掌上驻马店",
+        "created_at": "2022-03-31",
+        "archive": "gh_6c7ba81a631b_2022-03-31_2653375454_pXMG6FRJZr.y.tar.gz",
+        "censored_date": "2022-04-01 20:24:41",
+        "censored_msg": "The"
     }
 ]
