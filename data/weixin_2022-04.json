@@ -1014,7 +1014,8 @@
         "created_at": "2022-03-30",
         "archive": "gh_c7f9947afc98_2022-03-30_2247500905_Li7Gs1tgZp.y.tar.gz",
         "censored_date": "2022-04-01 15:50:46",
-        "censored_msg": "The"
+        "censored_msg": "The",
+        "update_date": "2022-04-03 00:03:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247500905&idx=3&sn=62a67649ddf09c60604cf2c3778d8a77",
@@ -1025,7 +1026,7 @@
         "archive": "gh_c7f9947afc98_2022-03-30_2247500905_0Fn41IBkTX.y.tar.gz",
         "censored_date": "2022-04-01 15:53:35",
         "censored_msg": "The",
-        "update_date": "2022-03-31 18:50:43"
+        "update_date": "2022-04-03 00:04:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247533121&idx=2&sn=b38108dd7581465c67b304ac780d6268",
@@ -1200,7 +1201,8 @@
         "created_at": "2022-04-01",
         "archive": "gh_d5fd74b9d1db_2022-04-01_2247497950_xyqQusj2OZ.y.tar.gz",
         "censored_date": "2022-04-02 00:18:05",
-        "censored_msg": "The"
+        "censored_msg": "The",
+        "update_date": "2022-04-02 23:53:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247500978&idx=2&sn=aa22b6a2355bb1c915f031f8495c7fc3",
@@ -1510,6 +1512,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODQ0MjU5Ng==&mid=2247521902&idx=1&sn=caca5fd4114efb2a04f3f6615f6b8255",
         "title": "关注|中国政法大学刘玫教授：关于我与汪海燕绝交的声明",
+        "title_eng": "Attention|Professor Liu Mei from China University of Political Science and Law: Statement on my breaking up with Wang Haiyan",
         "nickname": "墨香学术",
         "created_at": "2022-04-02",
         "archive": "gh_abdfd6106bd3_2022-04-02_2247521902_vVh40cXBFg.y.tar.gz",
@@ -1529,10 +1532,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247578839&idx=1&sn=dc7f98fc7045fd0609b1ee0c2d20c49a",
         "title": "94年中美黄海对峙内幕：苏27撞向F14，歼8锁定美航母？",
+        "title_eng": "Inside story of the confrontation between China and the United States in the Yellow Sea in 1994: Su-27 crashed into F14, J-8 locked on the US aircraft carrier?",
         "nickname": "演讲与人生",
         "created_at": "2022-04-01",
         "archive": "gh_e525ae7f03af_2022-04-01_2247578839_53aodEt1hv.y.tar.gz",
         "censored_date": "2022-04-02 23:28:31",
         "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247503863&idx=3&sn=95eb6aa7699d7f7f871c904c685d7c97",
+        "title": "噩耗传来！那个全网关注的男人，去世了…",
+        "title_eng": "Bad news! The man who was followed by the whole network passed away...",
+        "nickname": "创投新风向",
+        "created_at": "2022-03-31",
+        "archive": "gh_46fa18dba691_2022-03-31_2247503863_YugZRF3P9A.y.tar.gz",
+        "censored_date": "2022-04-03 00:01:46",
+        "censored_msg": "The"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247503863&idx=2&sn=ddf19c084c8a8cd85eaff9d5ea60dbf3",
+        "title": "孩子身上这条线，决定最终身高！多长15cm就靠它了",
+        "title_eng": "This line on the child's body determines the final height! How long is 15cm depends on it",
+        "nickname": "创投新风向",
+        "created_at": "2022-03-31",
+        "archive": "gh_46fa18dba691_2022-03-31_2247503863_P2nLgC0whi.y.tar.gz",
+        "censored_date": "2022-04-03 00:04:08",
+        "censored_msg": "The",
+        "update_date": "2022-04-01 15:52:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247503863&idx=1&sn=c59d66ff5e46c868e66ff9daf7f8ddeb",
+        "title": "“孩子在学校出事，连尸体都不让看！”江苏一校车碾压8岁女孩？学校做法太下头...",
+        "title_eng": "The child is in an accident at school, and even the body is not allowed to be seen! A school bus in Jiangsu ran over an 8-year-old girl? The school's approach is too low...",
+        "nickname": "创投新风向",
+        "created_at": "2022-03-31",
+        "archive": "gh_46fa18dba691_2022-03-31_2247503863_bOYNK3qklC.y.tar.gz",
+        "censored_date": "2022-04-03 00:02:57",
+        "censored_msg": "The",
+        "update_date": "2022-04-01 15:52:23"
     }
 ]
