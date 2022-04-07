@@ -2333,7 +2333,8 @@
         "created_at": "2022-04-05",
         "archive": "gh_85ceeb96c96a_2022-04-05_2247528760_xqJVZKMvbk.y.tar.gz",
         "censored_date": "2022-04-05 23:55:53",
-        "censored_msg": "Unable"
+        "censored_msg": "Unable",
+        "update_date": "2022-04-07 20:37:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MTM2NzAyNg==&mid=2247523951&idx=3&sn=95dc4f5ddcefcf9e9f5a8653c98fbd41",
@@ -2723,6 +2724,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247513440&idx=1&sn=824845229f0ffffd58b8d798e0b2bd4b",
         "title": "布查惨案过后，俄乌的退路都断了……",
+        "title_eng": "After the Butha Massacre, Russia and Ukraine's retreat was cut off...",
         "nickname": "登山望岳",
         "created_at": "2022-04-05",
         "archive": "gh_728dda09b5fa_2022-04-05_2247513440_Sj0saKRePl.y.tar.gz",
@@ -2733,6 +2735,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4ODA4MDczMw==&mid=2247513415&idx=1&sn=7c6415bcb80690ac267244d9892feca1",
         "title": "屠杀平民，乌克兰布查惨案令人发指",
+        "title_eng": "The massacre of civilians, the Ukrainian Butcha massacre is heinous",
         "nickname": "登山望岳",
         "created_at": "2022-04-04",
         "archive": "gh_728dda09b5fa_2022-04-04_2247513415_toh96C0U45.y.tar.gz",
@@ -2743,11 +2746,54 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247519832&idx=1&sn=faf36baa20f88f799968edfd338f49c6",
         "title": "通报！疫情防控中公职人员（含非党）有这几十种行为（态度）将被追责或处罚！",
+        "title_eng": "Announcement! Dozens of behaviors (attitudes) of public officials (including non-Party parties) in epidemic prevention and control will be held accountable or punished!",
         "nickname": "政e视角",
         "created_at": "2022-04-05",
         "archive": "gh_4d1e27733468_2022-04-05_2247519832_lBGKURNqji.y.tar.gz",
         "censored_date": "2022-04-07 18:51:57",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-05 20:40:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNDMwNDE4NQ==&mid=2247513601&idx=1&sn=16968b3c84c91ad96049ad6f6885a3fb",
+        "title": "司法部2名领导干部落马！",
+        "title_eng": "2 leaders of the Ministry of Justice sacked!",
+        "nickname": "华睿说法",
+        "created_at": "2022-04-04",
+        "archive": "gh_fc462f1a6144_2022-04-04_2247513601_phWZawK0NQ.y.tar.gz",
+        "censored_date": "2022-04-07 19:57:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-06 00:24:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MTM2NzAyNg==&mid=2247524034&idx=1&sn=7eed375ca46c1c1887c6a28362f2d06a",
+        "title": "布查事件是摆拍吗？俄常驻联合国代表展示相关证据",
+        "title_eng": "Is the Butcha incident a staged shoot? The Permanent Representative of Russia to the United Nations presents relevant evidence",
+        "nickname": "法律检索",
+        "created_at": "2022-04-05",
+        "archive": "gh_be91d3a11617_2022-04-05_2247524034_hqFPSU1AIc.y.tar.gz",
+        "censored_date": "2022-04-07 20:17:28",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-05 23:58:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTcxODYzMQ==&mid=2247579188&idx=2&sn=d3fa3e09d7b400236bc80cc8c2b7c248",
+        "title": "上海原副市长谢丽娟 ：当年那场31万人感染的灾难让人难忘",
+        "title_eng": "Xie Lijuan, former deputy mayor of Shanghai: The disaster that infected 310,000 people was unforgettable",
+        "nickname": "演讲与人生",
+        "created_at": "2022-04-06",
+        "archive": "gh_e525ae7f03af_2022-04-06_2247579188_PNFyeAR2kL.y.tar.gz",
+        "censored_date": "2022-04-07 20:29:49",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NjcxNzAzOQ==&mid=2247569285&idx=3&sn=21831a3ab7f801c3968eefd95a81058a",
+        "title": "Will Liberal Hegemony Lead to a Cold War in Asia?",
+        "title_eng": "Will Liberal Hegemony Lead to a Cold War in Asia?",
+        "nickname": "全球化智库CCG",
+        "created_at": "2022-04-04",
+        "archive": "gh_14b07ab30393_2022-04-04_2247569285_6rnXceL91D.y.tar.gz",
+        "censored_date": "2022-04-07 20:08:21",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
