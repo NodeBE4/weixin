@@ -2711,7 +2711,8 @@
         "created_at": "2022-04-06",
         "archive": "gh_8f29429f71d7_2022-04-06_2247544524_pz1dsSP6Zf.y.tar.gz",
         "censored_date": "2022-04-07 17:29:45",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-08 14:24:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658767936&idx=1&sn=7aea5cd085a5ba6ba46711934e36dbf0",
@@ -2948,6 +2949,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzExODYzNw==&mid=2667518928&idx=1&sn=0513425d277ec5b090534c0cbc8ce6e3",
         "title": "虽然政策放松，但地产还有这3大问题！",
+        "title_eng": "Although the policy is relaxed, there are still three major problems in real estate!",
         "nickname": "地产八卦女",
         "created_at": "2022-04-08",
         "archive": "gh_d2ea373c0118_2022-04-08_2667518928_odHRJi5S2X.y.tar.gz",
@@ -2957,6 +2959,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650819654&idx=3&sn=3d449fb21d872e70d77a5c524ec1ed08",
         "title": "地面压力减轻，乌克兰谈判强硬",
+        "title_eng": "Ukrainian talks tough as pressure on the ground eases",
         "nickname": "环球局势洞见",
         "created_at": "2022-04-08",
         "archive": "gh_a217bb0c34bc_2022-04-08_2650819654_ezJ58j2MVK.y.tar.gz",
@@ -2966,6 +2969,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650819654&idx=2&sn=233177fac852867a0bd3479ac2fcd0f0",
         "title": "俄亮出七大杀手锏！日本迅速服软不再制裁俄，中方网友：欺软怕硬",
+        "title_eng": "Russia shows seven killers! Japan quickly surrendered to the soft and no longer sanctioned Russia. Chinese netizens: bullying the soft and fearing the hard",
         "nickname": "环球局势洞见",
         "created_at": "2022-04-08",
         "archive": "gh_a217bb0c34bc_2022-04-08_2650819654_JcX32g6QTO.y.tar.gz",
@@ -2975,6 +2979,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MTMzOTY2Mg==&mid=2650819654&idx=4&sn=759f7ac64008a529382bba740675e198",
         "title": "埃及法老的匕首历经3350年都没生锈，因为用了304不锈钢？",
+        "title_eng": "The dagger of the Egyptian pharaoh did not rust for 3350 years because it used 304 stainless steel?",
         "nickname": "环球局势洞见",
         "created_at": "2022-04-08",
         "archive": "gh_a217bb0c34bc_2022-04-08_2650819654_8eoIqdbC0r.y.tar.gz",
@@ -2984,11 +2989,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2247963082&idx=1&sn=e4231e9bbba6a5ba3365c0a21c84b9a9",
         "title": "疫情下的货运司机：有人7天没吃过米饭，有人车上吃住27天，“这次比2020年初感觉还要难”",
+        "title_eng": "Freight drivers under the epidemic: Some people have not eaten rice for 7 days, and some people eat and live in the car for 27 days. This time it is even more difficult than the beginning of 2020",
         "nickname": "每日经济新闻",
         "created_at": "2022-04-07",
         "archive": "gh_2424e6d48203_2022-04-07_2247963082_3nfrQlRiSd.y.tar.gz",
         "censored_date": "2022-04-08 12:50:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-07 17:52:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzYzMzM1NA==&mid=2653351822&idx=2&sn=5cf6e3cd8bbfd33d7934616a4523fdf9",
+        "title": "一到夏天孩子就不好好吃饭？你可能忽略了这两点",
+        "title_eng": "Does your child not eat well in summer? You may have overlooked these two points",
+        "nickname": "画友文学天地",
+        "created_at": "2022-04-07",
+        "archive": "gh_e4d7b38fb8a3_2022-04-07_2653351822_R0eyIltFbH.y.tar.gz",
+        "censored_date": "2022-04-08 14:19:44",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
