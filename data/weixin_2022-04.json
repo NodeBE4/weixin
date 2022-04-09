@@ -3347,10 +3347,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651908664&idx=4&sn=f6323792596c5ffd35b2070067e25c8b",
         "title": "《看万山红遍》！这首歌为万山量身定制，先听为快！",
+        "title_eng": "Watch Wanshan Red! This song is tailor-made for Wanshan, listen to it first!",
         "nickname": "微铜仁",
         "created_at": "2022-04-08",
         "archive": "gh_93185b95671c_2022-04-08_2651908664_l0sC9SmPfU.y.tar.gz",
         "censored_date": "2022-04-09 22:07:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxNjkxNTk0Ng==&mid=2247521582&idx=2&sn=4a92144c0d20ce141905b52b515f94b5",
+        "title": "周伟涉嫌严重违纪违法，被查",
+        "nickname": "法苑茶语",
+        "created_at": "2022-04-07",
+        "archive": "gh_bf54f24b2e87_2022-04-07_2247521582_eTC2mOYkdy.y.tar.gz",
+        "censored_date": "2022-04-09 23:17:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-08 12:48:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwOTk0MjA2Mw==&mid=2247506204&idx=1&sn=b494897f9e1031d167c42f5c7fcd3a00",
+        "title": "不要怂！",
+        "title_eng": "Don't be shy!",
+        "nickname": "卫斯理观察",
+        "created_at": "2022-04-07",
+        "archive": "gh_4481ed4b2d9b_2022-04-07_2247506204_R7KejWFpAi.y.tar.gz",
+        "censored_date": "2022-04-09 23:21:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-07 18:05:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660474406&idx=1&sn=1d416c5937a65b8a73e9fb7d72dddd1f",
+        "title": "上海防疫，为何走到这一步",
+        "title_eng": "Epidemic prevention in Shanghai, why did it come this far?",
+        "nickname": "重要的是经济",
+        "created_at": "2022-04-09",
+        "archive": "gh_1137e6936d9f_2022-04-09_2660474406_8dmYIc9U70.y.tar.gz",
+        "censored_date": "2022-04-09 22:26:21",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
