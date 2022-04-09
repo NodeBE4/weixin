@@ -3411,6 +3411,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247549782&idx=1&sn=27658c4044bab705efd284d919845895",
         "title": "刚刚！陕西通报“铁笼女”事件调查结果",
+        "title_eng": "just! Shaanxi reported the investigation results of the iron cage girl incident",
         "nickname": "徐雪芬札记",
         "created_at": "2022-04-06",
         "archive": "gh_06140cfad959_2022-04-06_2247549782_oYwa8Oi0Q5.y.tar.gz",
@@ -3421,6 +3422,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247501186&idx=1&sn=bbf84a56ba4ad8c5db9562a9b7872ea2",
         "title": "4个月后，孙海洋再上热搜：和寻子无关，却又让我哭出了声",
+        "title_eng": "4 months later, Sun Haiyang went on the hot search again: It has nothing to do with finding a child, but it made me cry again",
         "nickname": "首富商圈",
         "created_at": "2022-04-07",
         "archive": "gh_c7f9947afc98_2022-04-07_2247501186_r7saWjApwX.y.tar.gz",
@@ -3431,6 +3433,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247501186&idx=3&sn=baea5e2a3bc3cd597f38775ed59aa877",
         "title": "出手百亿，富士康小老弟做起LP",
+        "title_eng": "With tens of billions of shots, Foxconn's younger brother starts LP",
         "nickname": "首富商圈",
         "created_at": "2022-04-07",
         "archive": "gh_c7f9947afc98_2022-04-07_2247501186_BOfZ0uMnoR.y.tar.gz",
@@ -3441,11 +3444,56 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247501186&idx=4&sn=aab3a8f876368c6771ddceb790642888",
         "title": "收藏翡翠你不得不知的知识！关于翡翠最实用的精品帖！",
+        "title_eng": "Collect the knowledge you have to know about jadeite! The most practical boutique post about jadeite!",
         "nickname": "首富商圈",
         "created_at": "2022-04-07",
         "archive": "gh_c7f9947afc98_2022-04-07_2247501186_mynVDjGiRW.y.tar.gz",
         "censored_date": "2022-04-10 01:27:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-08 17:15:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247504043&idx=4&sn=62868557def6270a114b6d14470d501a",
+        "title": "收藏翡翠你不得不知的知识！关于翡翠最实用的精品帖！",
+        "title_eng": "Collect the knowledge you have to know about jadeite! The most practical boutique post about jadeite!",
+        "nickname": "创投新风向",
+        "created_at": "2022-04-07",
+        "archive": "gh_46fa18dba691_2022-04-07_2247504043_1IKCAJHW0h.y.tar.gz",
+        "censored_date": "2022-04-10 01:32:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-08 17:28:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247504043&idx=3&sn=74985b74cdd56ee6cc6f2f6903556db8",
+        "title": "民宿凉了，露营火了",
+        "title_eng": "The homestay is cold, the camping is on fire",
+        "nickname": "创投新风向",
+        "created_at": "2022-04-07",
+        "archive": "gh_46fa18dba691_2022-04-07_2247504043_MvbNXTen3c.y.tar.gz",
+        "censored_date": "2022-04-10 01:38:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-08 17:26:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTYxNzcxMA==&mid=2247520136&idx=3&sn=50c1c0a154e2dbb813d8fb3a2fa8a7de",
+        "title": "警察注意！2022年共有46天可以法定喝酒，千万别犯错误！",
+        "title_eng": "Attention police! There are 46 days in 2022 where you can legally drink alcohol, don't make a mistake!",
+        "nickname": "政e视角",
+        "created_at": "2022-04-07",
+        "archive": "gh_4d1e27733468_2022-04-07_2247520136_WtjCSa53Qu.y.tar.gz",
+        "censored_date": "2022-04-10 02:29:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-09 14:32:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247504043&idx=1&sn=9cd5fd9930bf9a7efd1bb73bde0515bc",
+        "title": "疫情过后，这个行业将迎来下一个黄金十年，很多人不知道！",
+        "title_eng": "After the epidemic, this industry will usher in the next golden decade, many people do not know!",
+        "nickname": "创投新风向",
+        "created_at": "2022-04-07",
+        "archive": "gh_46fa18dba691_2022-04-07_2247504043_cWS7LYzFC9.y.tar.gz",
+        "censored_date": "2022-04-10 01:31:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-08 17:27:03"
     }
 ]
