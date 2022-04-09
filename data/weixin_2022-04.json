@@ -3092,7 +3092,8 @@
         "created_at": "2022-04-08",
         "archive": "gh_9eaf123d0c6f_2022-04-08_2247589413_n82spygTMQ.y.tar.gz",
         "censored_date": "2022-04-08 21:01:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-09 20:17:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODA3OTg3Nw==&mid=2649676073&idx=1&sn=986d87848628b0ac1a031c096f18e8f6",
@@ -3311,11 +3312,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5ODMzMDU3OA==&mid=2247503201&idx=1&sn=9f8e229fa036e3d8eb1e1c4edcb42eb0",
         "title": "谁导演了“大屠杀”？",
+        "title_eng": "Who directed The Holocaust?",
         "nickname": "毛有话说",
         "created_at": "2022-04-08",
         "archive": "gh_097268c5ef0e_2022-04-08_2247503201_VpCGnqKNe0.y.tar.gz",
         "censored_date": "2022-04-09 19:15:08",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-04-09 01:33:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NDAxOTczNw==&mid=2652690087&idx=2&sn=5d2e90897571fc12fcbf0b9c405573de",
+        "title": "阳泉新增1例无症状感染者，平定县划定封控区、管控区、防范区",
+        "nickname": "山西日报",
+        "created_at": "2022-04-09",
+        "archive": "gh_d2219b17684c_2022-04-09_2652690087_4ExufoMKRa.y.tar.gz",
+        "censored_date": "2022-04-09 20:45:04",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653449556&idx=1&sn=c278840e9320f3fb6f15c0913f2159c4",
+        "title": "缪晓辉教授：对疫情防控的 7 点建议，关注和解决额外死亡问题刻不容缓",
+        "title_eng": "Professor Miao Xiaohui: 7 suggestions for epidemic prevention and control, it is urgent to pay attention to and solve the problem of additional deaths",
+        "nickname": "丁香园",
+        "created_at": "2022-04-08",
+        "archive": "wxid_9602156020911_2022-04-08_2653449556_HgWAR4sweq.y.tar.gz",
+        "censored_date": "2022-04-09 20:25:02",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-09 00:49:39"
     }
 ]
