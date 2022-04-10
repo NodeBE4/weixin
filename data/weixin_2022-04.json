@@ -3343,7 +3343,7 @@
         "archive": "wxid_9602156020911_2022-04-08_2653449556_HgWAR4sweq.y.tar.gz",
         "censored_date": "2022-04-09 20:25:02",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-04-09 00:49:39"
+        "update_date": "2022-04-10 17:35:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjA4NTkzNA==&mid=2651908664&idx=4&sn=f6323792596c5ffd35b2070067e25c8b",
@@ -3619,6 +3619,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491528&idx=2&sn=f10a79b5c5717e6a646f9a1c337dc7a2",
         "title": "重磅：黑芝麻背后真相惊人，千年传承即将毁于一旦！",
+        "title_eng": "Heavyweight: The truth behind black sesame is amazing, and the millennium inheritance is about to be destroyed!",
         "nickname": "世纪观察",
         "created_at": "2022-04-09",
         "archive": "gh_26762a56c129_2022-04-09_2247491528_FeW60vBqMt.y.tar.gz",
@@ -3629,10 +3630,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3OTM2NTE3Mg==&mid=2247493422&idx=1&sn=ed930144201a5a11af3922632b6567f0",
         "title": "4月9号起，1959-1995年出生的人注意了，这件事与你息息相关！",
+        "title_eng": "From April 9th, people born in 1959-1995 pay attention, this matter is closely related to you!",
         "nickname": "战忽局座召忠",
         "created_at": "2022-04-09",
         "archive": "gh_df4c11dd4a38_2022-04-09_2247493422_Uer8ASCVpW.y.tar.gz",
         "censored_date": "2022-04-10 17:11:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MzY2MzgwNA==&mid=2247932232&idx=2&sn=09cbcb027f1a2d27f4c131ff671fb427",
+        "title": "《人民日报》又搞事情啦！这次竟喊孩子“抄答案”",
+        "nickname": "最华人",
+        "created_at": "2022-04-09",
+        "archive": "gh_71044192929a_2022-04-09_2247932232_RTo3dO69qX.y.tar.gz",
+        "censored_date": "2022-04-10 17:34:48",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650178087&idx=4&sn=4a07897646b94a046835f7fdd3c66e83",
+        "title": "半小时惊天大反转，爱情片还能这样拍？",
+        "title_eng": "Half an hour's shocking reversal, can romance films be shot like this?",
+        "nickname": "吐槽星君",
+        "created_at": "2022-04-09",
+        "archive": "gh_45220e40f13c_2022-04-09_2650178087_Yjbxk2FGDC.y.tar.gz",
+        "censored_date": "2022-04-10 18:14:37",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
