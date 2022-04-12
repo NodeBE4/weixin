@@ -4231,6 +4231,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247498474&idx=1&sn=86dd5dbe1e8337a493c7f70569ca9346",
         "title": "孙远良，被查 ！",
+        "title_eng": "Sun Yuanliang, was investigated!",
         "nickname": "最高审判指引",
         "created_at": "2022-04-09",
         "archive": "gh_623c5c12b45e_2022-04-09_2247498474_vJ7WzsL9US.y.tar.gz",
@@ -4241,6 +4242,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA0OTM2MA==&mid=2651373513&idx=1&sn=090720ca53dba5cd11982cbf55a8385c",
         "title": "再敲警钟！两名少年野泳不幸溺亡！防溺水，请做好这些→",
+        "title_eng": "Ring the alarm again! Two teenagers drowned in wild swimming! To prevent drowning, please do these →",
         "nickname": "梅州日报民生一线",
         "created_at": "2022-04-11",
         "archive": "gh_e85c24829900_2022-04-11_2651373513_CY07qvkHmD.y.tar.gz",
@@ -4251,10 +4253,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651991108&idx=4&sn=d6207920c3762c927e464408bae40f91",
         "title": "韩国首次发现新冠重组毒株XE病例",
+        "title_eng": "South Korea finds first case of new coronavirus recombinant strain XE",
         "nickname": "澎湃新闻",
         "created_at": "2022-04-12",
         "archive": "gh_d29e0d22a6f9_2022-04-12_2651991108_HLl0Bp1w8U.y.tar.gz",
         "censored_date": "2022-04-12 22:23:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTA1MDU3OA==&mid=2676434441&idx=1&sn=205bafc2ddb2b9f22bb5b8f3ae4d0e3d",
+        "title": "拒不配合防疫工作，贵州陈某某被拘留罚款",
+        "title_eng": "Guizhou Chen Moumou detained and fined for refusing to cooperate with epidemic prevention work",
+        "nickname": "动静贵州",
+        "created_at": "2022-04-12",
+        "archive": "gh_a9e59d63f206_2022-04-12_2676434441_0Mw7IrR6QX.y.tar.gz",
+        "censored_date": "2022-04-12 23:24:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjA0OTUwMA==&mid=2653476708&idx=3&sn=e7a3636e06cea70f7571a10a113698db",
+        "title": "亚新集团全生态业务体系，构建发展新格局",
+        "nickname": "中国房地产报",
+        "created_at": "2022-04-11",
+        "archive": "gh_3dda95af34d0_2022-04-11_2653476708_9P5anN80gH.y.tar.gz",
+        "censored_date": "2022-04-12 23:32:28",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
