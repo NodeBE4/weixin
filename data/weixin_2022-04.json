@@ -4939,7 +4939,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTQxODUxNw==&mid=2651074831&idx=1&sn=64ddb36ff9ed49c4793ec67587aa1ed2",
         "title": "终于！回国隔离放宽：8个城市试点，改为10+7！从新加坡回国全攻略~",
-        "title_eng": "finally! Relaxation of quarantine after returning to China: pilot in 8 cities, changed to 10 7! A complete guide to returning from Singapore~",
+        "title_eng": "finally! Relaxation of quarantine after returning to China: pilot in 8 cities, changed to 10 7!",
         "nickname": "新加坡狮城椰子",
         "created_at": "2022-04-13",
         "archive": "gh_830365a1bf55_2022-04-13_2651074831_jFMvxpqB8O.y.tar.gz",
@@ -5146,6 +5146,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650861234&idx=4&sn=3383c80c61e78713c69ff75c0c1dff40",
         "title": "超准！出生时辰决定一生的命运！快来看看你是什么命运？",
+        "title_eng": "Super accurate! The time of birth determines the fate of a lifetime! Come and see what is your destiny?",
         "nickname": "荣茂读报",
         "created_at": "2022-04-14",
         "archive": "gh_11d6ef0dd9d4_2022-04-14_2650861234_3hcurI4Fmt.y.tar.gz",
@@ -5155,6 +5156,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MjEzODQ3NA==&mid=2655808148&idx=4&sn=d5176c945db6dea7bd4de805fad81d2c",
         "title": "死扛恒瑞，真的很苦",
+        "title_eng": "Carrying Hengrui to death is really hard",
         "nickname": "药渡",
         "created_at": "2022-04-13",
         "archive": "gh_b4e5fabd7680_2022-04-13_2655808148_0LFs931irh.y.tar.gz",
@@ -5164,10 +5166,74 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDY4ODEyNg==&mid=2651044017&idx=1&sn=aec099e5ddcc5ee0729d6e36b9bb73b6",
         "title": "最坏消息传来!世卫紧急宣布:新冠病毒恐重启,所有人已产生的免疫全失效?!",
+        "title_eng": "The worst news comes! The WHO urgently announces that the new coronavirus may restart, and everyone's immunity will be completely invalid?!",
         "nickname": "洞察文摘",
         "created_at": "2022-04-13",
         "archive": "gh_303217180b99_2022-04-13_2651044017_wgSvslmTIV.y.tar.gz",
         "censored_date": "2022-04-15 10:05:21",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491551&idx=2&sn=4bb40aa61e61e750bf0dfdef05548701",
+        "title": "吃海参的人越来越多，但是大多数不知道，海参吃的对才有用！",
+        "title_eng": "More and more people eat sea cucumber, but most people don't know that sea cucumber is only useful when eaten right!",
+        "nickname": "世纪观察",
+        "created_at": "2022-04-14",
+        "archive": "gh_26762a56c129_2022-04-14_2247491551_pq6Xer9x7s.y.tar.gz",
+        "censored_date": "2022-04-15 10:16:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247492574&idx=3&sn=c033e21bf6683b93f5485e6f1c3bdfdb",
+        "title": "通知：家庭教育指导师面向全国招生，教师、家长人群优先！",
+        "nickname": "虎次郎",
+        "created_at": "2022-04-14",
+        "archive": "gh_610312e22ed3_2022-04-14_2247492574_XBjaRL9m6f.y.tar.gz",
+        "censored_date": "2022-04-15 11:31:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-14 11:45:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NTgzODYyMA==&mid=2652134011&idx=2&sn=a0a2cdb9f7a1f060cc3c08ebabf0aa04",
+        "title": "终于！回国隔离放宽：8个城市试点，改为10+7！",
+        "title_eng": "finally! Relaxation of quarantine after returning to China: pilot in 8 cities, changed to 10 7!",
+        "nickname": "西班牙华仁中文",
+        "created_at": "2022-04-14",
+        "archive": "gh_bdf0f662e74b_2022-04-14_2652134011_h2eT08rEJP.y.tar.gz",
+        "censored_date": "2022-04-15 10:50:01",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-14 12:22:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMDIzODQxNQ==&mid=2653974664&idx=1&sn=fcfbb2f8dfa1bd85b50385a1c12fc8a8",
+        "title": "正式通知！本科以下学历每人补贴8000元！政策扶持，名额有限，速看！",
+        "title_eng": "formal notice! A subsidy of 8,000 yuan per person with a bachelor's degree or below! Policy support, places are limited, hurry up!",
+        "nickname": "法语无疆",
+        "created_at": "2022-04-14",
+        "archive": "gh_49fff09a3c92_2022-04-14_2653974664_Ko7jc6l19S.y.tar.gz",
+        "censored_date": "2022-04-15 11:20:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-14 11:33:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649546511&idx=2&sn=ad87ff4e822279d66c73e2466ce330b9",
+        "title": "正式通知！本科以下学历每人补贴8000元！政策扶持，名额有限，速看！",
+        "title_eng": "formal notice! A subsidy of 8,000 yuan per person with a bachelor's degree or below! Policy support, places are limited, hurry up!",
+        "nickname": "口述历史",
+        "created_at": "2022-04-13",
+        "archive": "gh_f37c9048d287_2022-04-13_2649546511_ihuo3ZV0de.y.tar.gz",
+        "censored_date": "2022-04-15 10:45:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-14 11:19:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMzY0ODg3NA==&mid=2247557918&idx=3&sn=4481857f34a2fd3ef85245b4fbed4920",
+        "title": "新的水处理技术让企业获得百万大红包！",
+        "nickname": "环保水圈",
+        "created_at": "2022-04-14",
+        "archive": "gh_651fd87959ba_2022-04-14_2247557918_CcuptxM7rR.y.tar.gz",
+        "censored_date": "2022-04-15 11:56:12",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-14 13:03:48"
     }
 ]
