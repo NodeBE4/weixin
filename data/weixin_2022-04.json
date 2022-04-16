@@ -5400,6 +5400,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMyMDg0Ng==&mid=2650519427&idx=2&sn=60bef1bd7012787627bbb015a36164db",
         "title": "国产首款可微创应用止血凝胶临床数据披露，止血疗效优于强生，即将打破进口垄断",
+        "title_eng": "The clinical data of the first domestically produced hemostatic gel with minimally invasive application revealed that the hemostatic effect is better than that of Johnson & Johnson, and the import monopoly will soon be broken",
         "nickname": "动脉网",
         "created_at": "2022-04-15",
         "archive": "gh_f8aa9a7fdb3a_2022-04-15_2650519427_tlVfe8ZDQj.y.tar.gz",
@@ -5447,5 +5448,26 @@
         "archive": "gh_0e52cf0e55c4_2022-04-15_2247497607_dICSaN103o.y.tar.gz",
         "censored_date": "2022-04-16 08:47:51",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649546514&idx=2&sn=48ff3c7939a9d60e271158705ba9d92a",
+        "title": "《周易》：改变生活困境的方法，很简单却很少人知道",
+        "title_eng": "Book of Changes: The way to change the predicament of life is very simple but few people know it",
+        "nickname": "口述历史",
+        "created_at": "2022-04-14",
+        "archive": "gh_f37c9048d287_2022-04-14_2649546514_4Fbt8gLP7N.y.tar.gz",
+        "censored_date": "2022-04-16 10:00:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655503217&idx=1&sn=006de774232b28d1faec087f78b442c5",
+        "title": "学者最新分析：从卡车流量等看疫情对经济活动的影响",
+        "title_eng": "Scholars' latest analysis: Looking at the impact of the epidemic on economic activities from truck traffic, etc.",
+        "nickname": "知识分子",
+        "created_at": "2022-04-15",
+        "archive": "gh_d21f67d094a5_2022-04-15_2655503217_ps09SMhEVD.y.tar.gz",
+        "censored_date": "2022-04-16 12:26:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-15 12:54:36"
     }
 ]
