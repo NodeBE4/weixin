@@ -5526,7 +5526,8 @@
         "created_at": "2022-04-14",
         "archive": "gh_4d1e27733468_2022-04-14_2247520626_E27QGo0Im3.y.tar.gz",
         "censored_date": "2022-04-16 20:14:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-17 20:06:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351889&idx=7&sn=4a11f171ffc5a98f62121ad936691c81",
@@ -5747,5 +5748,15 @@
         "archive": "gh_5e008ceefb25_2022-04-16_2247533925_mANGB6WJtc.y.tar.gz",
         "censored_date": "2022-04-17 15:45:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxMzA5NTM2Nw==&mid=2651805554&idx=2&sn=70dc3658433a5dbf02d86565ac46693f",
+        "title": "戴一次性口罩的要注意了，我也后悔才知道！",
+        "title_eng": "People who wear disposable masks should pay attention, I regret it only to know!",
+        "nickname": "冷眼文摘",
+        "created_at": "2022-04-15",
+        "archive": "gh_0d903ba9d2be_2022-04-15_2651805554_4jwJ37Vf0M.y.tar.gz",
+        "censored_date": "2022-04-17 19:50:42",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
