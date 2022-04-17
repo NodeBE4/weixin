@@ -5570,7 +5570,8 @@
         "created_at": "2022-04-14",
         "archive": "gh_f9c68c2832fb_2022-04-14_2247648519_pUhFSGJI4s.y.tar.gz",
         "censored_date": "2022-04-17 00:13:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-18 00:21:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247501529&idx=1&sn=97b4acba66ecbde84d333a22237329a9",
@@ -5757,6 +5758,16 @@
         "created_at": "2022-04-15",
         "archive": "gh_0d903ba9d2be_2022-04-15_2651805554_4jwJ37Vf0M.y.tar.gz",
         "censored_date": "2022-04-17 19:50:42",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTI0NTUyNA==&mid=2650348294&idx=1&sn=602efcd82488c7663cbc3f61b0ac97d0",
+        "title": "上海滩：“失去了一个最重要的核心东西…”",
+        "title_eng": "Shanghai Tang: I lost one of the most important core things...",
+        "nickname": "孟子心史记",
+        "created_at": "2022-04-16",
+        "archive": "gh_c2200c45e5df_2022-04-16_2650348294_pe6YNQOXL1.y.tar.gz",
+        "censored_date": "2022-04-17 23:49:21",
         "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
