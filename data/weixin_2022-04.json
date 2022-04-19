@@ -5846,7 +5846,8 @@
         "created_at": "2022-04-17",
         "archive": "gh_26762a56c129_2022-04-17_2247491573_rxsEvMACGp.y.tar.gz",
         "censored_date": "2022-04-18 12:58:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-19 08:39:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDQ3NjkzMw==&mid=2651569322&idx=1&sn=c7990bcb40df2e5cf742a4e6549b74e2",
@@ -5856,7 +5857,8 @@
         "created_at": "2022-04-18",
         "archive": "gh_6bf0375ffd3e_2022-04-18_2651569322_XCmYV1oc83.y.tar.gz",
         "censored_date": "2022-04-18 12:59:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-19 08:37:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351913&idx=2&sn=2edad8f5a8d8f2046998aea7017a3b64",
@@ -6064,6 +6066,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NjYzNjM4MA==&mid=2247495191&idx=1&sn=76902e6d08c7e1de304c434a309a1dd4",
         "title": "陈皮又被媒体曝光！没想到长期喝最后竟然变成了……",
+        "title_eng": "Chen Pi was exposed by the media again! Unexpectedly, drinking it for a long time turned out to be...",
         "nickname": "北斗局",
         "created_at": "2022-04-18",
         "archive": "gh_ccf6a72b140a_2022-04-18_2247495191_0lgDhKCJmc.y.tar.gz",
@@ -6079,5 +6082,27 @@
         "archive": "gh_b984621ff266_2022-04-18_2247542518_DAyTJ7EvBj.y.tar.gz",
         "censored_date": "2022-04-19 06:09:58",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MjUxMTY0OA==&mid=2247543646&idx=3&sn=7c4162cde6f34a79968c26b69232de53",
+        "title": "新冠“清零”策略的未来",
+        "title_eng": "The future of the new crown clearing strategy",
+        "nickname": "医业观察",
+        "created_at": "2022-04-18",
+        "archive": "gh_9cb7cdc6525f_2022-04-18_2247543646_M0D2476y0P.y.tar.gz",
+        "censored_date": "2022-04-19 07:34:20",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-18 11:13:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzI4MzQxNQ==&mid=2651070825&idx=2&sn=1d7b6d9426c3ad47e6a0450a9e103a67",
+        "title": "市委书记邵国强讲话金句来了",
+        "title_eng": "Shao Guoqiang, Secretary of the Municipal Party Committee, delivered a golden sentence",
+        "nickname": "关注饶河",
+        "created_at": "2022-04-18",
+        "archive": "gh_b04d605c071c_2022-04-18_2651070825_nXSZVyQ9Js.y.tar.gz",
+        "censored_date": "2022-04-19 08:57:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-18 12:04:51"
     }
 ]
