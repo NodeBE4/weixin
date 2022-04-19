@@ -6253,6 +6253,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247515366&idx=3&sn=8c2cfd5559bda38caf6d5d6495ad58e3",
         "title": "你永远不知道，00后上网课能整出多少活",
+        "title_eng": "You never know how much life can be made by online classes after 00",
         "nickname": "老板思维论",
         "created_at": "2022-04-17",
         "archive": "gh_69f7ba479665_2022-04-17_2247515366_jrJzLCUBdn.y.tar.gz",
@@ -6263,6 +6264,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc2OTA1NQ==&mid=2651565504&idx=2&sn=fdb0cdcf0d8daeedadc37b86f128178d",
         "title": "不要把最差的脾气留给最亲近的人",
+        "title_eng": "Don't leave the worst temper to those closest to you",
         "nickname": "丹顶鹤",
         "created_at": "2022-04-18",
         "archive": "gh_1e81751dd25e_2022-04-18_2651565504_NQl9scumqD.y.tar.gz",
@@ -6273,6 +6275,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc2OTA1NQ==&mid=2651565504&idx=4&sn=1668c2dc7cff13b5d31fe5dfde26b664",
         "title": "疫情在家都做了什么准备",
+        "title_eng": "What are you doing at home to prepare for the epidemic?",
         "nickname": "丹顶鹤",
         "created_at": "2022-04-18",
         "archive": "gh_1e81751dd25e_2022-04-18_2651565504_G5O7ltujae.y.tar.gz",
@@ -6283,11 +6286,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc2OTA1NQ==&mid=2651565504&idx=3&sn=2d7d4c6d8280b70cdca913954806b710",
         "title": "什么都在涨价，只有人心越来越廉价？",
+        "title_eng": "Everything is going up in price, only people are getting cheaper and cheaper?",
         "nickname": "丹顶鹤",
         "created_at": "2022-04-18",
         "archive": "gh_1e81751dd25e_2022-04-18_2651565504_ZT7tRI0uji.y.tar.gz",
         "censored_date": "2022-04-20 03:01:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-18 20:38:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNDMwNDE4NQ==&mid=2247513950&idx=1&sn=b4d9f15cf97b68479632e7c06797438a",
+        "title": "公安郑重提醒：30种疫情防控违法违规行为及法律后果！请转发扩散！",
+        "title_eng": "The public security solemnly reminds: 30 kinds of epidemic prevention and control violations and legal consequences! Please forward and spread!",
+        "nickname": "华睿说法",
+        "created_at": "2022-04-16",
+        "archive": "gh_fc462f1a6144_2022-04-16_2247513950_Zyuqlkd7gM.y.tar.gz",
+        "censored_date": "2022-04-20 04:27:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-18 23:38:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNDMwNDE4NQ==&mid=2247513926&idx=1&sn=5e36c3cc0e28c82f803a866d6f84314a",
+        "title": "公安正式提醒：不参加统一组织的核酸检测，后果很严重！请全民转发！",
+        "title_eng": "The public security officially reminded: the consequences of not participating in the nucleic acid testing organized by the unified organization are very serious! Please retweet it all!",
+        "nickname": "华睿说法",
+        "created_at": "2022-04-15",
+        "archive": "gh_fc462f1a6144_2022-04-15_2247513926_rhp7dOz6UJ.y.tar.gz",
+        "censored_date": "2022-04-20 04:28:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-18 23:38:45"
     }
 ]
