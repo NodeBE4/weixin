@@ -6143,7 +6143,7 @@
         "archive": "gh_96233a9afe6e_2022-04-18_2651917870_iXQVbsNZr6.y.tar.gz",
         "censored_date": "2022-04-19 19:17:04",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-04-19 01:07:28"
+        "update_date": "2022-04-20 20:37:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NTc0MDE4OA==&mid=2247527002&idx=2&sn=b7987e5f82810dbe9dbf9dfc00dfd3c3",
@@ -6186,7 +6186,8 @@
         "created_at": "2022-04-19",
         "archive": "gh_f86665431cb0_2022-04-19_2247522430_wy4MjzHsQf.y.tar.gz",
         "censored_date": "2022-04-19 20:59:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-20 19:29:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODA4OTIyMA==&mid=2651990964&idx=1&sn=71515d64744ab622928ea5815d2f659e",
@@ -6476,6 +6477,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351926&idx=5&sn=e9c84a28f7dc5b02d1d5525754858f37",
         "title": "刁民发问：不能防感染，但能防重症的逻辑在哪？",
+        "title_eng": "Diao Min asked: What is the logic of preventing infection, but being able to prevent severe illness?",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-18",
         "archive": "gh_a0b79e79b274_2022-04-18_2651351926_Tu3ryWHLpz.y.tar.gz",
@@ -6486,6 +6488,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351926&idx=6&sn=539f1f8ef59da9aa017dbc35bf7bca2f",
         "title": "醒脑：绝对是点睛之笔",
+        "title_eng": "Brainstorming: definitely the finishing touch",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-18",
         "archive": "gh_a0b79e79b274_2022-04-18_2651351926_joe5l8Hcsb.y.tar.gz",
@@ -6496,6 +6499,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351926&idx=7&sn=a64f87b011b1292aede56452980ecaf3",
         "title": "无耻的新词",
+        "title_eng": "shameless new word",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-18",
         "archive": "gh_a0b79e79b274_2022-04-18_2651351926_7AmN38GpI0.y.tar.gz",
@@ -6506,6 +6510,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351921&idx=1&sn=5b4c8165b6392b322f70ed13747df7b9",
         "title": "突发！北京副部级老虎被查！",
+        "title_eng": "burst! Beijing's deputy minister-level tiger was investigated!",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-17",
         "archive": "gh_a0b79e79b274_2022-04-17_2651351921_8XSzUiMlr5.y.tar.gz",
@@ -6516,6 +6521,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351926&idx=2&sn=48dc43359880a081a90134e017a82abf",
         "title": "央视：上海人很幸福…",
+        "title_eng": "CCTV: Shanghai people are very happy...",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-18",
         "archive": "gh_a0b79e79b274_2022-04-18_2651351926_1GbVhsyE50.y.tar.gz",
@@ -6526,11 +6532,43 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMTg2MTMxNA==&mid=2651351926&idx=8&sn=15de2b85d678a7f85e5044f5574dc4a9",
         "title": "如果上海5月不能复工",
+        "title_eng": "If Shanghai cannot resume work in May",
         "nickname": "百姓关注话题",
         "created_at": "2022-04-18",
         "archive": "gh_a0b79e79b274_2022-04-18_2651351926_c42GWyv03P.y.tar.gz",
         "censored_date": "2022-04-20 19:09:36",
         "censored_msg": "此帐号已被屏蔽,",
         "update_date": "2022-04-19 20:51:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0Nzg3ODQ1Ng==&mid=2247518414&idx=1&sn=b7156cf135dec6584d0a39b8003eed62",
+        "title": "被带走调查？招行行长田惠宇遭遇人生剧变",
+        "title_eng": "Taken away for investigation? China Merchants Bank President Tian Huiyu suffered life changes",
+        "nickname": "潇湘经略",
+        "created_at": "2022-04-18",
+        "archive": "gh_30b5796604e2_2022-04-18_2247518414_BibyjvYeRm.y.tar.gz",
+        "censored_date": "2022-04-20 19:52:40",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247534612&idx=4&sn=3a31223f5274be110748f9eb53d38c8f",
+        "title": "荒唐！4名男子轮奸巨蜥，被警方逮捕！",
+        "title_eng": "absurd! 4 men gang-raped monitor lizards, arrested by police!",
+        "nickname": "法学小讲",
+        "created_at": "2022-04-18",
+        "archive": "gh_46b1ce89978a_2022-04-18_2247534612_kiXSTDA6py.y.tar.gz",
+        "censored_date": "2022-04-20 19:55:25",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247534612&idx=1&sn=b5af9919d73275ea1da7e9bd7f93da20",
+        "title": "恒大的购房人注意了！最高院判例：购房人全额付款但未办理过户登记的，不享有房屋所有权，只能向开发商主张合同请求权",
+        "title_eng": "Evergrande buyers pay attention! Supreme Court precedent: If the buyer pays in full but has not completed the transfer registration, he does not enjoy the ownership of the house and can only claim the right to the contract from the developer",
+        "nickname": "法学小讲",
+        "created_at": "2022-04-18",
+        "archive": "gh_46b1ce89978a_2022-04-18_2247534612_vRfK075GHL.y.tar.gz",
+        "censored_date": "2022-04-20 19:57:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-19 22:25:40"
     }
 ]
