@@ -6579,7 +6579,7 @@
         "archive": "gh_46b1ce89978a_2022-04-18_2247534612_vRfK075GHL.y.tar.gz",
         "censored_date": "2022-04-20 19:57:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-04-19 22:25:40"
+        "update_date": "2022-04-21 19:38:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMjMyMTQyMg==&mid=2247643432&idx=1&sn=e274406620a2810102c129f4352ab0a7",
@@ -6738,7 +6738,8 @@
         "created_at": "2022-04-19",
         "archive": "gh_4b9b0448fa81_2022-04-19_2652130610_N9Je6Z1gmp.y.tar.gz",
         "censored_date": "2022-04-21 01:06:26",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-21 20:32:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247505095&idx=5&sn=38de42e4adf25868af62b0567cc03eef",
@@ -6952,5 +6953,26 @@
         "archive": "gh_38623feea9d8_2022-04-19_2651359589_U3QFtTHe6C.y.tar.gz",
         "censored_date": "2022-04-21 18:48:27",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247649385&idx=2&sn=67ccdc923a8729a4cb59f2cec61c831c",
+        "title": "豆瓣9.0！看完这套摇滚乐的“百科全书”，谁还敢说不懂摇滚",
+        "title_eng": "Douban 9.0! After reading this encyclopedia of rock music, who would dare to say that they don't understand rock and roll?",
+        "nickname": "摇滚客",
+        "created_at": "2022-04-18",
+        "archive": "gh_f9c68c2832fb_2022-04-18_2247649385_meEq0cBYb0.y.tar.gz",
+        "censored_date": "2022-04-21 20:28:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-21 01:03:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247649385&idx=3&sn=e4de59e60a84ffc43bfb4c70b780c52a",
+        "title": "小米有品靠它进军“搓澡业”？3万只「小手」自动搓泥，扫除身体污垢！",
+        "title_eng": "Xiaomi Youpin relies on it to enter the bath industry? 30,000 little hands automatically rub mud to remove body dirt!",
+        "nickname": "摇滚客",
+        "created_at": "2022-04-18",
+        "archive": "gh_f9c68c2832fb_2022-04-18_2247649385_dVSxYzQ2pC.y.tar.gz",
+        "censored_date": "2022-04-21 20:28:12",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
