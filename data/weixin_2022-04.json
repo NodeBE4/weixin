@@ -7071,6 +7071,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTMzMjAzMg==&mid=2652784680&idx=1&sn=f6914962b5d0b2e1e63c30f4a3cb0a70",
         "title": "直播预告｜Gustilo IIIB型开放骨折的骨整形治疗，马上预约！",
+        "title_eng": "Live Preview｜Osteoplastic Treatment for Gustilo IIIB Open Fractures, Make an Appointment Now!",
         "nickname": "唯医",
         "created_at": "2022-04-21",
         "archive": "gh_31b5ffb9617b_2022-04-21_2652784680_RM9gXnOBbC.y.tar.gz",
@@ -7091,6 +7092,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247593248&idx=1&sn=2329f91158e5ada1a06ca0412f0822e7",
         "title": "重大发现：营养是鸡蛋的10倍，降.三高，通血.管，补气益.精，现在吃正好！（赶紧收藏）",
+        "title_eng": "A major discovery: the nutrition is 10 times that of eggs, it reduces the three highs, clears the blood and tubes, invigorates the qi and benefits the essence, and it is good to eat now! (Quickly collect)",
         "nickname": "第一法商",
         "created_at": "2022-04-21",
         "archive": "gh_5980b8ba5607_2022-04-21_2247593248_YJ3o856u2T.y.tar.gz",
@@ -7100,6 +7102,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMjk1NDQzOA==&mid=2247554965&idx=1&sn=7ab9ace2dcd6b33cf6942e3170af0515",
         "title": "生理期决定了女人衰老的速度，大部分女人都还不清楚，再忙也要看看！",
+        "title_eng": "The menstrual period determines the speed of a woman's aging. Most women don't know it yet, so take a look no matter how busy you are!",
         "nickname": "有范爸妈读书会",
         "created_at": "2022-04-21",
         "archive": "gh_f8da3f620e31_2022-04-21_2247554965_9BvMCIYbRt.y.tar.gz",
@@ -7109,10 +7112,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDA0ODE3OA==&mid=2650212735&idx=2&sn=a4706961ae46e1c49a10543049377f8b",
         "title": "王思聪禁言：老王不知道你是来报恩还是来报仇的……",
+        "title_eng": "Wang Sicong stopped speaking: Lao Wang doesn't know if you are here to repay your kindness or your revenge...",
         "nickname": "经济学博士",
         "created_at": "2022-04-21",
         "archive": "gh_e1a04d0a7b17_2022-04-21_2650212735_QLdszUoMSC.y.tar.gz",
         "censored_date": "2022-04-22 09:55:17",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491603&idx=2&sn=457c361f7079e3b184ef0afc6025be16",
+        "title": "翡翠世家冒险揭露行业黑幕，只因为一颗爱国心！",
+        "title_eng": "The Emerald Family ventured to expose the shady industry, just because of a patriotic heart!",
+        "nickname": "世纪观察",
+        "created_at": "2022-04-21",
+        "archive": "gh_26762a56c129_2022-04-21_2247491603_20zCESbX0F.y.tar.gz",
+        "censored_date": "2022-04-22 11:20:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-21 11:19:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDQ0ODgzOQ==&mid=2650453487&idx=1&sn=031448b6e859d972f4c89ef77267e528",
+        "title": "斯伟江：防疫是科学——驳吴尊友误解论",
+        "title_eng": "Si Weijiang: Epidemic prevention is science - refuting Wu Zunyou's misunderstanding",
+        "nickname": "法耀星空",
+        "created_at": "2022-04-21",
+        "archive": "gh_f2ffa2d8b40b_2022-04-21_2650453487_hrDE6eydIB.y.tar.gz",
+        "censored_date": "2022-04-22 10:58:33",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-21 11:09:26"
     }
 ]
