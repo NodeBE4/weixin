@@ -7282,7 +7282,8 @@
         "created_at": "2022-04-20",
         "archive": "gh_c7f9947afc98_2022-04-20_2247501800_bDtNsh3IVf.y.tar.gz",
         "censored_date": "2022-04-23 01:14:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-23 07:40:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247515589&idx=1&sn=a69a41e87ae8f62bf2358a96ea10a72e",
@@ -7341,11 +7342,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651359589&idx=2&sn=fa2d46e1ec65dce91df6016658eb1e24",
         "title": "天天在朋友圈无知“炫晒”的人，请打住吧！有内涵的朋友早就关注了这些公众号",
+        "title_eng": "People who ignorantly show off in the circle of friends every day, please stop! Friends with connotation have long paid attention to these public accounts",
         "nickname": "精英热门",
         "created_at": "2022-04-19",
         "archive": "gh_38623feea9d8_2022-04-19_2651359589_qgAhH9LC20.y.tar.gz",
         "censored_date": "2022-04-23 06:59:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-20 21:42:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5MzcyNDUzNg==&mid=2247782472&idx=2&sn=102a896962f0a7a5e9a87cb2f57f8a78",
+        "title": "这个微信号，让你爱上历史！",
+        "title_eng": "This WeChat account will make you fall in love with history!",
+        "nickname": "我是种草囤货菌",
+        "created_at": "2022-04-19",
+        "archive": "gh_34e87223cdc4_2022-04-19_2247782472_OvBkQn9lA1.y.tar.gz",
+        "censored_date": "2022-04-23 07:32:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-21 19:46:46"
     }
 ]
