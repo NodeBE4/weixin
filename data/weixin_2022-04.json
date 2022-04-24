@@ -7450,7 +7450,7 @@
         "archive": "gh_e8c61422c833_2022-04-22_2247493883_aoyP1Bj4iA.y.tar.gz",
         "censored_date": "2022-04-23 19:24:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-04-22 18:22:42"
+        "update_date": "2022-04-25 02:15:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247498546&idx=4&sn=87818c81b8bb45baa0e4f884896529a9",
@@ -8036,6 +8036,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDMzNTk2MA==&mid=2659759019&idx=4&sn=1186dd33b7f83ccf6115ca87faf22f27",
         "title": "学术沙龙通知 | 大国文化自信视域下的外交礼仪与涉外人才培养",
+        "title_eng": "Academic Salon Notice | Diplomatic Etiquette and Foreign-related Talent Cultivation from the Perspective of the Cultural Confidence of a Great Power",
         "nickname": "政治学与国际关系论坛",
         "created_at": "2022-04-22",
         "archive": "gh_f0f4b7f5abc1_2022-04-22_2659759019_jb3uoSYwcp.y.tar.gz",
@@ -8055,6 +8056,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzMyODEyOQ==&mid=2650689329&idx=2&sn=5c5bcb8b0b14d111407dd097e590ebe2",
         "title": "手写体杜瓦 | ​穆斯林跟转心眼的杜瓦",
+        "title_eng": "Handwritten Dewar | ​Muslims and Dewars",
         "nickname": "心向圣城",
         "created_at": "2022-04-24",
         "archive": "gh_cd3358457c43_2022-04-24_2650689329_3IndJboiym.y.tar.gz",
@@ -8064,6 +8066,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzMyODEyOQ==&mid=2650689329&idx=4&sn=bf93c29475718f4bbed25e16f04f78f6",
         "title": "手写体杜瓦 | ​探望坟墓的杜瓦",
+        "title_eng": "Handwritten Dewar | ​Dewar Visiting the Grave",
         "nickname": "心向圣城",
         "created_at": "2022-04-24",
         "archive": "gh_cd3358457c43_2022-04-24_2650689329_kJzp1yfLnx.y.tar.gz",
@@ -8073,6 +8076,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzMyODEyOQ==&mid=2650689329&idx=5&sn=f736fbb2338e0727a0010cf289c2665d",
         "title": "手写体杜瓦 | ​穆斯林饭后杜瓦",
+        "title_eng": "Handwritten Dewar | ​Muslim Dewar",
         "nickname": "心向圣城",
         "created_at": "2022-04-24",
         "archive": "gh_cd3358457c43_2022-04-24_2650689329_S6lpf2KDiQ.y.tar.gz",
@@ -8082,10 +8086,52 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzMyODEyOQ==&mid=2650689329&idx=6&sn=adf37dcf77147dc1d171d9a5ac044a86",
         "title": "手写体杜瓦 | ​引领真理的杜瓦",
+        "title_eng": "Handwritten Dewar | ​The Dewar Who Leads the Truth",
         "nickname": "心向圣城",
         "created_at": "2022-04-24",
         "archive": "gh_cd3358457c43_2022-04-24_2650689329_X8Pe73Ysfc.y.tar.gz",
         "censored_date": "2022-04-25 01:09:31",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653909792&idx=2&sn=5c8e8d85f9c83d0945d3253f2fe71024",
+        "title": "医护人员们都挺起腰杆，给大家一个倚靠！",
+        "title_eng": "The medical staff all stood up and gave everyone a support!",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2022-04-21",
+        "archive": "gh_50a31d057fec_2022-04-21_2653909792_ueGpkjZQCr.y.tar.gz",
+        "censored_date": "2022-04-25 01:45:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653909792&idx=5&sn=f23addba410f456153dad8c3eebea19f",
+        "title": "实现「裸睡自由」！这套床品真的太舒服了～",
+        "title_eng": "Realize freedom to sleep naked! This bed is really comfortable",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2022-04-21",
+        "archive": "gh_50a31d057fec_2022-04-21_2653909792_0Rj9molXD0.y.tar.gz",
+        "censored_date": "2022-04-25 01:46:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653909792&idx=3&sn=1bd319a27c74aea61accc8a6af435296",
+        "title": "这个神器，60秒冲出“珍藏”在你牙缝间多年的食物残渣！",
+        "title_eng": "This artifact rushes out the food residue that has been collected between your teeth for many years in 60 seconds!",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2022-04-21",
+        "archive": "gh_50a31d057fec_2022-04-21_2653909792_yhQjJkbP20.y.tar.gz",
+        "censored_date": "2022-04-25 01:48:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-22 17:49:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5ODU2Nzg3OA==&mid=2653909792&idx=4&sn=2b330ac01d3022cf7add4d76949ddf5f",
+        "title": "白T看似简单，但你真的会挑吗？",
+        "title_eng": "White T seems simple, but can you really pick it?",
+        "nickname": "烧伤超人阿宝",
+        "created_at": "2022-04-21",
+        "archive": "gh_50a31d057fec_2022-04-21_2653909792_Ixa8TYwpLj.y.tar.gz",
+        "censored_date": "2022-04-25 01:46:40",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
