@@ -8027,7 +8027,8 @@
         "created_at": "2022-04-24",
         "archive": "gh_b04d605c071c_2022-04-24_2651074535_vUbOtdlpYi.y.tar.gz",
         "censored_date": "2022-04-24 23:10:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-25 22:57:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247573807&idx=4&sn=fd3094f893379faa414ed4ba611051cf",
@@ -8295,6 +8296,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247515679&idx=3&sn=b2bd254dbd043cc04c2cbb58802baee2",
         "title": "上海停课第39天，这对父子断绝了关系",
+        "title_eng": "On the 39th day of Shanghai's suspension of classes, the father and son severed ties",
         "nickname": "老板思维论",
         "created_at": "2022-04-23",
         "archive": "gh_69f7ba479665_2022-04-23_2247515679_soBSugxCz6.y.tar.gz",
@@ -8304,11 +8306,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MzI2NzU5MQ==&mid=2247502121&idx=1&sn=5cd253cd0441a0b4bf9eeabe1ba4e4ad",
         "title": "5月份美线海运将涨价！中远海运宣布加收附加费，船公司取消航次高达55个",
+        "title_eng": "Shipping prices on the US line will increase in May! COSCO SHIPPING Announces Additional Charges, Shipping Companies Cancelling Up to 55 Voyages",
         "nickname": "海犀网",
         "created_at": "2022-04-24",
         "archive": "gh_7887fb564d0e_2022-04-24_2247502121_1MxjdGnFZt.y.tar.gz",
         "censored_date": "2022-04-25 21:56:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-24 22:25:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MjU1OTU1OA==&mid=2247531737&idx=1&sn=da530410205a4ea146e033f82ff282d7",
+        "title": "全国人大：“一律劝返”“锁死家门”等硬隔离防控措施有法律依据吗？",
+        "nickname": "法培课堂",
+        "created_at": "2022-04-24",
+        "archive": "gh_b2335ced74a0_2022-04-24_2247531737_LOZEz13STe.y.tar.gz",
+        "censored_date": "2022-04-25 23:30:43",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-25 00:09:27"
     }
 ]
