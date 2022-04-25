@@ -7917,7 +7917,8 @@
         "created_at": "2022-04-24",
         "archive": "gh_7ce7fa0b919e_2022-04-24_2655173716_TED57SLsec.y.tar.gz",
         "censored_date": "2022-04-24 18:32:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-25 18:46:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247507977&idx=2&sn=bbc790ce4c875cb3a0f4a19a90671c24",
@@ -8267,5 +8268,15 @@
         "archive": "gh_b04d605c071c_2022-04-24_2651074535_uZHpxsYlbm.y.tar.gz",
         "censored_date": "2022-04-25 17:54:34",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxOTI2ODk4OQ==&mid=2247524598&idx=1&sn=aa48bf6b2957214cd69d38a93c8cde9a",
+        "title": "学如弓弩  才如箭镞",
+        "nickname": "广东政协",
+        "created_at": "2022-04-24",
+        "archive": "gh_888aadec50b6_2022-04-24_2247524598_7bBvgrKF2s.y.tar.gz",
+        "censored_date": "2022-04-25 18:50:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-24 20:59:57"
     }
 ]
