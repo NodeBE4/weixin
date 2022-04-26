@@ -8330,7 +8330,7 @@
         "archive": "gh_b2335ced74a0_2022-04-24_2247531737_LOZEz13STe.y.tar.gz",
         "censored_date": "2022-04-25 23:30:43",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-04-25 00:09:27"
+        "update_date": "2022-04-27 01:09:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjAzNTkzMQ==&mid=2660310678&idx=1&sn=77b7792663ef460726ce0cf5f7f2bc94",
@@ -8351,7 +8351,8 @@
         "created_at": "2022-04-25",
         "archive": "gh_9a00755258e3_2022-04-25_2247521214_RLqY3Q6d5p.y.tar.gz",
         "censored_date": "2022-04-25 23:42:19",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-27 01:09:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247538108&idx=1&sn=23a089d66353c68e54ae3bd814aa364f",
@@ -8361,7 +8362,8 @@
         "created_at": "2022-04-25",
         "archive": "gh_f0f1421cd0b3_2022-04-25_2247538108_bEi15tLTug.y.tar.gz",
         "censored_date": "2022-04-25 23:47:17",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-27 01:10:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzA0MTg2MA==&mid=2654203973&idx=8&sn=733f0943dabec426f8c04a9539ec4af9",
@@ -8673,6 +8675,47 @@
         "created_at": "2022-04-26",
         "archive": "gh_6f7af582bf5e_2022-04-26_2247506996_Cn4r690yBH.y.tar.gz",
         "censored_date": "2022-04-26 23:54:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NzYwMzU1MQ==&mid=2247524749&idx=1&sn=25775191bbe00c2a7be9e147fe75b01b",
+        "title": "八大经济体的防疫策略、效果及启示",
+        "title_eng": "Epidemic prevention strategies, effects and enlightenment of the eight major economies",
+        "nickname": "泽平宏观",
+        "created_at": "2022-04-25",
+        "archive": "gh_4c2e0e3b8196_2022-04-25_2247524749_wx3UR1rcZN.y.tar.gz",
+        "censored_date": "2022-04-27 00:52:02",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODg0MzE5NQ==&mid=2247508030&idx=1&sn=11feb26bd70ed73913404423fe973feb",
+        "title": "全国人大：“一律劝返”“锁死家门”等硬隔离防控措施有法律依据吗？",
+        "title_eng": "National People's Congress: Is there a legal basis for hard quarantine prevention and control measures such as returning everyone and locking the door?",
+        "nickname": "法眼观察",
+        "created_at": "2022-04-24",
+        "archive": "gh_e2a46987ac3a_2022-04-24_2247508030_XeYKh9bw4P.y.tar.gz",
+        "censored_date": "2022-04-27 01:09:34",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-25 15:34:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247636281&idx=1&sn=5cecf393c4c8e63ad0aba69123963805",
+        "title": "俄罗斯的人脸信息，全在美国手里",
+        "title_eng": "Russia's facial information, all in the hands of the United States",
+        "nickname": "远方青木",
+        "created_at": "2022-04-25",
+        "archive": "gh_36dfda0fb531_2022-04-25_2247636281_6s4gx3HKfa.y.tar.gz",
+        "censored_date": "2022-04-27 00:57:13",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MzEyODk2MA==&mid=2652052109&idx=1&sn=26d8a5ad016fc64283e4716264f9da1c",
+        "title": "第113号通告相关情况的补充说明",
+        "title_eng": "Supplementary Explanation on the Relevant Situation of Circular No. 113",
+        "nickname": "江南晚报",
+        "created_at": "2022-04-26",
+        "archive": "gh_b6899e873133_2022-04-26_2652052109_MA3aP7DHjY.y.tar.gz",
+        "censored_date": "2022-04-27 00:53:37",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
