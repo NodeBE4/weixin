@@ -8659,7 +8659,8 @@
         "created_at": "2022-04-26",
         "archive": "gh_06e61e86351e_2022-04-26_2247484644_xhSwa0HN2v.y.tar.gz",
         "censored_date": "2022-04-26 22:29:43",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-28 07:07:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTUxMzM5OA==&mid=2674414209&idx=1&sn=e3da2c38b19cc4d4279f9b3761b0103a",
@@ -8907,6 +8908,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzExMjQwOA==&mid=2651359642&idx=2&sn=03260c50e8b2ef33022610dc9feeeb9b",
         "title": "天天在朋友圈无知“炫晒”的人，请打住吧！有内涵的朋友早就关注了这些公众号",
+        "title_eng": "People who ignorantly show off in the circle of friends every day, please stop! Friends with connotation have long paid attention to these public accounts",
         "nickname": "精英热门",
         "created_at": "2022-04-26",
         "archive": "gh_38623feea9d8_2022-04-26_2651359642_tbEp1QLAoz.y.tar.gz",
@@ -8916,6 +8918,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjE3ODAwOA==&mid=2650366745&idx=1&sn=0d0fadca3942a32ef639ac69497f92dc",
         "title": "明天起！高安这地方活动持续7天，引不少人前去...",
+        "title_eng": "From tomorrow! The Gao An event lasted for 7 days, attracting many people to...",
         "nickname": "高安百事通",
         "created_at": "2022-04-26",
         "archive": "gh_1d97537c840d_2022-04-26_2650366745_ZP8c16dpen.y.tar.gz",
@@ -8925,11 +8928,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NDc4OTAyNA==&mid=2247622285&idx=1&sn=57957b193b238de556ff44adb9b15d5b",
         "title": "【小提琴教学】还在为不能高效的练琴烦恼吗？看看老师怎么说！~",
+        "title_eng": "【Violin Teaching】Are you still worried about not being able to practice the piano efficiently? See what the teacher has to say! ~",
         "nickname": "sky音乐分享",
         "created_at": "2022-04-26",
         "archive": "gh_69a1cbb9a824_2022-04-26_2247622285_Dl32OiP0Wk.y.tar.gz",
         "censored_date": "2022-04-28 06:27:29",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-26 21:59:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTIxMTExMg==&mid=2653064294&idx=1&sn=370a2e65f3e82b649d470bb36b630116",
+        "title": "恭喜啦！今天全体48岁以下的家长注意了！这个好消息太及时!",
+        "title_eng": "congratulations! Attention all parents under the age of 48 today! This good news is so timely!",
+        "nickname": "大众网青岛",
+        "created_at": "2022-04-26",
+        "archive": "gh_b0f015892c4a_2022-04-26_2653064294_oXjVhvDmnK.y.tar.gz",
+        "censored_date": "2022-04-28 06:45:21",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
