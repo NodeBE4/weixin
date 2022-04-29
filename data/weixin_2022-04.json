@@ -9051,7 +9051,8 @@
         "created_at": "2022-04-27",
         "archive": "gh_5e008ceefb25_2022-04-27_2247534156_b2c1Cvw5EF.y.tar.gz",
         "censored_date": "2022-04-28 19:14:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-29 20:00:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDIxNDg1OA==&mid=2247486530&idx=1&sn=17020b850a5c6ecc2c29ae7f19232608",
@@ -9061,7 +9062,8 @@
         "created_at": "2022-04-27",
         "archive": "gh_6ce56dfc54f7_2022-04-27_2247486530_c4KNvr0QfT.y.tar.gz",
         "censored_date": "2022-04-28 20:03:09",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-04-29 20:49:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNzM5NDEwOA==&mid=2650880517&idx=1&sn=3aa020ab590f197224d72d8eec9d1b15",
@@ -9230,7 +9232,8 @@
         "created_at": "2022-04-28",
         "archive": "gh_20542841a698_2022-04-28_2247644055_sdDWv3bSR0.y.tar.gz",
         "censored_date": "2022-04-29 02:44:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-29 20:39:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NTAzNzI5Ng==&mid=2651404925&idx=1&sn=164512b079e0aafe335c66fb28e1c6f2",
@@ -9339,6 +9342,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650844695&idx=3&sn=4d3e7a4e4b705b18b31409b23d1d5984",
         "title": "CVPR 2022 | 无缝连接视觉-语言，北京通用人工智能研究院新框架VLGAE，超越基准",
+        "title_eng": "CVPR 2022 | Seamless Vision-Language, New Framework VLGAE of Beijing Institute of General Artificial Intelligence, Beyond Benchmarks",
         "nickname": "机器之心",
         "created_at": "2022-04-28",
         "archive": "gh_dbc0a5474692_2022-04-28_2650844695_6Ad1GXVDCf.y.tar.gz",
@@ -9348,11 +9352,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247538235&idx=2&sn=0d1f0a10f4ef94155c612978f12fccfe",
         "title": "重磅！又一巨头突然杀入律师领域！",
+        "title_eng": "Heavy! Another giant suddenly entered the field of lawyers!",
         "nickname": "法律经典",
         "created_at": "2022-04-27",
         "archive": "gh_f0f1421cd0b3_2022-04-27_2247538235_60UTf1Pymj.y.tar.gz",
         "censored_date": "2022-04-29 19:07:58",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-04-28 23:22:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzNjE4OTg5Nw==&mid=2247485206&idx=3&sn=2b46c34efd9ce97a87aab90f7711deff",
+        "title": "已经来不及了",
+        "title_eng": "it's too late",
+        "nickname": "新天大观",
+        "created_at": "2022-04-26",
+        "archive": "gh_f1cc554c1b4e_2022-04-26_2247485206_vGRCmSh0aA.y.tar.gz",
+        "censored_date": "2022-04-29 20:25:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-28 20:05:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzNjE4OTg5Nw==&mid=2247485208&idx=5&sn=1087d374e77875602a32ef55fea06a5d",
+        "title": "上海疾控中心领翎话录音",
+        "title_eng": "Recording of Lingling Dialogue from Shanghai CDC",
+        "nickname": "新天大观",
+        "created_at": "2022-04-27",
+        "archive": "gh_f1cc554c1b4e_2022-04-27_2247485208_9ozpgFGr14.y.tar.gz",
+        "censored_date": "2022-04-29 20:26:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-04-28 20:06:17"
     }
 ]
