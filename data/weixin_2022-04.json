@@ -9579,6 +9579,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651431290&idx=2&sn=fb9ab553915da9695933cb55adc51238",
         "title": "【干货分享】疫情之下，缅甸这个不起眼的国家竟然隐藏了比黄金更保值的东西！",
+        "title_eng": "[Dry goods sharing] Under the epidemic, Myanmar, an inconspicuous country, has hidden something more valuable than gold!",
         "nickname": "金融五道口",
         "created_at": "2022-04-28",
         "archive": "gh_517f0d8d1792_2022-04-28_2651431290_nkDwVYZu7p.y.tar.gz",
@@ -9589,6 +9590,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNzc3ODk0NQ==&mid=2247551817&idx=1&sn=182f7886a6a1728f269f7436e24a8fed",
         "title": "黑人成为上海抗疫最大赢家！",
+        "title_eng": "Black people become the biggest winners in Shanghai's fight against the epidemic!",
         "nickname": "深度思考社",
         "created_at": "2022-04-27",
         "archive": "gh_42092c4a3925_2022-04-27_2247551817_WEMVLlYFGI.y.tar.gz",
@@ -9598,10 +9600,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MDA2MTc3MA==&mid=2647714847&idx=4&sn=8ba8424870a4e4c20bbc201496cc23ee",
         "title": "“梅见”限量非遗白茶梅酒，茶酒相融，留住东方味道！",
+        "title_eng": "Plum See is a limited-edition intangible cultural heritage white tea plum wine, blending tea and wine to retain the oriental flavor!",
         "nickname": "北游独立评论",
         "created_at": "2022-04-29",
         "archive": "gh_ecf04b6af469_2022-04-29_2647714847_rZejXmkYnR.y.tar.gz",
         "censored_date": "2022-04-30 09:48:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4MTY4MTM0Mw==&mid=2247485230&idx=2&sn=2170cd7dda6ac1a652356d7e810441ad",
+        "title": "上海的第五波大戏终于来了",
+        "title_eng": "Shanghai's fifth wave of drama is finally here",
+        "nickname": "投行资本圈",
+        "created_at": "2022-04-28",
+        "archive": "gh_c8dea561e7df_2022-04-28_2247485230_uSmWNdyYMr.y.tar.gz",
+        "censored_date": "2022-04-30 10:48:22",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4MTY4MTM0Mw==&mid=2247485223&idx=1&sn=1eaaa11efba80366a579d44bd3fba785",
+        "title": "叶剑英孙女发声，上海疫情有没有故意捣乱及破坏经济民生？",
+        "title_eng": "Ye Jianying's granddaughter said, Has the epidemic in Shanghai deliberately disrupted and damaged the economy and people's livelihood?",
+        "nickname": "投行资本圈",
+        "created_at": "2022-04-27",
+        "archive": "gh_c8dea561e7df_2022-04-27_2247485223_KdgjxekP7v.y.tar.gz",
+        "censored_date": "2022-04-30 10:46:24",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
