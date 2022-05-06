@@ -2467,7 +2467,7 @@
         "archive": "gh_44e6823c2469_2022-05-05_2247575089_0O0nsMQzBo.y.tar.gz",
         "censored_date": "2022-05-05 20:40:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-06 17:15:53"
+        "update_date": "2022-05-07 04:10:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc2OTA1NQ==&mid=2651566754&idx=1&sn=0e110d78e3aed09c245fce98672c8dc3",
@@ -2834,7 +2834,7 @@
         "archive": "gh_d2ea373c0118_2022-05-05_2667519074_ztSWGuXykC.y.tar.gz",
         "censored_date": "2022-05-06 17:30:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-05 20:46:55"
+        "update_date": "2022-05-07 04:17:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDAxOTczNw==&mid=2652695852&idx=4&sn=a713ba863c2eb83ba5cfb7326562fa82",
@@ -3009,6 +3009,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU1ODM1ODM1Ng==&mid=2247492649&idx=2&sn=27ac20693d3f7ad1570560dcc7bb7f00",
         "title": "口臭源头在胃里，天天刷牙照样臭！吃一颗，从胃到嘴都是迷人香",
+        "title_eng": "The source of bad breath is in the stomach, brushing your teeth every day still stinks! Eat one, it is charming from the stomach to the mouth",
         "nickname": "虎次郎",
         "created_at": "2022-05-05",
         "archive": "gh_610312e22ed3_2022-05-05_2247492649_EvXK01AUMk.y.tar.gz",
@@ -3019,6 +3020,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3ODUzMDA2Nw==&mid=2247601050&idx=2&sn=f58e8acd919cd36d2ae89e0c3777e776",
         "title": "太子偷偷穿龙袍被皇帝发现了会怎么样？",
+        "title_eng": "What happens if the prince secretly wears a dragon robe and is discovered by the emperor?",
         "nickname": "奔波儿灞与灞波儿奔",
         "created_at": "2022-04-27",
         "archive": "gh_12737ce9af5b_2022-04-27_2247601050_jaztvIc0Yr.y.tar.gz",
@@ -3029,11 +3031,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTg0MzMwODA0MQ==&mid=2653453848&idx=1&sn=5c8072b95d1880c6526b167f2ac51b4f",
         "title": "上海疫情渐降，如何加强常态管理？张作风教授与导师俞顺章教授对谈",
+        "title_eng": "The epidemic situation in Shanghai is gradually declining, how to strengthen normal management? Dialogue between Prof. Zhang Zuofeng and his tutor Prof. Yu Shunzhang",
         "nickname": "丁香园",
         "created_at": "2022-05-05",
         "archive": "wxid_9602156020911_2022-05-05_2653453848_0rRCJ93z25.y.tar.gz",
         "censored_date": "2022-05-07 03:16:19",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-05 15:16:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247508403&idx=1&sn=408dac22718a12cdfab26e7e8a04bfd7",
+        "title": "漳州最新人事消息，涉及多名处级干部！",
+        "title_eng": "Zhangzhou's latest personnel news, involving a number of department-level cadres!",
+        "nickname": "闽南网漳州",
+        "created_at": "2022-05-05",
+        "archive": "gh_36c36bdef701_2022-05-05_2247508403_vp7qDU5hrE.y.tar.gz",
+        "censored_date": "2022-05-07 03:28:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-05 14:30:06"
     }
 ]
