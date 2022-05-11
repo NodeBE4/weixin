@@ -3789,7 +3789,8 @@
         "created_at": "2022-05-10",
         "archive": "gh_8e14a2cc7d73_2022-05-10_2650880938_RXF59GYwO6.y.tar.gz",
         "censored_date": "2022-05-10 17:08:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-11 15:04:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE2Nzc0OA==&mid=2247505444&idx=3&sn=8144c26343b643b71db0d3be1b178c6b",
@@ -4163,5 +4164,14 @@
         "censored_date": "2022-05-11 14:19:35",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-10 12:48:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MzMxNjIzNQ==&mid=2654207765&idx=1&sn=a018da76630453cb73d33d19692bdad5",
+        "title": "关于贵阳市花溪区1例省外返黔闭环管理人员阳性调查处置情况的通报",
+        "nickname": "贵阳发布",
+        "created_at": "2022-05-11",
+        "archive": "gh_17b5c2113f0d_2022-05-11_2654207765_mgcnHDUaQ5.y.tar.gz",
+        "censored_date": "2022-05-11 15:13:38",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
