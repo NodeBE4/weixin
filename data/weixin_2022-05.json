@@ -4479,6 +4479,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDE5NjMzMg==&mid=2650743395&idx=1&sn=846702dffb8deae6e447a117508ef356",
         "title": "街头采访：俄罗斯普通民众希望加入欧盟吗？",
+        "title_eng": "Street interview: Do ordinary Russians want to join the EU?",
         "nickname": "苏俄转播",
         "created_at": "2022-05-11",
         "archive": "gh_27feeb64c1b5_2022-05-11_2650743395_xmzTtNWgK0.y.tar.gz",
@@ -4495,5 +4496,24 @@
         "censored_date": "2022-05-12 10:31:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-11 11:07:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxMDI1MTY2Mg==&mid=2247586742&idx=2&sn=8a08521a0710634ea264c7ee42c38939",
+        "title": "购物车里看上海，这份暴涨的哲学书单你们见过吗？",
+        "title_eng": "Looking at Shanghai in the shopping cart, have you seen this skyrocketing list of philosophy books?",
+        "nickname": "新民周刊",
+        "created_at": "2022-05-12",
+        "archive": "gh_5e16afb05cfd_2022-05-12_2247586742_Cml7gQc3DN.y.tar.gz",
+        "censored_date": "2022-05-12 11:53:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwODIyOTc2MQ==&mid=2651872695&idx=2&sn=4aa4b37cebe551bbdec7ef167cd52a3a",
+        "title": "李易峰被诉，今日开庭",
+        "nickname": "法治网",
+        "created_at": "2022-05-11",
+        "archive": "gh_a72294a4f14b_2022-05-11_2651872695_CqtF0SLwXQ.y.tar.gz",
+        "censored_date": "2022-05-12 12:38:43",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
