@@ -4155,7 +4155,8 @@
         "created_at": "2022-05-10",
         "archive": "gh_f37c9048d287_2022-05-10_2649546783_ogs4AeSGqh.y.tar.gz",
         "censored_date": "2022-05-11 13:40:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-12 15:17:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247522779&idx=2&sn=f79fc34cb413f5cf7806a8e5acc60679",
@@ -4218,7 +4219,8 @@
         "created_at": "2022-05-11",
         "archive": "gh_36c36bdef701_2022-05-11_2247508615_Nbkzf6cLBg.y.tar.gz",
         "censored_date": "2022-05-11 18:12:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-12 15:07:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzY1MjIwNA==&mid=2652370002&idx=1&sn=2a2d6ccf6961e4ec40c8cf1c5caefccb",
@@ -4555,5 +4557,15 @@
         "archive": "gh_ac0fc7ed0a1a_2022-05-11_2650925994_RL4BaxIsun.y.tar.gz",
         "censored_date": "2022-05-12 13:38:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NjM3OTQwMw==&mid=2247502973&idx=1&sn=1f7bf783f1ff144d379cb0be4a786f2d",
+        "title": "病毒不讲政治不讲法治怎么办",
+        "nickname": "仁明说法",
+        "created_at": "2022-05-11",
+        "archive": "gh_9a7eb2f2b33b_2022-05-11_2247502973_fVgusBi2OL.y.tar.gz",
+        "censored_date": "2022-05-12 14:43:44",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-05-11 15:52:15"
     }
 ]
