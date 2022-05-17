@@ -5694,7 +5694,8 @@
         "created_at": "2022-05-16",
         "archive": "gh_b7047f0cbe74_2022-05-16_2653421675_KqCaLkwYDf.y.tar.gz",
         "censored_date": "2022-05-16 11:29:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-17 08:46:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMzI0Mzc3Mw==&mid=2247507426&idx=2&sn=b618b357ba3d8dc3284c62915235ce30",
@@ -5820,5 +5821,16 @@
         "archive": "gh_a217bb0c34bc_2022-05-16_2650820384_XYTGz7tnMW.y.tar.gz",
         "censored_date": "2022-05-17 07:03:33",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODU1ODczMw==&mid=2652861656&idx=4&sn=32351ffd37c0bd00805d8c24bd3bdd0c",
+        "title": "从网格化筛查重点区域到社会面清零，这个镇是如何做到的？",
+        "title_eng": "From grid screening of key areas to social clearing, how did this town do it?",
+        "nickname": "上海徐汇",
+        "created_at": "2022-05-16",
+        "archive": "gh_15983340c961_2022-05-16_2652861656_4bFV1DQyKU.y.tar.gz",
+        "censored_date": "2022-05-17 09:03:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-16 14:14:36"
     }
 ]
