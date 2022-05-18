@@ -5927,7 +5927,8 @@
         "created_at": "2022-05-15",
         "archive": "gh_c7f9947afc98_2022-05-15_2247502905_elqUNbr3tf.y.tar.gz",
         "censored_date": "2022-05-17 19:59:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-18 08:12:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247502905&idx=2&sn=263951382713392926094f9665d61330",
@@ -5938,7 +5939,7 @@
         "archive": "gh_c7f9947afc98_2022-05-15_2247502905_MOIL0v1RzS.y.tar.gz",
         "censored_date": "2022-05-17 20:04:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-17 01:43:47"
+        "update_date": "2022-05-18 08:13:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247502905&idx=3&sn=1ef531b74f2ac3148e029fb0b49956dd",
@@ -6169,5 +6170,16 @@
         "censored_date": "2022-05-18 04:17:48",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-17 14:08:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NjcxNzAzOQ==&mid=2247571650&idx=5&sn=b7b1adbbf6fd37535063157c5e308a22",
+        "title": "梁建章：尽快科学论证疫情对人均寿命的正负影响",
+        "title_eng": "Liang Jianzhang: Scientifically demonstrate the positive and negative impact of the epidemic on life expectancy as soon as possible",
+        "nickname": "全球化智库CCG",
+        "created_at": "2022-05-16",
+        "archive": "gh_14b07ab30393_2022-05-16_2247571650_0yPqJFTnU0.y.tar.gz",
+        "censored_date": "2022-05-18 07:43:57",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-05-17 19:29:02"
     }
 ]
