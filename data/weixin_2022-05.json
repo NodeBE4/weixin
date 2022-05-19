@@ -6870,6 +6870,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTc4MTM2Ng==&mid=2650112774&idx=5&sn=156ccc297ba86f516e0ff682c0577128",
         "title": "英国突然宣布关于中国的大消息！全世界都沉默了...",
+        "title_eng": "The UK suddenly announced big news about China! The whole world is silent...",
         "nickname": "深度文摘录",
         "created_at": "2022-05-18",
         "archive": "gh_5a083ac7d06d_2022-05-18_2650112774_trsiV2SRB9.y.tar.gz",
@@ -6889,6 +6890,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491708&idx=1&sn=6f02a98395cc5cbb0cb6464d4c18893b",
         "title": "风靡全国的《身体自愈课程》微信群，免费开讲了！睡得好，精气旺，提高自愈力！",
+        "title_eng": "The popular Body Self-Healing Course WeChat group is now free! Sleep well, be energetic, and improve your self-healing power!",
         "nickname": "世纪观察",
         "created_at": "2022-05-18",
         "archive": "gh_26762a56c129_2022-05-18_2247491708_xh6KtTGr0J.y.tar.gz",
@@ -6898,10 +6900,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzA0MTc4MA==&mid=2247550430&idx=1&sn=f87c34ae297545af6431f5f15ea13813",
         "title": "震惊全网！“哈尔滨男子在洗车摊烧伤身亡”反转：人性最大的恶，是消费善良…...",
+        "title_eng": "Shocked the whole network! Harbin man burnt to death in car wash reversal: the greatest evil of human nature is to consume kindness...",
         "nickname": "国学文化优选",
         "created_at": "2022-05-18",
         "archive": "gh_b67f4a684fd9_2022-05-18_2247550430_mu8fdnRUyK.y.tar.gz",
         "censored_date": "2022-05-19 11:49:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5Mjg0NTkzMw==&mid=2649842976&idx=2&sn=6eab789580c57368ec73a7f8d675b020",
+        "title": "老冯推荐“一条生活馆”德国酒庄红酒，79元起，仅售1天",
+        "title_eng": "Lao Feng recommends One Life Museum German winery wine, starting from 79 yuan, only for 1 day",
+        "nickname": "读书人冯学荣",
+        "created_at": "2022-05-18",
+        "archive": "gh_53c6d26c823e_2022-05-18_2649842976_4x5AHw08s0.y.tar.gz",
+        "censored_date": "2022-05-19 12:15:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5Mjg0NTkzMw==&mid=2649842976&idx=1&sn=2c78ca8d0ba893641e745b02dfed934e",
+        "title": "冯学荣：南京大屠杀是怎样发生的？",
+        "title_eng": "Feng Xuerong: How did the Nanjing Massacre happen?",
+        "nickname": "读书人冯学荣",
+        "created_at": "2022-05-18",
+        "archive": "gh_53c6d26c823e_2022-05-18_2649842976_edamKy0IGw.y.tar.gz",
+        "censored_date": "2022-05-19 12:14:42",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
