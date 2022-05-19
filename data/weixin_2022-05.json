@@ -6528,7 +6528,7 @@
         "archive": "gh_12737ce9af5b_2022-05-16_2247601380_wCdXb2DlGg.y.tar.gz",
         "censored_date": "2022-05-18 19:56:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-17 18:34:55"
+        "update_date": "2022-05-19 08:06:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Mjg0NTkzMw==&mid=2649842941&idx=1&sn=91a49c6a4c291b7d6ef7da4c815b0c88",
@@ -6548,7 +6548,8 @@
         "created_at": "2022-05-17",
         "archive": "gh_92cc81922040_2022-05-17_2651039706_zSEwZMQrdL.y.tar.gz",
         "censored_date": "2022-05-18 21:30:42",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-19 08:41:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247536211&idx=1&sn=04e9f4aeb2c7de452186c1c7bff6b238",
@@ -6781,7 +6782,7 @@
         "archive": "gh_69f7ba479665_2022-05-16_2247516737_AgLiTdqH0B.y.tar.gz",
         "censored_date": "2022-05-19 04:40:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-18 00:29:17"
+        "update_date": "2022-05-19 07:47:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653693045&idx=2&sn=d311cab02e56e87f85659976f90e4fc8",
@@ -6792,7 +6793,7 @@
         "archive": "gh_e3cf7cb85f44_2022-05-14_2653693045_74MWPj659D.y.tar.gz",
         "censored_date": "2022-05-19 04:43:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-18 01:29:46"
+        "update_date": "2022-05-19 07:50:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650193745&idx=4&sn=7bf15d8d83c86c02e2440c49bcb03613",
@@ -6808,6 +6809,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NjU3NjQzNA==&mid=2247491407&idx=1&sn=1ab33d37134d1553748f393731294e02",
         "title": "突发！刚刚通知：5月中小学将迎来新改革，教师家长彻底沸腾了！！",
+        "title_eng": "burst! Just announced: Primary and secondary schools will usher in new reforms in May, and teachers and parents are completely boiling! !",
         "nickname": "电子课本站",
         "created_at": "2022-05-16",
         "archive": "gh_3c4e66b84009_2022-05-16_2247491407_UB2tQSfl9x.y.tar.gz",
@@ -6818,11 +6820,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTc2MDc0Ng==&mid=2247539519&idx=2&sn=44d280a7781e9cacc4b50e0280f5a2da",
         "title": "律师卷不动了，还有哪些出路？",
+        "title_eng": "Lawyers are stuck, what is the way out?",
         "nickname": "法律经典",
         "created_at": "2022-05-16",
         "archive": "gh_f0f1421cd0b3_2022-05-16_2247539519_g03M0eJzNy.y.tar.gz",
         "censored_date": "2022-05-19 07:29:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-17 00:17:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NDQxMDMwOA==&mid=2653303201&idx=1&sn=74327d0040e9a5cb147aae6439579ac5",
+        "title": "中石油为啥不买大幅打折的俄罗斯天然气和石油？",
+        "title_eng": "Why doesn't PetroChina buy heavily discounted Russian gas and oil?",
+        "nickname": "化工707",
+        "created_at": "2022-05-17",
+        "archive": "gh_430d84f19d48_2022-05-17_2653303201_m8M1epUlgI.y.tar.gz",
+        "censored_date": "2022-05-19 09:25:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-17 21:56:55"
     }
 ]
