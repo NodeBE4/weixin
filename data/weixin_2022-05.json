@@ -7828,6 +7828,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649546927&idx=2&sn=4399eec83bf42f0af858b7402088fe5b",
         "title": "定了，今日起，本号粉丝可免费参与网易数据分析培训营！",
+        "title_eng": "It's fixed. From today, fans of this account can participate in the NetEase data analysis training camp for free!",
         "nickname": "口述历史",
         "created_at": "2022-05-20",
         "archive": "gh_f37c9048d287_2022-05-20_2649546927_OaSbcId9fw.y.tar.gz",
@@ -7873,5 +7874,16 @@
         "archive": "gh_ef9695b6d53c_2022-05-21_2649827331_PoadJmwW0n.y.tar.gz",
         "censored_date": "2022-05-22 11:22:19",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649546934&idx=2&sn=d61928a90f7c2ba3d09ebe2ae18acb1e",
+        "title": "您已关注公众号满一年，邀请您免费领取一份付费资源！",
+        "title_eng": "You have been following the official account for one year, and you are invited to receive a paid resource for free!",
+        "nickname": "口述历史",
+        "created_at": "2022-05-21",
+        "archive": "gh_f37c9048d287_2022-05-21_2649546934_aZvx8jOhPp.y.tar.gz",
+        "censored_date": "2022-05-22 11:50:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-21 12:04:16"
     }
 ]
