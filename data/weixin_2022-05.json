@@ -7730,7 +7730,7 @@
         "archive": "gh_222a507c7767_2022-05-21_2650912260_zj0UqWSsZp.y.tar.gz",
         "censored_date": "2022-05-22 00:43:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-23 00:02:33"
+        "update_date": "2022-05-23 18:39:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMjIxODQwOQ==&mid=2654355058&idx=1&sn=b6ad1d092e9a4f3dd9936adae17da1ad",
@@ -7981,7 +7981,8 @@
         "created_at": "2022-05-21",
         "archive": "gh_be5c51ac4705_2022-05-21_2652676052_lEsmd5T0b0.y.tar.gz",
         "censored_date": "2022-05-23 01:03:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-23 19:13:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650196173&idx=4&sn=910e188c5879df646cf6537d4337b921",
@@ -7991,7 +7992,8 @@
         "created_at": "2022-05-21",
         "archive": "gh_45220e40f13c_2022-05-21_2650196173_COz3EXmyAh.y.tar.gz",
         "censored_date": "2022-05-23 01:45:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-23 19:13:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247517125&idx=4&sn=ee6f15db15546f1dc8e84b682eec0a25",
@@ -8241,5 +8243,14 @@
         "censored_date": "2022-05-23 17:07:34",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-23 00:03:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwMjg5Mg==&mid=2657189512&idx=6&sn=9dde516a45fbb821fe67f8ba333c6eca",
+        "title": "俄罗斯街头惊现毛泽东精神，美翻了！",
+        "nickname": "老刘的心灵鸡汤",
+        "created_at": "2022-05-23",
+        "archive": "gh_0bec3fbedf6b_2022-05-23_2657189512_l9AfC4DIjV.y.tar.gz",
+        "censored_date": "2022-05-23 19:03:54",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
