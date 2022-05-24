@@ -8260,7 +8260,8 @@
         "created_at": "2022-05-23",
         "archive": "gh_0bec3fbedf6b_2022-05-23_2657189512_l9AfC4DIjV.y.tar.gz",
         "censored_date": "2022-05-23 19:03:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 16:50:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247489178&idx=2&sn=260049f0ababfec8c3a92600ee4d43e0",
@@ -8539,5 +8540,26 @@
         "censored_date": "2022-05-24 14:36:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-23 20:30:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDUxNDY4Mw==&mid=2247543812&idx=4&sn=2f617589a2ca0c1315105fe869934800",
+        "title": "清华博士报考协警，落榜！",
+        "title_eng": "Dr. Tsinghua applied for the police assistant exam and failed!",
+        "nickname": "法布天下",
+        "created_at": "2022-05-23",
+        "archive": "gh_2583929cf969_2022-05-23_2247543812_GMiV05ysof.y.tar.gz",
+        "censored_date": "2022-05-24 16:56:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-23 21:53:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODgzODAzNA==&mid=2660475131&idx=2&sn=50eb74efd81525a81293eac9a80d00fe",
+        "title": "早立框架，受用一生：30关键维度30好书，一生的通识体系",
+        "title_eng": "Establish a framework early, use it for a lifetime: 30 key dimensions, 30 good books, a general knowledge system for a lifetime",
+        "nickname": "重要的是经济",
+        "created_at": "2022-05-23",
+        "archive": "gh_1137e6936d9f_2022-05-23_2660475131_wlJ9UX3H0N.y.tar.gz",
+        "censored_date": "2022-05-24 16:41:08",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
