@@ -8118,7 +8118,8 @@
         "created_at": "2022-05-23",
         "archive": "gh_586f6633228e_2022-05-23_2651116676_HgyB0fU0tc.y.tar.gz",
         "censored_date": "2022-05-23 16:27:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 13:48:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTM2NDE0Nw==&mid=2651873401&idx=1&sn=42fbbe748137623f624d6548a4e3ec9d",
@@ -8128,7 +8129,8 @@
         "created_at": "2022-05-22",
         "archive": "gh_fddfea85442c_2022-05-22_2651873401_RKemJ8NCBi.y.tar.gz",
         "censored_date": "2022-05-23 16:17:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 13:49:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247503237&idx=2&sn=b641524560aa32106f202a92d6a9b32e",
@@ -8286,7 +8288,8 @@
         "created_at": "2022-05-22",
         "archive": "gh_5e008ceefb25_2022-05-22_2247534678_85v3HSt4C0.y.tar.gz",
         "censored_date": "2022-05-23 23:23:04",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 14:25:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247525760&idx=2&sn=4244f974a2e47e7db36957e3a275407d",
@@ -8511,5 +8514,27 @@
         "censored_date": "2022-05-24 13:02:06",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-23 18:42:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652241122&idx=2&sn=fdc1cf6305d4afa5a47126b5e89cdda3",
+        "title": "新华社：没有疫情连续搞大规模核酸检测？抗疫资源不能如此浪费！",
+        "title_eng": "Xinhua News Agency: There is no outbreak of continuous large-scale nucleic acid testing? Anti-epidemic resources cannot be wasted like this!",
+        "nickname": "大千世界",
+        "created_at": "2022-05-22",
+        "archive": "gh_a517719487ef_2022-05-22_2652241122_XOkHJjeR5p.y.tar.gz",
+        "censored_date": "2022-05-24 13:33:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-23 16:14:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMTMyNTYxNA==&mid=2247576086&idx=2&sn=b69620544bb44b7a8178263f074ac41c",
+        "title": "“突发疫情，这座小城急需关注！”引热议，“除了胡锡进，没人关心经济了”点赞在看数超2万 | 每日爆文",
+        "title_eng": "No one cares about the economy except Hu Xijin",
+        "nickname": "微果酱",
+        "created_at": "2022-05-23",
+        "archive": "gh_44e6823c2469_2022-05-23_2247576086_rMJtwH0AZb.y.tar.gz",
+        "censored_date": "2022-05-24 14:36:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-23 20:30:45"
     }
 ]
