@@ -8282,7 +8282,8 @@
         "created_at": "2022-05-23",
         "archive": "gh_c4bedb58c8ba_2022-05-23_2650401545_EGKNv0zsno.y.tar.gz",
         "censored_date": "2022-05-23 22:26:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 19:44:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzUwOTI5MA==&mid=2247534678&idx=2&sn=9fcfbd4407e3d9b817cefa53f3027da9",
@@ -8565,6 +8566,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247503241&idx=3&sn=9e53ce341f7ab27e0db91b68f07e7f41",
         "title": "2022快手电商要打造500+「快品牌」标杆？！",
+        "title_eng": "In 2022, Kuaishou e-commerce will build a 500 fast brand benchmark? !",
         "nickname": "首富商圈",
         "created_at": "2022-05-22",
         "archive": "gh_c7f9947afc98_2022-05-22_2247503241_l1nsftEibF.y.tar.gz",
@@ -8575,11 +8577,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247503241&idx=1&sn=5040b4a4837cce5421188fabc6e67a61",
         "title": "河南一女孩被校园暴力打成“熊猫眼”，被扒母亲却是主谋？后续反转，校长不忍了…",
+        "title_eng": "A girl in Henan was beaten with panda eyes by school violence, but her mother was the mastermind? The subsequent reversal, the principal couldn't bear it anymore...",
         "nickname": "首富商圈",
         "created_at": "2022-05-22",
         "archive": "gh_c7f9947afc98_2022-05-22_2247503241_OnX460kLHs.y.tar.gz",
         "censored_date": "2022-05-24 19:14:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-24 01:23:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247555370&idx=1&sn=1074cbcc5bad10177d8da93f86aefc26",
+        "title": "今天全体法律人要彻底沸腾了！这波惊喜来得太突然！",
+        "title_eng": "Today all the lawyers are going to be completely boiling! This wave of surprises came too suddenly!",
+        "nickname": "律法读报",
+        "created_at": "2022-05-23",
+        "archive": "gh_cbe49e48bd1e_2022-05-23_2247555370_1UPOiZWwTQ.y.tar.gz",
+        "censored_date": "2022-05-24 19:55:18",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-05-24 01:48:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5MDMyMjQyMg==&mid=2247532282&idx=1&sn=4a8e946d8f143467f53179e08c438c62",
+        "title": "美的启动大规模裁员，背后的预警信号不可忽视",
+        "title_eng": "Midea launches large-scale layoffs, and the early warning signs behind it cannot be ignored",
+        "nickname": "思想潮",
+        "created_at": "2022-05-23",
+        "archive": "gh_9b8226d6167e_2022-05-23_2247532282_5gXNmAfnhc.y.tar.gz",
+        "censored_date": "2022-05-24 19:31:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-24 00:14:58"
     }
 ]
