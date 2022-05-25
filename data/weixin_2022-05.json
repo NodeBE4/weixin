@@ -8843,6 +8843,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzQwMTQ3OQ==&mid=2649513093&idx=1&sn=546642420b1b4c789884691d7e2e7d34",
         "title": "突发！美国本土首个阳性！猴痘病毒全球大爆发，10%致死率！传染途径这两个…禁欲+戴口罩！",
+        "title_eng": "burst! The first positive test in the United States! Global outbreak of monkeypox virus, 10% fatality rate! These two routes of infection... abstinence and wear a mask!",
         "nickname": "洛杉矶华人圈",
         "created_at": "2022-05-22",
         "archive": "gh_179ef88e69be_2022-05-22_2649513093_MxVCTOkwlY.y.tar.gz",
@@ -8892,11 +8893,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2653738688&idx=4&sn=53e237d0c52d485ab11164e9ee6958ad",
         "title": "《非诚勿扰》12年，究竟扰了谁",
+        "title_eng": "If You Are the One for 12 years, who has disturbed",
         "nickname": "新周刊",
         "created_at": "2022-05-24",
         "archive": "gh_05f192fce051_2022-05-24_2653738688_OTbauycJf3.y.tar.gz",
         "censored_date": "2022-05-25 10:02:06",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-24 11:20:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649546960&idx=2&sn=a1562b50e97621c97e73128e3f34e93b",
+        "title": "《周易》：改变生活困境的方法，很简单却很少人知道",
+        "title_eng": "Book of Changes: The way to change the predicament of life is very simple but few people know it",
+        "nickname": "口述历史",
+        "created_at": "2022-05-24",
+        "archive": "gh_f37c9048d287_2022-05-24_2649546960_jOn43zhpKl.y.tar.gz",
+        "censored_date": "2022-05-25 10:32:44",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
