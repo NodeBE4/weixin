@@ -9969,7 +9969,8 @@
         "created_at": "2022-05-28",
         "archive": "gh_46a6fab64569_2022-05-28_2652310812_yM250QfUea.y.tar.gz",
         "censored_date": "2022-05-28 11:39:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-29 09:17:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247595744&idx=8&sn=2ab5b83a051d585755e89fdf0ffa6699",
@@ -10036,6 +10037,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650862698&idx=5&sn=fe7dc6ab7527adcac5a0009f7cc9e4a3",
         "title": "当众被领导表扬，如何高情商发言？",
+        "title_eng": "How to speak with high emotional intelligence when praised by leaders in public?",
         "nickname": "荣茂读报",
         "created_at": "2022-05-28",
         "archive": "gh_11d6ef0dd9d4_2022-05-28_2650862698_GkuZUDzd7T.y.tar.gz",
@@ -10045,10 +10047,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651992773&idx=6&sn=9d3bbc49832707dc3368ad10975865b7",
         "title": "任泽平：中国居民资产户均134万元",
+        "title_eng": "Ren Zeping: The average asset of Chinese residents is 1.34 million yuan",
         "nickname": "券商中国",
         "created_at": "2022-05-27",
         "archive": "gh_6df2146bcb82_2022-05-27_2651992773_smRSl9XLwY.y.tar.gz",
         "censored_date": "2022-05-29 06:41:15",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247509899&idx=2&sn=a202f6e71c2d341f66a0b0bcb00f6abf",
+        "title": "“和大哥的开F记录+现实有男友+骗大哥钱”！某S级女主播向对方警告，却遭回怼：火速给我发律师涵！",
+        "title_eng": "Opening F record with eldest brother actually has a boyfriend and cheating eldest brother of money! An S-class female anchor warned the other party, but was replied: Send me a lawyer quickly!",
+        "nickname": "DY趣事",
+        "created_at": "2022-05-28",
+        "archive": "gh_b50997668f3b_2022-05-28_2247509899_TKNAkv7BCW.y.tar.gz",
+        "censored_date": "2022-05-29 07:31:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTczNTA4MA==&mid=2247496122&idx=1&sn=d20c80b3b710bc3b6671a519c6c5cde9",
+        "title": "美国国务卿：中国留美理工博士80%毕业后在美工作，驱动美国本土创新！",
+        "title_eng": "U.S. Secretary of State: 80% of Chinese science and engineering PhDs in the U.S. work in the U.S. after graduation, driving innovation in the U.S.!",
+        "nickname": "海外博士学者圈子",
+        "created_at": "2022-05-28",
+        "archive": "gh_5adc0787d242_2022-05-28_2247496122_UeGRmbCEfq.y.tar.gz",
+        "censored_date": "2022-05-29 09:04:48",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-05-28 12:39:05"
     }
 ]
