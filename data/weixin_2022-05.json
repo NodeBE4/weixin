@@ -10215,7 +10215,7 @@
         "archive": "gh_af78a7ce12de_2022-05-29_2650014509_uzZG4mqBTR.y.tar.gz",
         "censored_date": "2022-05-30 09:13:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-29 15:32:38"
+        "update_date": "2022-05-31 05:43:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODY3MzU5Mw==&mid=2247547456&idx=2&sn=cdd5899abbc95df5dfef1c7b67ea32d1",
@@ -10225,7 +10225,8 @@
         "created_at": "2022-05-28",
         "archive": "gh_d965d8fa0c72_2022-05-28_2247547456_Qb8XoxjpEI.y.tar.gz",
         "censored_date": "2022-05-30 09:54:00",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-05-31 06:17:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDUxMjEwMQ==&mid=2650961133&idx=1&sn=d33a269d107e5afe7e0e7397f75f7b34",
@@ -10370,6 +10371,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5Mzc1MzgzNQ==&mid=2650862751&idx=5&sn=f71230fe453ae5d673ae2d63b1125a8d",
         "title": "你家的颜色选对了吗？",
+        "title_eng": "Did you choose the right color for your home?",
         "nickname": "荣茂读报",
         "created_at": "2022-05-30",
         "archive": "gh_11d6ef0dd9d4_2022-05-30_2650862751_dqzZvG0ARL.y.tar.gz",
