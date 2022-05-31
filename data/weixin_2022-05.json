@@ -10357,7 +10357,8 @@
         "created_at": "2022-05-30",
         "archive": "gh_96233a9afe6e_2022-05-30_2651922218_WTSMPqpoRD.y.tar.gz",
         "censored_date": "2022-05-31 00:57:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 20:25:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650200117&idx=6&sn=bf3dc1ff98d5b5754ad9f310edbed2a9",
@@ -10479,6 +10480,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTUyMjU0MA==&mid=2650705578&idx=1&sn=cd5c172d17b73b544ef94143a79cc430",
         "title": "【普法专栏】警惕养老诈骗套路，再忙也要发给家中老人看看",
+        "title_eng": "[Public Law Column] Beware of old-age fraud routines, and send it to the elderly at home no matter how busy",
         "nickname": "黔东南公安",
         "created_at": "2022-05-31",
         "archive": "gh_840569f5c86f_2022-05-31_2650705578_Q1UHSYBAqJ.y.tar.gz",
@@ -10565,10 +10567,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE3MDgwMg==&mid=2651470195&idx=2&sn=2630c3934581d7f90b05d6053f7e6218",
         "title": "正式安装！事关徐州地铁3号线二期项目进展",
+        "title_eng": "Formal installation! It is related to the progress of the second phase project of Xuzhou Metro Line 3",
         "nickname": "无线徐州",
         "created_at": "2022-05-31",
         "archive": "gh_c495954e1d95_2022-05-31_2651470195_gid6anLVBE.y.tar.gz",
         "censored_date": "2022-05-31 18:56:07",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247517356&idx=3&sn=0a8d2e5be978774ccbf8d38b671ae9dd",
+        "title": "扯掉连锁加盟的遮羞布，首创“陪跑式”创业：16年逆袭开店500家",
+        "title_eng": "Tear off the fig leaf of the franchise, and pioneered the accompanying run business: 500 counterattacks opened in 16 years",
+        "nickname": "老板思维论",
+        "created_at": "2022-05-29",
+        "archive": "gh_69f7ba479665_2022-05-29_2247517356_UmsZ9kRzih.y.tar.gz",
+        "censored_date": "2022-05-31 20:26:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 01:38:11"
     }
 ]
