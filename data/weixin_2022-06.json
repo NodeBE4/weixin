@@ -1391,7 +1391,7 @@
         "archive": "gh_96233a9afe6e_2022-05-30_2651922218_WTSMPqpoRD.y.tar.gz",
         "censored_date": "2022-05-31 00:57:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-31 20:25:22"
+        "update_date": "2022-06-01 22:15:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247517173&idx=2&sn=1e073c4aa782351a6c4591242e1150f4",
@@ -1688,5 +1688,27 @@
         "archive": "gh_7fc57d721082_2022-05-31_2247499381_BrmRXCdAoN.y.tar.gz",
         "censored_date": "2022-06-01 19:30:52",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODM0MjE1Ng==&mid=2651025610&idx=1&sn=bc37d96e4077c82d42f3d1b84bf0b6b3",
+        "title": "一个多月以来，吉林省四平市的6份通告",
+        "title_eng": "Over the past month, 6 notices from Siping City, Jilin Province",
+        "nickname": "政知道",
+        "created_at": "2022-05-31",
+        "archive": "gh_4b5febdbc043_2022-05-31_2651025610_L6Agb0JoOX.y.tar.gz",
+        "censored_date": "2022-06-01 22:04:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 23:43:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247517181&idx=2&sn=af655a7b4ee7c2d419a78f9917bcd0d9",
+        "title": "血管堵，百病生！74岁院士说：坚持这么做，可以少往医院跑（建议收藏）",
+        "title_eng": "Blockage of blood vessels, all kinds of diseases! The 74-year-old academician said: If you insist on doing this, you can go to the hospital less (recommended collection)",
+        "nickname": "中西ABC",
+        "created_at": "2022-05-31",
+        "archive": "gh_fc276be154e5_2022-05-31_2247517181_MHriKaygx9.y.tar.gz",
+        "censored_date": "2022-06-01 22:05:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 20:20:56"
     }
 ]
