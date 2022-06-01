@@ -1302,7 +1302,8 @@
         "created_at": "2022-05-31",
         "archive": "gh_285bf0871124_2022-05-31_2651867597_Db7RoTvMce.y.tar.gz",
         "censored_date": "2022-05-31 17:23:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-01 16:51:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NjM1NjAzNA==&mid=2669489290&idx=1&sn=89f3f77990f5adaaaff2762119efbd54",
@@ -1313,7 +1314,7 @@
         "archive": "gh_9ef6c0526ea5_2022-05-30_2669489290_IDnqY6svpV.y.tar.gz",
         "censored_date": "2022-05-31 15:57:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-05-31 02:08:34"
+        "update_date": "2022-06-01 17:48:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649613078&idx=1&sn=e17ca84d08814f0361b3191815835631",
@@ -1623,5 +1624,47 @@
         "censored_date": "2022-06-01 15:25:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-05-31 15:46:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzMzOTU4Mg==&mid=2651374293&idx=4&sn=47b684749594f04e02e900399b79548c",
+        "title": "[June 1, 12pm] COVID-19 Update: The Latest Numbers",
+        "title_eng": "[June 1, 12pm] COVID-19 Update: The Latest Numbers",
+        "nickname": "theBeijinger",
+        "created_at": "2022-06-01",
+        "archive": "gh_5189ed7a15c7_2022-06-01_2651374293_0dBoaP6j3I.y.tar.gz",
+        "censored_date": "2022-06-01 18:13:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650201328&idx=4&sn=ef463a30ed366360e39a6a23c841eef0",
+        "title": "重庆护士的瓜怎么越吃越大？",
+        "title_eng": "Why do nurses in Chongqing eat more melons?",
+        "nickname": "吐槽星君",
+        "created_at": "2022-05-31",
+        "archive": "gh_45220e40f13c_2022-05-31_2650201328_A6o7nJxF8z.y.tar.gz",
+        "censored_date": "2022-06-01 17:29:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 17:46:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTgxMjAwOA==&mid=2649262425&idx=1&sn=44d48ccbd3501cba4e0e8c7242c5fd79",
+        "title": "六一巨献｜微视频《一束光》：“未”你路上砥砺”黔“行",
+        "title_eng": "June 1 Juxian｜Micro-video A Beam of Light: Not yet you are on the road",
+        "nickname": "贵州检察",
+        "created_at": "2022-06-01",
+        "archive": "gh_b8582cfc694b_2022-06-01_2649262425_3tzsxQZ9fJ.y.tar.gz",
+        "censored_date": "2022-06-01 17:06:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247489240&idx=3&sn=f63113adb9d2be6fabeb77260be7b368",
+        "title": "66岁刘晓庆和67岁陈佩斯，竟是这关系！隐藏这么多年，太令人意外…",
+        "title_eng": "66-year-old Liu Xiaoqing and 67-year-old Chen Peisi are actually related! Hidden for so many years, so surprising...",
+        "nickname": "阅天下百事",
+        "created_at": "2022-05-31",
+        "archive": "gh_8508f826af1e_2022-05-31_2247489240_pXG8koSq9a.y.tar.gz",
+        "censored_date": "2022-06-01 17:50:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-05-31 16:33:19"
     }
 ]
