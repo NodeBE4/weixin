@@ -2026,6 +2026,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652010216&idx=6&sn=5c6e8a29518ee0915c4f71069883def1",
         "title": "明查｜《新闻联播》停止引用约翰斯·霍普金斯大学疫情数据？",
+        "title_eng": "Ming Cha | News Network to stop citing Johns Hopkins University epidemic data?",
         "nickname": "澎湃新闻",
         "created_at": "2022-06-01",
         "archive": "gh_d29e0d22a6f9_2022-06-01_2652010216_7rRyL6AeCW.y.tar.gz",
@@ -2035,11 +2036,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MzE0OTIzNg==&mid=2247633268&idx=3&sn=17cb67f5e83808d82dc5190894163b3a",
         "title": "景俊海：坚持防得住是硬道理防得好是真本领 从严从细从紧防输入防外溢防反弹",
+        "title_eng": "Jing Junhai: Insist on being able to prevent is the last word, and good prevention is the real skill",
         "nickname": "网信吉林",
         "created_at": "2022-06-01",
         "archive": "gh_fc81422417a8_2022-06-01_2247633268_lpvrH91BsZ.y.tar.gz",
         "censored_date": "2022-06-02 21:38:00",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-02 00:09:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653694792&idx=1&sn=02b44f464750f6a57a9ac946f488b7b2",
+        "title": "淦，又一老戏骨被烂剧毁了",
+        "title_eng": "Gan, another old drama was ruined by a bad drama",
+        "nickname": "电影工厂",
+        "created_at": "2022-06-01",
+        "archive": "gh_e3cf7cb85f44_2022-06-01_2653694792_prJYlLce5a.y.tar.gz",
+        "censored_date": "2022-06-02 21:55:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-02 01:41:51"
     }
 ]
