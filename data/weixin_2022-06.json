@@ -2399,6 +2399,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247661310&idx=2&sn=c6cd8036c09cd191f4a19153a2dc1782",
         "title": "救命！一次喝遍中国8大产区果汁的好事，真怕你们错过了",
+        "title_eng": "Help! It's a good thing to drink juice from the 8 major producing areas in China at one time, I'm afraid you missed it",
         "nickname": "摇滚客",
         "created_at": "2022-06-01",
         "archive": "gh_f9c68c2832fb_2022-06-01_2247661310_1AJ20YEtoF.y.tar.gz",
@@ -2408,6 +2409,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247661310&idx=3&sn=cd77c1cfda3fcdbd08da1f4c1524b793",
         "title": "9.5分还在涨！300余幅绝世画作，看尽梵高疯狂而传奇的一生！",
+        "title_eng": "9.5 points are still rising! More than 300 peerless paintings, see the crazy and legendary life of Van Gogh!",
         "nickname": "摇滚客",
         "created_at": "2022-06-01",
         "archive": "gh_f9c68c2832fb_2022-06-01_2247661310_YIe4ZVLx8H.y.tar.gz",
@@ -2417,6 +2419,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247545046&idx=1&sn=0d92f1be868596de36fc247ae00d0b86",
         "title": "国家“民族教材”在新疆被叫停全过程披露",
+        "title_eng": "The whole process of the state's ethnic teaching materials being suspended in Xinjiang is disclosed",
         "nickname": "西域都护",
         "created_at": "2022-06-01",
         "archive": "gh_5023d7e73573_2022-06-01_2247545046_tQ683gFhr4.y.tar.gz",
@@ -2427,11 +2430,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTc5MTY3Mg==&mid=2247544777&idx=1&sn=7605e3c21e0723468f7dfce4efc89f49",
         "title": "教材里的阴谋：维吾尔语里国语借词骤减，背后是怎样的细思极恐？！",
+        "title_eng": "The conspiracy in the textbook: What kind of careful thinking is behind the sudden decrease of Mandarin loanwords in Uyghur? !",
         "nickname": "西域都护",
         "created_at": "2022-05-31",
         "archive": "gh_5023d7e73573_2022-05-31_2247544777_uWLpBQGJK0.y.tar.gz",
         "censored_date": "2022-06-04 03:03:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-02 15:31:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247661310&idx=4&sn=150a785630ccfd3650e87aaeda098780",
+        "title": "赵照最新现场！摇滚乐与陕北民歌激情碰撞",
+        "nickname": "摇滚客",
+        "created_at": "2022-06-01",
+        "archive": "gh_f9c68c2832fb_2022-06-01_2247661310_7DFhKlYt1N.y.tar.gz",
+        "censored_date": "2022-06-04 03:51:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-02 16:56:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247537396&idx=3&sn=49ac74636e4474f264807cbd13c43fb6",
+        "title": "警示：6名律师被吊销律师执业证！",
+        "nickname": "法学小讲",
+        "created_at": "2022-05-31",
+        "archive": "gh_46b1ce89978a_2022-05-31_2247537396_DNtELAXdjQ.y.tar.gz",
+        "censored_date": "2022-06-04 04:24:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-02 18:31:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247531738&idx=2&sn=c081e81ca4b9dac69e8c26d63290469e",
+        "title": "人老了才明白：与亲戚断交，与同事断联，寻三五知己，各自安好。闲暇时可以多看看这些公众号",
+        "nickname": "难得视界",
+        "created_at": "2022-06-01",
+        "archive": "gh_1c6cefeca9ab_2022-06-01_2247531738_X19FAZhtLe.y.tar.gz",
+        "censored_date": "2022-06-04 04:10:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-03 19:31:53"
     }
 ]
