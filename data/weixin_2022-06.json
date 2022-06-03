@@ -1636,7 +1636,7 @@
         "archive": "gh_5189ed7a15c7_2022-06-01_2651374293_0dBoaP6j3I.y.tar.gz",
         "censored_date": "2022-06-01 18:13:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-02 15:25:51"
+        "update_date": "2022-06-03 16:21:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NjA0MTc0Nw==&mid=2650201328&idx=4&sn=ef463a30ed366360e39a6a23c841eef0",
@@ -1950,7 +1950,7 @@
         "archive": "gh_be5c51ac4705_2022-05-31_2652677906_fdCUsRpcNg.y.tar.gz",
         "censored_date": "2022-06-02 14:19:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-01 15:19:59"
+        "update_date": "2022-06-03 15:42:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NjcwNTEwMw==&mid=2652068342&idx=1&sn=ca1b1e514c2dd307cca415d1cca46687",
@@ -1981,7 +1981,8 @@
         "created_at": "2022-06-01",
         "archive": "gh_4481ed4b2d9b_2022-06-01_2247506482_9QM4VvzbyF.y.tar.gz",
         "censored_date": "2022-06-02 15:17:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-03 16:22:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652039176&idx=3&sn=d5e1d952baa72316f636ac64174987a0",
@@ -2287,11 +2288,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTI5NjgxNA==&mid=2247485627&idx=1&sn=3d56afcc1b28dfe3d2231f72f3655a79",
         "title": "侨资诺图格幼儿园接受呼伦贝尔益丰集团捐增校服",
+        "title_eng": "Qiaozi Nuotuge Kindergarten accepts Hulunbuir Yifeng Group's donation of school uniforms",
         "nickname": "鄂温克旗侨胞之家",
         "created_at": "2022-06-02",
         "archive": "gh_33596f11218c_2022-06-02_2247485627_lYd1DNEcsQ.y.tar.gz",
         "censored_date": "2022-06-03 15:04:34",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-02 13:20:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMTkxMDUxNA==&mid=2247523708&idx=1&sn=e8a70e481b1b8429a1c99916a8bc2208",
+        "title": "新出！洛阳市洛龙区人力资源和社会保障局招聘警务辅助人员，高中或大专以上学历可以报名【6.7-6.9】",
+        "title_eng": "New! The Human Resources and Social Security Bureau of Luolong District, Luoyang City recruits auxiliary police officers. High school or college degree or above can apply [6.7-6.9]",
+        "nickname": "洛阳人事",
+        "created_at": "2022-06-02",
+        "archive": "gh_afad949b93dd_2022-06-02_2247523708_8Fo2J4Qysf.y.tar.gz",
+        "censored_date": "2022-06-03 15:34:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-02 14:18:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTQ1NTcxNg==&mid=2652678337&idx=4&sn=8c6b4c6c883f99915375d3669b63d523",
+        "title": "迪士尼“在逃”草莓熊，别人都有的我不许你还没有！",
+        "title_eng": "Disney's on the run strawberry bear, I don't allow you to have what everyone else has!",
+        "nickname": "彬彬有理",
+        "created_at": "2022-06-01",
+        "archive": "gh_be5c51ac4705_2022-06-01_2652678337_QLjY4UzK1m.y.tar.gz",
+        "censored_date": "2022-06-03 15:36:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-02 17:31:17"
     }
 ]
