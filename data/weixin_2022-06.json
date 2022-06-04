@@ -2081,7 +2081,7 @@
         "archive": "gh_097268c5ef0e_2022-06-01_2247504976_iB6t9YHb8c.y.tar.gz",
         "censored_date": "2022-06-03 00:29:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-04 02:25:31"
+        "update_date": "2022-06-04 12:19:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652039091&idx=3&sn=c2a0b2db731447a76109ee51204f96c0",
@@ -2158,7 +2158,7 @@
         "archive": "gh_16cc427c8e02_2022-06-02_2247709928_WiIFyPYB2u.y.tar.gz",
         "censored_date": "2022-06-03 01:26:06",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-04 02:31:08"
+        "update_date": "2022-06-04 12:25:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652039176&idx=5&sn=e66c65784594ef2ce14b09c250273133",
@@ -2396,7 +2396,8 @@
         "created_at": "2022-06-02",
         "archive": "gh_517f0d8d1792_2022-06-02_2651440478_2yIfinLrVo.y.tar.gz",
         "censored_date": "2022-06-04 01:58:24",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-06-04 11:55:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxNzMzODcxOQ==&mid=2247661310&idx=2&sn=c6cd8036c09cd191f4a19153a2dc1782",
@@ -2483,5 +2484,15 @@
         "censored_date": "2022-06-04 05:02:16",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-02 20:13:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2653607864&idx=2&sn=ef69195d3a4b78d27fbc9144e2942a8d",
+        "title": "广西全州发现新华字典及儿童读物存低俗化内容与配图，责令下架",
+        "title_eng": "Quanzhou, Guangxi found that Xinhua dictionary and children's books contained vulgar content and pictures, and ordered them to be taken off the shelves",
+        "nickname": "环球时报",
+        "created_at": "2022-06-03",
+        "archive": "gh_95b0feda9646_2022-06-03_2653607864_BaR3SEi4C0.y.tar.gz",
+        "censored_date": "2022-06-04 11:23:31",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
