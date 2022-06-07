@@ -2998,7 +2998,7 @@
         "archive": "gh_5189ed7a15c7_2022-06-05_2651374847_1OMDBeCo7f.y.tar.gz",
         "censored_date": "2022-06-05 17:11:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-06 10:14:56"
+        "update_date": "2022-06-07 07:56:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247551801&idx=1&sn=59613dca68d03ffa7e8e4a4009e1e284",
@@ -3128,7 +3128,8 @@
         "created_at": "2022-06-06",
         "archive": "gh_ca61f31ea9cc_2022-06-06_2655159218_n2GENUhZq9.y.tar.gz",
         "censored_date": "2022-06-06 11:42:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-07 09:43:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjUxMjI4Mw==&mid=2247517622&idx=1&sn=60224736991788ab7eecb6bac42030ec",
@@ -3442,10 +3443,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2651994946&idx=4&sn=6f9cec6847de06b4cb46f8df93f711c5",
         "title": "App停运显疲态？起底基金直销现状，上亿元投入找寻新突破，业内纷纷转战新阵地",
+        "title_eng": "App outage shows fatigue? Starting from the current situation of fund direct sales, hundreds of millions of dollars have been invested to find new breakthroughs, and the industry has moved to new positions",
         "nickname": "券商中国",
         "created_at": "2022-06-06",
         "archive": "gh_6df2146bcb82_2022-06-06_2651994946_UdJtij0k51.y.tar.gz",
         "censored_date": "2022-06-07 06:35:48",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NTc2NDY5MA==&mid=2653068265&idx=2&sn=1ddebe1570dfc7d17dbdb79aac8218cb",
+        "title": "来，平行宇宙漫游指南",
+        "title_eng": "Come on, The Hitchhiker's Guide to Parallel Universes",
+        "nickname": "极昼工作室",
+        "created_at": "2022-06-01",
+        "archive": "gh_4d5207dc7ed3_2022-06-01_2653068265_K0F3c1rl4C.y.tar.gz",
+        "censored_date": "2022-06-07 08:41:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
