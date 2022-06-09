@@ -3938,7 +3938,8 @@
         "created_at": "2022-06-08",
         "archive": "gh_abdfd6106bd3_2022-06-08_2247525996_nbCYQc7d6v.y.tar.gz",
         "censored_date": "2022-06-08 21:47:21",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-06-09 23:00:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI4Njg1OQ==&mid=2650517532&idx=1&sn=fbe5af5c278c0f9a14eb4279cbb9c4a6",
@@ -4347,10 +4348,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTQxODUxNw==&mid=2651093360&idx=1&sn=84ef598415176b95f3e6efac61a067ca",
         "title": "突发！罢工、请愿、向媒体曝光，为了加薪！新加坡这些上班族“公开闹事”",
+        "title_eng": "burst! Strikes, petitions, exposure to the media, for a raise! These office workers in Singapore are 'publicly making trouble'",
         "nickname": "新加坡狮城椰子",
         "created_at": "2022-06-09",
         "archive": "gh_830365a1bf55_2022-06-09_2651093360_gLqG2TCPsn.y.tar.gz",
         "censored_date": "2022-06-09 21:59:17",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4NDY2MA==&mid=2652039443&idx=7&sn=29f22095d628fce8c1ba087d6668ee17",
+        "title": "中美俄英法罕见达成一致，联合国决议获全票通过，中国贡献新方案",
+        "title_eng": "China, the United States, Russia, Britain and France rarely reached an agreement, the UN resolution was unanimously passed, and China contributed a new plan",
+        "nickname": "米尔看天下",
+        "created_at": "2022-06-08",
+        "archive": "gh_e06f5843f7ac_2022-06-08_2652039443_MKy3i8aFl1.y.tar.gz",
+        "censored_date": "2022-06-09 22:38:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-08 22:10:26"
     }
 ]
