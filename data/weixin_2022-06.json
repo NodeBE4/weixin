@@ -3927,7 +3927,8 @@
         "created_at": "2022-06-06",
         "archive": "gh_4002b1765479_2022-06-06_2650375376_VhrpmCcZ0N.y.tar.gz",
         "censored_date": "2022-06-08 20:57:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-09 21:50:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODQ0MjU5Ng==&mid=2247525996&idx=2&sn=f05d55512a28e4f86dd643b5549632a9",
@@ -4342,5 +4343,14 @@
         "censored_date": "2022-06-09 21:18:04",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-09 01:54:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMTQxODUxNw==&mid=2651093360&idx=1&sn=84ef598415176b95f3e6efac61a067ca",
+        "title": "突发！罢工、请愿、向媒体曝光，为了加薪！新加坡这些上班族“公开闹事”",
+        "nickname": "新加坡狮城椰子",
+        "created_at": "2022-06-09",
+        "archive": "gh_830365a1bf55_2022-06-09_2651093360_gLqG2TCPsn.y.tar.gz",
+        "censored_date": "2022-06-09 21:59:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
