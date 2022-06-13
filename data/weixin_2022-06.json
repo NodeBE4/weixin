@@ -5556,6 +5556,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651050801&idx=2&sn=68f0c9c3d3ca05593ed33cfa937db8b5",
         "title": "惊动全国！我国发生重大恶性暴力事件！全网怒批：必须严惩！",
+        "title_eng": "Alarmed the whole country! Major Violent Violence Occurred in Our Country! The whole network is angry: it must be severely punished!",
         "nickname": "新老人",
         "created_at": "2022-06-13",
         "archive": "gh_2ff5d816ea7a_2022-06-13_2651050801_YMt4pkmIcq.y.tar.gz",
@@ -5566,6 +5567,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491568&idx=3&sn=56bad0a32098072f6d4a0f4915ebaa86",
         "title": "拜登“妙策”甩锅，普京趁机再赢一局！",
+        "title_eng": "Biden's smart strategy dumped the pot, and Putin took the opportunity to win another round!",
         "nickname": "江南隐士",
         "created_at": "2022-06-12",
         "archive": "gh_65f5271d2a21_2022-06-12_2247491568_eI1wLSV76h.y.tar.gz",
@@ -5575,10 +5577,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491568&idx=1&sn=fe333581d2a3c6ed9d05999bf050c4ed",
         "title": "唐山烧烤店打人事件：论人渣是怎么炼成的",
+        "title_eng": "Tangshan barbecue restaurant beating incident: on how scum is made",
         "nickname": "江南隐士",
         "created_at": "2022-06-12",
         "archive": "gh_65f5271d2a21_2022-06-12_2247491568_mhGoOLBgC6.y.tar.gz",
         "censored_date": "2022-06-14 06:15:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1NTQxMDY2MQ==&mid=2247495262&idx=2&sn=30d1ccd8b6b2c85046facf115e14df69",
+        "title": "痛心：唐山受害女生发声",
+        "nickname": "最短",
+        "created_at": "2022-06-12",
+        "archive": "gh_00957cd51597_2022-06-12_2247495262_ipdTYM5Ewo.y.tar.gz",
+        "censored_date": "2022-06-14 07:06:43",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491568&idx=2&sn=a33d552741f68eb7b912e28e2d7d8235",
+        "title": "我靠视频剪辑月入2万：宝妈一定要知道这个副业！",
+        "nickname": "江南隐士",
+        "created_at": "2022-06-12",
+        "archive": "gh_65f5271d2a21_2022-06-12_2247491568_2FZKxEpfJl.y.tar.gz",
+        "censored_date": "2022-06-14 06:37:31",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
