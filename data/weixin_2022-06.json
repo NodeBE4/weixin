@@ -5519,7 +5519,8 @@
         "created_at": "2022-06-12",
         "archive": "gh_4002b1765479_2022-06-12_2650377521_lkMu0Xn6W4.y.tar.gz",
         "censored_date": "2022-06-14 01:29:53",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-06-14 21:51:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTc3MTg4MA==&mid=2654146947&idx=1&sn=792c5ea0dd0ea74c294a4f4274c4832c",
@@ -5529,7 +5530,8 @@
         "created_at": "2022-06-13",
         "archive": "gh_7afcc2229f90_2022-06-13_2654146947_BElCLrm78f.y.tar.gz",
         "censored_date": "2022-06-14 00:50:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-14 21:51:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTQ1NTcxNg==&mid=2652680581&idx=4&sn=b6dff9df3a4bd87a6d69de84a68430c6",
@@ -5689,5 +5691,15 @@
         "archive": "gh_dc5fb6fdb9c6_2022-06-13_2247633635_eh4YF7Ci5X.y.tar.gz",
         "censored_date": "2022-06-14 21:06:07",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247579027&idx=4&sn=387fee203c9116a761cedfb472bd6bd8",
+        "title": "最新判例：询问时是民警和辅警，笔录签名却都是民警，公安局被判违法",
+        "nickname": "律法新声",
+        "created_at": "2022-06-12",
+        "archive": "gh_697523b9eb34_2022-06-12_2247579027_sVkj9lUzQq.y.tar.gz",
+        "censored_date": "2022-06-14 21:50:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-14 01:21:53"
     }
 ]
