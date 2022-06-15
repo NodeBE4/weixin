@@ -5878,6 +5878,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDM2Mjg4Mw==&mid=2650157441&idx=3&sn=1e5b73ad611ab6c31c55116f940e861a",
         "title": "1988年，台湾离拥有原子弹只差一步！",
+        "title_eng": "In 1988, Taiwan was only one step away from having an atomic bomb!",
         "nickname": "云石",
         "created_at": "2022-06-13",
         "archive": "gh_cffa19ce8f37_2022-06-13_2650157441_CAWtD6Zk5r.y.tar.gz",
@@ -5887,10 +5888,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwODEyMTMxNw==&mid=2247491822&idx=2&sn=ae60b237e7c27d14f084ffa8a0ed0a13",
         "title": "人人可免费领取一份付费资源，不可错过！（建议收藏）",
+        "title_eng": "Everyone can receive a paid resource for free, don't miss it! (recommended collection)",
         "nickname": "世纪观察",
         "created_at": "2022-06-14",
         "archive": "gh_26762a56c129_2022-06-14_2247491822_oBCzR1p5SO.y.tar.gz",
         "censored_date": "2022-06-15 12:33:12",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTQ4Mjg0Ng==&mid=2247489462&idx=2&sn=897b08d227584606de73a0fbb7d6d53a",
+        "title": "休息一下吧，求你了，女租客低声哀求，房东：可这事怎么能半途而废！",
+        "title_eng": "Take a rest, please, the female tenant begged in a low voice, the landlord: But how can this be done halfway!",
+        "nickname": "阅天下百事",
+        "created_at": "2022-06-14",
+        "archive": "gh_8508f826af1e_2022-06-14_2247489462_lWEZ0XfTVr.y.tar.gz",
+        "censored_date": "2022-06-15 12:51:46",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-14 14:06:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NjQ1MTIxNQ==&mid=2247491580&idx=2&sn=d261ec4753f1b698ca8163abd41c511b",
+        "title": "不工作，靠淘宝还清所有债务：会赚钱的人都在做这件事！",
+        "title_eng": "Don't work, pay off all your debts on Taobao: people who can make money are doing it!",
+        "nickname": "江南隐士",
+        "created_at": "2022-06-14",
+        "archive": "gh_65f5271d2a21_2022-06-14_2247491580_Mho89AFukN.y.tar.gz",
+        "censored_date": "2022-06-15 13:13:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
