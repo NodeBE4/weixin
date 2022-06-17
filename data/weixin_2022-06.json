@@ -6562,6 +6562,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTM4NDQ2OA==&mid=2651132244&idx=1&sn=42dd229f39275b27b247653c779c26ce",
         "title": "THIS Art Festival | 这个艺术节，我们要大放“艺”彩！",
+        "title_eng": "THIS Art Festival | This art festival, we want to show the art color!",
         "nickname": "清华附中国际部",
         "created_at": "2022-06-17",
         "archive": "gh_04139e2293d5_2022-06-17_2651132244_8xl3emASIR.y.tar.gz",
@@ -6571,11 +6572,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653696459&idx=2&sn=80e70d2e31fe43070032b6053ad33ab0",
         "title": "不抢血亏！潮牌NASA联名T正版！79元到手2件！",
+        "title_eng": "Do not steal blood loss! Tide brand NASA joint T genuine! 79 yuan to get 2 pieces!",
         "nickname": "电影工厂",
         "created_at": "2022-06-14",
         "archive": "gh_e3cf7cb85f44_2022-06-14_2653696459_JXOpsCQDj7.y.tar.gz",
         "censored_date": "2022-06-18 01:08:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-16 21:47:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0OTMxNjY2MA==&mid=2247607537&idx=2&sn=3f6dff859f9f67f42001612fb1f70a9a",
+        "title": "黄金10年！外资疯狂涌入，A股这个方向或爆发！",
+        "title_eng": "Golden 10 years! The influx of foreign capital is crazy, and A shares may explode in this direction!",
+        "nickname": "财闻要鉴",
+        "created_at": "2022-06-15",
+        "archive": "gh_8ea8fa12c9c5_2022-06-15_2247607537_kKaD9O6lvn.y.tar.gz",
+        "censored_date": "2022-06-18 01:38:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-16 22:26:32"
     }
 ]
