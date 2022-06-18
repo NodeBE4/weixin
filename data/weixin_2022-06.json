@@ -6569,7 +6569,8 @@
         "created_at": "2022-06-17",
         "archive": "gh_04139e2293d5_2022-06-17_2651132244_8xl3emASIR.y.tar.gz",
         "censored_date": "2022-06-18 00:39:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-18 19:39:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk4MTgxMw==&mid=2653696459&idx=2&sn=80e70d2e31fe43070032b6053ad33ab0",
@@ -6688,5 +6689,15 @@
         "censored_date": "2022-06-18 16:19:46",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-06-17 21:30:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTM3MDEzMQ==&mid=2247517230&idx=2&sn=a4a1bdde97dbe58e3c23dde0edf818f8",
+        "title": "肺部有结节，身体或会发出3个信号，注意观察，切不可大意",
+        "title_eng": "There are nodules in the lungs, the body may send out 3 signals, pay attention to observation, must not be careless",
+        "nickname": "中西ABC",
+        "created_at": "2022-06-17",
+        "archive": "gh_fc276be154e5_2022-06-17_2247517230_ESfsdTAlcp.y.tar.gz",
+        "censored_date": "2022-06-18 20:20:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
