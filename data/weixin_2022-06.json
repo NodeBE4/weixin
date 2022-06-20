@@ -6851,7 +6851,7 @@
         "archive": "gh_a517719487ef_2022-06-17_2652243329_VkE74LNcGY.y.tar.gz",
         "censored_date": "2022-06-19 13:44:21",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-06-18 17:49:04"
+        "update_date": "2022-06-20 13:58:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247532450&idx=1&sn=0950dc60f8f2cb892aba548bf40a3d7c",
@@ -7076,6 +7076,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247504939&idx=1&sn=ed457164d5e22934508507172d406a92",
         "title": "唐山打人事件最新进展，多人可怕往事曝光：暴行背后，站着的远不止9个人",
+        "title_eng": "The latest development of the Tangshan beating incident, many people's terrible past is exposed: behind the atrocities, there are far more than 9 people standing",
         "nickname": "首富商圈",
         "created_at": "2022-06-18",
         "archive": "gh_c7f9947afc98_2022-06-18_2247504939_6QfeC8bhi7.y.tar.gz",
@@ -7115,5 +7116,25 @@
         "censored_date": "2022-06-20 11:59:24",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-19 23:33:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODI2NTk2OQ==&mid=2247532450&idx=5&sn=73214bcb775c7207f20256e415f1df18",
+        "title": "太诡异了！又一事件被赋红码...",
+        "nickname": "难得视界",
+        "created_at": "2022-06-17",
+        "archive": "gh_1c6cefeca9ab_2022-06-17_2247532450_rvhzigbewj.y.tar.gz",
+        "censored_date": "2022-06-20 14:32:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-18 20:48:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTAzMDkyMA==&mid=2650900526&idx=2&sn=906dbd08e0cc81693ab0e557d3d379d7",
+        "title": "太气愤了！平湖2岁孩子被妈妈扔进河里，夫妻已经被警方带走？噩耗传来，孩子已经...",
+        "title_eng": "So angry! The 2-year-old child in Pinghu was thrown into the river by his mother, and the couple have been taken away by the police? The bad news comes that the child has...",
+        "nickname": "嘉兴第九区",
+        "created_at": "2022-06-20",
+        "archive": "gh_6d397d8a037d_2022-06-20_2650900526_XJINpZeKCc.y.tar.gz",
+        "censored_date": "2022-06-20 14:12:20",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
