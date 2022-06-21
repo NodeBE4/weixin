@@ -7353,7 +7353,8 @@
         "created_at": "2022-06-20",
         "archive": "gh_95b0feda9646_2022-06-20_2653618895_O4rZLeR8Xs.y.tar.gz",
         "censored_date": "2022-06-21 17:11:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-22 06:50:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247539381&idx=2&sn=cd6d74d55bf3cf3c7bc53b2a869a9ffd",
@@ -7433,6 +7434,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655643622&idx=1&sn=f3eec703878826bf0ecefcbfe55d3202",
         "title": "两名四级高级警长被查！",
+        "title_eng": "Two fourth-level senior sheriffs were investigated!",
         "nickname": "阿SIR",
         "created_at": "2022-06-20",
         "archive": "gh_0af747913cab_2022-06-20_2655643622_valz8VdhsJ.y.tar.gz",
@@ -7443,6 +7445,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655643582&idx=3&sn=6c72845d9d2efccb7e33ed1ef649e21a",
         "title": "从警多年，为什么你干活干到腿软，别人拿奖拿到手软？",
+        "title_eng": "After many years as a police officer, why do you work until your legs are weak, and others get awards and get soft hands?",
         "nickname": "阿SIR",
         "created_at": "2022-06-19",
         "archive": "gh_0af747913cab_2022-06-19_2655643582_kORmqCIlhH.y.tar.gz",
@@ -7453,6 +7456,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655643582&idx=2&sn=64ce28cf09713a09067c927397eb1d39",
         "title": "基层的布鞋：比穿拖鞋文明，比穿皮鞋透气，黑底。",
+        "title_eng": "Basic cloth shoes: more civilized than wearing slippers, more breathable than wearing leather shoes, black bottom.",
         "nickname": "阿SIR",
         "created_at": "2022-06-19",
         "archive": "gh_0af747913cab_2022-06-19_2655643582_lIPjJdrSGF.y.tar.gz",
@@ -7463,11 +7467,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTE0MTc4Mg==&mid=2655643517&idx=1&sn=add44010e26b01bbb08beb7f70665d2c",
         "title": "11年前，内蒙古派出所被一伙唐山人打砸",
+        "title_eng": "11 years ago, the Inner Mongolia police station was smashed by a group of Tangshan people",
         "nickname": "阿SIR",
         "created_at": "2022-06-18",
         "archive": "gh_0af747913cab_2022-06-18_2655643517_J14w5byT9A.y.tar.gz",
         "censored_date": "2022-06-22 06:18:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-06-21 16:44:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=7&sn=6ca66204e9c8127b5e95ef0a81e25ee6",
+        "title": "如何理解今天的中国",
+        "nickname": "金融茶社",
+        "created_at": "2022-06-20",
+        "archive": "gh_5f5aaff92191_2022-06-20_2247584751_jB6g07SbL1.y.tar.gz",
+        "censored_date": "2022-06-22 07:28:28",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=6&sn=99bd57355c78ede136e66b257249aa6e",
+        "title": "村镇银行“爆雷”后，一个单亲妈妈的悲鸣",
+        "nickname": "金融茶社",
+        "created_at": "2022-06-20",
+        "archive": "gh_5f5aaff92191_2022-06-20_2247584751_jhPYXTNaSu.y.tar.gz",
+        "censored_date": "2022-06-22 07:29:15",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=8&sn=fbcc05fd7a9ec05ed81ec5e37546c31d",
+        "title": "中国为什么一定要拥有航母？",
+        "nickname": "金融茶社",
+        "created_at": "2022-06-20",
+        "archive": "gh_5f5aaff92191_2022-06-20_2247584751_x1zyC0tkhF.y.tar.gz",
+        "censored_date": "2022-06-22 07:29:38",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
