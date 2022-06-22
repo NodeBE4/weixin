@@ -7478,6 +7478,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=7&sn=6ca66204e9c8127b5e95ef0a81e25ee6",
         "title": "如何理解今天的中国",
+        "title_eng": "How to understand China today",
         "nickname": "金融茶社",
         "created_at": "2022-06-20",
         "archive": "gh_5f5aaff92191_2022-06-20_2247584751_jB6g07SbL1.y.tar.gz",
@@ -7487,6 +7488,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=6&sn=99bd57355c78ede136e66b257249aa6e",
         "title": "村镇银行“爆雷”后，一个单亲妈妈的悲鸣",
+        "title_eng": "A single mother's lament after the village bank's thunder",
         "nickname": "金融茶社",
         "created_at": "2022-06-20",
         "archive": "gh_5f5aaff92191_2022-06-20_2247584751_jhPYXTNaSu.y.tar.gz",
@@ -7496,10 +7498,53 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NTUxMzA4MQ==&mid=2247584751&idx=8&sn=fbcc05fd7a9ec05ed81ec5e37546c31d",
         "title": "中国为什么一定要拥有航母？",
+        "title_eng": "Why does China have to have an aircraft carrier?",
         "nickname": "金融茶社",
         "created_at": "2022-06-20",
         "archive": "gh_5f5aaff92191_2022-06-20_2247584751_x1zyC0tkhF.y.tar.gz",
         "censored_date": "2022-06-22 07:29:38",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MzA0MDk1Nw==&mid=2651403142&idx=1&sn=d885173f26a4092c834ccf9400705e44",
+        "title": "肺部一生病，全身都受罪！每天喝杯它，清肺润燥不生痰，咽干咳痰统统消失~",
+        "title_eng": "When the lungs are sick, the whole body suffers! Drink a cup of it every day, clear the lungs and moisten dryness without producing phlegm, dry throat and expectoration all disappear~",
+        "nickname": "成贺",
+        "created_at": "2022-06-21",
+        "archive": "gh_4028fe7de2d7_2022-06-21_2651403142_2HXyoUJOR0.y.tar.gz",
+        "censored_date": "2022-06-22 08:10:34",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MDQ3NjkzMw==&mid=2651572180&idx=1&sn=a938f2dec11cdbdf27e9492d34a6efa1",
+        "title": "南京鼓楼医院副院长调任安徽​",
+        "title_eng": "Vice President of Nanjing Drum Tower Hospital transferred to Anhui​",
+        "nickname": "人民网江苏频道",
+        "created_at": "2022-06-20",
+        "archive": "gh_6bf0375ffd3e_2022-06-20_2651572180_IWpCXvwMSZ.y.tar.gz",
+        "censored_date": "2022-06-22 10:23:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650542715&idx=1&sn=a79df0ddc994cc7d2d365119ba451481",
+        "title": "学习通数据库疑发生信息泄露，1.7亿数据泄露被非法售卖，速改密码！|俄罗斯境内无法正常下载 Win11/10 系统",
+        "title_eng": "Xuetong database suspected of information leakage, 170 million data leakage was illegally sold, change the password quickly! |The Win11/10 system cannot be downloaded normally in Russia",
+        "nickname": "黑白之道",
+        "created_at": "2022-06-21",
+        "archive": "gh_886b94872294_2022-06-21_2650542715_wFMEL82n4j.y.tar.gz",
+        "censored_date": "2022-06-22 10:28:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-21 12:16:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NTY0MjIxNw==&mid=2247603084&idx=1&sn=19c87485db71d2511ff8ace505e26722",
+        "title": "太惨了 | 300多只毛孩子长期断粮，只能靠吃垃圾生存，谁能帮帮它们！",
+        "title_eng": "Too bad | More than 300 hairy children have been out of food for a long time and can only survive by eating garbage, who can help them!",
+        "nickname": "叙拉古之惑",
+        "created_at": "2022-06-20",
+        "archive": "gh_c9984a3987c1_2022-06-20_2247603084_CuOrjx8lRp.y.tar.gz",
+        "censored_date": "2022-06-22 10:19:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-21 13:08:42"
     }
 ]
