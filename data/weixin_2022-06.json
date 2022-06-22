@@ -7635,6 +7635,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658782105&idx=2&sn=37dda33dc3ca6d18220b2785c6041b5b",
         "title": "古诗今读，在抖音发现唐诗之美",
+        "title_eng": "Read ancient poems today, discover the beauty of Tang poetry on Douyin",
         "nickname": "半月谈",
         "created_at": "2022-06-22",
         "archive": "gh_e3ae8ac3dd21_2022-06-22_2658782105_0Kr5JqG81O.y.tar.gz",
@@ -7644,10 +7645,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2658782105&idx=1&sn=04834de72bf68bbccbbc6d496de0d780",
         "title": "谨防基建项目“纸面开工”",
+        "title_eng": "Beware of infrastructure projects starting on paper",
         "nickname": "半月谈",
         "created_at": "2022-06-22",
         "archive": "gh_e3ae8ac3dd21_2022-06-22_2658782105_YuB0XNSVxw.y.tar.gz",
         "censored_date": "2022-06-22 17:26:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247525425&idx=3&sn=c5dbc64547b6e0ed2ca1d4ff22bb70ab",
+        "title": "唐山迁西，涉嫌滥用连花清瘟",
+        "title_eng": "Tangshan moved west, suspected of abusing Lianhua Qingwen",
+        "nickname": "冰川思享号",
+        "created_at": "2022-06-21",
+        "archive": "gh_e80b5c3c8b87_2022-06-21_2247525425_YaLRuw0Eoq.y.tar.gz",
+        "censored_date": "2022-06-22 18:23:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-21 22:45:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247499404&idx=1&sn=9c9216629fd15f4ea30e742188d7ced9",
+        "title": "刚刚！唐山打人案最新通报！还有多名公职人员被纪委调查！",
+        "nickname": "最高审判指引",
+        "created_at": "2022-06-21",
+        "archive": "gh_623c5c12b45e_2022-06-21_2247499404_D4ZqhQL6si.y.tar.gz",
+        "censored_date": "2022-06-22 18:33:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
