@@ -8250,7 +8250,7 @@
         "archive": "gh_8fe24b4816f0_2022-06-23_2650811600_ICPlVwq0fM.y.tar.gz",
         "censored_date": "2022-06-24 20:02:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-06-24 00:42:32"
+        "update_date": "2022-06-25 14:09:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MDI4MjY4MA==&mid=2247494468&idx=1&sn=1fe04f4b217ad398118a9b84d53a89e1",
@@ -8260,7 +8260,8 @@
         "created_at": "2022-06-20",
         "archive": "gh_303ec1b5ec96_2022-06-20_2247494468_TwxcJmMy7l.y.tar.gz",
         "censored_date": "2022-06-24 19:33:18",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-06-25 14:10:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDA1MjA1MQ==&mid=2650518492&idx=2&sn=471a853ec292c82b61e8865b20eaba2a",
@@ -8270,7 +8271,8 @@
         "created_at": "2022-06-24",
         "archive": "gh_7e880c5817d5_2022-06-24_2650518492_DNWs9xiTFd.y.tar.gz",
         "censored_date": "2022-06-24 20:10:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-25 14:10:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTA2MzY5Mg==&mid=2652243800&idx=2&sn=ee03328e6771a8f4555446a21510c9ae",
@@ -8286,6 +8288,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDE5ODM2OQ==&mid=2247505383&idx=1&sn=4e55453bcb3c28b9a96e06c1a4e48e93",
         "title": "“我儿子都快上学了，老婆还在KTV找男模！”湖南男子深夜诉苦，却被10000网友骂惨？",
+        "title_eng": "My son is about to go to school, and my wife is still looking for male models on KTV! Hunan man complained late at night, but was scolded by 10,000 netizens?",
         "nickname": "首富商圈",
         "created_at": "2022-06-23",
         "archive": "gh_c7f9947afc98_2022-06-23_2247505383_eMuI4XFk3T.y.tar.gz",
@@ -8296,10 +8299,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3Nzk3NzYxOQ==&mid=2650973107&idx=1&sn=e98e43da536344d5050f6d09b437221f",
         "title": "中国顶级富豪们！也准备躺平了？",
+        "title_eng": "China's top rich people! Ready to lie down too?",
         "nickname": "齐俊杰看财经",
         "created_at": "2022-06-25",
         "archive": "gh_7c1e674cacab_2022-06-25_2650973107_wyhjML3t7U.y.tar.gz",
         "censored_date": "2022-06-25 12:44:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247647621&idx=3&sn=4a16b0045c86e709026aeee0c161fa88",
+        "title": "3岁男童从17楼坠落，此前曾遭8岁孩子踢打",
+        "title_eng": "3-year-old boy fell from 17th floor after being kicked and beaten by 8-year-old",
+        "nickname": "红星新闻",
+        "created_at": "2022-06-24",
+        "archive": "gh_1ede6c42db01_2022-06-24_2247647621_7aR6KzZ1Nd.y.tar.gz",
+        "censored_date": "2022-06-25 14:15:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-06-25 00:12:05"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDgxMjEwMQ==&mid=2651036843&idx=1&sn=9a6b35ca3c6029ca6643cfb8cc03dfff",
+        "title": "全球最年轻的获奖人之一！浙大教授获颁世界杰出女科学家奖",
+        "title_eng": "One of the youngest recipients in the world! Zhejiang University professor awarded World Outstanding Female Scientist Award",
+        "nickname": "科协改革进行时",
+        "created_at": "2022-06-24",
+        "archive": "gh_3e7c18694931_2022-06-24_2651036843_7tHzB8RqA4.y.tar.gz",
+        "censored_date": "2022-06-25 13:41:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
