@@ -151,7 +151,7 @@
         "archive": "gh_307be0bd98f2_2022-09-17_missing_Bd714yhVxI.y.tar.gz",
         "censored_date": "2022-09-17 23:07:02",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-09-18 03:48:55"
+        "update_date": "2022-09-19 02:40:30"
     },
     {
         "url": "mp.weixin.qq.com/s/zJTH5d2Ddgd99CtNxQ23pw",
@@ -183,7 +183,8 @@
         "created_at": "2022-09-18",
         "archive": "gh_84c2010659b1_2022-09-18_missing_3Dz2qR4uvB.y.tar.gz",
         "censored_date": "2022-09-18 20:10:57",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-09-19 03:00:31"
     },
     {
         "url": "mp.weixin.qq.com/s/f_UAPCOgjeoQm4jdQt5zfg",
@@ -194,5 +195,24 @@
         "censored_date": "2022-09-19 02:37:45",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-09-18 03:43:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ekpc8gYFrtzFNXJjuZLQgA",
+        "title": "贵州一大巴车侧翻，27人死在了隔离路上？",
+        "nickname": "凡语人言",
+        "created_at": "2022-09-18",
+        "archive": "gh_c7bb71b90395_2022-09-18_missing_HqUrbxgL5O.y.tar.gz",
+        "censored_date": "2022-09-19 02:57:22",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-09-18 17:08:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/d3ZAZQ8YBVnTXYdw-Dj3SA",
+        "title": "我们要怎么做才能不上那辆大巴车？",
+        "nickname": "Hayami",
+        "created_at": "2022-09-18",
+        "archive": "gh_9c9ceb7d7660_2022-09-18_missing_AQE7V8PfY5.y.tar.gz",
+        "censored_date": "2022-09-19 03:14:48",
+        "censored_msg": "Unable to view this content because it violates regulations"
     }
 ]
