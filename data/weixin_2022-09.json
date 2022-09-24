@@ -340,6 +340,7 @@
     {
         "url": "mp.weixin.qq.com/s/FeVYtsfO6qaUl1wfNOQfxg",
         "title": "closer变close ｜ 附近最新进展",
+        "title_eng": "closer becomes closer | latest developments nearby",
         "nickname": "Close附近",
         "created_at": "2022-09-23",
         "archive": "gh_bb04597decc7_2022-09-23_missing_RILGovUD5l.y.tar.gz",
@@ -349,11 +350,23 @@
     {
         "url": "mp.weixin.qq.com/s/1WrCVE20yMviHSryt5pOOA",
         "title": "老同志是党的中流砥柱、定海神针",
+        "title_eng": "The old comrade is the mainstay of the party and the pinnacle of the sea",
         "nickname": "大记者有话说",
         "created_at": "2022-09-24",
         "archive": "gh_9296d1d5e594_2022-09-24_missing_ZxfMjdG73s.y.tar.gz",
         "censored_date": "2022-09-25 02:49:42",
         "censored_msg": "此帐号已被屏蔽,",
         "update_date": "2022-09-24 20:07:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/tDJDTKV-jGrrbJNvlFk_gA",
+        "title": "胡主席执政，让人无比怀念的十年！",
+        "title_eng": "President Hu's tenure in power is an extremely memorable decade!",
+        "nickname": "喻言亭阁",
+        "created_at": "2022-09-23",
+        "archive": "gh_cffac5540186_2022-09-23_missing_n5YxFB78GV.y.tar.gz",
+        "censored_date": "2022-09-25 03:31:14",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-09-24 23:05:05"
     }
 ]
