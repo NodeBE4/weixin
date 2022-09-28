@@ -410,7 +410,8 @@
         "created_at": "2022-09-27",
         "archive": "gh_d2c60a06d747_2022-09-27_missing_u13RJmKQgl.y.tar.gz",
         "censored_date": "2022-09-27 23:20:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-09-28 09:24:33"
     },
     {
         "url": "mp.weixin.qq.com/s/fNnLEz1Q52YBYZyX3ASAdA",
@@ -422,5 +423,26 @@
         "censored_date": "2022-09-28 02:58:45",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-09-27 11:06:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/WFiJ7P0iqYzAL-4JN5SNyQ",
+        "title": "讽刺：张文宏获新冠科普“特等奖”",
+        "title_eng": "Irony: Zhang Wenhong won the special prize for new crown science popularization",
+        "nickname": "大道宇宙",
+        "created_at": "2022-09-27",
+        "archive": "gh_1b38bcd2cedf_2022-09-27_missing_xlzVbYWtGc.y.tar.gz",
+        "censored_date": "2022-09-28 10:07:43",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-09-27 17:25:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/74YO4uua1xwDeLR4MWotqg",
+        "title": "现在，轮到银行断崖式下降了",
+        "title_eng": "Now, it's the bank's turn to fall off the cliff",
+        "nickname": "互联网思维",
+        "created_at": "2022-09-26",
+        "archive": "gh_82a2e55f24ab_2022-09-26_missing_oJe685jgmI.y.tar.gz",
+        "censored_date": "2022-09-28 09:33:21",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
