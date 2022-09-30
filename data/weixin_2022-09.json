@@ -608,5 +608,27 @@
         "archive": "gh_2683d5721bef_2022-09-30_missing_tWTvjcYb1G.y.tar.gz",
         "censored_date": "2022-09-30 23:24:07",
         "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/bINq764sMs9Q6SGGYd9ogw",
+        "title": "温铁军其人",
+        "title_eng": "Wen Tiejun and others",
+        "nickname": "报人刘亚东A",
+        "created_at": "2022-09-29",
+        "archive": "gh_7c459fff0eeb_2022-09-29_missing_4yZp0UxmLn.y.tar.gz",
+        "censored_date": "2022-10-01 02:08:46",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-09-30 11:06:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDAyMzM4MA==&mid=2650312480&idx=1&sn=4cd42114beef06f1e723c625cbe75dc8&",
+        "title": "国家重大科技基础设施脉冲强磁场实验装置优化提升项目建设启动",
+        "title_eng": "The construction of the optimization and improvement project of the pulsed strong magnetic field experimental device for the national major scientific and technological infrastructure has been launched",
+        "nickname": "华中科技大学",
+        "created_at": "2022-09-28",
+        "archive": "gh_d87c5ea01612_2022-09-28_2650312480_lzR4FWumf6.y.tar.gz",
+        "censored_date": "2022-10-01 02:03:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-09-30 11:35:41"
     }
 ]
