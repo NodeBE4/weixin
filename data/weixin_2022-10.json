@@ -534,16 +534,50 @@
         "created_at": "2022-10-04",
         "archive": "gh_5a61a615871e_2022-10-04_missing_2iZwkWMU4u.y.tar.gz",
         "censored_date": "2022-10-05 14:46:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-10-06 04:33:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjMwOTY1Mw==&mid=2247499612&idx=1&sn=77525926c8495861c399bb163550b475&",
         "title": "海天酱油引爆行业震荡，国产酱油企业全部沦陷！",
+        "title_eng": "Haitian soy sauce detonated the industry shock, and all domestic soy sauce enterprises fell!",
         "nickname": "草堂文摘",
         "created_at": "2022-10-04",
         "archive": "gh_cf2e89e932eb_2022-10-04_2247499612_N6cqlT9RmY.y.tar.gz",
         "censored_date": "2022-10-06 03:34:32",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-10-05 08:13:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Su0pm7MaNi7bhcuVcwTyNw",
+        "title": "从Jingyao案看米兔：跨国女权社群的实践、反思和发展",
+        "title_eng": "Seeing Rice Rabbit from the Jingyao Case: The Practice, Reflection and Development of the Transnational Feminist Community",
+        "nickname": "女流之辈",
+        "created_at": "2022-10-04",
+        "archive": "gh_127d873158ba_2022-10-04_missing_rLSyx6hAsc.y.tar.gz",
+        "censored_date": "2022-10-06 03:42:00",
+        "censored_msg": "Unable to view this content because it violates regulations"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/SwIMka9KhOcX-vJlYmXK7Q",
+        "title": "俄向乌边境调核武 乌突破赫尔松北部俄军防线",
+        "title_eng": "Russia transfers nuclear weapons to Ukrainian border, Ukraine breaks through Russian defense line in northern Kherson",
+        "nickname": "远见笔谈",
+        "created_at": "2022-10-04",
+        "archive": "gh_2042238d0e77_2022-10-04_missing_0PXN16WKI5.y.tar.gz",
+        "censored_date": "2022-10-06 03:47:07",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-10-05 08:23:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/QmI-QQ46vTB316V2KlNZeQ",
+        "title": "松茸松茸",
+        "title_eng": "matsutake mushroom",
+        "nickname": "文心论道",
+        "created_at": "2022-10-05",
+        "archive": "gh_b3f44619cb8c_2022-10-05_missing_lr3N8uyBFI.y.tar.gz",
+        "censored_date": "2022-10-06 04:06:43",
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-10-05 11:06:01"
     }
 ]
