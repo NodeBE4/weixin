@@ -697,7 +697,7 @@
         "archive": "gh_9092c6dc8579_2022-10-06_missing_yOjkfJYFt8.y.tar.gz",
         "censored_date": "2022-10-07 07:33:20",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-10-06 17:38:04"
+        "update_date": "2022-10-08 03:23:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTc2NTA0Nw==&mid=2247483682&idx=1&sn=80970e55eceb2b33474a579b23a362fc&",
@@ -719,5 +719,16 @@
         "censored_date": "2022-10-07 07:04:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-10-06 11:30:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/tG8h37hhttJn7w9bvFIokw",
+        "title": "奇葩，我被“限高”记",
+        "title_eng": "Weird, I was remembered by limited height",
+        "nickname": "正安法律细雨",
+        "created_at": "2022-10-06",
+        "archive": "gh_68355af10bf8_2022-10-06_missing_dEyuPWAr6x.y.tar.gz",
+        "censored_date": "2022-10-08 03:12:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-10-07 05:33:47"
     }
 ]
