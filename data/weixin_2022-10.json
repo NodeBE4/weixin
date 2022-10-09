@@ -772,7 +772,8 @@
         "created_at": "2022-10-08",
         "archive": "gh_45844d32552f_2022-10-08_2658219576_WXnAFJrNgu.y.tar.gz",
         "censored_date": "2022-10-08 20:06:23",
-        "censored_msg": "Unable to view this content because it violates regulations"
+        "censored_msg": "Unable to view this content because it violates regulations",
+        "update_date": "2022-10-09 09:58:42"
     },
     {
         "url": "mp.weixin.qq.com/s/wOKJmC8CRxa2FEpmlN3P0A",
@@ -784,5 +785,16 @@
         "censored_date": "2022-10-09 02:29:53",
         "censored_msg": "Unable to view this content because it violates regulations",
         "update_date": "2022-10-08 04:32:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4OTY2NTg0OQ==&mid=2247549730&idx=2&sn=486ad3c30baba4c0b770d104ffde5793&",
+        "title": "你知道吗？金龙鱼、鲁花、胡姬花、福临门，只有一个是中国品牌！",
+        "title_eng": "do you know? Arowana, Luhua, Orchid, Fulinmen, only one is a Chinese brand!",
+        "nickname": "丁香花开的声音",
+        "created_at": "2022-10-08",
+        "archive": "gh_64de8cd77180_2022-10-08_2247549730_1Xb8ep093f.y.tar.gz",
+        "censored_date": "2022-10-09 08:38:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-10-08 14:33:53"
     }
 ]
