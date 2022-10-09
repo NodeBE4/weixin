@@ -773,7 +773,7 @@
         "archive": "gh_45844d32552f_2022-10-08_2658219576_WXnAFJrNgu.y.tar.gz",
         "censored_date": "2022-10-08 20:06:23",
         "censored_msg": "Unable to view this content because it violates regulations",
-        "update_date": "2022-10-09 09:58:42"
+        "update_date": "2022-10-10 04:25:44"
     },
     {
         "url": "mp.weixin.qq.com/s/wOKJmC8CRxa2FEpmlN3P0A",
@@ -827,5 +827,16 @@
         "censored_date": "2022-10-10 02:12:03",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-10-09 04:57:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/aFx0FaNOtD9c7bgzfw8O5A",
+        "title": "10月8号，上海人，服了",
+        "title_eng": "On October 8, Shanghainese, served",
+        "nickname": "桑海人说说",
+        "created_at": "2022-10-08",
+        "archive": "gh_fd4badac4bfa_2022-10-08_missing_dkf1yVXFAJ.y.tar.gz",
+        "censored_date": "2022-10-10 04:27:19",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-09 11:15:59"
     }
 ]
