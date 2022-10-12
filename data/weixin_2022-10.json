@@ -981,7 +981,7 @@
         "archive": "gh_fdb3092a6600_2022-09-23_missing_8tSBWMFIDO.y.tar.gz",
         "censored_date": "2022-10-11 20:35:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-10-12 06:29:25"
+        "update_date": "2022-10-13 04:07:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzc1MzM3OQ==&mid=2648317147&idx=1&sn=a5df97faa44fdeb5a83f2e94a6449573&",
@@ -1088,5 +1088,27 @@
         "archive": "gh_e9ace85190f1_2022-10-12_2658602037_eM0jhokgB6.y.tar.gz",
         "censored_date": "2022-10-12 23:07:27",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/L5JwtY8RV1DdiUV0spXoFg",
+        "title": "数字人民币怎么没声了？",
+        "title_eng": "Why is the digital renminbi silent?",
+        "nickname": "首席议论官",
+        "created_at": "2022-10-11",
+        "archive": "gh_d0b5dbb256ee_2022-10-11_missing_ae6gk4V3nN.y.tar.gz",
+        "censored_date": "2022-10-13 04:07:53",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-12 07:06:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/KpxgVG-dwzbuqQb4ySUkHg",
+        "title": "高管国籍成为“原罪”，中国半导体公司陷入比股价更大的困境",
+        "title_eng": "The nationality of executives has become the original sin, and Chinese semiconductor companies are in a bigger predicament than the stock price",
+        "nickname": "半导体产业纵横",
+        "created_at": "2022-10-11",
+        "archive": "gh_e204b82b5298_2022-10-11_missing_ARnZQGzykH.y.tar.gz",
+        "censored_date": "2022-10-13 04:20:40",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-12 11:44:54"
     }
 ]
