@@ -1254,7 +1254,7 @@
         "archive": "gh_b2941c3a0d23_2022-10-14_missing_9oXZCjLIBN.y.tar.gz",
         "censored_date": "2022-10-15 05:26:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-10-14 17:55:18"
+        "update_date": "2022-10-16 09:59:30"
     },
     {
         "url": "mp.weixin.qq.com/s/seJN2nYCVjzRiTGbBYaqeA",
@@ -1297,7 +1297,8 @@
         "created_at": "2022-10-15",
         "archive": "gh_c6c58ec971e7_2022-10-15_missing_k9KYwe8Aab.y.tar.gz",
         "censored_date": "2022-10-15 20:20:45",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-16 07:50:30"
     },
     {
         "url": "mp.weixin.qq.com/s/1h5CSYBA46Eq_8LXrV9jLA",
@@ -1307,7 +1308,8 @@
         "created_at": "2022-10-15",
         "archive": "gh_d5e224e6da99_2022-10-15_missing_VzGfMeYZFw.y.tar.gz",
         "censored_date": "2022-10-15 20:45:03",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-16 08:19:40"
     },
     {
         "url": "mp.weixin.qq.com/s/PvlGt0dIGVi-pP7ofRGcyg",
@@ -1329,5 +1331,16 @@
         "censored_date": "2022-10-16 06:35:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-10-15 14:16:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/8MWXwkYW82qIddAQd9tn9g",
+        "title": "俄罗斯走向毁灭",
+        "title_eng": "Russia is on the verge of destruction",
+        "nickname": "温心提示",
+        "created_at": "2022-10-14",
+        "archive": "gh_606b77ad79b8_2022-10-14_missing_MZuW8rlEFS.y.tar.gz",
+        "censored_date": "2022-10-16 09:50:34",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-15 14:20:26"
     }
 ]
