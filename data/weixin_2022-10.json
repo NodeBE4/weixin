@@ -1598,11 +1598,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyMTM0OTIwMg==&mid=2247484096&idx=1&sn=433046d11a2c5aff058104be59bfff6d&",
         "title": "网友们又传出两个消息了",
+        "title_eng": "Two more news from netizens",
         "nickname": "晖诚勿思",
         "created_at": "2022-10-20",
         "archive": "gh_5a61a615871e_2022-10-20_2247484096_6cgxoGXaDS.y.tar.gz",
         "censored_date": "2022-10-23 02:50:45",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-10-22 05:11:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/-JhNgbd5ybG86SRi6IEZwA",
+        "title": "沈志华教授：苏联的解体，没那么复杂",
+        "title_eng": "Professor Shen Zhihua: The disintegration of the Soviet Union is not that complicated",
+        "nickname": "清风含忧",
+        "created_at": "2022-10-21",
+        "archive": "gh_888af261c8b5_2022-10-21_missing_qwH9utbl5v.y.tar.gz",
+        "censored_date": "2022-10-23 03:38:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-10-21 23:42:48"
     }
 ]
