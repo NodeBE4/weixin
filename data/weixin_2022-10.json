@@ -1668,7 +1668,8 @@
         "created_at": "2022-10-21",
         "archive": "gh_7a8053d98913_2022-10-21_missing_p79ibkwVjU.y.tar.gz",
         "censored_date": "2022-10-23 14:06:43",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-24 04:18:11"
     },
     {
         "url": "mp.weixin.qq.com/s/HJp-1-AwERzElSypOkhWxQ",
@@ -1679,5 +1680,16 @@
         "archive": "gh_f64935ccb4b4_2017-10-29_missing_yFqIg7Cvj4.y.tar.gz",
         "censored_date": "2022-10-23 17:14:45",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/gLmWNutln-LT4DBeZmhFkw",
+        "title": "白龙王：霜降开运5方法",
+        "title_eng": "White Dragon King: Frostfall 5 Methods",
+        "nickname": "白龙王",
+        "created_at": "2022-10-21",
+        "archive": "gh_f6d4df39c250_2022-10-21_missing_4fXHGjYON8.y.tar.gz",
+        "censored_date": "2022-10-24 03:58:09",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-23 11:15:36"
     }
 ]
