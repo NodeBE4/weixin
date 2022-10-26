@@ -1712,7 +1712,8 @@
         "created_at": "2022-10-25",
         "archive": "gh_ff416309254e_2022-10-25_2247485027_8tid7Bc1Na.y.tar.gz",
         "censored_date": "2022-10-25 17:44:43",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-26 10:01:42"
     },
     {
         "url": "mp.weixin.qq.com/s/sd5ilCrBuC16D0e1W5QV_Q",
@@ -1735,5 +1736,27 @@
         "censored_date": "2022-10-26 07:15:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-10-25 08:49:10"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/CGsE9cid3wA4blWsfTmW7g",
+        "title": "热点记者詹钘：做突发新闻让我觉得很纯粹",
+        "title_eng": "Hot reporter Zhan Jin: Doing breaking news makes me feel very pure",
+        "nickname": "深度训练营",
+        "created_at": "2022-10-24",
+        "archive": "gh_fb4d15155048_2022-10-24_missing_WQ3VNdTlbG.y.tar.gz",
+        "censored_date": "2022-10-26 07:43:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-10-25 09:18:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/L9Yy47ZdSAId2dYd56QkUw",
+        "title": "同济大学学四楼全体阴性学生拒绝转运，拒绝去方舱",
+        "title_eng": "All negative students on the fourth floor of Tongji University refused to be transferred and refused to go to the cabin",
+        "nickname": "蜉蝣型幽灵",
+        "created_at": "2022-10-25",
+        "archive": "gh_ff416309254e_2022-10-25_missing_aJntuUjYfO.y.tar.gz",
+        "censored_date": "2022-10-26 10:01:19",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-10-25 14:59:53"
     }
 ]
