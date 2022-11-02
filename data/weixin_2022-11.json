@@ -411,7 +411,8 @@
         "created_at": "2022-11-02",
         "archive": "gh_ab5c11d24e9f_2022-11-02_2247484130_nixECvTdUJ.y.tar.gz",
         "censored_date": "2022-11-02 17:32:00",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-03 05:57:27"
     },
     {
         "url": "mp.weixin.qq.com/s/QAwiY5gXCEKyvQrNQ4ZPvQ",
@@ -443,5 +444,16 @@
         "censored_date": "2022-11-03 05:28:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-11-02 17:08:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/A8M5ABY4WYKl0QhX1O-S9g",
+        "title": "颜宁：美帝盖章的西医五纵新晋头牌？",
+        "title_eng": "Yan Ning: The new top brand in the five vertical lines of Western medicine stamped by the US emperor?",
+        "nickname": "至简之道001",
+        "created_at": "2022-11-02",
+        "archive": "gh_11a3a4d732f3_2022-11-02_missing_hkeBL03Gjo.y.tar.gz",
+        "censored_date": "2022-11-03 05:42:24",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-02 17:24:34"
     }
 ]
