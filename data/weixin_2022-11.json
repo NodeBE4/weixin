@@ -314,7 +314,7 @@
         "archive": "gh_a00c90fc186b_2022-11-01_missing_dskfWZUnzR.y.tar.gz",
         "censored_date": "2022-11-01 23:11:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-11-02 11:29:11"
+        "update_date": "2022-11-03 03:49:07"
     },
     {
         "url": "mp.weixin.qq.com/s/PmhnCI0iVr_ZBaxa7mrlug",
@@ -324,7 +324,8 @@
         "created_at": "2022-11-01",
         "archive": "gh_72eda96ff7ba_2022-11-01_missing_mCMz0i86VX.y.tar.gz",
         "censored_date": "2022-11-01 23:39:59",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-03 03:52:41"
     },
     {
         "url": "mp.weixin.qq.com/s/Q2GG3JZA7rcZc6wcdkuCjA",
@@ -420,6 +421,16 @@
         "created_at": "2022-11-02",
         "archive": "gh_bbe3a90ae698_2022-11-02_missing_r4yWZSHuLM.y.tar.gz",
         "censored_date": "2022-11-02 20:34:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/WW3z9MuBI5reFs5W-H3XXQ",
+        "title": "开讲│幼儿园教学线上线下切换，萌宝适应难度加大！今晚7点《妈咪宝贝》空中课堂，园长支招，化解家长烦恼～",
+        "title_eng": "Lectures│The online and offline switching of kindergarten teaching makes it more difficult for cute babies to adapt! Tonight at 7 o'clock Mommy Baby air class, the principal offers tips to resolve parents' troubles~",
+        "nickname": "天津经济广播",
+        "created_at": "2022-11-02",
+        "archive": "gh_7877f4120323_2022-11-02_missing_3PHvf7w4Ra.y.tar.gz",
+        "censored_date": "2022-11-03 04:12:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
