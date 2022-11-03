@@ -401,7 +401,8 @@
         "created_at": "2022-09-24",
         "archive": "gh_8dfc961a22b2_2022-09-24_missing_tV5C93G2s4.y.tar.gz",
         "censored_date": "2022-11-02 14:55:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-03 09:50:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMDM3NjQ4OA==&mid=2247484130&idx=1&sn=af24bd951f1a6e4c4cc0c749d2a1fdad&",
@@ -456,5 +457,38 @@
         "censored_date": "2022-11-03 05:42:24",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-11-02 17:24:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/GWoCf5yAQShn5V_yj_8b9Q",
+        "title": "北京市气象局招聘2023年应届毕业生公告",
+        "title_eng": "Beijing Meteorological Bureau Recruitment Announcement for 2023 Fresh Graduates",
+        "nickname": "气象人才",
+        "created_at": "2022-11-01",
+        "archive": "gh_f68ec785efba_2022-11-01_missing_vKDlfc3LIg.y.tar.gz",
+        "censored_date": "2022-11-03 08:26:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-02 06:48:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/T5-MpoNwYP_VxUgPu4xdNQ",
+        "title": "来吧，一起来读世界上最著名的一本书！",
+        "title_eng": "Come on, let's read one of the most famous books in the world!",
+        "nickname": "有光 Fiat Lux",
+        "created_at": "2022-11-02",
+        "archive": "gh_5774cf5d472d_2022-11-02_missing_lTgR8QbSGy.y.tar.gz",
+        "censored_date": "2022-11-03 09:01:04",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-02 11:43:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/sbRV-AgNgHTMlE8h9QMmZQ",
+        "title": "【喜报】我院多名医生、护士获评第七届天津市人民满意的“好医生好护士”和第十三届“十佳”医务工作者称号",
+        "title_eng": "[Good News] Many doctors and nurses in our hospital were awarded the title of Good Doctor and Good Nurse in the 7th Tianjin People's Satisfaction and the 13th Top Ten Medical Workers",
+        "nickname": "天津市中研院附院一长征医院",
+        "created_at": "2022-11-01",
+        "archive": "gh_d8e43043f019_2022-11-01_missing_ArjiSU70b6.y.tar.gz",
+        "censored_date": "2022-11-03 09:14:42",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-02 11:20:01"
     }
 ]
