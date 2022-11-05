@@ -565,7 +565,8 @@
         "created_at": "2022-11-03",
         "archive": "gh_de0cb9076c35_2022-11-03_missing_0MyusUjBRG.y.tar.gz",
         "censored_date": "2022-11-04 16:12:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-05 09:53:15"
     },
     {
         "url": "mp.weixin.qq.com/s/OolIvmNIdES3VTbX5M-8iQ",
@@ -586,7 +587,8 @@
         "created_at": "2022-11-03",
         "archive": "gh_98ed5fcdbeea_2022-11-03_missing_yoPaeOCB65.y.tar.gz",
         "censored_date": "2022-11-04 18:39:45",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-05 09:10:29"
     },
     {
         "url": "mp.weixin.qq.com/s/7t0JPO2o6jxdCGg8wLtpbQ",
@@ -618,5 +620,15 @@
         "censored_date": "2022-11-05 06:22:58",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-11-04 14:05:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MDI4OTc0Ng==&mid=2247503143&idx=1&sn=d2b9c07947f50c07e1b1ee5f530b4774&",
+        "title": "信创行情就这么结束了吗？| 国君计算机",
+        "title_eng": "Is this the end of the Xinchuang market? | Monarch Computer",
+        "nickname": "计算机文艺复兴",
+        "created_at": "2022-11-04",
+        "archive": "gh_111b1f3866f6_2022-11-04_2247503143_RKC730jg2Q.y.tar.gz",
+        "censored_date": "2022-11-05 08:38:34",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
