@@ -598,7 +598,8 @@
         "created_at": "2022-11-03",
         "archive": "gh_74bfc0d53d6b_2022-11-03_missing_e80cY6V0Dx.y.tar.gz",
         "censored_date": "2022-11-04 19:27:29",
-        "censored_msg": "此帐号已被屏蔽,"
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2022-11-05 10:43:09"
     },
     {
         "url": "mp.weixin.qq.com/s/KymFVAoRWCeIl1z8QHcjQw",
@@ -608,7 +609,8 @@
         "created_at": "2022-11-04",
         "archive": "gh_94c7d9b99da4_2022-11-04_missing_pfLIyJxQ5A.y.tar.gz",
         "censored_date": "2022-11-04 19:59:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-05 11:53:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NzY4NjUxNg==&mid=2247493368&idx=1&sn=4b6f38e99e0cd02529f49f442630d84a&",
@@ -630,5 +632,14 @@
         "archive": "gh_111b1f3866f6_2022-11-04_2247503143_RKC730jg2Q.y.tar.gz",
         "censored_date": "2022-11-05 08:38:34",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/0bIKLc05E4aVSy8PqTF7Og",
+        "title": "​兰州3岁男童煤气中毒事件，果然反转了",
+        "nickname": "老端",
+        "created_at": "2022-11-04",
+        "archive": "gh_34c5b57639e9_2022-11-04_missing_sr1k0RuNXF.y.tar.gz",
+        "censored_date": "2022-11-05 11:54:50",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
