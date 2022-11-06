@@ -735,7 +735,8 @@
         "created_at": "2022-11-04",
         "archive": "gh_a3aa9c02f649_2022-11-04_2650404703_pQjtgS2MZ0.y.tar.gz",
         "censored_date": "2022-11-06 17:29:09",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-07 02:10:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MTgxNTQ0MA==&mid=2247496785&idx=1&sn=c217dcc629191661852e251f6faaa72d&",
@@ -757,5 +758,25 @@
         "censored_date": "2022-11-06 22:51:19",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-11-04 12:36:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MDE5NzE2Mw==&mid=2651709036&idx=4&sn=fe631dad8862e63ea70ff764c53c53c9&",
+        "title": "权威消息！新疆出院（舱）后核酸检测阳性人员，具体管理要求来了",
+        "nickname": "掌上乌鲁木齐",
+        "created_at": "2022-11-06",
+        "archive": "gh_72343c008439_2022-11-06_2651709036_OdiC1ZeWKT.y.tar.gz",
+        "censored_date": "2022-11-07 02:33:17",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/wyt4Si6eLsyAyStx9I6r4Q",
+        "title": "请听听一个呼和浩特居民的声音",
+        "title_eng": "Please listen to the voice of a Hohhot resident",
+        "nickname": "揭露地球",
+        "created_at": "2022-11-05",
+        "archive": "gh_a8deda0503b5_2022-11-05_missing_PWnZSEl1U5.y.tar.gz",
+        "censored_date": "2022-11-07 02:21:30",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-05 17:15:44"
     }
 ]
