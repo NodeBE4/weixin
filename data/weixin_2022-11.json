@@ -1011,7 +1011,8 @@
         "created_at": "2022-11-07",
         "archive": "gh_97affcef076d_2022-11-07_missing_dhPc7CeFx6.y.tar.gz",
         "censored_date": "2022-11-09 05:31:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-11 01:10:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2ODg2OTY1NA==&mid=2247546893&idx=1&sn=a8d24596db37879e213428f7b33cf5af&",
@@ -1052,7 +1053,8 @@
         "created_at": "2022-11-09",
         "archive": "gh_ab5c11d24e9f_2022-11-09_2247484183_chi8VSO36a.y.tar.gz",
         "censored_date": "2022-11-09 14:42:28",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-11 01:08:20"
     },
     {
         "url": "mp.weixin.qq.com/s/GISGSvmtjEqZ0EAGsJRe-A",
@@ -1062,7 +1064,8 @@
         "created_at": "2022-11-08",
         "archive": "gh_ed95ea76abd0_2022-11-08_missing_VyUgW3hq0v.y.tar.gz",
         "censored_date": "2022-11-09 15:15:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-11 01:08:44"
     },
     {
         "url": "mp.weixin.qq.com/s/WtoT2WI2MWh4ieYtafCrVw",
@@ -1223,6 +1226,7 @@
     {
         "url": "mp.weixin.qq.com/s/usE-GCOHYPL1I9LVkeYdUA",
         "title": "山西省文化和旅游厅政策法规处党支部开展“学习贯彻党的二十大精神”主题党日活动",
+        "title_eng": "The Party Branch of the Policy and Regulations Division of the Department of Culture and Tourism of Shanxi Province carried out the theme party day activity of learning and implementing the spirit of the 20th National Congress of the Communist Party of China",
         "nickname": "山西省文化和旅游厅",
         "created_at": "2022-11-10",
         "archive": "gh_fb4f3aa67eab_2022-11-10_missing_gCK5NHdOMp.y.tar.gz",
@@ -1239,5 +1243,26 @@
         "censored_date": "2022-11-10 23:50:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-11-09 16:04:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/akZ_eO1YUihR9m1JOE7rzQ",
+        "title": "科学家证实可通过分析面部振动，直接推断说话人身份和语音内容，或给用户带来更严重的安全风险",
+        "title_eng": "Scientists have confirmed that it is possible to directly infer speaker identity and speech content by analyzing facial vibrations, or bring more serious security risks to users",
+        "nickname": "DeepTech深科技",
+        "created_at": "2022-11-08",
+        "archive": "gh_27c43c799b0c_2022-11-08_missing_0RaHKu8rOx.y.tar.gz",
+        "censored_date": "2022-11-11 01:09:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-09 15:35:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTc5NDA1OA==&mid=2653253155&idx=1&sn=d463903924fdbcc2e7d0b69399b60ca4&",
+        "title": "【撸起袖子加油干 风雨无阻向前行】开平区审计局：学习报告精神  夯实审计工作",
+        "title_eng": "[Roll up your sleeves, work hard and move forward without hindrance] Kaiping District Audit Bureau: Learning the spirit of the report to consolidate the audit work",
+        "nickname": "唐山开平",
+        "created_at": "2022-11-10",
+        "archive": "gh_743816f4f866_2022-11-10_2653253155_EceuGK4wQs.y.tar.gz",
+        "censored_date": "2022-11-11 01:20:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
