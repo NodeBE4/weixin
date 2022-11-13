@@ -1378,7 +1378,7 @@
         "archive": "gh_dcb433f21d12_2022-11-11_missing_NLlpj7aGwV.y.tar.gz",
         "censored_date": "2022-11-11 19:16:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-11-13 05:54:51"
+        "update_date": "2022-11-13 10:03:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNzM0MTc0MQ==&mid=2247484425&idx=1&sn=b0b5d184f4a747b492a046c95b98f763&",
@@ -1528,5 +1528,15 @@
         "archive": "gh_f5666e5d70d7_2022-11-10_missing_co9tSpABMG.y.tar.gz",
         "censored_date": "2022-11-13 06:07:17",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/VOJlOQNlmun5wyEZsJcu_g",
+        "title": "Web3 避坑指南：C 端安全十大工具",
+        "title_eng": "Web3 Pit Avoidance Guide: Top 10 Tools for C-side Security",
+        "nickname": "Biteye",
+        "created_at": "2022-11-11",
+        "archive": "gh_fcb7ede47585_2022-11-11_missing_0cV8POpNjz.y.tar.gz",
+        "censored_date": "2022-11-13 08:02:12",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
