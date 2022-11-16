@@ -1884,6 +1884,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Nzc3OTgyMA==&mid=2650458386&idx=1&sn=21997285f0a84438236b20b7fd83ac1a&",
         "title": "石家庄为什么要打第一枪？答案在《致全体市民的一封信》",
+        "title_eng": "Why did Shijiazhuang take the first shot? The answer is in A Letter to All Citizens",
         "nickname": "超强个体",
         "created_at": "2022-11-15",
         "archive": "gh_add720bd59a7_2022-11-15_2650458386_I0OVHd709m.y.tar.gz",
@@ -1894,6 +1895,7 @@
     {
         "url": "mp.weixin.qq.com/s/9VkrnRN8B1Zo5I2egzB1XQ",
         "title": "里程碑，今天人口破80亿！∞的世界意味着无限可能",
+        "title_eng": "Milestone, today's population breaks 8 billion! The world of ∞ means infinite possibilities",
         "nickname": "NISCI宁创",
         "created_at": "2022-11-15",
         "archive": "gh_160bead92ed9_2022-11-15_missing_hlgtH2iy6F.y.tar.gz",
@@ -1903,10 +1905,21 @@
     {
         "url": "mp.weixin.qq.com/s/O_ic8B3Xk7rhMTtyl8a7jg",
         "title": "打断脊梁是站不起来的",
+        "title_eng": "You can't stand up with a broken spine",
         "nickname": "知微轩",
         "created_at": "2022-11-14",
         "archive": "gh_59d2b05a39d6_2022-11-14_missing_A2HTaK73jt.y.tar.gz",
         "censored_date": "2022-11-17 06:22:43",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NzYyNzgyMg==&mid=2247484710&idx=1&sn=f942d99a506d8d42b2e12fb8770511f0&",
+        "title": "大悲灵感记——（9）大悲水起死回生",
+        "nickname": "德明山境",
+        "created_at": "2022-11-15",
+        "archive": "gh_b6ee6116a2f5_2022-11-15_2247484710_wDNzdjTfWc.y.tar.gz",
+        "censored_date": "2022-11-17 06:51:41",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-15 18:29:38"
     }
 ]
