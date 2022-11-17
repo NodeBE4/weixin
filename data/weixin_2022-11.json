@@ -1963,7 +1963,8 @@
         "created_at": "2022-11-15",
         "archive": "gh_8b17832d1880_2022-11-15_2649093609_5B3N6J9reu.y.tar.gz",
         "censored_date": "2022-11-17 09:33:30",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-17 14:02:23"
     },
     {
         "url": "mp.weixin.qq.com/s/XoZD7nXkV6OTVFC2UTiQxA",
@@ -2015,5 +2016,15 @@
         "archive": "gh_1ce1e534d0db_2022-11-15_2247500114_UEpLtPTQbZ.y.tar.gz",
         "censored_date": "2022-11-17 11:53:20",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/8p-4bZ6Iinx0vXmpIFno1w",
+        "title": "泽连斯基誓言收回全部领土 顿巴斯战场成绞肉机",
+        "title_eng": "Zelensky vows to take back all territory, Donbass battlefield becomes a meat grinder",
+        "nickname": "远见笔谈",
+        "created_at": "2022-11-15",
+        "archive": "gh_2042238d0e77_2022-11-15_missing_V4oZmpEMeK.y.tar.gz",
+        "censored_date": "2022-11-17 13:16:38",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
