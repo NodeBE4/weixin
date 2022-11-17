@@ -2026,7 +2026,8 @@
         "created_at": "2022-11-15",
         "archive": "gh_2042238d0e77_2022-11-15_missing_V4oZmpEMeK.y.tar.gz",
         "censored_date": "2022-11-17 13:16:38",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-17 17:55:32"
     },
     {
         "url": "mp.weixin.qq.com/s/bCjSaJH39LPVOzW9mNHW8g",
@@ -2041,10 +2042,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTgxNTQxMg==&mid=2649371104&idx=1&sn=4dd09901e8bd49c19cf586466ef2abb1&",
         "title": "店家店内睡觉没戴口罩被贴黄牌警告，让人想起罗马尼亚的“月经警察”",
+        "title_eng": "The store was given a yellow card warning for sleeping without a mask, which reminds people of Romania's menstrual police",
         "nickname": "法律学堂",
         "created_at": "2022-11-16",
         "archive": "gh_401c143c432e_2022-11-16_2649371104_7ta8F9hUIR.y.tar.gz",
         "censored_date": "2022-11-17 17:08:33",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/dsIyLo09Lzroi84M912SHQ",
+        "title": "世界顶级病毒专家：欧盟议会上惊人发言",
+        "title_eng": "The world's top virus expert: amazing speech in the European Parliament",
+        "nickname": "要有光光",
+        "created_at": "2022-11-14",
+        "archive": "gh_8015e21c2191_2022-11-14_missing_7JpRalhV3j.y.tar.gz",
+        "censored_date": "2022-11-17 17:58:52",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2022-11-16 07:12:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTQ4Njc2MA==&mid=2655799894&idx=1&sn=b09f1156ae60b22ac132a4574253a46c&",
+        "title": "“习拜会”登场G20抢镜成首日焦点！握手8秒、3个小时都谈了什么？",
+        "title_eng": "Xi's meeting debuted at G20 and became the focus of the first day! What did you talk about after shaking hands for 8 seconds and 3 hours?",
+        "nickname": "欧时大参",
+        "created_at": "2022-11-15",
+        "archive": "gh_715df6a84b23_2022-11-15_2655799894_1a9jY5bgeN.y.tar.gz",
+        "censored_date": "2022-11-17 18:13:53",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
