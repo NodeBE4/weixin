@@ -1978,6 +1978,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMjI5MzkxMw==&mid=2652166391&idx=2&sn=9a3c32680d53149888fa11a3546b6cad&",
         "title": "【口译】习近平同美国总统拜登在巴厘岛举行会晤",
+        "title_eng": "【Interpretation】Xi Jinping Holds Meeting with US President Joe Biden in Bali",
         "nickname": "英文巴士",
         "created_at": "2022-11-15",
         "archive": "gh_a412e7d89d83_2022-11-15_2652166391_VjEwXSD1sq.y.tar.gz",
@@ -1993,6 +1994,26 @@
         "created_at": "2022-11-15",
         "archive": "gh_c7c5bd4ba4a4_2022-11-15_2247484003_ohjbik6rxE.y.tar.gz",
         "censored_date": "2022-11-17 11:10:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/dEZiuz-UkoLQekwjb430SQ",
+        "title": "杨帆教授爆惊天内幕：疫情12月1日起放开",
+        "title_eng": "Professor Yang Fan revealed the shocking inside story: the epidemic will be released from December 1",
+        "nickname": "星月皓洁",
+        "created_at": "2022-11-16",
+        "archive": "gh_0a60e3db5303_2022-11-16_missing_lH3nBuR8Vb.y.tar.gz",
+        "censored_date": "2022-11-17 12:29:14",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3MTY3ODg0Nw==&mid=2247500114&idx=1&sn=76d5620e2d1a8e69bab9cf3e08e8eeff&",
+        "title": "不再进行全员核酸检测，这意味着什么？",
+        "title_eng": "No more nucleic acid testing for all staff, what does this mean?",
+        "nickname": "o书香伴你同行o",
+        "created_at": "2022-11-15",
+        "archive": "gh_1ce1e534d0db_2022-11-15_2247500114_UEpLtPTQbZ.y.tar.gz",
+        "censored_date": "2022-11-17 11:53:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
