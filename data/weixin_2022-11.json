@@ -2204,7 +2204,8 @@
         "created_at": "2022-11-18",
         "archive": "gh_e7a8c1ab52da_2022-11-18_missing_uGjn7UYN0I.y.tar.gz",
         "censored_date": "2022-11-18 23:05:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-20 07:14:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656017087&idx=1&sn=d2e5e76c51ef3220759123bfda14b88a&",
@@ -2361,5 +2362,14 @@
         "archive": "gh_c52a4506b50e_2022-11-18_2653651485_625nSAdWUM.y.tar.gz",
         "censored_date": "2022-11-20 02:33:30",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/cHorDiM2L1Db_VScfSlfxw",
+        "title": "Event | Webinar: The Push Towards Premium Will Be Held Soon",
+        "nickname": "福布斯",
+        "created_at": "2022-11-18",
+        "archive": "gh_485c4c0214ee_2022-11-18_missing_iRyUhNz35L.y.tar.gz",
+        "censored_date": "2022-11-20 06:45:29",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
