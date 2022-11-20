@@ -2237,7 +2237,8 @@
         "created_at": "2022-11-18",
         "archive": "gh_57ebcf530aa2_2022-11-18_missing_LObrKCDHzS.y.tar.gz",
         "censored_date": "2022-11-19 12:15:44",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-21 01:46:18"
     },
     {
         "url": "mp.weixin.qq.com/s/WZcI246sX0XNoc3wRSS3nA",
@@ -2452,11 +2453,23 @@
     {
         "url": "mp.weixin.qq.com/s/wMQsxvbgA98sxbwlEgt3rg",
         "title": "泽连斯基开10个条件，惹怒普京，招致新一轮大轰炸",
+        "title_eng": "Zelensky set 10 conditions, which angered Putin and led to a new round of bombing",
         "nickname": "真言社",
         "created_at": "2022-11-18",
         "archive": "gh_aec2b8206098_2022-11-18_missing_PQpbaw0vWm.y.tar.gz",
         "censored_date": "2022-11-21 00:42:53",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-11-19 14:39:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NTcxMzU0MA==&mid=2247504874&idx=1&sn=0e874d55f91bf073e3ff50b6504a1d97&",
+        "title": "副局长疑戴3万元耳钉有内幕，老百姓最想知道的真相",
+        "title_eng": "The deputy director suspects that there is an inside story about wearing 30,000 yuan earrings, the truth that ordinary people want to know most",
+        "nickname": "浑水扒娱",
+        "created_at": "2022-11-18",
+        "archive": "gh_6d775ad0f1b2_2022-11-18_2247504874_m6uqC5QnGK.y.tar.gz",
+        "censored_date": "2022-11-21 02:16:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-19 15:44:41"
     }
 ]
