@@ -2226,7 +2226,8 @@
         "created_at": "2022-11-19",
         "archive": "gh_fc17e22bfde3_2022-11-19_2652904879_47sIEXrZS3.y.tar.gz",
         "censored_date": "2022-11-19 11:13:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-21 00:55:58"
     },
     {
         "url": "mp.weixin.qq.com/s/mha8wLjfG1GKypb2rg-oOA",
@@ -2447,5 +2448,15 @@
         "archive": "gh_2cc4dcf8ebe8_2022-11-20_missing_YIaCi2zmw3.y.tar.gz",
         "censored_date": "2022-11-21 00:00:40",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/wMQsxvbgA98sxbwlEgt3rg",
+        "title": "泽连斯基开10个条件，惹怒普京，招致新一轮大轰炸",
+        "nickname": "真言社",
+        "created_at": "2022-11-18",
+        "archive": "gh_aec2b8206098_2022-11-18_missing_PQpbaw0vWm.y.tar.gz",
+        "censored_date": "2022-11-21 00:42:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-19 14:39:57"
     }
 ]
