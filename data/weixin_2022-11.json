@@ -2939,7 +2939,8 @@
         "created_at": "2022-11-22",
         "archive": "gh_269b7fe21b3c_2022-11-22_missing_b0iferM0Yv.y.tar.gz",
         "censored_date": "2022-11-24 15:36:09",
-        "censored_msg": "此帐号已被屏蔽,"
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2022-11-24 20:53:11"
     },
     {
         "url": "mp.weixin.qq.com/s/I-8fwptM41uCGGTVjGfS6g",
@@ -2960,5 +2961,15 @@
         "archive": "gh_269b7fe21b3c_2022-11-22_2247483868_dVybfHGD9I.y.tar.gz",
         "censored_date": "2022-11-24 18:46:32",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzk0ODMzOTIwMg==&mid=2247483731&idx=1&sn=12a9fb1c635c2c8a4b512f30cf8a649c&",
+        "title": "亲人确诊了，仍无人接去方舱怎么办？坐标北京",
+        "title_eng": "What should I do if my relatives are diagnosed and no one picks me up to the shelter? Coordinates Beijing",
+        "nickname": "九门城事",
+        "created_at": "2022-11-22",
+        "archive": "gh_2f5c9ccd9357_2022-11-22_2247483731_clamfXu07A.y.tar.gz",
+        "censored_date": "2022-11-24 21:21:19",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
