@@ -2712,7 +2712,7 @@
         "archive": "gh_e7a2afa2b4bc_2022-11-21_2247490820_20ST7hyNcE.y.tar.gz",
         "censored_date": "2022-11-22 17:43:16",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2022-11-24 09:14:06"
+        "update_date": "2022-11-26 04:12:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDQ1NTI3Ng==&mid=2247492930&idx=2&sn=8bb0ea70cbc709dd1c8dac2196ee9348&",
@@ -2952,7 +2952,8 @@
         "created_at": "2022-11-20",
         "archive": "gh_cad8e4e80cd3_2022-11-20_missing_qWrJIYk7Lu.y.tar.gz",
         "censored_date": "2022-11-24 18:18:28",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-26 04:05:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDg0MzU1MA==&mid=2247483868&idx=1&sn=d55bf28e8653a53d0fd024a015740ae9&",
@@ -3212,6 +3213,7 @@
     {
         "url": "mp.weixin.qq.com/s/bZk7qkV4QKfHMmDf_VPxhg",
         "title": "重塑认知才能走出疫情",
+        "title_eng": "Only by reshaping cognition can we get out of the epidemic",
         "nickname": "走向科学",
         "created_at": "2022-11-23",
         "archive": "gh_3d4f656c7ef6_2022-11-23_missing_nEXTUwMWsJ.y.tar.gz",
@@ -3222,6 +3224,7 @@
     {
         "url": "mp.weixin.qq.com/s/JWn2uRRisGyV1ACK1sSang",
         "title": "广州达安检测，这次摊上大事了……",
+        "title_eng": "Guangzhou Da'an testing, this time a big event...",
         "nickname": "越秀山边",
         "created_at": "2022-11-25",
         "archive": "gh_6abbd01af75d_2022-11-25_missing_a43iLFPhjl.y.tar.gz",
@@ -3231,10 +3234,31 @@
     {
         "url": "mp.weixin.qq.com/s/_UI2bGyZjc9YSUaJ2GdVdQ",
         "title": "她们生命的最后时光，是在那个屋子里待了一百多天",
+        "title_eng": "The last time of their lives was spent in that house for more than a hundred days",
         "nickname": "泰兰风情",
         "created_at": "2022-11-25",
         "archive": "gh_c1368686e784_2022-11-25_missing_l3RpW0QC6O.y.tar.gz",
         "censored_date": "2022-11-26 02:35:39",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1Nzk2MTc2OQ==&mid=2247522206&idx=1&sn=fac944f1a2e9b8b4dd0780cfab3fd8ba&",
+        "title": "北京再次屠榜热搜，除了给北京人添堵，还能解决什么问题？",
+        "nickname": "北京城old school",
+        "created_at": "2022-11-21",
+        "archive": "gh_00c48ed4660e_2022-11-21_2247522206_bmMJ95W2dx.y.tar.gz",
+        "censored_date": "2022-11-26 03:56:27",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-24 08:43:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455545873&idx=1&sn=ee8597f1bc4cce59a80df5a8efac74d4",
+        "title": "知其白而守其黑：书生李书磊",
+        "title_eng": "Know what is white and keep what is black: Scholar Li Shulei",
+        "nickname": "船夫日記",
+        "created_at": "2022-11-24",
+        "archive": "gh_ba71c6c7d57e_2022-11-24_2455545873_9xpXJge1rU.y.tar.gz",
+        "censored_date": "2022-11-26 03:25:00",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
