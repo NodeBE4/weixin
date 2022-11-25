@@ -3121,7 +3121,8 @@
         "created_at": "2022-11-23",
         "archive": "gh_88e3238d8ba2_2022-11-23_2247483972_YoK2Evwj54.y.tar.gz",
         "censored_date": "2022-11-25 17:44:15",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-25 21:41:56"
     },
     {
         "url": "mp.weixin.qq.com/s/c1vCkLZYS1EFRiDbZCPYfg",
@@ -3152,5 +3153,15 @@
         "archive": "gh_9a49d6aa07b0_2022-11-23_2650242382_ETc3fYNujZ.y.tar.gz",
         "censored_date": "2022-11-25 21:27:46",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/zFcyknthIM1RrtO5MGcZyw",
+        "title": "京师中国传媒智库发布第36期报告: 《电商行业内容生态健康指数(ECHI)报告》",
+        "nickname": "京师认知神经传播学实验室",
+        "created_at": "2022-11-24",
+        "archive": "gh_b7bfd2971141_2022-11-24_missing_SbhHJQMfND.y.tar.gz",
+        "censored_date": "2022-11-25 21:39:54",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-24 11:14:15"
     }
 ]
