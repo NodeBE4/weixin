@@ -3180,6 +3180,7 @@
     {
         "url": "mp.weixin.qq.com/s/QjgfiwO4qbXP-S5hfxoQkg",
         "title": "曲靖20万人被赋黄码前一天，新开了一家核酸检测企业",
+        "title_eng": "The day before 200,000 people in Qujing were given yellow codes, a new nucleic acid testing company opened",
         "nickname": "红阳财经",
         "created_at": "2022-11-24",
         "archive": "gh_4e76197aa729_2022-11-24_missing_tUvasYBbKL.y.tar.gz",
@@ -3197,5 +3198,15 @@
         "censored_date": "2022-11-26 00:11:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-11-24 11:57:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5Njg0NTU5NA==&mid=2650865587&idx=3&sn=03eb0eba3127cd9ce4325539555229bc&",
+        "title": "高处不胜火 | 插线板着火 致10人死亡、9人受伤",
+        "title_eng": "10 people were killed and 9 were injured when the plugboard caught fire",
+        "nickname": "天津消防东丽支队",
+        "created_at": "2022-11-25",
+        "archive": "gh_e27380cfa038_2022-11-25_2650865587_RHgaE6GcMn.y.tar.gz",
+        "censored_date": "2022-11-26 01:40:24",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
