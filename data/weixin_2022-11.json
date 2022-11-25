@@ -2855,7 +2855,7 @@
         "archive": "gh_0182e3ac8760_2022-11-23_missing_nyNwl05fAL.y.tar.gz",
         "censored_date": "2022-11-23 22:43:23",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2022-11-25 10:38:06"
+        "update_date": "2022-11-25 11:18:47"
     },
     {
         "url": "mp.weixin.qq.com/s/Erg2QdHLBhaj0f0Xiqixmw",
@@ -3068,5 +3068,26 @@
         "censored_date": "2022-11-25 08:25:12",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-11-25 08:36:02"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ku5IcKLy3Lo3MX720_p1kw",
+        "title": "疾控中心通告：核酸采样点是最大的疫情传播风险点，北京居家网课的学生，有必要天天做核酸吗？",
+        "title_eng": "Notice from the Centers for Disease Control and Prevention: Nucleic acid sampling sites are the biggest risk points for the spread of the epidemic. Is it necessary for students of home-based online classes in Beijing to do nucleic acid every day?",
+        "nickname": "数学大视野",
+        "created_at": "2022-11-23",
+        "archive": "gh_f12db524e8d9_2022-11-23_missing_dwtsnhaTRG.y.tar.gz",
+        "censored_date": "2022-11-25 11:53:44",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNjI3ODk5NA==&mid=2247652128&idx=4&sn=9fbc5fab178c0701a729f9324c858add&",
+        "title": "伯努利大数定律，今日世界杯观赛指南",
+        "title_eng": "Bernoulli's Law of Large Numbers, Today's World Cup Guide",
+        "nickname": "虎扑",
+        "created_at": "2022-11-23",
+        "archive": "gh_3b7dbea2a9e7_2022-11-23_2247652128_B1CAf2lwd5.y.tar.gz",
+        "censored_date": "2022-11-25 11:42:15",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-25 12:23:24"
     }
 ]
