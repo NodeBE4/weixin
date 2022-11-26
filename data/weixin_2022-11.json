@@ -3324,7 +3324,8 @@
         "created_at": "2022-11-24",
         "archive": "gh_6991d4bea50e_2022-11-24_2247483678_bFjW1SU7Ek.y.tar.gz",
         "censored_date": "2022-11-26 10:35:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-26 14:23:11"
     },
     {
         "url": "mp.weixin.qq.com/s/7gs3TeG-rJVWP77Lt7R4EA",
@@ -3349,6 +3350,7 @@
     {
         "url": "mp.weixin.qq.com/s/4WLgCaJjDNCYzK6xA8iUXg",
         "title": "“漓江之声”展演︱评委实力坐镇为作品评分（创作作品类）",
+        "title_eng": "Voice of the Lijiang River show︱The judges' strength sits down to score the works (creative works category)",
         "nickname": "桂林市文化广电和旅游局",
         "created_at": "2022-11-23",
         "archive": "gh_872a93cae153_2022-11-23_missing_kwfI3yrNu0.y.tar.gz",
@@ -3359,6 +3361,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYyNzAyMA==&mid=2650260503&idx=1&sn=e818730ce5380dcc94a5b93e7007efbb&",
         "title": "一政务窗口员工扇市民耳光，官方回应→",
+        "title_eng": "An employee of a government affairs window slaps a citizen, the official response→",
         "nickname": "光明网",
         "created_at": "2022-11-24",
         "archive": "gh_1f6174881f08_2022-11-24_2650260503_Sbs0nx6mz4.y.tar.gz",
@@ -3368,10 +3371,31 @@
     {
         "url": "mp.weixin.qq.com/s/-llJoWJ8B3OoGj4TTE0AQw",
         "title": "404  404  404  404  404  404  404",
+        "title_eng": "404 404 404 404 404 404 404",
         "nickname": "救救写诗的人",
         "created_at": "2022-04-23",
         "archive": "gh_7b945c3e306f_2022-04-23_missing_7s30KGegmh.y.tar.gz",
         "censored_date": "2022-11-26 12:46:07",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ExiXJqG7-9bhnc4XhyZI4Q",
+        "title": "频繁假阳性，250家机构整改！发国难财的黑心公司，该管管了……",
+        "title_eng": "Frequent false positives, 250 institutions rectify! It's time to take care of the black-hearted company that made the country's wealth difficult...",
+        "nickname": "起点财经",
+        "created_at": "2022-11-24",
+        "archive": "gh_fd099eb2f1b9_2022-11-24_missing_Nliz8ws06U.y.tar.gz",
+        "censored_date": "2022-11-26 13:26:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyNzQ3ODU3OQ==&mid=2247605159&idx=1&sn=96a2f7c1c1e03150df4b1c5be3b47c1d&",
+        "title": "如果你也很难过",
+        "title_eng": "if you are sad too",
+        "nickname": "3号厅检票员工",
+        "created_at": "2022-11-25",
+        "archive": "gh_fc689d8f9dec_2022-11-25_2247605159_QJHT86L7fF.y.tar.gz",
+        "censored_date": "2022-11-26 14:08:41",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
