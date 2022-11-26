@@ -3272,7 +3272,7 @@
         "archive": "gh_d30ff03bdc88_2022-11-24_missing_0t7xU0Jgay.y.tar.gz",
         "censored_date": "2022-11-26 06:06:29",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2022-11-24 21:57:23"
+        "update_date": "2022-11-26 09:51:07"
     },
     {
         "url": "mp.weixin.qq.com/s/hJHHe7l2EC2aCNmkv4UgVg",
@@ -3283,7 +3283,7 @@
         "archive": "gh_fe70e50666d4_2022-11-24_missing_j2ymvi1ztS.y.tar.gz",
         "censored_date": "2022-11-26 06:04:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-11-24 21:53:43"
+        "update_date": "2022-11-26 09:49:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMzQ5NTgxMw==&mid=2656585526&idx=4&sn=5273c12792ca823c131566f5f1f5e8ba&",
@@ -3304,5 +3304,15 @@
         "archive": "gh_9d4eb92add23_2022-11-25_missing_nI01qGFzNf.y.tar.gz",
         "censored_date": "2022-11-26 06:15:05",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3MjY0NTk3OQ==&mid=2247488085&idx=2&sn=7bf552b04957b0f31f7c60f11b372191&",
+        "title": "世界杯 巴西vs塞尔维亚 比赛预测",
+        "title_eng": "World Cup Brazil vs Serbia Match Prediction",
+        "nickname": "2022足世杯",
+        "created_at": "2022-11-24",
+        "archive": "gh_5d2da9d9e138_2022-11-24_2247488085_LNOfDHSkWR.y.tar.gz",
+        "censored_date": "2022-11-26 07:51:31",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
