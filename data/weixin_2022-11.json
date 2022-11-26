@@ -2984,7 +2984,8 @@
         "created_at": "2022-11-24",
         "archive": "gh_99f1cc106316_2022-11-24_missing_l5hF3otYyu.y.tar.gz",
         "censored_date": "2022-11-24 22:00:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-26 15:47:07"
     },
     {
         "url": "mp.weixin.qq.com/s/9RI242a_0kHUOGMvzeoG4g",
@@ -3366,7 +3367,8 @@
         "created_at": "2022-11-24",
         "archive": "gh_1f6174881f08_2022-11-24_2650260503_Sbs0nx6mz4.y.tar.gz",
         "censored_date": "2022-11-26 12:35:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-26 16:28:23"
     },
     {
         "url": "mp.weixin.qq.com/s/-llJoWJ8B3OoGj4TTE0AQw",
@@ -3397,5 +3399,25 @@
         "archive": "gh_fc689d8f9dec_2022-11-25_2247605159_QJHT86L7fF.y.tar.gz",
         "censored_date": "2022-11-26 14:08:41",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/bnt4w6mHVBrQgUpZz4UH5A",
+        "title": "不再全员核酸，仅公布中重症患者，开放后的越南怎么样了？",
+        "title_eng": "No more nucleic acid for all staff, and only announced moderately and severely ill patients. How is Vietnam after opening up?",
+        "nickname": "凤凰网",
+        "created_at": "2022-11-24",
+        "archive": "gh_08885da058c6_2022-11-24_missing_GIOZ4nTFLl.y.tar.gz",
+        "censored_date": "2022-11-26 16:18:35",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/eFJ94Zyn3ADLVFYLZnZPGA",
+        "title": "北京封控政策终转向，除“四同”密接外不再集中隔离！",
+        "title_eng": "Beijing's blockade and control policy has finally turned, except for the close contact of the Four Tongs, no centralized isolation!",
+        "nickname": "三四行",
+        "created_at": "2022-11-26",
+        "archive": "gh_7e8947114fb3_2022-11-26_missing_MY1STijRy7.y.tar.gz",
+        "censored_date": "2022-11-26 16:01:01",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
