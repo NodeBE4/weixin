@@ -3156,7 +3156,8 @@
         "created_at": "2022-11-23",
         "archive": "gh_9a49d6aa07b0_2022-11-23_2650242382_ETc3fYNujZ.y.tar.gz",
         "censored_date": "2022-11-25 21:27:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-27 09:05:41"
     },
     {
         "url": "mp.weixin.qq.com/s/zFcyknthIM1RrtO5MGcZyw",
@@ -3472,7 +3473,8 @@
         "created_at": "2022-11-24",
         "archive": "gh_0814ed806acb_2022-11-24_2651733597_tSKmh0aLEQ.y.tar.gz",
         "censored_date": "2022-11-27 00:23:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-27 08:16:22"
     },
     {
         "url": "mp.weixin.qq.com/s/pEAPa1XpEz0eJqxJvJIJyg",
@@ -3539,6 +3541,7 @@
     {
         "url": "mp.weixin.qq.com/s/is8BODi44vFKtElh4OuHVQ",
         "title": "十家核酸检测公司赚翻了 核酸腐败，触目惊心",
+        "title_eng": "Ten nucleic acid testing companies have made a fortune, nucleic acid corruption is shocking",
         "nickname": "今日杂谈",
         "created_at": "2022-11-24",
         "archive": "gh_a7664372e89e_2022-11-24_missing_Ed5IRLJTP0.y.tar.gz",
@@ -3549,10 +3552,43 @@
     {
         "url": "mp.weixin.qq.com/s/bBpxnIXuWougKDLxby5xPA",
         "title": "国足：“我踢不过，德国阿根廷也踢不过啊。”",
+        "title_eng": "National football team: I can't play, and neither can Germany and Argentina.",
         "nickname": "雷叔写故事",
         "created_at": "2022-11-25",
         "archive": "gh_4c87bae15e04_2022-11-25_missing_NhkFrzZHxi.y.tar.gz",
         "censored_date": "2022-11-27 07:00:40",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/duhOF007ukEmwMeQIwixaw",
+        "title": "一小区誓死保卫俩“阳人”被带走，暴露了又一起核酸造假事件！",
+        "title_eng": "A community swore to the death to defend two yang people who were taken away, exposing another incident of nucleic acid fraud!",
+        "nickname": "百事总览",
+        "created_at": "2022-11-23",
+        "archive": "gh_982d8ce8f2ae_2022-11-23_missing_fFoK0SvWA0.y.tar.gz",
+        "censored_date": "2022-11-27 08:00:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-25 14:26:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/CZ-N9LfYv7im0yhzjyyxZw",
+        "title": "他是个蠢货，但就是没人敢说出来！",
+        "title_eng": "He's an idiot, but no one dares to say it!",
+        "nickname": "天中视讯",
+        "created_at": "2022-11-24",
+        "archive": "gh_171c8d59725b_2022-11-24_missing_JHvYp2RBia.y.tar.gz",
+        "censored_date": "2022-11-27 08:50:56",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxNjYxNjgyMw==&mid=2247485356&idx=1&sn=31c4a0be3e36ce3d0cd61b3b1559e7ce&",
+        "title": "你们别闹了，一切都是电脑的锅",
+        "title_eng": "Stop messing around, everything is the fault of the computer",
+        "nickname": "阿银酱",
+        "created_at": "2022-11-25",
+        "archive": "gh_249b1d5f734b_2022-11-25_2247485356_dyQ4gY5IOW.y.tar.gz",
+        "censored_date": "2022-11-27 07:34:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-26 01:46:18"
     }
 ]
