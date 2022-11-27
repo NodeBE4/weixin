@@ -3344,7 +3344,8 @@
         "created_at": "2022-11-26",
         "archive": "gh_8dc27948cd71_2022-11-26_missing_1zgCKnSGso.y.tar.gz",
         "censored_date": "2022-11-26 11:41:42",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-11-28 06:32:06"
     },
     {
         "url": "mp.weixin.qq.com/s/EbaP5hmne6GCCoVp1wdjXg",
@@ -3354,7 +3355,8 @@
         "created_at": "2022-04-23",
         "archive": "gh_5207a86068c8_2022-04-23_missing_dR3vakBN9Z.y.tar.gz",
         "censored_date": "2022-11-26 12:29:46",
-        "censored_msg": "此帐号已被屏蔽,"
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2022-11-28 06:32:29"
     },
     {
         "url": "mp.weixin.qq.com/s/4WLgCaJjDNCYzK6xA8iUXg",
@@ -3903,6 +3905,7 @@
     {
         "url": "mp.weixin.qq.com/s/rvIZMm5F0n0c-dSkQopx8A",
         "title": "宁夏回族自治区党委书记梁言顺暗访，发现一小区大门被锁，立即找来社区干部，现场提出批评、责令马上打开铁锁",
+        "title_eng": "Liang Yanshun, Secretary of the Party Committee of Ningxia Hui Autonomous Region, made an unannounced visit and found that the gate of a residential area was locked. He immediately called in community officials to criticize him on the spot and ordered him to open the lock immediately.",
         "nickname": "政事儿",
         "created_at": "2022-11-27",
         "archive": "gh_3f3b4ee5d724_2022-11-27_missing_duaMcjDWsU.y.tar.gz",
@@ -3912,10 +3915,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNTk5OTQxNw==&mid=2247493194&idx=1&sn=1d85f4b62d58b5c0f2907828ab39b85b&",
         "title": "乌鲁木齐大火，谁在带血的流量中狂欢？",
+        "title_eng": "Urumqi is on fire, who is carnival in the bloody traffic?",
         "nickname": "明叔杂谈",
         "created_at": "2022-11-26",
         "archive": "gh_6196cbeda5ad_2022-11-26_2247493194_JCEPUzwgIF.y.tar.gz",
         "censored_date": "2022-11-28 06:22:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/HdADWQEANm03qc_fvg7Ezg",
+        "title": "当前，我们迫切需要重建社会秩序",
+        "nickname": "往事陈列馆",
+        "created_at": "2022-11-25",
+        "archive": "gh_286bb94ddd2f_2022-11-25_missing_EaXP5sBmrk.y.tar.gz",
+        "censored_date": "2022-11-28 06:41:05",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
