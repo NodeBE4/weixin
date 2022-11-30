@@ -5087,7 +5087,8 @@
         "created_at": "2022-11-28",
         "archive": "gh_137ea6ef0bce_2022-11-28_2656429921_xLJWPgfRkK.y.tar.gz",
         "censored_date": "2022-11-30 23:55:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-01 06:26:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTQyMzAwMw==&mid=2247489175&idx=1&sn=ff9b7cb5ae844b43bc946f0537696c25&",
@@ -5168,5 +5169,14 @@
         "archive": "gh_eb0dfa9e9ef5_2022-11-28_2247483796_gxS5mbY87C.y.tar.gz",
         "censored_date": "2022-12-01 02:32:42",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/pETvo_7jb3hOyIEgg_1--A",
+        "title": "11月28日清华疫情座谈会会议纪要",
+        "nickname": "烈火战车洗车行",
+        "created_at": "2022-11-28",
+        "archive": "gh_eed54d9abbfd_2022-11-28_missing_0dEuKkSfJI.y.tar.gz",
+        "censored_date": "2022-12-01 05:41:11",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
