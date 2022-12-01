@@ -2114,7 +2114,8 @@
         "created_at": "2022-11-29",
         "archive": "gh_16cc427c8e02_2022-11-29_missing_GJdDzuUhxY.y.tar.gz",
         "censored_date": "2022-12-01 14:30:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-02 01:10:24"
     },
     {
         "url": "mp.weixin.qq.com/s/CX1P5yPIBOLs0pQgtFVv_w",
@@ -2200,6 +2201,7 @@
     {
         "url": "mp.weixin.qq.com/s/vHbe1_Z4nNSBW8_sih7_4g",
         "title": "来自榆中一中学生娃娃的疫情求助",
+        "title_eng": "A student doll from Yuzhong No. 1 middle school asks for help in the epidemic",
         "nickname": "星火之翼",
         "created_at": "2022-11-29",
         "archive": "gh_14aa591b4c94_2022-11-29_missing_rLH9bwKY1O.y.tar.gz",
@@ -2209,6 +2211,7 @@
     {
         "url": "mp.weixin.qq.com/s/Rj4GKeMoJZVGRxjC4S3otQ",
         "title": "石家庄核酸检测机构造假 内部会议曝光！",
+        "title_eng": "Shijiazhuang Nucleic Acid Testing Agency fake internal meeting exposure!",
         "nickname": "请展开讲讲",
         "created_at": "2022-11-30",
         "archive": "gh_4550b1bef973_2022-11-30_missing_eLgEu0S7o9.y.tar.gz",
@@ -2218,10 +2221,22 @@
     {
         "url": "mp.weixin.qq.com/s/oQkWVKqHNjnqswU5dp91Bg",
         "title": "突发！深圳取消常规核酸！不对核酸检测时间做要求",
+        "title_eng": "Burst! Shenzhen cancels routine nucleic acid! No time requirement for nucleic acid testing",
         "nickname": "求知刊",
         "created_at": "2022-12-01",
         "archive": "gh_4baaff715016_2022-12-01_missing_aq8ibVy1jo.y.tar.gz",
         "censored_date": "2022-12-01 23:23:42",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NjAwNzk4MQ==&mid=2660859302&idx=1&sn=ec0de48b171c2e6c4d8c6ab302a1f95a&",
+        "title": "市委常委会会议听取近期全市疫情防控工作汇报 对做好下一步防控工作作出安排提出要求",
+        "title_eng": "The meeting of the Standing Committee of the Municipal Party Committee listened to the recent report on the city's epidemic prevention and control work, and put forward requirements for making arrangements for the next step of prevention and control work",
+        "nickname": "赤峰日报",
+        "created_at": "2022-11-29",
+        "archive": "gh_d1eccb7db0f6_2022-11-29_2660859302_oUMdn51pNE.y.tar.gz",
+        "censored_date": "2022-12-02 00:07:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-11-30 11:43:09"
     }
 ]
