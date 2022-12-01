@@ -1643,7 +1643,8 @@
         "created_at": "2022-11-29",
         "archive": "gh_cf6d6516a2e8_2022-11-29_missing_Ju0cyhfYO5.y.tar.gz",
         "censored_date": "2022-12-01 06:59:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-01 17:23:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwMzM0MDIwNg==&mid=2247487513&idx=2&sn=ba24a4a9af14b872e9820e5deab14ba1&",
@@ -2006,7 +2007,8 @@
         "created_at": "2022-11-29",
         "archive": "gh_137ea6ef0bce_2022-11-29_2656429926_kt47eUEpbY.y.tar.gz",
         "censored_date": "2022-12-01 07:01:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-01 17:25:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455546014&idx=1&sn=b0c4b034875892aaac60d1e0127e0fa8",
@@ -2105,10 +2107,21 @@
     {
         "url": "mp.weixin.qq.com/s/hg5Z0v5FAtBlDbst8c2EQw",
         "title": "中央政法委：打击敌对势力渗透破坏活动",
+        "title_eng": "Central Political and Legal Committee: Crack down on infiltration and sabotage activities by hostile forces",
         "nickname": "新京报",
         "created_at": "2022-11-29",
         "archive": "gh_16cc427c8e02_2022-11-29_missing_GJdDzuUhxY.y.tar.gz",
         "censored_date": "2022-12-01 14:30:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/CX1P5yPIBOLs0pQgtFVv_w",
+        "title": "日本果断驱逐50万黑人",
+        "title_eng": "Japan decisively deports 500,000 blacks",
+        "nickname": "语汇",
+        "created_at": "2022-11-29",
+        "archive": "gh_70030e0042b2_2022-11-29_missing_xnXcT8zRBV.y.tar.gz",
+        "censored_date": "2022-12-01 16:10:41",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
