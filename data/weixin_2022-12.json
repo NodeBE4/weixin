@@ -2150,6 +2150,7 @@
     {
         "url": "mp.weixin.qq.com/s/ycPiHnlw9GoKs59s8WdFBw",
         "title": "谁欠凤姐一个道歉",
+        "title_eng": "Who owes Sister Feng an apology",
         "nickname": "端木五香",
         "created_at": "2022-11-29",
         "archive": "gh_5ace3dd29632_2022-11-29_missing_aewPf1JSgC.y.tar.gz",
@@ -2195,5 +2196,32 @@
         "archive": "gh_4c8c919e6b76_2022-11-28_2247484348_RiImxEqp5V.y.tar.gz",
         "censored_date": "2022-12-01 20:59:03",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/vHbe1_Z4nNSBW8_sih7_4g",
+        "title": "来自榆中一中学生娃娃的疫情求助",
+        "nickname": "星火之翼",
+        "created_at": "2022-11-29",
+        "archive": "gh_14aa591b4c94_2022-11-29_missing_rLH9bwKY1O.y.tar.gz",
+        "censored_date": "2022-12-01 22:46:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Rj4GKeMoJZVGRxjC4S3otQ",
+        "title": "石家庄核酸检测机构造假 内部会议曝光！",
+        "nickname": "请展开讲讲",
+        "created_at": "2022-11-30",
+        "archive": "gh_4550b1bef973_2022-11-30_missing_eLgEu0S7o9.y.tar.gz",
+        "censored_date": "2022-12-01 23:15:12",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/oQkWVKqHNjnqswU5dp91Bg",
+        "title": "突发！深圳取消常规核酸！不对核酸检测时间做要求",
+        "nickname": "求知刊",
+        "created_at": "2022-12-01",
+        "archive": "gh_4baaff715016_2022-12-01_missing_aq8ibVy1jo.y.tar.gz",
+        "censored_date": "2022-12-01 23:23:42",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
