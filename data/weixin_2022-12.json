@@ -3013,7 +3013,8 @@
         "created_at": "2022-12-05",
         "archive": "gh_16005997c994_2022-12-05_missing_VvD54QUtjH.y.tar.gz",
         "censored_date": "2022-12-06 23:08:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-07 05:05:26"
     },
     {
         "url": "mp.weixin.qq.com/s/ZN6NSSTkWMcwvBv3YEvzXQ",
@@ -3029,10 +3030,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NjU3NDIzNw==&mid=2247484857&idx=1&sn=1e1463d03ef9ad74a2546b5ebf0f65b1&",
         "title": "近57中39！今日分析：巴西vs韩国，日本vs克罗地亚",
+        "title_eng": "Nearly 39 out of 57! Analysis of the day: Brazil vs South Korea, Japan vs Croatia",
         "nickname": "2022世界盃比赛分析",
         "created_at": "2022-12-05",
         "archive": "gh_837890ebad0e_2022-12-05_2247484857_GKxFES8rXt.y.tar.gz",
         "censored_date": "2022-12-07 04:07:58",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTcyNjY3MA==&mid=2247483934&idx=1&sn=0701dda1b817ea7511a93441754416aa&",
+        "title": "今日观赛指南：小日子气势如虹，一鼓作气再下一城？",
+        "nickname": "足坛范总文章号",
+        "created_at": "2022-12-05",
+        "archive": "gh_1619d32b9a50_2022-12-05_2247483934_aIR9KhbtMf.y.tar.gz",
+        "censored_date": "2022-12-07 04:44:55",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-05 22:33:55"
     }
 ]
