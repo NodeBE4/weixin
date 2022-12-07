@@ -2883,7 +2883,8 @@
         "created_at": "2022-12-04",
         "archive": "gh_4b81e70e5eae_2022-12-04_2247491577_s5A6GgpnK0.y.tar.gz",
         "censored_date": "2022-12-05 23:46:41",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-07 16:26:29"
     },
     {
         "url": "mp.weixin.qq.com/s/b0wiN1bmnWiWJOu8satF9Q",
@@ -3071,10 +3072,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NDY2OTgwOQ==&mid=2247590275&idx=1&sn=904527d124336363f92a1bffb810dd30&",
         "title": "一战赚了1.28万亿后，血洗硅谷，恐怖的马斯克",
+        "title_eng": "After earning 1.28 trillion in World War I, Silicon Valley was bloodbathed, and the horrible Musk",
         "nickname": "深氪新消费",
         "created_at": "2022-12-05",
         "archive": "gh_19767d07ac6f_2022-12-05_2247590275_bcyn2ozeHx.y.tar.gz",
         "censored_date": "2022-12-07 15:04:34",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/bLPlNYeD2brMnAJYCG3HKA",
+        "title": "人民社论：经济重回正轨要靠改革开放",
+        "title_eng": "People's Editorial: Returning the economy to the right track depends on reform and opening up",
+        "nickname": "沪深交易通",
+        "created_at": "2022-12-05",
+        "archive": "gh_4fd74adc637c_2022-12-05_missing_v8cL1hmCkS.y.tar.gz",
+        "censored_date": "2022-12-07 15:54:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-06 00:18:44"
     }
 ]
