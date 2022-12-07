@@ -3123,11 +3123,23 @@
     {
         "url": "mp.weixin.qq.com/s/HL4gEvuDq5igT-zvnhhb-Q",
         "title": "中国正式宣布新冠肺炎疫情结束！",
+        "title_eng": "China officially declared the end of the new crown pneumonia epidemic!",
         "nickname": "文韬武略",
         "created_at": "2022-12-06",
         "archive": "gh_99dfcd443dd1_2022-12-06_missing_RFho2kdnv4.y.tar.gz",
         "censored_date": "2022-12-08 01:04:45",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-12-06 14:52:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/rQ0xVp7WsIesqYozIJ_3Cw",
+        "title": "最新进出沪规定！",
+        "title_eng": "The latest regulations on entering and exiting Shanghai!",
+        "nickname": "上海本地宝",
+        "created_at": "2022-12-07",
+        "archive": "gh_3de5740eab35_2022-12-07_missing_QdBfesuEiO.y.tar.gz",
+        "censored_date": "2022-12-08 02:23:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-07 17:07:51"
     }
 ]
