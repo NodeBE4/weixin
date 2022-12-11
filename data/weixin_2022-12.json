@@ -3731,7 +3731,8 @@
         "created_at": "2022-12-09",
         "archive": "gh_9a49d6aa07b0_2022-12-09_2650242552_IyNJlqZTSM.y.tar.gz",
         "censored_date": "2022-12-11 15:31:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-11 19:25:45"
     },
     {
         "url": "mp.weixin.qq.com/s/DdjZelmllqDZq6ZfKbDpmQ",
@@ -3741,6 +3742,16 @@
         "created_at": "2022-12-10",
         "archive": "gh_5fcace453f2e_2022-12-10_missing_PoLkOrXezV.y.tar.gz",
         "censored_date": "2022-12-11 15:34:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzNTI0OTkzMg==&mid=2247494756&idx=3&sn=b6e2dea1019992de0bbb967509d7d4bc&",
+        "title": "福利：抗原99元一盒（25个）",
+        "title_eng": "Benefits: Antigen 99 yuan per box (25 pieces)",
+        "nickname": "mRNA福星情报局",
+        "created_at": "2022-12-10",
+        "archive": "gh_3b79ccbe40cf_2022-12-10_2247494756_qBTUD1V5uE.y.tar.gz",
+        "censored_date": "2022-12-11 20:20:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
