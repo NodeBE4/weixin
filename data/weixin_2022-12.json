@@ -3588,6 +3588,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTg0Nzc2Mg==&mid=2650456339&idx=1&sn=883a45dfbd063a001a39e4693a8a3698&",
         "title": "新书推荐 |《周礼折衷校注》",
+        "title_eng": "New Book Recommendation | Zhou Li Eclectic Annotation",
         "nickname": "齐鲁书社",
         "created_at": "2022-12-09",
         "archive": "gh_df76b201bd1f_2022-12-09_2650456339_vWrs2x60T4.y.tar.gz",
@@ -3597,6 +3598,7 @@
     {
         "url": "mp.weixin.qq.com/s/wTnVhTO38yH6f0nVVZgLPg",
         "title": "河边折柳 | 中国的国运",
+        "title_eng": "Broken Willows by the River | China's National Games",
         "nickname": "明河投资",
         "created_at": "2022-12-09",
         "archive": "gh_9e447f581670_2022-12-09_missing_GVQ20NoRaZ.y.tar.gz",
@@ -3606,10 +3608,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NTE3MDg0OQ==&mid=2247502089&idx=1&sn=9cdd47c4815db2eede3c1f7a8702e4ad&",
         "title": "（上期2中2）克罗地亚VS巴西 荷兰VS阿根廷 世界杯赛事分析",
+        "title_eng": "(2 of 2 in the previous issue) Croatia VS Brazil Netherlands VS Argentina World Cup match analysis",
         "nickname": "嘀嗒足球",
         "created_at": "2022-12-09",
         "archive": "gh_f890bcbd3846_2022-12-09_2247502089_SBhtsfQ3HY.y.tar.gz",
         "censored_date": "2022-12-11 07:21:47",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNjI3ODk5NA==&mid=2247653383&idx=4&sn=d527f6c5e5bcaf290498838d4bb80714&",
+        "title": "伯努利大数定律，今日世界杯观赛指南",
+        "title_eng": "Bernoulli's Law of Large Numbers, Today's World Cup Guide",
+        "nickname": "虎扑",
+        "created_at": "2022-12-09",
+        "archive": "gh_3b7dbea2a9e7_2022-12-09_2247653383_RkqKvN2AIj.y.tar.gz",
+        "censored_date": "2022-12-11 08:16:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-09 20:31:42"
     }
 ]
