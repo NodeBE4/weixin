@@ -3853,10 +3853,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NjcyNjc2NQ==&mid=2247507149&idx=1&sn=e5fbecd4af21da1652e060d0877f838e&",
         "title": "一夜之间，专家全变异了！",
+        "title_eng": "Overnight, all the experts mutated!",
         "nickname": "燕梳时评",
         "created_at": "2022-12-09",
         "archive": "gh_6131587520ef_2022-12-09_2247507149_8cZ5o4HMaj.y.tar.gz",
         "censored_date": "2022-12-12 15:18:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyMTc1OTE3Nw==&mid=2247585842&idx=2&sn=428721a813a4b2fb29190fa778151793&",
+        "title": "认知水平越低的人，越喜欢回复“收到”",
+        "title_eng": "The lower the cognitive level, the more likely to reply received",
+        "nickname": "桌子的生活观",
+        "created_at": "2022-12-03",
+        "archive": "gh_8f2d1a9729c7_2022-12-03_2247585842_iOYCH0j0yg.y.tar.gz",
+        "censored_date": "2022-12-12 16:00:45",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
