@@ -3758,7 +3758,8 @@
         "created_at": "2022-12-10",
         "archive": "gh_3b79ccbe40cf_2022-12-10_2247494756_qBTUD1V5uE.y.tar.gz",
         "censored_date": "2022-12-11 20:20:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-13 05:00:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NTcxMzU0MA==&mid=2247505119&idx=1&sn=528c25b9ddcd31fe8fdb8c3e80a273cc&",
@@ -3940,10 +3941,12 @@
     {
         "url": "mp.weixin.qq.com/s/Saoco-IK0n-8lbwBf4-SYg",
         "title": "历史将会审判愚民的人！",
+        "title_eng": "History will judge the foolish people!",
         "nickname": "木林森子有七棵树",
         "created_at": "2022-12-09",
         "archive": "gh_1d4f8fbb9900_2022-12-09_missing_yvIjAfbWYX.y.tar.gz",
         "censored_date": "2022-12-13 04:20:06",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-13 05:08:47"
     }
 ]
