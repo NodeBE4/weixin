@@ -3959,7 +3959,8 @@
         "created_at": "2022-12-10",
         "archive": "gh_4c5acb5e91e1_2022-12-10_2247512396_hJ7R2LuSfi.y.tar.gz",
         "censored_date": "2022-12-13 06:17:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-14 14:41:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4OTgyNzM2Mg==&mid=2247484218&idx=1&sn=eb0af07b264c9cc97a08f761ad14a0e7&",
@@ -4030,7 +4031,8 @@
         "created_at": "2022-12-12",
         "archive": "gh_ba71c6c7d57e_2022-12-12_2455546079_DIqKGY3A2Z.y.tar.gz",
         "censored_date": "2022-12-14 05:29:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-14 14:58:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzQ5MDMyNQ==&mid=2651152260&idx=3&sn=f0739483402548427d9074751ea22123&",
@@ -4072,5 +4074,15 @@
         "archive": "gh_7c459fff0eeb_2022-12-12_missing_CMJLFiNwrG.y.tar.gz",
         "censored_date": "2022-12-14 14:00:03",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MTc4NDYwMQ==&mid=2247560934&idx=5&sn=c5004a1d7cf7d719c931b78aa12b47fa&",
+        "title": "斗鱼精简版！小巧无广告，绝杀原版",
+        "nickname": "我懂搞机",
+        "created_at": "2022-11-23",
+        "archive": "gh_1025d6b4be94_2022-11-23_2247560934_qiyKuE4ArF.y.tar.gz",
+        "censored_date": "2022-12-14 15:07:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-13 07:09:25"
     }
 ]
