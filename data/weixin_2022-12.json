@@ -4286,7 +4286,7 @@
         "archive": "gh_3446adaf4428_2022-12-15_missing_Nt3qXg490H.y.tar.gz",
         "censored_date": "2022-12-15 17:05:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-12-16 19:20:42"
+        "update_date": "2022-12-17 06:08:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMjM1OTI2OA==&mid=2247487178&idx=1&sn=c7457e574d6a3d6d512406ce0dfbdfa9&",
@@ -4468,7 +4468,8 @@
         "created_at": "2022-12-14",
         "archive": "gh_369b0260b8f8_2022-12-14_missing_QVmtXPj4ko.y.tar.gz",
         "censored_date": "2022-12-16 19:24:45",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-17 06:12:29"
     },
     {
         "url": "mp.weixin.qq.com/s/W9gc6xS2fUBlS_wdTt9F2A",
@@ -4489,5 +4490,14 @@
         "archive": "gh_8956ac11363e_2022-12-15_2654168774_ycSXA8YLtD.y.tar.gz",
         "censored_date": "2022-12-17 00:34:55",
         "censored_msg": "此内容被投诉且经审核涉嫌侵权，无法查看。"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/zTtUjf9q1N1Mn-O-29F8ag",
+        "title": "丝路学新著 | 马丽蓉：《丝路学研究：形成、发展及其转型》",
+        "nickname": "上外丝路",
+        "created_at": "2022-12-15",
+        "archive": "gh_d8caff9187db_2022-12-15_missing_B2MYaW8LIC.y.tar.gz",
+        "censored_date": "2022-12-17 05:46:53",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
