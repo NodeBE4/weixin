@@ -4480,7 +4480,8 @@
         "created_at": "2022-12-15",
         "archive": "gh_871e4d8c9a78_2022-12-15_missing_5nwfy2CblD.y.tar.gz",
         "censored_date": "2022-12-17 00:30:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-17 22:15:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0MjI0Nzc5Mg==&mid=2654168774&idx=1&sn=c24514c9f012aaf1719e67f2b9444349",
@@ -4565,5 +4566,15 @@
         "archive": "gh_816c6243abda_2022-12-16_missing_IJ7Br4OuwR.y.tar.gz",
         "censored_date": "2022-12-17 19:38:48",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/AyHKYJKgEc6_zNaEQNFd3g",
+        "title": "新加坡：宣传连花清瘟能够治疗新冠，可罚款最高5000新币或坐牢最长两年",
+        "title_eng": "Singapore: Promoting that Lianhua Qingwen can treat the new crown can be fined up to 5,000 SGD or imprisoned for up to two years",
+        "nickname": "读者关注",
+        "created_at": "2022-12-16",
+        "archive": "gh_6d20d0b1978c_2022-12-16_missing_g82vN1osS9.y.tar.gz",
+        "censored_date": "2022-12-17 21:25:32",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
