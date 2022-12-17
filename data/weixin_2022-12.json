@@ -4504,6 +4504,7 @@
     {
         "url": "mp.weixin.qq.com/s/0ycu8bO5FsJjELTmg2fAPw",
         "title": "​突发！长江存储、上海微、寒武纪、兆芯等36家被列入“实体清单”",
+        "title_eng": "Burst! 36 companies including Yangtze River Storage, Shanghai Micro, Cambrian, and Zhaoxin were included in the Entity List",
         "nickname": "芯榜+",
         "created_at": "2022-12-16",
         "archive": "gh_469202b90ed2_2022-12-16_missing_rPC8MeYo6X.y.tar.gz",
@@ -4513,10 +4514,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjQzNjYxNw==&mid=2247484198&idx=1&sn=6401e340b6646f86107c2605169f182d&",
         "title": "苏联笑话集",
+        "title_eng": "soviet jokes",
         "nickname": "佛腿的呓语",
         "created_at": "2022-12-09",
         "archive": "gh_e74f0beb6c81_2022-12-09_2247484198_iTYu7yhFtP.y.tar.gz",
         "censored_date": "2022-12-17 07:02:55",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4Mjc0NDUwNw==&mid=2247486488&idx=1&sn=d055ed595ba03e8f9ed15a25b4a39192&",
+        "title": "繁兴供应链管理（辽宁）有限公司的“监管标识”",
+        "title_eng": "Regulatory Mark of Fanxing Supply Chain Management (Liaoning) Co., Ltd.",
+        "nickname": "中国仓协金融仓储分会",
+        "created_at": "2022-12-15",
+        "archive": "gh_76ce26f8c9a4_2022-12-15_2247486488_Bqdw8kxnr6.y.tar.gz",
+        "censored_date": "2022-12-17 09:08:02",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
