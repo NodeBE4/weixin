@@ -4319,7 +4319,7 @@
         "archive": "gh_22b1b06c220a_2022-12-15_missing_m3l71HhipF.y.tar.gz",
         "censored_date": "2022-12-15 20:21:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-12-16 23:25:38"
+        "update_date": "2022-12-18 00:35:49"
     },
     {
         "url": "mp.weixin.qq.com/s/TsRRb8reYC7jjGRyzvT1TA",
@@ -4576,5 +4576,15 @@
         "archive": "gh_6d20d0b1978c_2022-12-16_missing_g82vN1osS9.y.tar.gz",
         "censored_date": "2022-12-17 21:25:32",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MDU3MTkxNQ==&mid=2247489013&idx=1&sn=30e10bf65d0fa2f0a0a8116bc93295e7&",
+        "title": "面对新冠，我们该怎么做？",
+        "nickname": "今日川外",
+        "created_at": "2022-12-14",
+        "archive": "gh_36b65ecfb0c9_2022-12-14_2247489013_hB74XygMIP.y.tar.gz",
+        "censored_date": "2022-12-18 00:40:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-16 23:30:22"
     }
 ]
