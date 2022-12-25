@@ -4938,10 +4938,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNjI3ODk5NA==&mid=2247654388&idx=5&sn=93f6e33942416a0a78a7a1187e937829&",
         "title": "伯努利大数定律，今日比甲观赛指南",
+        "title_eng": "Bernoulli's law of large numbers, today's match guide",
         "nickname": "虎扑",
         "created_at": "2022-12-23",
         "archive": "gh_3b7dbea2a9e7_2022-12-23_2247654388_dyw6hrITRC.y.tar.gz",
         "censored_date": "2022-12-25 07:20:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-25 09:49:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/cUIM4z0F3nXSG8DmVBIzyg",
+        "title": "复必泰mRNA新冠疫苗已运抵北京",
+        "title_eng": "Fubitai mRNA COVID-19 Vaccine Has Arrived in Beijing",
+        "nickname": "澎湃新闻",
+        "created_at": "2022-12-23",
+        "archive": "gh_d29e0d22a6f9_2022-12-23_missing_HNmc9U1Ipq.y.tar.gz",
+        "censored_date": "2022-12-25 08:52:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
