@@ -4860,7 +4860,8 @@
         "created_at": "2022-12-24",
         "archive": "gh_cd6158ac7e8b_2022-12-24_missing_E5bPL7hek3.y.tar.gz",
         "censored_date": "2022-12-24 14:18:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-25 16:09:41"
     },
     {
         "url": "mp.weixin.qq.com/s/OUF0zVQ62dplyWujagCFlA",
@@ -4967,5 +4968,14 @@
         "censored_date": "2022-12-25 11:04:34",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-12-25 13:34:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/DGuKDGXo-gFuTnbmdVMFaw",
+        "title": "这样的标准上海市疫情防控工作领导小组也好意思发布出来？",
+        "nickname": "学问批判",
+        "created_at": "2022-12-24",
+        "archive": "gh_9df58d2777e0_2022-12-24_missing_Y7SRTA0ic4.y.tar.gz",
+        "censored_date": "2022-12-25 15:42:55",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
