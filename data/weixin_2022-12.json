@@ -5419,6 +5419,7 @@
     {
         "url": "mp.weixin.qq.com/s/lmiOjtFvIrRZM0iG81KU4w",
         "title": "石正丽研究员，你有麻烦了",
+        "title_eng": "Researcher Shi Zhengli, you are in trouble",
         "nickname": "白马亭",
         "created_at": "2022-12-27",
         "archive": "gh_a4264b12c467_2022-12-27_missing_epc1bT0Auf.y.tar.gz",
@@ -5428,11 +5429,21 @@
     {
         "url": "mp.weixin.qq.com/s/uhJldAUNlgVf0zYRoOqKLw",
         "title": "印度神童：2023的6大预测",
+        "title_eng": "Indian wunderkind: 6 predictions for 2023",
         "nickname": "先他后我",
         "created_at": "2022-12-28",
         "archive": "gh_a5b46f79b77b_2022-12-28_missing_l8Zy7ut2Ws.y.tar.gz",
         "censored_date": "2022-12-29 22:18:10",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-12-28 11:26:17"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/QZZEZKeNKrjHQCWIF4qdaQ",
+        "title": "重磅！创业板“三创四新”新规开始窗口指导推行，不符合要求即劝退！",
+        "nickname": "老狼投行",
+        "created_at": "2022-12-29",
+        "archive": "gh_5a2dec52553c_2022-12-29_missing_aWIJkRScwM.y.tar.gz",
+        "censored_date": "2022-12-29 23:02:45",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
