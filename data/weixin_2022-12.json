@@ -5375,6 +5375,7 @@
     {
         "url": "mp.weixin.qq.com/s/IuhxC0nBqjHXjZfc7y4rwA",
         "title": "中国的防疫，彻底毁在了这3种人手里，他们一个比一个罪大恶极！",
+        "title_eng": "China's epidemic prevention has been completely destroyed in the hands of these three types of people, and they are more sinful than the other!",
         "nickname": "知否博主",
         "created_at": "2022-12-25",
         "archive": "gh_be48b5f70982_2022-12-25_missing_NsYO6ESHcF.y.tar.gz",
@@ -5384,6 +5385,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NDQyODUxNg==&mid=2247570655&idx=1&sn=66455fdeb16b3221737483f782336a3d&",
         "title": "谁能想到，年薪50万老同学，如今竟然靠补偿金和失业金撑过了一年……",
+        "title_eng": "Who would have thought that an old classmate with an annual salary of 500,000 would survive a year on compensation and unemployment benefits...",
         "nickname": "毯叔盘钱",
         "created_at": "2022-11-02",
         "archive": "gh_4e4039acbf7d_2022-11-02_2247570655_U0r9Esxy0I.y.tar.gz",
@@ -5394,10 +5396,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTk1NzU1Ng==&mid=2247496273&idx=1&sn=6d9935c453f30ce81ca41d2777f3eb2b&",
         "title": "他们感染新冠离世，让“阳康”们震惊",
+        "title_eng": "They died from the new crown, which shocked the Yangkang",
         "nickname": "顶尖世界",
         "created_at": "2022-12-27",
         "archive": "gh_60879d868a3b_2022-12-27_2247496273_C13Jm4tBL2.y.tar.gz",
         "censored_date": "2022-12-29 17:51:25",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTQ1MTQxNg==&mid=2652170688&idx=4&sn=763291c67e9d42d599026a36c755a0f8&",
+        "title": "清华北大等多所高校讣告密集，一个多月66名教授、职工逝世......",
+        "nickname": "生物学霸",
+        "created_at": "2022-12-24",
+        "archive": "gh_1461c4c114ed_2022-12-24_2652170688_KMputFc5xe.y.tar.gz",
+        "censored_date": "2022-12-29 18:49:57",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-27 12:04:07"
     }
 ]
