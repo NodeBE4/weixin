@@ -5177,7 +5177,7 @@
         "archive": "gh_1ede6c42db01_2022-12-26_2247699667_MZ8kDlLKEu.y.tar.gz",
         "censored_date": "2022-12-27 18:30:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2022-12-29 01:43:14"
+        "update_date": "2022-12-31 02:58:06"
     },
     {
         "url": "mp.weixin.qq.com/s/t_dbb1rQfDMmvU7Re3-aMg",
@@ -5362,7 +5362,8 @@
         "created_at": "2022-12-29",
         "archive": "gh_9ad2fa9ca664_2022-12-29_missing_umfUQsEARv.y.tar.gz",
         "censored_date": "2022-12-29 11:05:30",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-31 03:15:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NDE4MTkyOA==&mid=2650251588&idx=1&sn=b0bb9669f327ab1ef70cdffb6cb1768c&",
@@ -5559,10 +5560,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzg2MTQwNw==&mid=2247499863&idx=1&sn=c1c2ddc9da87c558e01c28856bff7950&",
         "title": "在北大無恥壓制下努力奮闘的一年",
+        "title_eng": "A year of hard work under the shameless oppression of Peking University",
         "nickname": "辛德勇自述",
         "created_at": "2022-12-29",
         "archive": "gh_02b90359f428_2022-12-29_2247499863_IUaku9gCKE.y.tar.gz",
         "censored_date": "2022-12-31 01:48:05",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/1YcBKOjLjaJpsWdgNeD18Q",
+        "title": "更大的忧虑：2022年的“思想之疫”",
+        "nickname": "思想室",
+        "created_at": "2022-12-29",
+        "archive": "gh_2fe11381b89c_2022-12-29_missing_bhGE6NeSR7.y.tar.gz",
+        "censored_date": "2022-12-31 02:37:15",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-30 11:08:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/EREj4eo3-aSLYIfo0npW1Q",
+        "title": "路透早报：12月29日",
+        "nickname": "路透财经早报",
+        "created_at": "2022-12-29",
+        "archive": "gh_dea30afca0a4_2022-12-29_missing_ysUmBdoR8Y.y.tar.gz",
+        "censored_date": "2022-12-31 02:50:13",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/rxoxqPJFEras1g4eqvxpuQ",
+        "title": "留给荣耀的时间不多了",
+        "nickname": "雷峰网",
+        "created_at": "2022-12-29",
+        "archive": "wxid_2117831151212_2022-12-29_missing_XWj0xtDyhO.y.tar.gz",
+        "censored_date": "2022-12-31 02:53:33",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
