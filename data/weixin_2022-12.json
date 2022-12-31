@@ -5504,7 +5504,8 @@
         "created_at": "2022-12-29",
         "archive": "gh_e2c340bd36e8_2022-12-29_2247483695_iG4ISL79Km.y.tar.gz",
         "censored_date": "2022-12-30 14:48:57",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-31 23:13:26"
     },
     {
         "url": "mp.weixin.qq.com/s/EvyawnbwBG8H0QZpJmhkzQ",
@@ -5663,6 +5664,7 @@
         "created_at": "2022-12-28",
         "archive": "gh_bd9add6c9650_2022-12-28_2247510384_WR5I4eutUE.y.tar.gz",
         "censored_date": "2022-12-31 17:33:41",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2022-12-31 23:10:07"
     }
 ]
