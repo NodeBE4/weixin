@@ -633,11 +633,21 @@
     {
         "url": "mp.weixin.qq.com/s/a-Nw_riD2OBkjCGNtQpz-g",
         "title": "对中国疫情的几点担忧",
+        "title_eng": "A Few Concerns about the Epidemic in China",
         "nickname": "一个生物狗的科普小园",
         "created_at": "2022-12-31",
         "archive": "gh_80d3979e0202_2022-12-31_missing_HXi6ZveEus.y.tar.gz",
         "censored_date": "2023-01-01 10:56:57",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2022-12-31 12:11:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4OTg3NzA2Mg==&mid=2247483838&idx=1&sn=6d88d5fa9756f8ec8e37c1ee7dbab561&",
+        "title": "十二月染疫亡人碑",
+        "nickname": "大生的书房",
+        "created_at": "2022-12-30",
+        "archive": "gh_40d674a0f66e_2022-12-30_2247483838_6hGlmbeZMS.y.tar.gz",
+        "censored_date": "2023-01-01 11:34:56",
+        "censored_msg": "此帐号已被屏蔽,"
     }
 ]
