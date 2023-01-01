@@ -584,7 +584,8 @@
         "created_at": "2022-12-31",
         "archive": "gh_458bb01c8b59_2022-12-31_missing_3NvEoW0fpr.y.tar.gz",
         "censored_date": "2022-12-31 11:33:41",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-01-01 10:39:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2NzkyNDE0NA==&mid=2247510384&idx=1&sn=587cf0113a871026e2c300b4bc148a48&",
@@ -628,5 +629,15 @@
         "censored_date": "2023-01-01 03:36:43",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2022-12-28 20:24:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/a-Nw_riD2OBkjCGNtQpz-g",
+        "title": "对中国疫情的几点担忧",
+        "nickname": "一个生物狗的科普小园",
+        "created_at": "2022-12-31",
+        "archive": "gh_80d3979e0202_2022-12-31_missing_HXi6ZveEus.y.tar.gz",
+        "censored_date": "2023-01-01 10:56:57",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2022-12-31 12:11:44"
     }
 ]
