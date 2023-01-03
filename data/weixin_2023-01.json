@@ -803,7 +803,8 @@
         "created_at": "2021-11-02",
         "archive": "gh_e8f9f41ce9fb_2021-11-02_missing_0pYawlx2zA.y.tar.gz",
         "censored_date": "2023-01-02 18:42:52",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-01-04 02:25:34"
     },
     {
         "url": "mp.weixin.qq.com/s/pSr4kXGu2XHbwFiM3gbRYA",
@@ -959,6 +960,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3ODM1OTc3Nw==&mid=2247559942&idx=4&sn=d96add463d65fe82bc2bb4ef75ea7c79&",
         "title": "被挤爆的火葬场，改变不了未来的方向",
+        "title_eng": "The overcrowded crematorium cannot change the direction of the future",
         "nickname": "世界之角",
         "created_at": "2023-01-01",
         "archive": "gh_26ad695060ae_2023-01-01_2247559942_4ZIXJkBxcT.y.tar.gz",
@@ -969,6 +971,7 @@
     {
         "url": "mp.weixin.qq.com/s/Rghgty3J6D-X1RNcvWYOfQ",
         "title": "中国大陆本轮感染高峰死亡人数的估算",
+        "title_eng": "Estimates of the death toll at the peak of the current round of infections in mainland China",
         "nickname": "西西弗评论",
         "created_at": "2023-01-02",
         "archive": "gh_2683d5721bef_2023-01-02_missing_l1JAtWDFHL.y.tar.gz",
@@ -979,10 +982,31 @@
     {
         "url": "mp.weixin.qq.com/s/exwOBGWKQAPGZaRliQcqeA",
         "title": "青海省召开全省领导干部会议  徐启方宣布中央决定 陈刚讲话 吴晓军主持并讲话",
+        "title_eng": "Qinghai Province held a province-wide meeting of leading cadres. Xu Qifang announced the decision of the central government. Chen Gang made a speech. Wu Xiaojun presided over and delivered a speech.",
         "nickname": "青海新闻联播",
         "created_at": "2023-01-03",
         "archive": "gh_f36130bb5d90_2023-01-03_missing_KRXe8I2G4P.y.tar.gz",
         "censored_date": "2023-01-04 01:15:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4OTA0NTcxNg==&mid=2652467577&idx=1&sn=50d014b7b3a8912a1114cf77ef5369c5&",
+        "title": "由于无法做到“说真话”，这家知名人文杂志编辑部宣布集体退出",
+        "nickname": "笑谈学术界",
+        "created_at": "2023-01-02",
+        "archive": "gh_54b4a890eee5_2023-01-02_2652467577_uH6TLSlsk3.y.tar.gz",
+        "censored_date": "2023-01-04 01:32:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-03 01:23:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDExOTQ3NQ==&mid=2247534789&idx=1&sn=8555274130f46bbce32ed448fd05ff26&",
+        "title": "被挤爆的火葬场，改变不了未来的方向",
+        "title_eng": "The overcrowded crematorium cannot change the direction of the future",
+        "nickname": "首席财经家",
+        "created_at": "2023-01-01",
+        "archive": "gh_8eac83b756a6_2023-01-01_2247534789_nX0gachwQb.y.tar.gz",
+        "censored_date": "2023-01-04 02:23:06",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
