@@ -1871,7 +1871,7 @@
         "archive": "gh_54e20425f3cb_2023-01-11_missing_ai87KkdNgt.y.tar.gz",
         "censored_date": "2023-01-12 16:51:58",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-01-11 21:07:49"
+        "update_date": "2023-01-14 05:58:09"
     },
     {
         "url": "mp.weixin.qq.com/s/xGgvx89a4zRI5-NNktPHBg",
@@ -2003,10 +2003,21 @@
     {
         "url": "mp.weixin.qq.com/s/tUmVrbGp1t_DNYrhGDuvCg",
         "title": "胡鑫宇失踪90天，一幕猛料令人震惊：他就躲在自己家中，父母别有意图…",
+        "title_eng": "Hu Xinyu has been missing for 90 days, and the scene is shocking: he is hiding in his own home, and his parents have ulterior motives...",
         "nickname": "知否博主",
         "created_at": "2023-01-12",
         "archive": "gh_be48b5f70982_2023-01-12_missing_5UQd8GHIPg.y.tar.gz",
         "censored_date": "2023-01-14 04:41:59",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/3li8-uXPC-lbpD8jClMTSA",
+        "title": "寻找氧气",
+        "nickname": "冰点周刊",
+        "created_at": "2023-01-11",
+        "archive": "gh_de536bb3fdfd_2023-01-11_missing_UISfkYdLO5.y.tar.gz",
+        "censored_date": "2023-01-14 05:40:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-11 20:55:12"
     }
 ]
