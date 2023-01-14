@@ -2037,6 +2037,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzM5MDUyNA==&mid=2654512962&idx=1&sn=6feee63cfdea0b4668fd02402c2e5cfe&",
         "title": "来了！门头沟区高质量发展“点睛”看",
+        "title_eng": "coming! The finishing look at the high-quality development of Mentougou District",
         "nickname": "北京门头沟",
         "created_at": "2023-01-13",
         "archive": "gh_718d8f98745c_2023-01-13_2654512962_O8kyzAEDWI.y.tar.gz",
@@ -2046,10 +2047,21 @@
     {
         "url": "mp.weixin.qq.com/s/w2ooi_ZM_2jEiAfBF8JYpQ",
         "title": "逆转肺炎和白肺！他们的“土办法”连医生都拍手叫绝",
+        "title_eng": "Reverse Pneumonia and White Lung! Their indigenous method even applauds doctors",
         "nickname": "三甲传真",
         "created_at": "2023-01-13",
         "archive": "gh_232ef1bce833_2023-01-13_missing_hD4m00Wujw.y.tar.gz",
         "censored_date": "2023-01-14 15:17:58",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5ODIyMTMyMQ==&mid=2247486989&idx=1&sn=285a6742391a4a157129199405bff7b6&",
+        "title": "王小鲁：关于陕西向非公企业派驻第一书记的讨论",
+        "nickname": "长平讲谈",
+        "created_at": "2023-01-13",
+        "archive": "gh_10535210e139_2023-01-13_2247486989_OmcZG27nQe.y.tar.gz",
+        "censored_date": "2023-01-14 16:06:30",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-01-13 18:37:31"
     }
 ]
