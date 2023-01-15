@@ -2106,6 +2106,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTg5OTM2NQ==&mid=2247483921&idx=1&sn=600c2cbb7ac5fda55c9c46d9b41b3cc1&",
         "title": "根据新冠病死规律，本次中国大疫情会死多少人",
+        "title_eng": "According to the law of death from the new crown disease, how many people will die in this big epidemic in China",
         "nickname": "第三思维",
         "created_at": "2023-01-13",
         "archive": "gh_9bff5bce5a7f_2023-01-13_2247483921_Pb5WdT18J7.y.tar.gz",
@@ -2116,11 +2117,22 @@
     {
         "url": "mp.weixin.qq.com/s/322IuSZkawCFTLbc0F-3XA",
         "title": "到底是听取意见还是做指示？记者报道会议的文风应该改改了。",
+        "title_eng": "In the end is to listen to advice or to give instructions? The way journalists report on meetings should change.",
         "nickname": "学问批判",
         "created_at": "2023-01-14",
         "archive": "gh_9df58d2777e0_2023-01-14_missing_O2DiyhJN3Q.y.tar.gz",
         "censored_date": "2023-01-15 12:15:19",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-01-14 14:54:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5MDY2MzMxMg==&mid=2247485495&idx=1&sn=96be0eaddfebf7b0a81de2743d066744&",
+        "title": "外部局面不是很乐观",
+        "nickname": "少独行",
+        "created_at": "2023-01-12",
+        "archive": "gh_2ba65ff79c17_2023-01-12_2247485495_RqkmU50rtc.y.tar.gz",
+        "censored_date": "2023-01-15 12:50:41",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-01-14 14:40:40"
     }
 ]
