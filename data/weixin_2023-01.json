@@ -2462,7 +2462,8 @@
         "created_at": "2023-01-18",
         "archive": "gh_623a16354073_2023-01-18_2247487762_rqdS4wIPhk.y.tar.gz",
         "censored_date": "2023-01-18 21:24:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-19 23:47:57"
     },
     {
         "url": "mp.weixin.qq.com/s/6mQ9OyjyKKl8AwA4aULMlA",
@@ -2726,5 +2727,16 @@
         "archive": "gh_f0ad825ab051_2023-01-19_missing_RlFD0Uaj2I.y.tar.gz",
         "censored_date": "2023-01-19 22:07:37",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4MTE5NjQ5OQ==&mid=2247484296&idx=1&sn=98a17cffe9ed6ac4d5c11320e047bf45&",
+        "title": "英超+国王杯+意杯+英足总杯",
+        "title_eng": "Premier League Copa del Rey Italian Cup FA Cup",
+        "nickname": "阿B日常",
+        "created_at": "2023-01-18",
+        "archive": "gh_cfb023fb0691_2023-01-18_2247484296_9cylNgzIdb.y.tar.gz",
+        "censored_date": "2023-01-20 00:20:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-18 23:51:57"
     }
 ]
