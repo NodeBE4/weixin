@@ -2695,7 +2695,8 @@
         "created_at": "2023-01-17",
         "archive": "gh_59dadafe3f61_2023-01-17_2247545743_13RDkJdKH8.y.tar.gz",
         "censored_date": "2023-01-19 17:45:43",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-01-20 02:04:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNzQ3MTkyNg==&mid=2650675768&idx=1&sn=95611fe9fc943afd9fd248b09e7bf0f6&",
@@ -2742,6 +2743,7 @@
     {
         "url": "mp.weixin.qq.com/s/nN8ORNEMl3-xUlp8L7kfMA",
         "title": "2022年中国研究生教育十大热点发布",
+        "title_eng": "Release of Top Ten Hot Spots of Postgraduate Education in China in 2022",
         "nickname": "清华大学研究生教育",
         "created_at": "2023-01-18",
         "archive": "gh_4c0622649105_2023-01-18_missing_HobXP5Ir1m.y.tar.gz",
@@ -2752,10 +2754,21 @@
     {
         "url": "mp.weixin.qq.com/s/g6JWTBuUTWE91QZSt2-IOg",
         "title": "再度发现Oracle漏洞！白帽汇安全研究院第六次获其公开致谢！",
+        "title_eng": "Oracle Vulnerability Discovered Again! Baimaohui Security Research Institute received its public thanks for the sixth time!",
         "nickname": "华顺信安",
         "created_at": "2023-01-19",
         "archive": "gh_f1578f14f8c2_2023-01-19_missing_9Z1aCNVYOA.y.tar.gz",
         "censored_date": "2023-01-20 01:09:53",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzNTI5MjMxMw==&mid=2247489143&idx=7&sn=18731071110311d7ff01ac02ea57501d&",
+        "title": "如果我军一举击沉美军2-3艘航母，美国会作何反应？",
+        "nickname": "奇思妙想草叶君",
+        "created_at": "2023-01-16",
+        "archive": "gh_0d35b69819f7_2023-01-16_2247489143_x2bCUL1eAi.y.tar.gz",
+        "censored_date": "2023-01-20 02:30:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-19 00:28:01"
     }
 ]
