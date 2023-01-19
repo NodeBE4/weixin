@@ -2627,6 +2627,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMTQ3Mzk1NQ==&mid=2654280224&idx=3&sn=cc5862e53d0e685cff96854eac037578&",
         "title": "美联储摊牌，中国或将要为持有美债向美国付款，罗杰斯：付出代价",
+        "title_eng": "The Fed showdown, China may pay the United States for holding U.S. debt, Rogers: pay the price",
         "nickname": "BWC中文网",
         "created_at": "2023-01-10",
         "archive": "gh_c41acab0696f_2023-01-10_2654280224_tmPCFuk1Ia.y.tar.gz",
@@ -2646,6 +2647,7 @@
     {
         "url": "mp.weixin.qq.com/s/pJpe-cj0__QG_RBqnE_5BQ",
         "title": "一大批城市，都揭不开锅了...",
+        "title_eng": "A large number of cities cannot be uncovered...",
         "nickname": "金融五道口",
         "created_at": "2023-01-18",
         "archive": "gh_517f0d8d1792_2023-01-18_missing_HnzbawyThK.y.tar.gz",
@@ -2655,10 +2657,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjQwMDgzNQ==&mid=2649416691&idx=1&sn=c4b7b3105a3ad0c8f843dea44f060834&",
         "title": "视点｜国家医保局谈判情况初现！强国交通重磅推出！​如何解决赚了指数不赚钱？",
+        "title_eng": "Viewpoint｜National Medical Insurance Administration Negotiations Beginning! Strong country traffic is launched! ​How to solve the problem of earning index but not making money?",
         "nickname": "中邮证券",
         "created_at": "2023-01-19",
         "archive": "gh_4cb96af9c4aa_2023-01-19_2649416691_AI7uXq0wCG.y.tar.gz",
         "censored_date": "2023-01-19 16:12:27",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4ODc3ODYzMg==&mid=2247514666&idx=1&sn=e9ae40a0bbca06788e5593267dd3f7d4&",
+        "title": "在人间｜县城医院与新冠病毒抢夺生命的一周",
+        "nickname": "在人间living",
+        "created_at": "2023-01-17",
+        "archive": "gh_5aa842ef762e_2023-01-17_2247514666_hKOMADpaE2.y.tar.gz",
+        "censored_date": "2023-01-19 17:00:07",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
