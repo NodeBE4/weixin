@@ -2709,7 +2709,7 @@
         "archive": "gh_7822e40cb2e2_2023-01-14_2650675768_VaCPSZrl8q.y.tar.gz",
         "censored_date": "2023-01-19 21:08:22",
         "censored_msg": "此帐号已被屏蔽,",
-        "update_date": "2023-01-19 00:19:26"
+        "update_date": "2023-01-21 14:01:19"
     },
     {
         "url": "mp.weixin.qq.com/s/cU11mvqdeuihB06DV6UaXg",
@@ -2938,10 +2938,20 @@
     {
         "url": "mp.weixin.qq.com/s/dYZDXIKLVUUYiyPfyHpSfQ",
         "title": "退役军人免费乘公交、免费游景区工作正在有序推进|明日：市农业农村局值班",
+        "title_eng": "The work of free bus rides and free tourist attractions for veterans is progressing in an orderly manner | Tomorrow: Municipal Bureau of Agriculture and Rural Affairs is on duty",
         "nickname": "南阳新闻广播",
         "created_at": "2023-01-19",
         "archive": "gh_7c383b3f9e12_2023-01-19_missing_ci3yRorjsw.y.tar.gz",
         "censored_date": "2023-01-21 12:57:09",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/cXmI83xWupKNmKh-uy66dw",
+        "title": "普京战败当为今年全球首选大事",
+        "nickname": "直达文明",
+        "created_at": "2023-01-20",
+        "archive": "gh_011ee0062e2b_2023-01-20_missing_P3Wv1Rnrhi.y.tar.gz",
+        "censored_date": "2023-01-21 14:15:15",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
