@@ -2998,7 +2998,8 @@
         "created_at": "2023-01-21",
         "archive": "gh_17a71f9793fb_2023-01-21_2651789523_zq3YTvW7wy.y.tar.gz",
         "censored_date": "2023-01-21 21:06:02",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-23 07:47:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMzMzNjY2Nw==&mid=2247510792&idx=3&sn=7b8a115846819dee73e37da3893538b8&",
@@ -3009,7 +3010,7 @@
         "archive": "gh_e8ca9fd04a93_2023-01-18_2247510792_vhIZdup9SM.y.tar.gz",
         "censored_date": "2023-01-21 22:09:37",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-01-21 04:23:19"
+        "update_date": "2023-01-23 09:09:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MzU5OTQ2Mw==&mid=2247489231&idx=1&sn=b69932c96c8f3e9668bb1b59cfa2344c&",
@@ -3117,5 +3118,16 @@
         "archive": "gh_58f137be4d1d_2023-01-22_missing_FLjfkbB3qi.y.tar.gz",
         "censored_date": "2023-01-23 01:42:21",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzU5NjM4MA==&mid=2651069312&idx=1&sn=3b805a9668789f7431669fc55f61bed3&",
+        "title": "“凶宅”过户两次后能申请撤销购房合同吗？",
+        "title_eng": "Can I apply for rescission of the house purchase contract after the haunted house has been transferred twice?",
+        "nickname": "法律图书馆",
+        "created_at": "2023-01-21",
+        "archive": "gh_369e6426b7ca_2023-01-21_2651069312_3n0OuiasMH.y.tar.gz",
+        "censored_date": "2023-01-23 08:06:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-22 00:49:48"
     }
 ]
