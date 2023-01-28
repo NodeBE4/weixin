@@ -3506,10 +3506,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNTE5MTIyMQ==&mid=2651727284&idx=1&sn=5d603fa375d6f2864b89905402dd37a9",
         "title": "美媒：美日荷达成协议，限制对华出口先进芯片制造设备",
+        "title_eng": "US media: The United States, Japan and the Netherlands have reached an agreement to restrict the export of advanced chip manufacturing equipment to China",
         "nickname": "直新闻",
         "created_at": "2023-01-28",
         "archive": "gh_8d6b93d2a414_2023-01-28_2651727284_tReajhT15g.y.tar.gz",
         "censored_date": "2023-01-28 15:54:58",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Y0kZU11iQIVNAmfp4Aa6GQ",
+        "title": "荷兰禁运DUV、日本禁运材料！彭博社：日本、荷兰同意加入半导体制裁！",
+        "nickname": "芯榜",
+        "created_at": "2023-01-28",
+        "archive": "gh_df5fc0fdf8be_2023-01-28_missing_xNk62QIo0r.y.tar.gz",
+        "censored_date": "2023-01-28 17:05:52",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
