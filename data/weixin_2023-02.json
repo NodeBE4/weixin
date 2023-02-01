@@ -574,6 +574,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NDEyNzAzMg==&mid=2247496467&idx=1&sn=ab5ccc3fe1bddfd451f5290d19dcff7c&",
         "title": "某央企正在大规模裁员",
+        "title_eng": "A central enterprise is laying off workers on a large scale",
         "nickname": "猫哥侃地产",
         "created_at": "2023-01-30",
         "archive": "gh_5bbfa6de0233_2023-01-30_2247496467_Z9oQckKxCi.y.tar.gz",
@@ -584,10 +585,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MjYxNDU0Mw==&mid=2248035472&idx=1&sn=a0c5e4575bad22201cf44d72b534567e&",
         "title": "2022年黑龙江省地区生产总值15901亿元，同比增长2.7%",
+        "title_eng": "In 2022, the GDP of Heilongjiang Province will be 1,590.1 billion yuan, a year-on-year increase of 2.7%",
         "nickname": "龙视新闻在线",
         "created_at": "2023-01-29",
         "archive": "gh_3ac5b999db51_2023-01-29_2248035472_Qea3iWJhcY.y.tar.gz",
         "censored_date": "2023-02-01 14:32:55",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-01 15:30:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/YYrh51D-mddX3mPol2mKQg",
+        "title": "突发：澳中下周举行三年来首次贸易对话澳方刻意降低外界预期；战争就在我们家门口吗？澳防长呼吁和平但仍将建立武器库威慑",
+        "title_eng": "Breaking: Australia and China will hold their first trade dialogue in three years next week. The Australian side deliberately lowered outside expectations; is war on our doorstep? Australian Defense Minister calls for peace but will still build an arsenal of deterrence",
+        "nickname": "新大陆传媒",
+        "created_at": "2023-02-01",
+        "archive": "gh_c563a8162fca_2023-02-01_missing_mC04y8QtNb.y.tar.gz",
+        "censored_date": "2023-02-01 15:46:45",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
