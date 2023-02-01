@@ -321,7 +321,8 @@
         "created_at": "2023-01-22",
         "archive": "gh_17587837e7ab_2023-01-22_2247483994_RkG5EaWLDv.y.tar.gz",
         "censored_date": "2023-02-01 02:42:52",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-01 10:12:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQyNjU1Mg==&mid=2247490182&idx=1&sn=50a42c59c37bf1ab02a45ad5bffedf08&",
@@ -337,6 +338,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODIzODI0OA==&mid=2651128987&idx=2&sn=4b6f490d6c7e851c7cba5ac4cb5fdf60&",
         "title": "胡鑫宇失踪案最新进展→",
+        "title_eng": "The latest development of Hu Xinyu's disappearance→",
         "nickname": "岳阳日报",
         "created_at": "2023-01-30",
         "archive": "gh_900269395c2e_2023-01-30_2651128987_XQBzFxkog4.y.tar.gz",
@@ -525,5 +527,25 @@
         "censored_date": "2023-02-01 06:55:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-01-30 23:35:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ji0tEpq7d6VOXE3xhfGSfA",
+        "title": "外媒独家揭秘：苹果供应链八大内幕",
+        "nickname": "智东西",
+        "created_at": "2023-01-29",
+        "archive": "gh_06a331376c81_2023-01-29_missing_g1p0zJxs40.y.tar.gz",
+        "censored_date": "2023-02-01 10:31:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4MDExMTE5Mg==&mid=2247502974&idx=1&sn=049d0dfc586933b2be7745466c07e969&",
+        "title": "央视用A320冒充C919遭飞友耻笑",
+        "title_eng": "CCTV used A320 as C919 and was ridiculed by flying friends",
+        "nickname": "拉上窗帘",
+        "created_at": "2023-01-30",
+        "archive": "gh_8bc0566a2abe_2023-01-30_2247502974_TWvl60qIk3.y.tar.gz",
+        "censored_date": "2023-02-01 10:28:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-01-31 04:55:12"
     }
 ]
