@@ -755,7 +755,8 @@
         "created_at": "2023-01-31",
         "archive": "gh_2114c7ec5aa1_2023-01-31_missing_uo7UxOFpVs.y.tar.gz",
         "censored_date": "2023-02-02 11:29:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-04 06:26:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NzY0ODAxMA==&mid=2247484793&idx=1&sn=eef500c5c6188d86668e61df3b7d2d49&",
@@ -1037,6 +1038,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTcwMDUwMg==&mid=2247484337&idx=1&sn=c5cba52bc39ebd1c0e58e91ec891d357&",
         "title": "胡鑫宇反穿衣服，DNA鉴定疑点重重，父母不能发声",
+        "title_eng": "Hu Xinyu wears his clothes backwards, the DNA test is full of doubts, and his parents can't speak out",
         "nickname": "沉思沼泽",
         "created_at": "2023-02-01",
         "archive": "gh_a2b51dd39ecf_2023-02-01_2247484337_Mf8JqYF3TW.y.tar.gz",
@@ -1047,10 +1049,30 @@
     {
         "url": "mp.weixin.qq.com/s/EmaRkXfj2H6gZ-lR7wEltQ",
         "title": "驻喀山总领事向波出席俄中友协莫尔多瓦地区分部成立仪式",
+        "title_eng": "Consul General in Kazan Xiang Bo Attends the Establishment Ceremony of the Mordovan Regional Branch of the Russia-China Friendship Association",
         "nickname": "中国驻喀山总领馆",
         "created_at": "2023-02-02",
         "archive": "gh_3c6d5a3f7801_2023-02-02_missing_GO6yUewS7k.y.tar.gz",
         "censored_date": "2023-02-04 05:55:45",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/vCNVpXK5vY__kHPtLL1U7A",
+        "title": "美国梭哈，日荷跟进，中国芯片奋力一搏还是盖牌走人？",
+        "nickname": "是说芯语",
+        "created_at": "2023-02-02",
+        "archive": "gh_d8ae66c1c4ed_2023-02-02_missing_W2TzF7MlCd.y.tar.gz",
+        "censored_date": "2023-02-04 06:51:31",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-02 11:58:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4MzIxOTU2Mw==&mid=2247518497&idx=1&sn=04ec278b26d3f0d747dcd158aa98887e&",
+        "title": "十几年来中国批准的上百种抗癌药，一半以上没效果",
+        "nickname": "癌度",
+        "created_at": "2023-02-01",
+        "archive": "gh_1a03b50aa985_2023-02-01_2247518497_MoHA9l0Z7S.y.tar.gz",
+        "censored_date": "2023-02-04 06:47:42",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
