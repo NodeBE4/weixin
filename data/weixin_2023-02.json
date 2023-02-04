@@ -821,7 +821,8 @@
         "created_at": "2023-02-02",
         "archive": "gh_6d775ad0f1b2_2023-02-02_2247505747_pbEShFyR7z.y.tar.gz",
         "censored_date": "2023-02-02 19:43:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-04 07:25:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTU3Mzk2OA==&mid=2654825023&idx=1&sn=031d4066612a6d688b4fb744795aa7f2&",
@@ -853,7 +854,8 @@
         "created_at": "2023-01-29",
         "archive": "gh_bd9add6c9650_2023-01-29_2247510663_HhkUM78KZc.y.tar.gz",
         "censored_date": "2023-02-03 00:09:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-04 07:55:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNTM5Mzk3Ng==&mid=2247484221&idx=1&sn=1907e38aff727e974097d085b8d61303&",
@@ -991,7 +993,8 @@
         "created_at": "2023-01-29",
         "archive": "gh_78daef22fd65_2023-01-29_2247486458_E2wfAunsU9.y.tar.gz",
         "censored_date": "2023-02-04 02:52:11",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-04 09:45:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDc2MTUzNw==&mid=2247484772&idx=1&sn=e5a1cfda70d071a97c8c7ed5f2fb1ffd&",
@@ -1059,6 +1062,7 @@
     {
         "url": "mp.weixin.qq.com/s/vCNVpXK5vY__kHPtLL1U7A",
         "title": "美国梭哈，日荷跟进，中国芯片奋力一搏还是盖牌走人？",
+        "title_eng": "American stud, Japan and the Netherlands follow up, Chinese chips will fight hard or just leave?",
         "nickname": "是说芯语",
         "created_at": "2023-02-02",
         "archive": "gh_d8ae66c1c4ed_2023-02-02_missing_W2TzF7MlCd.y.tar.gz",
@@ -1069,10 +1073,52 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MzIxOTU2Mw==&mid=2247518497&idx=1&sn=04ec278b26d3f0d747dcd158aa98887e&",
         "title": "十几年来中国批准的上百种抗癌药，一半以上没效果",
+        "title_eng": "More than half of the hundreds of anticancer drugs approved in China over the past decade have no effect",
         "nickname": "癌度",
         "created_at": "2023-02-01",
         "archive": "gh_1a03b50aa985_2023-02-01_2247518497_MoHA9l0Z7S.y.tar.gz",
         "censored_date": "2023-02-04 06:47:42",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxODM1NjM3Mg==&mid=2247485169&idx=1&sn=b0d156730ea7606251f0708c6e6e4042&",
+        "title": "胡鑫宇事件新闻发布会：那只高举的手",
+        "title_eng": "Hu Xinyu Incident Press Conference: That Hand Raised High",
+        "nickname": "那样讲",
+        "created_at": "2023-02-02",
+        "archive": "gh_bca364ce37d9_2023-02-02_2247485169_YKRJtaIxkC.y.tar.gz",
+        "censored_date": "2023-02-04 07:33:10",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTE5ODAyNA==&mid=2657236880&idx=6&sn=f80967250a056f122f792473e10c8707&",
+        "title": "侯宝林、郭全宝相声《改行》，妙语连珠，令人叫绝！",
+        "title_eng": "Hou Baolin and Guo Quanbao's cross talk Diversion is full of witty words, which is amazing!",
+        "nickname": "老连环画",
+        "created_at": "2023-01-25",
+        "archive": "gh_65f016543ef3_2023-01-25_2657236880_30VGQsIulq.y.tar.gz",
+        "censored_date": "2023-02-04 08:03:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5MTM3NzEyNg==&mid=2247489132&idx=1&sn=c0a965bd549104f7eb8f705e6a49fbab&",
+        "title": "胡鑫宇案引发全民热议的“幕后推手”，正是这个神秘的粮仓",
+        "title_eng": "The behind the scenes of the Hu Xinyu case that sparked heated discussions among the people is this mysterious granary",
+        "nickname": "白俞文史",
+        "created_at": "2023-01-31",
+        "archive": "gh_6c4088cca273_2023-01-31_2247489132_FBf89JCdKN.y.tar.gz",
+        "censored_date": "2023-02-04 07:36:01",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-02 23:54:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MTc0Nzg1Nw==&mid=2247483953&idx=1&sn=c657a96e75bd05f29fc354b0635e8534&",
+        "title": "胡鑫宇案件，真正有阴谋的其实在这",
+        "title_eng": "In the case of Hu Xinyu, the real conspiracy is actually here",
+        "nickname": "问号说吧",
+        "created_at": "2023-01-30",
+        "archive": "gh_8d10316848fe_2023-01-30_2247483953_cGWPUtkhm3.y.tar.gz",
+        "censored_date": "2023-02-04 08:40:17",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
