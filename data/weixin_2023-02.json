@@ -1453,6 +1453,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTY3MTEyNzI4MQ==&mid=2651256200&idx=1&sn=341f3c18e763c2909de246e66a23be33&",
         "title": "微信这一功能全面开放！网友：终于来了！",
+        "title_eng": "This function of WeChat is fully open! Netizen: It's finally here!",
         "nickname": "四川交通广播",
         "created_at": "2023-02-03",
         "archive": "wxid_2772127721322_2023-02-03_2651256200_mLucDgayp5.y.tar.gz",
@@ -1462,10 +1463,57 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzMxMTM5NQ==&mid=2650360315&idx=4&sn=8cb373f4df5b7a478d4db958c63f167c&",
         "title": "微信又现新功能 | “小号”来了，你注册了吗？",
+        "title_eng": "WeChat has a new function | Trumpet is here, have you registered?",
         "nickname": "秦皇岛电视台今日报道",
         "created_at": "2023-02-03",
         "archive": "gh_97729220b6fd_2023-02-03_2650360315_aCLwSlKmWV.y.tar.gz",
         "censored_date": "2023-02-05 16:59:23",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5Njc0NjAyMg==&mid=2247503691&idx=2&sn=1e009bf578a776f6815ad9c9dc5f257d",
+        "title": "正式通知！ 剪辑招募200人：统一培训视频剪辑技能，提升收入！人人可学！",
+        "nickname": "港评",
+        "created_at": "2023-02-02",
+        "archive": "gh_ef50b9c2fb1e_2023-02-02_2247503691_L5FjmYl0Ne.y.tar.gz",
+        "censored_date": "2023-02-05 18:21:15",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MjU3MTgzMQ==&mid=2247625699&idx=3&sn=bb61e5f84613e2fa8ee78e3400de9d39&",
+        "title": "微信新功能开放！一个手机号可注册俩号",
+        "nickname": "滨州网",
+        "created_at": "2023-02-03",
+        "archive": "gh_1fffc957483c_2023-02-03_2247625699_NsSGjcef4X.y.tar.gz",
+        "censored_date": "2023-02-05 17:56:01",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyOTM1MjAyNg==&mid=2247483740&idx=1&sn=0db3338877cefb8d7a10250e6e35f2d3&",
+        "title": "存款工具新宠儿",
+        "nickname": "翠竹笔记",
+        "created_at": "2023-02-03",
+        "archive": "gh_e0d6429d3808_2023-02-03_2247483740_8aAeTB5kjo.y.tar.gz",
+        "censored_date": "2023-02-05 18:11:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-04 01:35:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/VQQoU97L3Omok9XQyLEyqQ",
+        "title": "英国BBC：控制不了半导体供应链，中国永远成不了超级大国",
+        "nickname": "世界先进制造技术论坛",
+        "created_at": "2023-02-03",
+        "archive": "gh_0db8dcbba3a6_2023-02-03_missing_K9Xi26RFZa.y.tar.gz",
+        "censored_date": "2023-02-05 18:14:53",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/GrD8UHg7bpFEIZsISOZitg",
+        "title": "美国核弹道发射井上空发现中国热气球，布林肯因此或推迟访华！日本二战的时候向美国放了1万个气球炸弹！",
+        "nickname": "蔡子博士说美国",
+        "created_at": "2023-02-04",
+        "archive": "gh_c1c03f148324_2023-02-04_missing_sJzyIqSp6H.y.tar.gz",
+        "censored_date": "2023-02-05 18:16:59",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
