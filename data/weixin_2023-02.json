@@ -1755,7 +1755,8 @@
         "created_at": "2023-02-05",
         "archive": "gh_1fffc957483c_2023-02-05_2247625845_y9hbYqQvnH.y.tar.gz",
         "censored_date": "2023-02-07 17:35:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-08 11:32:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MjMxNTkwMQ==&mid=2649706468&idx=2&sn=33c94e9456e88fd7839e582ea7dd2841&",
@@ -1766,7 +1767,7 @@
         "archive": "gh_d6aa875abccc_2023-02-05_2649706468_yV8G5iRTe2.y.tar.gz",
         "censored_date": "2023-02-07 17:37:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-02-06 04:57:48"
+        "update_date": "2023-02-08 11:30:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MzcwMDQ5NA==&mid=2247495598&idx=2&sn=b1d0944f07ecec4cd08f16311b6f5f49&",
@@ -1877,6 +1878,7 @@
     {
         "url": "mp.weixin.qq.com/s/FEKYmSKjpwy7VV7JyscfhQ",
         "title": "胡鑫宇案：适用 “ 他杀推定 ” 原则 ！",
+        "title_eng": "Hu Xinyu case: the principle of presumption of homicide applies!",
         "nickname": "武书剑的冬天",
         "created_at": "2023-02-04",
         "archive": "gh_ba8f2f01ab14_2023-02-04_missing_nqxmETQofS.y.tar.gz",
@@ -1886,11 +1888,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2ODk2ODg1Mw==&mid=2248344434&idx=1&sn=c2b6f1acbb25b83443b50cc75d72aa63&",
         "title": "动用战斗机、导弹，美国击落中国飞艇细节曝光！新加坡总理曾预言中美危机升级",
+        "title_eng": "Using fighter jets and missiles, the details of the US shooting down the Chinese airship were exposed! Singapore PM predicts escalation of US-China crisis",
         "nickname": "新加坡万事通",
         "created_at": "2023-02-05",
         "archive": "gh_4101f1a50d06_2023-02-05_2248344434_v058Twu2lf.y.tar.gz",
         "censored_date": "2023-02-08 11:06:29",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-02-06 11:18:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5Njc0NjAyMg==&mid=2247503741&idx=2&sn=751bce2a9a545a78f7a322a79ef09043",
+        "title": "别傻了！还在高价买翡翠？良心美女老板告诉你惊人内幕！",
+        "title_eng": "Do not be silly! Are you still buying emeralds at a high price? The conscientious beauty boss tells you the amazing inside story!",
+        "nickname": "港评",
+        "created_at": "2023-02-06",
+        "archive": "gh_ef50b9c2fb1e_2023-02-06_2247503741_SNKyshI8GF.y.tar.gz",
+        "censored_date": "2023-02-08 12:21:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/s5AbsKoYJDcAQhQbNkHXGQ",
+        "title": "风声｜ IPO改革下，还该不该对餐饮等行业上市实行限制？",
+        "title_eng": "Wind | Under the IPO reform, should there be restrictions on listings in catering and other industries?",
+        "nickname": "风声OPINION",
+        "created_at": "2023-02-05",
+        "archive": "gh_dd44601c2014_2023-02-05_missing_40CNic59ut.y.tar.gz",
+        "censored_date": "2023-02-08 12:17:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-06 11:09:33"
     }
 ]
