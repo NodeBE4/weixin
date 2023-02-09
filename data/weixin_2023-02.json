@@ -2340,6 +2340,7 @@
     {
         "url": "mp.weixin.qq.com/s/qKSeGMeYn-VvfvU6-c1Ylg",
         "title": "风暴！安靠上海：4000人放假！或酝酿重大裁员计划！",
+        "title_eng": "storm! Amkor Shanghai: 4,000 people are on vacation! Or a major layoff plan is brewing!",
         "nickname": "芯榜Pro",
         "created_at": "2023-02-08",
         "archive": "gh_b9635ae2c9d6_2023-02-08_missing_HGBjn21suZ.y.tar.gz",
@@ -2355,5 +2356,16 @@
         "archive": "gh_b90b8c6a2a5a_2023-02-09_2247488330_KguyOSvo9I.y.tar.gz",
         "censored_date": "2023-02-10 01:51:39",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNTQwMDc3OQ==&mid=2247492832&idx=2&sn=d02c082673b13955db89bed8061f00e6&",
+        "title": "海卫士工作系统说明",
+        "title_eng": "Description of Sea Guard Work System",
+        "nickname": "海卫士",
+        "created_at": "2023-02-05",
+        "archive": "gh_addfdf72197e_2023-02-05_2247492832_dNehtcMB73.y.tar.gz",
+        "censored_date": "2023-02-10 03:10:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-07 01:51:13"
     }
 ]
