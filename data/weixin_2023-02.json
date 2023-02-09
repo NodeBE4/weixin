@@ -2091,7 +2091,7 @@
         "archive": "gh_55054b03ea60_2023-02-07_2247491472_tgjsoIr0hF.y.tar.gz",
         "censored_date": "2023-02-09 04:59:00",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-02-07 18:04:29"
+        "update_date": "2023-02-09 20:11:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NzExMTE2MA==&mid=2247631509&idx=2&sn=0f9cb261963eb81c9859adb0a049a6ae&",
@@ -2177,6 +2177,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNTYyODE5MA==&mid=2247484778&idx=2&sn=f0395f531f29547603e5830b41da8a98&",
         "title": "胡同志：搞“台独”就没法商量",
+        "title_eng": "Comrade Hu: There is no way to discuss Taiwan independence",
         "nickname": "言马之声",
         "created_at": "2023-02-07",
         "archive": "gh_3021e7b3ff10_2023-02-07_2247484778_kDMze0XWSr.y.tar.gz",
@@ -2186,6 +2187,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NDEyNzAzMg==&mid=2247496516&idx=1&sn=082665ed323685f6e8251b20a81975a0&",
         "title": "某头部央企，将开始大规模裁员",
+        "title_eng": "A leading central enterprise will start large-scale layoffs",
         "nickname": "猫哥侃地产",
         "created_at": "2023-02-07",
         "archive": "gh_5bbfa6de0233_2023-02-07_2247496516_bdofl9vOam.y.tar.gz",
@@ -2195,10 +2197,20 @@
     {
         "url": "mp.weixin.qq.com/s/GlTMNYj4wtP6LkBjGNo2-Q",
         "title": "《后现代解论语》——《学而第一》（下）",
+        "title_eng": "Postmodern Interpretation of Analects of Confucius - Study First (Part 2)",
         "nickname": "继续者人文理论",
         "created_at": "2023-02-07",
         "archive": "gh_2ae142701e01_2023-02-07_missing_aDqFQlbfN4.y.tar.gz",
         "censored_date": "2023-02-09 18:49:24",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUxMjk0MDE1MQ==&mid=2247731899&idx=1&sn=956c938ef31599cb5d0ac6432363f169&",
+        "title": "空了！南京大型商超要关了？",
+        "nickname": "南京开盘",
+        "created_at": "2023-02-07",
+        "archive": "gh_46608c5acf92_2023-02-07_2247731899_wfa3cvj7B1.y.tar.gz",
+        "censored_date": "2023-02-09 20:44:20",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
