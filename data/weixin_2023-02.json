@@ -1972,7 +1972,7 @@
         "archive": "gh_8abfde54fc60_2023-01-31_2247503859_DjkPgUBKui.y.tar.gz",
         "censored_date": "2023-02-08 16:28:54",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-02-07 05:29:46"
+        "update_date": "2023-02-09 08:18:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MjU3NTU2Mg==&mid=2247483828&idx=1&sn=bfeb21723c7a5c1090a2b801ebdc6a61&",
@@ -1983,7 +1983,7 @@
         "archive": "gh_f3ca68d11e20_2023-02-01_2247483828_UJoCM9zN01.y.tar.gz",
         "censored_date": "2023-02-08 17:07:15",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-02-07 06:07:59"
+        "update_date": "2023-02-09 08:57:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNTkyMDQwNg==&mid=2247778389&idx=3&sn=4e760cf21c493ee4537aea17b5a38080&",
@@ -2088,5 +2088,15 @@
         "censored_date": "2023-02-09 04:59:00",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-02-07 18:04:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4NzExMTE2MA==&mid=2247631509&idx=2&sn=0f9cb261963eb81c9859adb0a049a6ae&",
+        "title": "BMJ子刊发布：FOURIER研究再引讨论，原始临床研究报告有何新发现？",
+        "title_eng": "BMJ Sub-Journal Release: Fourier Research Re-Citation Discussion, What's New in the Original Clinical Research Report?",
+        "nickname": "医学界心血管频道",
+        "created_at": "2023-02-06",
+        "archive": "gh_3466b4505dbb_2023-02-06_2247631509_Lu06hsUXN8.y.tar.gz",
+        "censored_date": "2023-02-09 07:25:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
