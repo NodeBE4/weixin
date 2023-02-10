@@ -2403,6 +2403,7 @@
     {
         "url": "mp.weixin.qq.com/s/elGqaZglIE7nAFlYjwx9zw",
         "title": "ChatGPT注册、ChatGPT接入公众号和小程序以及微信的保姆级教程！",
+        "title_eng": "ChatGPT registration, ChatGPT access to official accounts and mini programs, and WeChat nanny-level tutorials!",
         "nickname": "Claude AI 智能助手",
         "created_at": "2023-02-04",
         "archive": "gh_2ffa7cecab4b_2023-02-04_missing_8MBGpLdNQv.y.tar.gz",
@@ -2433,10 +2434,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwODQxMDI0Mg==&mid=2247485110&idx=2&sn=202044cf36f4abd6ae5229c5783c5b95&",
         "title": "目前支持CoreDAO 的主要交易所",
+        "title_eng": "Major exchanges currently supporting CoreDAO",
         "nickname": "Core DAO",
         "created_at": "2023-02-07",
         "archive": "gh_568dad267dd6_2023-02-07_2247485110_yjW1ZQnwFu.y.tar.gz",
         "censored_date": "2023-02-10 09:38:54",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwODQxMDI0Mg==&mid=2247485110&idx=1&sn=26f16e6b8e21773fb31d1184974737b5&",
+        "title": "冻结即是审核通过，审核正在陆续进行中~",
+        "nickname": "Core DAO",
+        "created_at": "2023-02-07",
+        "archive": "gh_568dad267dd6_2023-02-07_2247485110_8RcxkVjMqG.y.tar.gz",
+        "censored_date": "2023-02-10 10:47:41",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2023-02-08 22:11:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ5MzY3Mw==&mid=2653695326&idx=2&sn=9086f90fa1e8b101ee5e7dc7661e6125&",
+        "title": "学管理，通经营，请看这两本手册",
+        "nickname": "南开大熊",
+        "created_at": "2023-02-08",
+        "archive": "gh_93785508e4cf_2023-02-08_2653695326_H783vEGnCU.y.tar.gz",
+        "censored_date": "2023-02-10 10:55:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-10 05:55:03"
     }
 ]
