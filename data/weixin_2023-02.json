@@ -2444,6 +2444,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwODQxMDI0Mg==&mid=2247485110&idx=1&sn=26f16e6b8e21773fb31d1184974737b5&",
         "title": "冻结即是审核通过，审核正在陆续进行中~",
+        "title_eng": "Freezing means passing the review, and the review is in progress~",
         "nickname": "Core DAO",
         "created_at": "2023-02-07",
         "archive": "gh_568dad267dd6_2023-02-07_2247485110_8RcxkVjMqG.y.tar.gz",
@@ -2454,11 +2455,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ5MzY3Mw==&mid=2653695326&idx=2&sn=9086f90fa1e8b101ee5e7dc7661e6125&",
         "title": "学管理，通经营，请看这两本手册",
+        "title_eng": "Learn management, master business, please read these two manuals",
         "nickname": "南开大熊",
         "created_at": "2023-02-08",
         "archive": "gh_93785508e4cf_2023-02-08_2653695326_H783vEGnCU.y.tar.gz",
         "censored_date": "2023-02-10 10:55:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-02-10 05:55:03"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NzM2Mjg5Nw==&mid=2247484112&idx=2&sn=22b2a8e9b5ae9285fe912fcd6baf316a&",
+        "title": "超火的中文版ChatGPT，你想怎么玩？（免注册体验）",
+        "title_eng": "How do you want to play the super popular Chinese version of ChatGPT? (Registration-free experience)",
+        "nickname": "OPENAI Chat机器人",
+        "created_at": "2023-02-07",
+        "archive": "gh_f3ed7e41bbdd_2023-02-07_2247484112_XsCTfl8UOH.y.tar.gz",
+        "censored_date": "2023-02-10 11:04:20",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-08 22:19:19"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwODQxMDI0Mg==&mid=2247485132&idx=1&sn=64250e3148951da882d5b550dbefe888&",
+        "title": "CORE提币细节公布（官方版）",
+        "title_eng": "CORE withdrawal details announced (official version)",
+        "nickname": "Core DAO",
+        "created_at": "2023-02-08",
+        "archive": "gh_568dad267dd6_2023-02-08_2247485132_Au0GKeWCyY.y.tar.gz",
+        "censored_date": "2023-02-10 11:12:01",
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2023-02-09 00:05:58"
     }
 ]
