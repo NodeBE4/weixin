@@ -2143,7 +2143,7 @@
         "archive": "gh_478953918d15_2023-02-06_2247484058_vHf9Gmy6np.y.tar.gz",
         "censored_date": "2023-02-09 12:03:47",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-02-08 05:01:53"
+        "update_date": "2023-02-10 08:38:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MDUzMDAwMw==&mid=2247503739&idx=6&sn=6a32903256dea207841420f8bec71242&",
@@ -2388,15 +2388,55 @@
         "archive": "gh_3f4caafb6892_2022-11-25_2247526046_3edbs0D8Qp.y.tar.gz",
         "censored_date": "2023-02-10 05:19:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-02-08 23:29:46"
+        "update_date": "2023-02-10 09:55:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMjIyMTM3Nw==&mid=2247532869&idx=7&sn=dcf72a8940cc25c6cdb3a963b073c7f0&",
         "title": "解放军开始装备便携式氧气机，印度军人：酸葡萄心理加不理解",
+        "title_eng": "The People's Liberation Army began to equip portable oxygen machines, Indian soldiers: sour grapes and do not understand",
         "nickname": "军事观察局",
         "created_at": "2023-01-13",
         "archive": "gh_784b27b41f40_2023-01-13_2247532869_iKZLBoE6Ww.y.tar.gz",
         "censored_date": "2023-02-10 06:43:26",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/elGqaZglIE7nAFlYjwx9zw",
+        "title": "ChatGPT注册、ChatGPT接入公众号和小程序以及微信的保姆级教程！",
+        "nickname": "Claude AI 智能助手",
+        "created_at": "2023-02-04",
+        "archive": "gh_2ffa7cecab4b_2023-02-04_missing_8MBGpLdNQv.y.tar.gz",
+        "censored_date": "2023-02-10 09:46:57",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-02-09 13:06:25"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/g1qB4PpddqJ4MCF7H3syuQ",
+        "title": "全网只有他才能打败胡大V",
+        "title_eng": "Only he can defeat Hu Da V in the whole network",
+        "nickname": "猫眼看天下",
+        "created_at": "2023-02-08",
+        "archive": "gh_df20930273c9_2023-02-08_missing_Dw3vZHp1q7.y.tar.gz",
+        "censored_date": "2023-02-10 08:10:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/KgZAJ8IpqUJBCWFiSYoCGQ",
+        "title": "李文亮医生去世后的1096天，都发生了什么",
+        "title_eng": "What happened in the 1096 days after the death of Dr. Li Wenliang?",
+        "nickname": "新东路1号",
+        "created_at": "2023-02-07",
+        "archive": "gh_1b8bd3820b76_2023-02-07_missing_DZxzY0UmgS.y.tar.gz",
+        "censored_date": "2023-02-10 08:25:05",
+        "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwODQxMDI0Mg==&mid=2247485110&idx=2&sn=202044cf36f4abd6ae5229c5783c5b95&",
+        "title": "目前支持CoreDAO 的主要交易所",
+        "nickname": "Core DAO",
+        "created_at": "2023-02-07",
+        "archive": "gh_568dad267dd6_2023-02-07_2247485110_yjW1ZQnwFu.y.tar.gz",
+        "censored_date": "2023-02-10 09:38:54",
+        "censored_msg": "此帐号已被屏蔽,"
     }
 ]
