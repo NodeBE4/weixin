@@ -2981,6 +2981,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0ODA0NjE4Ng==&mid=2247486129&idx=1&sn=020ba679726e74d6d6b1cfa5d0e2038a&",
         "title": "拜登国情咨文全文：今晚，我首先祝贺……",
+        "title_eng": "Full text of Biden's State of the Union address: Tonight, I start by congratulating...",
         "created_at": "2023-02-09",
         "archive": "gh_ade653ba7e9b_2023-02-09_2247486129_sQg1fVJAWC.y.tar.gz",
         "censored_date": "2023-02-12 06:08:09",
@@ -2989,6 +2990,7 @@
     {
         "url": "mp.weixin.qq.com/s/uvQZBfJH3XLQVgIkyYEAbw",
         "title": "犹太思想的威力",
+        "title_eng": "The Power of Jewish Thought",
         "nickname": "太初之道",
         "created_at": "2023-02-10",
         "archive": "gh_f172a3511c34_2023-02-10_missing_NyEX59VtSL.y.tar.gz",
@@ -2998,10 +3000,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MTAzMDE3Mw==&mid=2247483916&idx=1&sn=23ec04903ce17c3d0344e8e0ae46b9df&",
         "title": "一个人的时光",
+        "title_eng": "alone time",
         "nickname": "花一些无用的时间",
         "created_at": "2023-02-08",
         "archive": "gh_cb622e9b7b26_2023-02-08_2247483916_vA9U2lXn0O.y.tar.gz",
         "censored_date": "2023-02-12 05:31:52",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NzQzMTA2MQ==&mid=2247519918&idx=1&sn=1d308b7a60ff48399f20a5f9a4cb215d&",
+        "title": "西方反普不反俄，斯特列科夫：若真有万一，普京也不太可能去中国“避难”",
+        "nickname": "鹰眼Defence",
+        "created_at": "2023-02-09",
+        "archive": "gh_9622c698d5df_2023-02-09_2247519918_LEIHbwyMtN.y.tar.gz",
+        "censored_date": "2023-02-12 06:42:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-11 11:18:10"
     }
 ]
