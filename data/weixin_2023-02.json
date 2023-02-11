@@ -2405,7 +2405,8 @@
         "created_at": "2023-01-13",
         "archive": "gh_784b27b41f40_2023-01-13_2247532869_iKZLBoE6Ww.y.tar.gz",
         "censored_date": "2023-02-10 06:43:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-11 12:21:16"
     },
     {
         "url": "mp.weixin.qq.com/s/elGqaZglIE7nAFlYjwx9zw",
@@ -2734,11 +2735,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTU3Mzk2OA==&mid=2654826704&idx=3&sn=f4186c84c2aacfa52ac3c2d7a061db4f&",
         "title": "可爱福兔，让你守福待兔​",
+        "title_eng": "Cute lucky rabbit, let you be blessed and wait for the rabbit​",
         "nickname": "正解局",
         "created_at": "2023-02-07",
         "archive": "gh_97e476d7863b_2023-02-07_2654826704_QIyjTpalm6.y.tar.gz",
         "censored_date": "2023-02-11 11:00:29",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-02-11 11:23:26"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2OTgxNjQ3MQ==&mid=2247484267&idx=2&sn=4bd3fbf83f07c18ecba3353ac0a8a05d&",
+        "title": "如何免费使用AI软件聊天ChatGPT",
+        "nickname": "黄加一的备忘录",
+        "created_at": "2023-02-07",
+        "archive": "gh_76087867bfdb_2023-02-07_2247484267_I2DBT0uxtV.y.tar.gz",
+        "censored_date": "2023-02-11 12:28:11",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
