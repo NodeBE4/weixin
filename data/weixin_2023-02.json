@@ -3195,7 +3195,8 @@
         "created_at": "2023-02-10",
         "archive": "gh_d2847aa9bcf0_2023-02-10_missing_WTJmtDUyco.y.tar.gz",
         "censored_date": "2023-02-13 06:58:37",
-        "censored_msg": "此帐号已被屏蔽,"
+        "censored_msg": "此帐号已被屏蔽,",
+        "update_date": "2023-02-13 21:07:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzODMxMjU3OQ==&mid=2247488272&idx=1&sn=9ec35d46067ccd23d4c1be6b69171929&",
@@ -3335,6 +3336,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2OTU5Njg2Mg==&mid=2247531170&idx=3&sn=6052c6730d7a0bb3d368332b43c59d3a&",
         "title": "开始了，中美之战不是说说而已，时隔七十年，美军再次启用新基地",
+        "title_eng": "The war between China and the United States is not just talking. After 70 years, the US military has once again opened a new base",
         "nickname": "防务全球观察",
         "created_at": "2023-02-07",
         "archive": "gh_3f4caafb6892_2023-02-07_2247531170_80PzxoTZy1.y.tar.gz",
