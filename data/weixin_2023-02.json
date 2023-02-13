@@ -3270,6 +3270,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMTg5OTM2NQ==&mid=2247484028&idx=1&sn=238aff5ef6cb14e9e03ff43eb6b9b382&",
         "title": "12月大疫情以来超额死亡多少人？",
+        "title_eng": "How many people have died since the outbreak in December?",
         "nickname": "第三思维",
         "created_at": "2023-02-11",
         "archive": "gh_9bff5bce5a7f_2023-02-11_2247484028_sIbAhlO3oS.y.tar.gz",
@@ -3279,10 +3280,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MjIwNzM3MA==&mid=2247776775&idx=1&sn=74cf121b10830e163d91374158802e64&",
         "title": "《狂飙》剧组严正声明：立即停止！",
+        "title_eng": "The crew of Hurricane solemnly declares: Stop immediately!",
         "nickname": "深圳生活Life",
         "created_at": "2023-02-05",
         "archive": "gh_a7ba8e1b9e8d_2023-02-05_2247776775_t4OkXnIxYz.y.tar.gz",
         "censored_date": "2023-02-13 16:54:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/RUxpwL5Nf98GctgWdiLdVQ",
+        "title": "独家丨拿到ChatGPT版Bing搜索的内测后，我觉得所有大厂都该慌了。",
+        "nickname": "差评",
+        "created_at": "2023-02-12",
+        "archive": "gh_2ba2404c01c0_2023-02-12_missing_DrTP7zCJUw.y.tar.gz",
+        "censored_date": "2023-02-13 18:10:31",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
