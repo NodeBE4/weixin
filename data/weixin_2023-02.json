@@ -3139,7 +3139,8 @@
         "created_at": "2023-02-10",
         "archive": "gh_dba1802ac4ad_2023-02-10_2247483717_ge5XWwQVyq.y.tar.gz",
         "censored_date": "2023-02-12 18:36:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-13 08:35:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwMjMyMTI5MQ==&mid=2247483812&idx=1&sn=ade71e2c372cef1df533bcd2f10783a9&",
@@ -3184,10 +3185,32 @@
     {
         "url": "mp.weixin.qq.com/s/jg1f59rGWZHr9H36Bexptw",
         "title": "启示录八：ChatGPT再爆AI取代人类？远不及“死亡交叉”及“25号宇宙”预警",
+        "title_eng": "Revelation 8: ChatGPT explodes AI to replace humans again? Far less than the warning of Death Cross and Universe 25",
         "nickname": "格致产业发展",
         "created_at": "2023-02-10",
         "archive": "gh_d2847aa9bcf0_2023-02-10_missing_WTJmtDUyco.y.tar.gz",
         "censored_date": "2023-02-13 06:58:37",
         "censored_msg": "此帐号已被屏蔽,"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzODMxMjU3OQ==&mid=2247488272&idx=1&sn=9ec35d46067ccd23d4c1be6b69171929&",
+        "title": "100-300天 简单好做",
+        "title_eng": "100-300 days, simple and easy to do",
+        "nickname": "周映北",
+        "created_at": "2023-02-08",
+        "archive": "gh_bfe4a66210ca_2023-02-08_2247488272_8Fp71T9vVl.y.tar.gz",
+        "censored_date": "2023-02-13 07:48:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NTcxMzU0MA==&mid=2247505826&idx=1&sn=a5802ce636ad5eff083433bfcce450ce&",
+        "title": "云南双胞胎兄弟失踪事件内幕曝光，老百姓不想看到的幕后黑手",
+        "title_eng": "The inside story of the disappearance of the twin brothers in Yunnan was exposed, and the people behind the scene did not want to see",
+        "nickname": "浑水扒娱",
+        "created_at": "2023-02-11",
+        "archive": "gh_6d775ad0f1b2_2023-02-11_2247505826_h0kAGctazb.y.tar.gz",
+        "censored_date": "2023-02-13 07:24:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-12 01:16:31"
     }
 ]
