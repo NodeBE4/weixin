@@ -3618,7 +3618,8 @@
         "created_at": "2023-02-12",
         "archive": "gh_5b2dc7fd9d5b_2023-02-12_2652935240_t2D9TsVfdP.y.tar.gz",
         "censored_date": "2023-02-15 00:45:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-15 03:11:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MDA5ODk0OA==&mid=2247507164&idx=1&sn=89da67a832cf0dee564a3cecf0e2899c&",
@@ -3638,6 +3639,15 @@
         "created_at": "2023-02-10",
         "archive": "gh_26799ed6e0f5_2023-02-10_2247483788_mNAB6QWrL5.y.tar.gz",
         "censored_date": "2023-02-15 01:48:34",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMjYyNDc2NQ==&mid=2247483869&idx=1&sn=fc1772dd253beda9dadfeb62cf6f6813&",
+        "title": "你永远胜过别人，至少在我这里",
+        "nickname": "天马行空的白羊座",
+        "created_at": "2023-02-12",
+        "archive": "gh_7e94f724bbcd_2023-02-12_2247483869_wDOmPKQMn4.y.tar.gz",
+        "censored_date": "2023-02-15 02:45:40",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
