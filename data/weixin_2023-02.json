@@ -3543,7 +3543,8 @@
         "created_at": "2023-02-11",
         "archive": "gh_336ea9863c03_2023-02-11_2651843347_0ODqTcyEU9.y.tar.gz",
         "censored_date": "2023-02-14 19:03:02",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-14 21:27:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0MDMwMTA5OA==&mid=2247484265&idx=1&sn=89133d486585f1d7e4de8b031f26ad70&",
@@ -3559,10 +3560,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3OTg1MTQ3OA==&mid=2247493674&idx=1&sn=c368e3c21474ee4764ae4cc697660255&",
         "title": "一个大利好",
+        "title_eng": "a big plus",
         "nickname": "清华女生的游资之路",
         "created_at": "2023-02-12",
         "archive": "gh_ee8d527dce82_2023-02-12_2247493674_lpvF87CTxE.y.tar.gz",
         "censored_date": "2023-02-14 20:36:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NzE4MjIxMQ==&mid=2247484326&idx=1&sn=b7c86a18501fcc42ae249c54b2867cae&",
+        "title": "深圳一货代公司欠债400万 上百家跨境卖家被要求补钱赎货",
+        "title_eng": "A freight forwarding company in Shenzhen owed 4 million yuan in debt, and hundreds of cross-border sellers were asked to make up money to redeem the goods",
+        "nickname": "公孙冰",
+        "created_at": "2023-02-13",
+        "archive": "gh_c884c8b3985a_2023-02-13_2247484326_W8zGtIVe2y.y.tar.gz",
+        "censored_date": "2023-02-14 21:02:00",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
