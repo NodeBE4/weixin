@@ -3993,6 +3993,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxNjMzMzU0MA==&mid=2247496133&idx=1&sn=6e0c0718d71ae5ee3be77ae0a9b817be&",
         "title": "不叫的狗，咬人更狠！这个老头子，坏透了，外媒：更狠辣的，还在后面",
+        "title_eng": "A dog that doesn't bark bites harder! This old man is so bad, foreign media: the more ruthless ones are yet to come",
         "nickname": "犟牛科技说",
         "created_at": "2023-02-12",
         "archive": "gh_8cff2edc09f1_2023-02-12_2247496133_se9RY0ClXW.y.tar.gz",
@@ -4003,6 +4004,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0Mjg4MTM3OQ==&mid=2247488807&idx=1&sn=7df1555fe6e8c18617094d6317c778cc&",
         "title": "A股打板“惯犯”再次连板",
+        "title_eng": "The recidivist of the A-share board hits the board again",
         "nickname": "威威老师",
         "created_at": "2023-02-15",
         "archive": "gh_1f9b508c2be6_2023-02-15_2247488807_DdClT3heOH.y.tar.gz",
@@ -4013,10 +4015,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNTAzMzM2Ng==&mid=2247485729&idx=1&sn=9f1f87f27c6aa91c8ba6092b3623d999&",
         "title": "π尼古拉斯月底重点发展上线珠网",
+        "title_eng": "At the end of the month, π Nicholas will focus on the development and launch of Zhuwang",
         "nickname": "数字圈分析",
         "created_at": "2023-02-16",
         "archive": "gh_301258979f57_2023-02-16_2247485729_lSFUk0RpXn.y.tar.gz",
         "censored_date": "2023-02-17 03:30:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/s-PjHRUXoWf0k7uZqy0uCA",
+        "title": "关于百度版ChatGPT，我们找内部同学聊了聊",
+        "nickname": "深厂",
+        "created_at": "2023-02-13",
+        "archive": "gh_77819f20a96b_2023-02-13_missing_dq8CVOlhSL.y.tar.gz",
+        "censored_date": "2023-02-17 04:57:24",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-15 18:30:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NTYyNzA2OQ==&mid=2651025414&idx=2&sn=3f985735f4de6062cb98f7518c10f199&",
+        "title": "实录：我被拐卖后，被男人打成了一个傻子",
+        "nickname": "何德恺",
+        "created_at": "2023-01-06",
+        "archive": "gh_3ea28493fa12_2023-01-06_2651025414_rHzP2DUEFl.y.tar.gz",
+        "censored_date": "2023-02-17 04:38:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-02-15 18:10:55"
     }
 ]
