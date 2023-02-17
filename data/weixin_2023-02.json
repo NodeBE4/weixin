@@ -3889,7 +3889,7 @@
         "archive": "gh_224ab9ab2534_2023-02-14_2247483741_R7PKTZCoyd.y.tar.gz",
         "censored_date": "2023-02-16 06:55:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-02-14 21:02:51"
+        "update_date": "2023-02-17 14:08:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NTkzNzgxMQ==&mid=2247489525&idx=1&sn=c281d010178bc2b3ad674bd78a6baa47&",
@@ -4102,6 +4102,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDE3MjUyMQ==&mid=2650704678&idx=1&sn=1b99af92038472442a6e98ccfdcdfc53&",
         "title": "【2.3.1】全球能源结构转型下，万亿氢能赛道风起云涌｜华兴报告",
+        "title_eng": "[2.3.1] Under the transformation of the global energy structure, the trillion-dollar hydrogen energy track is surging｜Huaxing Report",
         "nickname": "华兴资本",
         "created_at": "2023-02-15",
         "archive": "gh_e23d4eb0d063_2023-02-15_2650704678_oxzK5kEPFi.y.tar.gz",
@@ -4111,10 +4112,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwMDE3MjUyMQ==&mid=2650704671&idx=1&sn=f377aef58f43b51d10c000b6a6fc66c2&",
         "title": "【2.2】全球能源结构转型下，万亿氢能赛道风起云涌｜华兴报告",
+        "title_eng": "[2.2] Under the transformation of the global energy structure, the trillion-dollar hydrogen energy track is surging｜Huaxing Report",
         "nickname": "华兴资本",
         "created_at": "2023-02-15",
         "archive": "gh_e23d4eb0d063_2023-02-15_2650704671_0gFQHbMyYd.y.tar.gz",
         "censored_date": "2023-02-17 13:18:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3ODkwODE4Ng==&mid=2650356950&idx=3&sn=2c39578e6c56b59752ab7064f7165de0&",
+        "title": "我劝你朋友圈千万不要设置三天可见！",
+        "title_eng": "I advise you not to set your circle of friends to be visible for three days!",
+        "nickname": "旅拍誌",
+        "created_at": "2023-02-13",
+        "archive": "gh_2f39d4ba7907_2023-02-13_2650356950_JFM0H1xoCY.y.tar.gz",
+        "censored_date": "2023-02-17 13:26:25",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMDE3MjUyMQ==&mid=2650704672&idx=1&sn=049bc7612f7911f5fcd656279f18f78b&",
+        "title": "【2.1】全球能源结构转型下，万亿氢能赛道风起云涌｜华兴报告",
+        "title_eng": "[2.1] Under the transformation of the global energy structure, the trillion-dollar hydrogen energy track is surging｜Huaxing Report",
+        "nickname": "华兴资本",
+        "created_at": "2023-02-15",
+        "archive": "gh_e23d4eb0d063_2023-02-15_2650704672_gk6fNEW87p.y.tar.gz",
+        "censored_date": "2023-02-17 14:15:26",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
