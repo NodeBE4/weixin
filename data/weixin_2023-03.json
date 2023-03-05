@@ -884,7 +884,8 @@
         "created_at": "2023-03-02",
         "archive": "gh_66bcd9de90e2_2023-03-02_2247610638_0sWvq6jO3E.y.tar.gz",
         "censored_date": "2023-03-04 23:31:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-06 02:02:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4MDcxNTI4MQ==&mid=2247483799&idx=1&sn=b3ddcfc227b4a1dfc1cc2b4b2fbf4da0&",
@@ -972,5 +973,15 @@
         "archive": "gh_f423fb00ffb8_2023-03-05_2650407048_ngcy5Yphbu.y.tar.gz",
         "censored_date": "2023-03-06 00:35:39",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjQ1NDYxNQ==&mid=2658556684&idx=1&sn=56904d6436df0db01cb9a462d073e44d&",
+        "title": "“用公款拍写真”？女局长零下20℃穿长裙拍照被质疑，本人回应！",
+        "nickname": "器材库",
+        "created_at": "2023-02-27",
+        "archive": "gh_6d58c01269ff_2023-02-27_2658556684_WGnMCKQx21.y.tar.gz",
+        "censored_date": "2023-03-06 01:46:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-04 23:56:50"
     }
 ]
