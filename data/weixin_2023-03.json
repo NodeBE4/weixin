@@ -1721,7 +1721,7 @@
         "archive": "gh_35a1c902f1ec_2023-03-10_2247487316_wFz4hX7oGu.y.tar.gz",
         "censored_date": "2023-03-13 09:47:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-03-11 23:05:25"
+        "update_date": "2023-03-13 17:03:19"
     },
     {
         "url": "mp.weixin.qq.com/s/qMuYrYC4oGIrQnDJlcLHyw",
@@ -1730,6 +1730,15 @@
         "created_at": "2023-03-11",
         "archive": "gh_2a2187031eb8_2023-03-11_missing_VvOlSo2Mt9.y.tar.gz",
         "censored_date": "2023-03-13 11:46:55",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/mrb3Havd_UwQrS0TJi47ng",
+        "title": "人物志｜大医医国！中国医生蒋彦永去世了…",
+        "nickname": "中城读书会",
+        "created_at": "2023-03-13",
+        "archive": "gh_c7fa631eca7c_2023-03-13_missing_fH1L5ku9re.y.tar.gz",
+        "censored_date": "2023-03-13 16:58:18",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
