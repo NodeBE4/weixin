@@ -1730,7 +1730,8 @@
         "created_at": "2023-03-11",
         "archive": "gh_2a2187031eb8_2023-03-11_missing_VvOlSo2Mt9.y.tar.gz",
         "censored_date": "2023-03-13 11:46:55",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-13 18:51:08"
     },
     {
         "url": "mp.weixin.qq.com/s/mrb3Havd_UwQrS0TJi47ng",
@@ -1740,5 +1741,15 @@
         "archive": "gh_c7fa631eca7c_2023-03-13_missing_fH1L5ku9re.y.tar.gz",
         "censored_date": "2023-03-13 16:58:18",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU1MzYxNzQ3Mg==&mid=2247486608&idx=1&sn=3de653d48a28f233992df7762a640695&",
+        "title": "分享一个工行羊毛~",
+        "nickname": "暖蜜时光",
+        "created_at": "2023-03-08",
+        "archive": "gh_0a04130f234b_2023-03-08_2247486608_s0dL1GRwtX.y.tar.gz",
+        "censored_date": "2023-03-13 18:34:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-13 17:34:25"
     }
 ]
