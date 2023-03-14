@@ -1884,7 +1884,8 @@
         "created_at": "2023-03-12",
         "archive": "gh_275fa242173d_2023-03-12_missing_LO1MJIg7YA.y.tar.gz",
         "censored_date": "2023-03-14 05:44:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-14 14:21:30"
     },
     {
         "url": "mp.weixin.qq.com/s/XBqhQU6r3wxWvwWFDA3-jQ",
@@ -1914,5 +1915,14 @@
         "censored_date": "2023-03-14 12:42:12",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-03-13 15:57:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4OTg2NTY0OA==&mid=2247503468&idx=3&sn=491bd1006e7f8ceab829e8325b0715bd&",
+        "title": "硅谷银行倒闭事件可能让中国股市投资者更加忧心忡忡",
+        "nickname": "路透财经早报",
+        "created_at": "2023-03-13",
+        "archive": "gh_dea30afca0a4_2023-03-13_2247503468_bBxOMwoS2K.y.tar.gz",
+        "censored_date": "2023-03-14 13:37:38",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
