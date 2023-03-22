@@ -2756,7 +2756,8 @@
         "created_at": "2023-03-20",
         "archive": "gh_d065b4a00fc9_2023-03-20_missing_sgv2tXQ3Az.y.tar.gz",
         "censored_date": "2023-03-22 08:53:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-22 15:41:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTU3Mjg0MQ==&mid=2652878046&idx=1&sn=f2da442ba986c2f85e2efedbf964b0b7&",
@@ -2766,5 +2767,14 @@
         "archive": "gh_44e637e75845_2023-03-21_2652878046_FIoTPN4KbS.y.tar.gz",
         "censored_date": "2023-03-22 11:10:24",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Dc9CgdFK93-bNlpWBzYNYg",
+        "title": "剑指美元霸权，中国疯狂抛售美国国债！",
+        "nickname": "中美纪实",
+        "created_at": "2023-03-21",
+        "archive": "gh_ce7ac9006200_2023-03-21_missing_HbSL5Yx0NO.y.tar.gz",
+        "censored_date": "2023-03-22 16:00:21",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
