@@ -2777,7 +2777,8 @@
         "created_at": "2023-03-21",
         "archive": "gh_ce7ac9006200_2023-03-21_missing_HbSL5Yx0NO.y.tar.gz",
         "censored_date": "2023-03-22 16:00:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-23 22:17:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247528311&idx=1&sn=3fe414f3116cdcbbc0a1b7b2073b529c&",
@@ -2836,5 +2837,15 @@
         "censored_date": "2023-03-23 19:56:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-03-20 15:20:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/z2T5aLAqa94xebSdXK2GBw",
+        "title": "到底是谁杀害了在非洲的中国人",
+        "nickname": "老鱼有话说",
+        "created_at": "2023-03-22",
+        "archive": "gh_c842b201a869_2023-03-22_missing_zKgD7rZ9mv.y.tar.gz",
+        "censored_date": "2023-03-23 22:25:16",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-22 15:04:40"
     }
 ]
