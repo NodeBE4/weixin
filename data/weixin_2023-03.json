@@ -2887,7 +2887,8 @@
         "created_at": "2023-03-22",
         "archive": "gh_c197e23ffcda_2023-03-22_2457912045_4sFNRYAVIh.y.tar.gz",
         "censored_date": "2023-03-24 04:29:56",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-25 09:54:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNjE5NzU0Mg==&mid=2247486916&idx=1&sn=b28fcfaab3eaea5834433e9050316990&",
@@ -3072,6 +3073,15 @@
         "created_at": "2023-03-23",
         "archive": "gh_1f46f9437399_2023-03-23_2247484155_Nrgmbfzi9l.y.tar.gz",
         "censored_date": "2023-03-25 08:09:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4MjQ2NTczOQ==&mid=2247541548&idx=5&sn=24e1e1787c267fb8a60360d90ce5af49&",
+        "title": "《报告党的二十大学习辅导百问》8.如何理解我们的工作还存在一些不足，面临不少困难和问题？",
+        "nickname": "五寨县融媒体中心",
+        "created_at": "2023-03-23",
+        "archive": "gh_cf7a051a68e1_2023-03-23_2247541548_l9Mp2F30oy.y.tar.gz",
+        "censored_date": "2023-03-25 10:08:29",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
