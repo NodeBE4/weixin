@@ -3036,7 +3036,8 @@
         "created_at": "2023-03-24",
         "archive": "gh_3a08713933e8_2023-03-24_2649568494_RtX03V8ce5.y.tar.gz",
         "censored_date": "2023-03-25 00:50:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-03-26 11:53:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxOTI3NTk5MA==&mid=2247485557&idx=1&sn=a9a960d86bd3a687b3cd9b6b6cbc0242&",
@@ -3213,5 +3214,14 @@
         "archive": "gh_607f16db21a4_2023-03-25_missing_kFj3JaxDHe.y.tar.gz",
         "censored_date": "2023-03-26 11:23:55",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/o7yoHJ8T1-7UktrF0DmyWA",
+        "title": "全球化丧钟，不仅为张一鸣而鸣",
+        "nickname": "毛有话说",
+        "created_at": "2023-03-24",
+        "archive": "gh_097268c5ef0e_2023-03-24_missing_4rtyP3sQg0.y.tar.gz",
+        "censored_date": "2023-03-26 11:45:08",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
