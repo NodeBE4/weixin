@@ -3459,7 +3459,8 @@
         "created_at": "2023-03-28",
         "archive": "gh_cc232ec0a97a_2023-03-28_missing_nkXragAyJL.y.tar.gz",
         "censored_date": "2023-03-28 14:07:57",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-29 14:26:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxNDA0MjE4NQ==&mid=2649147795&idx=2&sn=7b30b55b189a8129f7d7b8cf0e8401de&",
@@ -3558,5 +3559,15 @@
         "censored_date": "2023-03-29 07:52:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-03-28 16:35:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwMzcyMDI1Nw==&mid=2247484098&idx=1&sn=5fb6b1dd4171a13900623c427b5e3bce&",
+        "title": "工具的水平决定文明的高度",
+        "nickname": "破壁人2号",
+        "created_at": "2023-03-27",
+        "archive": "gh_3a050c473988_2023-03-27_2247484098_NITzSOhuK7.y.tar.gz",
+        "censored_date": "2023-03-29 13:22:49",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-28 11:12:20"
     }
 ]
