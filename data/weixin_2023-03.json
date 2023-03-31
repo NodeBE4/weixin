@@ -3768,7 +3768,8 @@
         "created_at": "2023-03-29",
         "archive": "gh_6782120e4369_2023-03-29_2653060025_70F0E1HDWz.y.tar.gz",
         "censored_date": "2023-03-31 11:16:28",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-03-31 21:49:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDE1NjI3Mw==&mid=2653652528&idx=2&sn=44af4c49b442ba1e5f1746d98c3e954f&",
@@ -3809,5 +3810,15 @@
         "censored_date": "2023-03-31 21:18:13",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-03-31 16:14:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MTQ0NzM4OQ==&mid=2247541680&idx=1&sn=a5ff17f20eb706f5843e262ce04253cb&",
+        "title": "恒大真实负债，看得我头皮发麻……",
+        "nickname": "米宅资产严选",
+        "created_at": "2023-03-26",
+        "archive": "gh_671143c61d9d_2023-03-26_2247541680_m5AyxCoVYh.y.tar.gz",
+        "censored_date": "2023-03-31 22:19:04",
+        "censored_msg": "该公众号已迁移",
+        "update_date": "2023-03-30 00:48:31"
     }
 ]
