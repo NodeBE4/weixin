@@ -2284,7 +2284,8 @@
         "created_at": "2023-04-21",
         "archive": "gh_20818dd2019d_2023-04-21_2247545615_mIcH9hkp4G.y.tar.gz",
         "censored_date": "2023-04-23 10:27:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-04-23 13:11:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyODAxNjg0Mw==&mid=2247497664&idx=1&sn=417c7f285148fe1afde48e307b080efc&",
@@ -2293,7 +2294,8 @@
         "created_at": "2023-04-20",
         "archive": "gh_ca276f0c7105_2023-04-20_2247497664_3n9ozsw0kJ.y.tar.gz",
         "censored_date": "2023-04-23 10:18:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-04-23 13:01:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ0MTQxMg==&mid=2247528203&idx=1&sn=911ae9f67cfc1f953c94036533537ea3&",
@@ -2302,6 +2304,17 @@
         "created_at": "2023-04-20",
         "archive": "gh_57d1583d9995_2023-04-20_2247528203_iQdR5CZrSc.y.tar.gz",
         "censored_date": "2023-04-23 10:46:14",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-04-23 13:07:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MzU4NTgxNg==&mid=2247523004&idx=3&sn=ac74fed31989806464f5688433eba07d&",
+        "title": "刚刚，中方为法国送了一份“大礼”！",
+        "nickname": "晋观新闻",
+        "created_at": "2023-04-08",
+        "archive": "gh_4885e522e665_2023-04-08_2247523004_8dwRHQyjcY.y.tar.gz",
+        "censored_date": "2023-04-23 12:32:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-04-23 09:36:54"
     }
 ]
