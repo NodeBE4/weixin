@@ -667,7 +667,8 @@
         "created_at": "2023-05-03",
         "archive": "gh_acb23548d69b_2023-05-03_missing_CMl0Uj4PqQ.y.tar.gz",
         "censored_date": "2023-05-03 20:22:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-05-04 12:21:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTg5NDkzMQ==&mid=2247488363&idx=1&sn=2f1c90a2faf2ec059eb95b661af1dc51&",
@@ -688,5 +689,15 @@
         "censored_date": "2023-05-04 10:34:51",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-05-03 18:23:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/32wbBxTLfMV4oW0pHvWbMg",
+        "title": "工劳快讯：汕尾美团骑手罢工取得阶段性胜利",
+        "nickname": "封酒",
+        "created_at": "2023-05-03",
+        "archive": "gh_83e483a22ecb_2023-05-03_missing_rl9sekpZJa.y.tar.gz",
+        "censored_date": "2023-05-04 11:32:39",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-05-03 21:14:07"
     }
 ]
