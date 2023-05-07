@@ -748,7 +748,7 @@
         "archive": "gh_b24bf8ec1126_2023-05-04_missing_jaPO3Fb5X6.y.tar.gz",
         "censored_date": "2023-05-05 13:27:23",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-05-04 20:26:09"
+        "update_date": "2023-05-07 09:19:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4ODc2NTA5MQ==&mid=2247487070&idx=1&sn=44cbcaef45c9267c35109a2da56dc168&",
@@ -877,7 +877,7 @@
         "archive": "gh_cfbebd598c84_2023-05-05_missing_LsdBZpOjG1.y.tar.gz",
         "censored_date": "2023-05-07 02:03:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-05-06 01:44:10"
+        "update_date": "2023-05-07 07:32:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTQwMTYzNQ==&mid=2653681771&idx=1&sn=0e672731073bfedd48eb8e9eefa500b1&",
@@ -886,6 +886,17 @@
         "created_at": "2023-05-05",
         "archive": "gh_d2c60a06d747_2023-05-05_2653681771_aJtzjPL93O.y.tar.gz",
         "censored_date": "2023-05-07 03:05:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-05-07 08:28:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MTM0NTMyOTgwMQ==&mid=2656239535&idx=3&sn=69c8cc838f8277f50dcf9bd3a9b5446b&",
+        "title": "已确认，抢救无效身亡",
+        "nickname": "生活晨报",
+        "created_at": "2023-05-04",
+        "archive": "wxid_1142831428521_2023-05-04_2656239535_cd6PLVuiNF.y.tar.gz",
+        "censored_date": "2023-05-07 09:25:10",
+        "censored_msg": "该公众号已迁移",
+        "update_date": "2023-05-04 20:38:07"
     }
 ]
