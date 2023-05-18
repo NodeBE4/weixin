@@ -1913,7 +1913,8 @@
         "created_at": "2023-05-17",
         "archive": "gh_40135cd3fc57_2023-05-17_2247706311_ocOP40g9Jx.y.tar.gz",
         "censored_date": "2023-05-18 05:15:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-05-19 03:20:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMDU2OTA4MQ==&mid=2247509336&idx=6&sn=b52507ccd2c8c17c6de4a203653421d3&",
@@ -2087,6 +2088,15 @@
         "created_at": "2023-05-15",
         "archive": "gh_16cceac389d6_2023-05-15_2247525328_ht42NBJWYd.y.tar.gz",
         "censored_date": "2023-05-19 01:36:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MTgwMTE1OA==&mid=2247494037&idx=1&sn=694dd7e604014dc7ae6a3dc9eaa2e596&",
+        "title": "周某被控非国家工作人员受贿罪二审辩护词",
+        "nickname": "谢政敏律师",
+        "created_at": "2023-05-17",
+        "archive": "gh_77b3ccfd0abd_2023-05-17_2247494037_0musBRfG3I.y.tar.gz",
+        "censored_date": "2023-05-19 03:49:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
