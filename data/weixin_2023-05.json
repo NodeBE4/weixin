@@ -1756,7 +1756,8 @@
         "created_at": "2023-05-16",
         "archive": "fm93radio_2023-05-16_2653489335_CdiGjX1bR0.y.tar.gz",
         "censored_date": "2023-05-16 22:30:14",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-05-18 17:23:34"
     },
     {
         "url": "mp.weixin.qq.com/s/TblrF5p9pq7vqXIayq_o-g",
@@ -2032,5 +2033,15 @@
         "archive": "gh_e406f4bcdf34_2023-05-18_missing_Op0MFNiko0.y.tar.gz",
         "censored_date": "2023-05-18 17:09:31",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5ODk1MDU1OQ==&mid=2247483826&idx=1&sn=35be2e55a54d6e2f5e9a8baf27307da0&",
+        "title": "中文区的派友们，重大利好来了！",
+        "nickname": "班长创业记",
+        "created_at": "2023-05-16",
+        "archive": "gh_beb670f851b6_2023-05-16_2247483826_t4sxIEfdMO.y.tar.gz",
+        "censored_date": "2023-05-18 17:34:02",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-05-18 05:31:52"
     }
 ]
