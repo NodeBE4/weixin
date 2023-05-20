@@ -2223,7 +2223,8 @@
         "created_at": "2023-05-13",
         "archive": "gh_131e697ff21a_2023-05-13_2247491566_RmKra2kSL7.y.tar.gz",
         "censored_date": "2023-05-20 13:37:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-05-20 17:08:55"
     },
     {
         "url": "mp.weixin.qq.com/s/Om-bUh1bujXDpIbbkMFC5Q",
@@ -2253,5 +2254,14 @@
         "archive": "gh_e41a4453bcbd_2023-05-18_missing_mygPCYqR0l.y.tar.gz",
         "censored_date": "2023-05-20 16:08:07",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/sQ4IiSUUZ9kPMhRhGbydRQ",
+        "title": "Plus 有救了：ChatGPT iOS 上架 AppStore！",
+        "nickname": "浮之静",
+        "created_at": "2023-05-19",
+        "archive": "gh_e17b9b37ed8e_2023-05-19_missing_gnvDJ62RYO.y.tar.gz",
+        "censored_date": "2023-05-20 17:09:42",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
