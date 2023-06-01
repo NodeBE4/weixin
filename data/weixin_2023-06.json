@@ -424,7 +424,8 @@
         "created_at": "2023-05-31",
         "archive": "gh_28ca869038f0_2023-05-31_missing_yqC1XSLI4p.y.tar.gz",
         "censored_date": "2023-05-31 11:10:39",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-06-01 11:48:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MzY2MzgwNA==&mid=2248216002&idx=1&sn=c6df46c3e2d1e13577da504a55316efa&",
@@ -454,5 +455,15 @@
         "censored_date": "2023-06-01 11:24:44",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-05-31 11:11:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/5dIzXpnMPO69Tg9OoNSp1g",
+        "title": "毕节围殴记者仨人已被控制，身份成疑：临走前抹去指纹",
+        "nickname": "just law",
+        "created_at": "2023-05-31",
+        "archive": "gh_8dc27948cd71_2023-05-31_missing_sJMW53CPKt.y.tar.gz",
+        "censored_date": "2023-06-01 11:47:33",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-05-31 11:05:29"
     }
 ]
