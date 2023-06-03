@@ -572,7 +572,8 @@
         "created_at": "2023-03-11",
         "archive": "gh_f148bfd3c737_2023-03-11_2247558564_p4uvAB3eja.y.tar.gz",
         "censored_date": "2023-06-03 04:05:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-06-03 09:22:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NzE3MzM5Mg==&mid=2247558330&idx=1&sn=fff305f026645f5f3eb13117f88c8253&",
@@ -583,5 +584,15 @@
         "censored_date": "2023-06-03 06:49:02",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-06-02 01:31:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NDk3NzY3OA==&mid=2247483892&idx=3&sn=4eadda98cd363ef3f6fbcd7438a79f43&",
+        "title": "毛主席的精准预测，不服不行！",
+        "nickname": "红友选刊",
+        "created_at": "2023-06-01",
+        "archive": "gh_0236f8f62521_2023-06-01_2247483892_S6xl48W5cf.y.tar.gz",
+        "censored_date": "2023-06-03 08:23:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-06-02 02:41:55"
     }
 ]
