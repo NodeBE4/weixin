@@ -642,7 +642,7 @@
         "archive": "gh_5e1f9b20424b_2023-06-03_missing_loT18SAyHb.y.tar.gz",
         "censored_date": "2023-06-04 14:41:44",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-06-04 01:04:34"
+        "update_date": "2023-06-05 15:30:14"
     },
     {
         "url": "mp.weixin.qq.com/s/-Lkhp1b6_m1psgurRqczFQ",
@@ -703,5 +703,15 @@
         "censored_date": "2023-06-05 11:28:36",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-06-04 20:59:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNzQ1Mzc3OA==&mid=2247486615&idx=2&sn=46aa44bd1443d7a6bddb046d5984d7ae&",
+        "title": "GPT4接口已接入ChatGPT中文版，中国地区可直接使用",
+        "nickname": "腾朗人工智能",
+        "created_at": "2023-06-02",
+        "archive": "gh_48b4944e9b8f_2023-06-02_2247486615_djO19xemAg.y.tar.gz",
+        "censored_date": "2023-06-05 16:21:09",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-06-04 16:30:11"
     }
 ]
