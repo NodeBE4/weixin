@@ -988,7 +988,8 @@
         "created_at": "2023-06-06",
         "archive": "gh_4af0fb9bc9d9_2023-06-06_2247483939_W46rVlC7Fx.y.tar.gz",
         "censored_date": "2023-06-08 07:36:35",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-06-08 15:01:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MDU5MDI1MA==&mid=2247502478&idx=2&sn=46a57caeed1a9701d6258bb1bf314cab&",
@@ -998,5 +999,14 @@
         "archive": "gh_45a8c525ba36_2023-06-08_2247502478_5LHeDBJl2K.y.tar.gz",
         "censored_date": "2023-06-08 11:18:48",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTIwMDUxMA==&mid=2247487918&idx=1&sn=ceb12c25161e9bbdacd4aba9f1e276f9&",
+        "title": "注意，这几个诈骗项目开始套路了",
+        "nickname": "图灵的笔",
+        "created_at": "2023-05-28",
+        "archive": "gh_aa91c5ea5a3b_2023-05-28_2247487918_zZ4SftM7Os.y.tar.gz",
+        "censored_date": "2023-06-08 15:13:29",
+        "censored_msg": "该公众号已迁移"
     }
 ]
