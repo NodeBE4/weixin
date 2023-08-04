@@ -123,10 +123,39 @@
     {
         "url": "mp.weixin.qq.com/s/PpPU60EkXsWzNYrJegLENQ",
         "title": "以项目论英雄，凭实绩排座次！日照这场专题会议传递强烈信号！",
+        "title_eng": "Heroes are discussed by project, and seats are ranked by actual performance! This special meeting in Rizhao sent a strong signal!",
         "nickname": "日照日报",
         "created_at": "2023-08-03",
         "archive": "gh_1247b4771ba8_2023-08-03_missing_dhmaQBK1Ig.y.tar.gz",
         "censored_date": "2023-08-04 14:09:48",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455547436&idx=1&sn=0fc12b0ea0fe9dc520c8c417e2fadf86",
+        "title": "未来五到十年，普通人获得财富，实现跃迁机会的四个关键词",
+        "nickname": "船夫日記",
+        "created_at": "2023-08-03",
+        "archive": "gh_ba71c6c7d57e_2023-08-03_2455547436_w2kX1xY3Zl.y.tar.gz",
+        "censored_date": "2023-08-04 14:39:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzNTI3NzUzNw==&mid=2247499370&idx=2&sn=d860d557de32977949c2ab7825839ece",
+        "title": "1990年，于凤至临终前，含泪交代女儿：一定要替我去看看汉卿！",
+        "nickname": "希公子阿",
+        "created_at": "2023-08-03",
+        "archive": "gh_8875c3ea6e13_2023-08-03_2247499370_OFYCjZRnt7.y.tar.gz",
+        "censored_date": "2023-08-04 15:07:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-03 11:13:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzNTI3NzUzNw==&mid=2247499370&idx=1&sn=ce8a2e5f6eca414d172b3f6bf60bb1c5",
+        "title": "刚刚！权威发布！8月3号正式开始！",
+        "nickname": "希公子阿",
+        "created_at": "2023-08-03",
+        "archive": "gh_8875c3ea6e13_2023-08-03_2247499370_fr9ZL2mpnA.y.tar.gz",
+        "censored_date": "2023-08-04 15:02:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
