@@ -562,6 +562,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484817&idx=5&sn=2c3f969a7691eeb1ad8be0acf43c00ed",
         "title": "今日全民抓间谍，只缘妖雾又重来",
+        "title_eng": "Today, all the people are arresting spies, only because the monster mist has returned",
         "nickname": "晚读学社",
         "created_at": "2023-07-29",
         "archive": "gh_648165ab3bc5_2023-07-29_2247484817_ovzA0bpaOG.y.tar.gz",
@@ -571,6 +572,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=2&sn=92ab76e74ae0d960d0dc1ba22c9877f5",
         "title": "铲除内奸是中国长期重要任务！",
+        "title_eng": "Eradicating traitors is a long-term important task for China!",
         "nickname": "晚读学社",
         "created_at": "2023-07-28",
         "archive": "gh_648165ab3bc5_2023-07-28_2247484809_8hctZEK0sn.y.tar.gz",
@@ -580,6 +582,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=3&sn=02091255585f01b694a6e0ad778c783b",
         "title": "中国打狗，一击毙命",
+        "title_eng": "China beats dog, kills with one blow",
         "nickname": "晚读学社",
         "created_at": "2023-07-28",
         "archive": "gh_648165ab3bc5_2023-07-28_2247484809_Cu0KosznWa.y.tar.gz",
@@ -589,6 +592,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=4&sn=5454e11e86432b69ea61e1fcf67f8909",
         "title": "隐蔽战线的斗争，从未停止",
+        "title_eng": "The struggle on the hidden front never stops",
         "nickname": "晚读学社",
         "created_at": "2023-07-28",
         "archive": "gh_648165ab3bc5_2023-07-28_2247484809_4S70WwCDfY.y.tar.gz",
@@ -598,10 +602,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484817&idx=4&sn=1a1ecadea458050455d9fec90da1bf9b",
         "title": "美国入侵中国网络，为全面核打击做准备？",
+        "title_eng": "US Invasion of Chinese Networks, Preparing for a Full-scale Nuclear Strike?",
         "nickname": "晚读学社",
         "created_at": "2023-07-29",
         "archive": "gh_648165ab3bc5_2023-07-29_2247484817_oAgQjyCVwh.y.tar.gz",
         "censored_date": "2023-08-06 02:50:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484817&idx=1&sn=b1d9faa5624eab1f6f4838c402aede56",
+        "title": "中国发出“逐客令”：一分钱也不会援助了，俄罗斯表示：这就对了",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-29",
+        "archive": "gh_648165ab3bc5_2023-07-29_2247484817_HM0S5EnNQ9.y.tar.gz",
+        "censored_date": "2023-08-06 03:30:34",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
