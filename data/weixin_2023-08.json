@@ -541,6 +541,7 @@
     {
         "url": "mp.weixin.qq.com/s/xE_TEmx75Q_5dHpYQr5IRQ",
         "title": "弘一法师的话渡了无数人",
+        "title_eng": "Master Hongyi's words have helped countless people",
         "nickname": "王育琨频道",
         "created_at": "2023-08-04",
         "archive": "gh_2fbf3b6efb95_2023-08-04_missing_6XlYugNsB4.y.tar.gz",
@@ -556,6 +557,51 @@
         "created_at": "2023-07-30",
         "archive": "gh_cbe49e48bd1e_2023-07-30_2247568975_YZuFkfty28.y.tar.gz",
         "censored_date": "2023-08-06 01:24:58",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484817&idx=5&sn=2c3f969a7691eeb1ad8be0acf43c00ed",
+        "title": "今日全民抓间谍，只缘妖雾又重来",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-29",
+        "archive": "gh_648165ab3bc5_2023-07-29_2247484817_ovzA0bpaOG.y.tar.gz",
+        "censored_date": "2023-08-06 02:50:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=2&sn=92ab76e74ae0d960d0dc1ba22c9877f5",
+        "title": "铲除内奸是中国长期重要任务！",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-28",
+        "archive": "gh_648165ab3bc5_2023-07-28_2247484809_8hctZEK0sn.y.tar.gz",
+        "censored_date": "2023-08-06 02:51:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=3&sn=02091255585f01b694a6e0ad778c783b",
+        "title": "中国打狗，一击毙命",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-28",
+        "archive": "gh_648165ab3bc5_2023-07-28_2247484809_Cu0KosznWa.y.tar.gz",
+        "censored_date": "2023-08-06 02:51:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484809&idx=4&sn=5454e11e86432b69ea61e1fcf67f8909",
+        "title": "隐蔽战线的斗争，从未停止",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-28",
+        "archive": "gh_648165ab3bc5_2023-07-28_2247484809_4S70WwCDfY.y.tar.gz",
+        "censored_date": "2023-08-06 02:51:59",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5NTk2ODc4NQ==&mid=2247484817&idx=4&sn=1a1ecadea458050455d9fec90da1bf9b",
+        "title": "美国入侵中国网络，为全面核打击做准备？",
+        "nickname": "晚读学社",
+        "created_at": "2023-07-29",
+        "archive": "gh_648165ab3bc5_2023-07-29_2247484817_oAgQjyCVwh.y.tar.gz",
+        "censored_date": "2023-08-06 02:50:29",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
