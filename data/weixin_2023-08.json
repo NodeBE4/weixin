@@ -212,7 +212,8 @@
         "created_at": "2023-07-31",
         "archive": "gh_5c7e8b7f586b_2023-07-31_2656068319_P4JS0hw5yF.y.tar.gz",
         "censored_date": "2023-08-04 22:42:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-06 14:49:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656067779&idx=6&sn=11d5aec19da5628f9fc6b55fb90f79b1",
@@ -222,7 +223,8 @@
         "created_at": "2023-07-28",
         "archive": "gh_5c7e8b7f586b_2023-07-28_2656067779_LeNy35CJmf.y.tar.gz",
         "censored_date": "2023-08-04 22:51:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-06 14:50:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656067816&idx=2&sn=9bfcffdb0d8cf265ff3bd800143665c1",
@@ -741,6 +743,7 @@
     {
         "url": "mp.weixin.qq.com/s/tIY3YT-_YrJb7jA15bKoOA",
         "title": "市场|每周观察|20230804|闪烁其词",
+        "title_eng": "Market|Weekly Observation|20230804|Esoteric",
         "nickname": "国道168",
         "created_at": "2023-08-04",
         "archive": "gh_48d86869215b_2023-08-04_missing_dNz18KMWJ0.y.tar.gz",
