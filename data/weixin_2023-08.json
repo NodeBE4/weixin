@@ -824,7 +824,8 @@
         "created_at": "2023-07-29",
         "archive": "gh_13145f5f4e7d_2023-07-29_2247493041_U0weAtVFdN.y.tar.gz",
         "censored_date": "2023-08-07 09:45:16",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-08 04:33:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzY3NjUzNQ==&mid=2650121107&idx=1&sn=0bd52e1b15f6d8827af2f1be78a5ad65&",
@@ -1026,6 +1027,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247545629&idx=1&sn=7665c77a862c75bd86750f1d63e441c0",
         "title": "刘强东出事了！性侵事件4年后，29岁章泽天“露背杀”官宣喜讯，被出轨4年，她终于不忍了！网友：这反击，漂亮！",
+        "title_eng": "Something happened to Liu Qiangdong! Four years after the sexual assault incident, the 29-year-old Zhang Zetian officially announced the good news of killing with a backless back. After being cheated for four years, she finally couldn't bear it anymore! Netizen: This counterattack is beautiful!",
         "nickname": "贝菈小姐",
         "created_at": "2023-08-06",
         "archive": "gh_a9c6a20e4f84_2023-08-06_2247545629_P4Zit6CyQr.y.tar.gz",
@@ -1036,11 +1038,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247545514&idx=2&sn=9a06c233f6778815f7f7250a8802611d",
         "title": "皮肤教授透露：“色斑”淡不掉？，照着我说的做，再深的色斑有效！",
+        "title_eng": "The skin professor revealed: Can the spots fade away? , do as I said, no matter how deep the stain is, it will work!",
         "nickname": "贝菈小姐",
         "created_at": "2023-08-04",
         "archive": "gh_a9c6a20e4f84_2023-08-04_2247545514_rc9isN1UaP.y.tar.gz",
         "censored_date": "2023-08-08 03:34:37",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-07 07:55:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247582413&idx=1&sn=4c453ebf92bdd0139fa6707165612306",
+        "title": "吉林白山某公园母子上吊身亡，当地人称母亲患癌儿子失业被催债",
+        "nickname": "徐雪芬札记",
+        "created_at": "2023-07-30",
+        "archive": "gh_06140cfad959_2023-07-30_2247582413_SM9O1vHAnF.y.tar.gz",
+        "censored_date": "2023-08-08 05:13:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-07 11:10:25"
     }
 ]
