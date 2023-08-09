@@ -1440,7 +1440,8 @@
         "created_at": "2023-07-23",
         "archive": "wxid_5637156371511_2023-07-23_2652178862_svIbMNiVPr.y.tar.gz",
         "censored_date": "2023-08-09 11:51:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-09 15:46:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607311&idx=2&sn=c5d3ff98852361e10948b4f8dcfd494f",
@@ -1542,5 +1543,15 @@
         "archive": "gh_179ef88e69be_2023-08-05_2649531438_udEwR9rHj5.y.tar.gz",
         "censored_date": "2023-08-09 14:42:13",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5ODA2NTY0MQ==&mid=2247503682&idx=2&sn=95496dbc71dc40b3c3b0a0bb7448deb9",
+        "title": "木子丰上线清号告别：永远不见！都S，阿哲向上海六扇门递交名单！笑懵，王小源说大花是刘一手直播回放",
+        "nickname": "灰虎传媒公司",
+        "created_at": "2023-08-06",
+        "archive": "gh_d5fd74b9d1db_2023-08-06_2247503682_hCULWPKOuq.y.tar.gz",
+        "censored_date": "2023-08-09 16:01:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-08 01:21:26"
     }
 ]
