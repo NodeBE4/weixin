@@ -1204,7 +1204,7 @@
         "archive": "gh_3d5ec4e9ac2e_2023-08-08_missing_YewfhW4275.y.tar.gz",
         "censored_date": "2023-08-08 21:39:02",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-08-09 22:57:53"
+        "update_date": "2023-08-10 05:58:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247486907&idx=5&sn=da5e52f0e02711fb6fd0de9230bf73d4",
@@ -1280,7 +1280,8 @@
         "created_at": "2023-08-08",
         "archive": "gh_d90468a2e184_2023-08-08_2247535264_PNzH8EB9d0.y.tar.gz",
         "censored_date": "2023-08-09 01:41:16",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-10 06:23:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NTkzOTUwNw==&mid=2247486912&idx=1&sn=e14fd91e1c60b21d5fad4aad273134c1&",
@@ -1691,6 +1692,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247545138&idx=2&sn=3e13ac0cf1857dbc1802a2a5f8be1149&",
         "title": "李嘉诚，嗅到了什么信号？",
+        "title_eng": "Li Ka-shing, what signal did you smell?",
         "nickname": "中产先生",
         "created_at": "2023-08-08",
         "archive": "gh_3defe3adf3fd_2023-08-08_2247545138_lWP9dL6XYD.y.tar.gz",
@@ -1701,11 +1703,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247709650&idx=3&sn=ea5972e1e13a7d2aa39d46d6596751de&",
         "title": "别再说看不懂了！有人将《黄帝内经》画成了漫画，“养生”不走弯路",
+        "title_eng": "Stop saying you don't understand! Someone drew the Huangdi Neijing into a cartoon, health preservation does not take detours",
         "nickname": "远方青木",
         "created_at": "2023-08-02",
         "archive": "gh_36dfda0fb531_2023-08-02_2247709650_b5eZBYnxrl.y.tar.gz",
         "censored_date": "2023-08-10 04:45:11",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-08 20:40:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247502239&idx=1&sn=63a4801c5a819e1ecf9115b65a9fb76e&",
+        "title": "定了！2023年度高考志愿规划师开始招募，不限学历，免费申领！",
+        "title_eng": "deal! Volunteer planners for the 2023 college entrance examination start to recruit, no educational background required, apply for free!",
+        "nickname": "中小学生普法网",
+        "created_at": "2023-08-08",
+        "archive": "gh_f59a99d1715b_2023-08-08_2247502239_5GbwEFuRpQ.y.tar.gz",
+        "censored_date": "2023-08-10 05:26:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-08 23:50:06"
     }
 ]
