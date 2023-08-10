@@ -1815,11 +1815,21 @@
     {
         "url": "mp.weixin.qq.com/s/w58w2bpyjr_3gRbZ9Q9ROA",
         "title": "《聊斋志异：罗刹海市》原文、译文、赏析",
+        "title_eng": "Strange Tales from a Liaozhai Studio: Raksha Haishi Original Text, Translation, Appreciation",
         "nickname": "九霄看世界",
         "created_at": "2023-08-07",
         "archive": "gh_31dafb98196c_2023-08-07_missing_0xMQ8uPt6q.y.tar.gz",
         "censored_date": "2023-08-10 12:12:11",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-09 15:25:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/7F7n3WcDsXp7gaWtrGSZRw",
+        "title": "西安上次这么混乱，还是玄武门之变",
+        "nickname": "凤凰网财经",
+        "created_at": "2023-08-08",
+        "archive": "gh_e76b6086b960_2023-08-08_missing_UHTpMqiJL5.y.tar.gz",
+        "censored_date": "2023-08-10 12:40:51",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
