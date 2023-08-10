@@ -1658,7 +1658,7 @@
         "archive": "gh_5980b8ba5607_2023-08-08_2247637674_EL931b2Fze.y.tar.gz",
         "censored_date": "2023-08-09 20:41:44",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-08-08 17:58:01"
+        "update_date": "2023-08-11 00:16:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508528&idx=2&sn=a116b64f3f64679a04596fe9895d0500",
@@ -1918,6 +1918,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247512118&idx=2&sn=8a28e45ecb7bfba439fdc6da1d3f43d4",
         "title": "花10万块去看了TFBOYS演唱会，值了",
+        "title_eng": "I spent 100,000 yuan to watch the TFBOYS concert, it was worth it",
         "nickname": "每日乐评",
         "created_at": "2023-08-10",
         "archive": "gh_96522be72207_2023-08-10_2247512118_lz5GDLajkK.y.tar.gz",
@@ -1927,10 +1928,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247512118&idx=3&sn=bd68bb1268200f66e1710f5f6d1bcac4",
         "title": "中国式巨婴，到底有多可怕？就怕你的孩子将来就是！",
+        "title_eng": "How scary is the Chinese-style giant baby? I'm afraid that your child will be in the future!",
         "nickname": "每日乐评",
         "created_at": "2023-08-10",
         "archive": "gh_96522be72207_2023-08-10_2247512118_6ZDxX7Qq3S.y.tar.gz",
         "censored_date": "2023-08-10 22:34:58",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTg2MDg4MA==&mid=2832634073&idx=5&sn=f5af00d6b152b2b18ae7ab442abbaadb&",
+        "title": "孙子兵法：能赢到最后的人，不是靠努力，不是拼运气，而是靠……",
+        "nickname": "百草园书店",
+        "created_at": "2023-08-04",
+        "archive": "gh_476e9bd4e780_2023-08-04_2832634073_Qfi5BwJ0Po.y.tar.gz",
+        "censored_date": "2023-08-10 23:30:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-09 22:06:57"
     }
 ]
