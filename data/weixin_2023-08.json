@@ -1935,7 +1935,8 @@
         "created_at": "2023-08-10",
         "archive": "gh_96522be72207_2023-08-10_2247512118_6ZDxX7Qq3S.y.tar.gz",
         "censored_date": "2023-08-10 22:34:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-11 19:40:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTg2MDg4MA==&mid=2832634073&idx=5&sn=f5af00d6b152b2b18ae7ab442abbaadb&",
@@ -2023,10 +2024,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzEzNzEwNw==&mid=2651100310&idx=1&sn=0d6d772fe8ecad83cc1d3c84c9a298c8&",
         "title": "中国借朝鲜之口，警告美国停止干政，否则必将付出惨重代价！",
+        "title_eng": "China used the mouth of North Korea to warn the United States to stop interfering in politics, otherwise it will pay a heavy price!",
         "nickname": "四月网",
         "created_at": "2023-08-04",
         "archive": "gh_456a492c2af5_2023-08-04_2651100310_DNSlbafEWn.y.tar.gz",
         "censored_date": "2023-08-11 18:38:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MTcwMTU0NA==&mid=2247522743&idx=1&sn=11963ebde52b945cc7f4e48a4d709947",
+        "title": "未来5年， 取代直播带货，中国又一种资本在崛起！",
+        "title_eng": "In the next 5 years, instead of live streaming, another capital in China will rise!",
+        "nickname": "黑天鹅商业情报站",
+        "created_at": "2023-08-09",
+        "archive": "gh_0bffbf7d8e5d_2023-08-09_2247522743_zmInEr7pty.y.tar.gz",
+        "censored_date": "2023-08-11 19:40:11",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
