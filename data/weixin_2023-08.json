@@ -2183,7 +2183,8 @@
         "created_at": "2023-08-13",
         "archive": "gh_6e503997910f_2023-08-13_missing_aH1M9FWRNd.y.tar.gz",
         "censored_date": "2023-08-13 23:23:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-14 16:54:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMjMzMzk5Mw==&mid=2247630413&idx=3&sn=b12130de5ec7d0f67b9fb22102535e50&",
@@ -2272,6 +2273,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4Mzk2NjI2Mg==&mid=2247485602&idx=1&sn=b12682565346e320cc6e24b33a7eb846&",
         "title": "克什米尔披肩，高级又有气质",
+        "title_eng": "Kashmiri shawl, high-end and elegant",
         "nickname": "在北京和跑宁夏那些事儿",
         "created_at": "2023-08-11",
         "archive": "gh_3b0ec546ccf3_2023-08-11_2247485602_ETD2OStcm9.y.tar.gz",
@@ -2282,11 +2284,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDcxNDYxOQ==&mid=2650302660&idx=3&sn=574135ae56ef55e5b663d14ae3ee4a83&",
         "title": "网传美女主播被闺蜜骗去菲律宾：惨遭毒打，生死未卜",
+        "title_eng": "It is rumored on the Internet that the beauty anchor was deceived by her girlfriends to go to the Philippines: she was brutally beaten, and her life and death are uncertain",
         "nickname": "宾曰语云",
         "created_at": "2023-08-01",
         "archive": "gh_b61bafb1cb59_2023-08-01_2650302660_41CTAcw2nk.y.tar.gz",
         "censored_date": "2023-08-14 16:08:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-13 20:34:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyNzI3ODU3NA==&mid=2247501793&idx=1&sn=d2c9f9be717b2b6b6d57ea8ba0c545e3",
+        "title": "莫言B站账号被封，被举报通过写作“抹黑中国”",
+        "title_eng": "Mo Yanâ€™s Bilibili account was blocked, and he was reported to â€œsmear Chinaâ€<9d> by writing",
+        "nickname": "黑柳丁",
+        "created_at": "2023-08-13",
+        "archive": "gh_876fc26ca750_2023-08-13_2247501793_cFTAQ95eMs.y.tar.gz",
+        "censored_date": "2023-08-14 16:28:34",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-13 23:15:41"
     }
 ]
