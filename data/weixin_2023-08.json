@@ -2163,7 +2163,7 @@
         "archive": "gh_9c3b3def02d1_2023-08-12_missing_V4N7itkhRO.y.tar.gz",
         "censored_date": "2023-08-13 15:52:31",
         "censored_msg": "此内容被投诉且经审核涉嫌侵权，无法查看。",
-        "update_date": "2023-08-13 00:17:34"
+        "update_date": "2023-08-14 10:38:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247718627&idx=1&sn=1532a87d5d3e31d84acae895c6132f23&",
@@ -2230,6 +2230,7 @@
     {
         "url": "mp.weixin.qq.com/s/bQfEWKBlHet1u7rBXjIs8A",
         "title": "关于启明星辰深圳办总经理王乐性骚扰和精神压迫女员工的举报信",
+        "title_eng": "Report letter regarding sexual harassment and psychological oppression of female employees by Wang Le, General Manager of Venustech Shenzhen Office",
         "nickname": "刨洞之眼",
         "created_at": "2023-08-13",
         "archive": "gh_d8f9af93f3da_2023-08-13_missing_oBgM1I8Pu3.y.tar.gz",
@@ -2246,5 +2247,14 @@
         "censored_date": "2023-08-14 09:20:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-13 11:12:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607335&idx=2&sn=17bc5a343d6b0c954ea90a84d8f0a653",
+        "title": "金饭碗！面向社会公开招录118人！没有笔试！薪资待遇堪比事业编！！",
+        "nickname": "她言他语",
+        "created_at": "2023-08-11",
+        "archive": "gh_ec6dcd28a470_2023-08-11_2651607335_cPx5DypmOs.y.tar.gz",
+        "censored_date": "2023-08-14 11:20:01",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
