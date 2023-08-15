@@ -2237,7 +2237,8 @@
         "created_at": "2023-08-13",
         "archive": "gh_d8f9af93f3da_2023-08-13_missing_oBgM1I8Pu3.y.tar.gz",
         "censored_date": "2023-08-14 10:00:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-15 21:07:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzNTMyNzI2OQ==&mid=2247493295&idx=1&sn=86835ef39a8a0f1479797e5960a83f0c",
@@ -2408,6 +2409,15 @@
         "created_at": "2023-08-14",
         "archive": "gh_5fca29017d4b_2023-08-14_2247488149_Orq3uwoVaf.y.tar.gz",
         "censored_date": "2023-08-15 18:54:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247512270&idx=3&sn=fba5b1bda259b43b7ef510d8627f04e1",
+        "title": "穷就算了，为啥我们还越来越忙？",
+        "nickname": "每日乐评",
+        "created_at": "2023-08-15",
+        "archive": "gh_96522be72207_2023-08-15_2247512270_rSA84giwZd.y.tar.gz",
+        "censored_date": "2023-08-15 21:19:43",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
