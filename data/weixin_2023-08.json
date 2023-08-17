@@ -2700,6 +2700,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247546225&idx=2&sn=a53f903d74fc8423140616f581e19f6d&",
         "title": "姐姐被强奸生下四胞胎，妹妹偷偷抱走她两个孩子，命运多舛，多年后迎来迟到的正义",
+        "title_eng": "The sister was raped and gave birth to quadruplets, and the younger sister secretly took her two children away. The fate was ill-fated, and justice was delayed many years later",
         "nickname": "贝菈小姐",
         "created_at": "2023-08-15",
         "archive": "gh_a9c6a20e4f84_2023-08-15_2247546225_038FuZw2EQ.y.tar.gz",
@@ -2710,6 +2711,7 @@
     {
         "url": "mp.weixin.qq.com/s/D4ooQnOFvOCgtztV20728w",
         "title": "韩旭：来宾中院仅有道歉是不够的",
+        "title_eng": "Han Xu: An apology is not enough for the Laibin Intermediate Court",
         "nickname": "刑者无疆",
         "created_at": "2023-08-16",
         "archive": "gh_f25ab422a89f_2023-08-16_missing_a3CJhFrYcD.y.tar.gz",
@@ -2720,10 +2722,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjA3NDQ5Mjc0MQ==&mid=2653070495&idx=4&sn=28a2e2bad07a37538720585dfa3a21a7",
         "title": "广西这2所高校进入全球1000强！有你母校吗？",
+        "title_eng": "These two universities in Guangxi have entered the top 1000 in the world! Is there your alma mater?",
         "nickname": "930老友记",
         "created_at": "2023-08-16",
         "archive": "wxid_1982209821011_2023-08-16_2653070495_kLa4AvEwxQ.y.tar.gz",
         "censored_date": "2023-08-17 16:23:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2NjA2Mzg2Ng==&mid=2247496497&idx=1&sn=6517c8b24fce743f5250dd9fb0b62ccd&",
+        "title": "不仅医疗，院士何以淫乱至此？",
+        "nickname": "大汉丞相",
+        "created_at": "2023-08-13",
+        "archive": "gh_449455f781b0_2023-08-13_2247496497_rdl09kYO6P.y.tar.gz",
+        "censored_date": "2023-08-17 16:51:04",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-16 23:13:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyNzI3ODU3NA==&mid=2247501819&idx=1&sn=ed8769c4981c15083dff19b9ca4ab967",
+        "title": "富人从政的社会，也远好于从政变富的社会",
+        "nickname": "黑柳丁",
+        "created_at": "2023-08-16",
+        "archive": "gh_876fc26ca750_2023-08-16_2247501819_XRBIizPAT5.y.tar.gz",
+        "censored_date": "2023-08-17 16:58:48",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-16 23:28:23"
     }
 ]
