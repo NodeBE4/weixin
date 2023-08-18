@@ -2866,6 +2866,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247512350&idx=1&sn=e40f4f3c3e75ddcb45cbbd4c7ce632bd",
         "title": "这位叫单正西的药代火了！为了自保竟把行贿证据贴进了医院大厅",
+        "title_eng": "This Yaodai named Shan Zhengxi is on fire! In order to protect himself, he posted the evidence of bribery in the hospital lobby",
         "nickname": "每日乐评",
         "created_at": "2023-08-18",
         "archive": "gh_96522be72207_2023-08-18_2247512350_HCGrFWJ1V8.y.tar.gz",
@@ -2875,6 +2876,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247512316&idx=2&sn=b6b44321ce4934ffe2129d79325681ef",
         "title": "美女药代现身爆料：5年时间伺候了几百人",
+        "title_eng": "The beauty drug agent appeared and broke the news: she has served hundreds of people in 5 years",
         "nickname": "每日乐评",
         "created_at": "2023-08-17",
         "archive": "gh_96522be72207_2023-08-17_2247512316_Q8Aa9YWq2D.y.tar.gz",
@@ -2884,10 +2886,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxMDk5NDgwNQ==&mid=2247489221&idx=1&sn=9c17e11dd4bb7bb600158527badcd974&",
         "title": "股债市场的未来",
+        "title_eng": "The future of the stock and bond market",
         "nickname": "政信三公子",
         "created_at": "2023-08-18",
         "archive": "gh_e252f7984953_2023-08-18_2247489221_ew0gJu8D4f.y.tar.gz",
         "censored_date": "2023-08-18 16:55:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247638551&idx=2&sn=02b1fa52614c4c88be03033a9b6e22f6",
+        "title": "备考【社会工作者证书】扫码进！高中学历起报！",
+        "nickname": "第一法商",
+        "created_at": "2023-08-17",
+        "archive": "gh_5980b8ba5607_2023-08-17_2247638551_VBTjFsblZd.y.tar.gz",
+        "censored_date": "2023-08-18 17:48:08",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
