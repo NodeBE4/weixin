@@ -3219,7 +3219,8 @@
         "created_at": "2023-08-20",
         "archive": "gh_08885da058c6_2023-08-20_2247976119_nUpMbdROtT.y.tar.gz",
         "censored_date": "2023-08-23 18:45:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-24 23:20:59"
     },
     {
         "url": "mp.weixin.qq.com/s/xFMhqe7T6oih8d3F8jyaPA",
@@ -3369,11 +3370,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMzMwMTI0MQ==&mid=2247735138&idx=2&sn=7a8587e2f5b49cf8c98ea343f99e0d01&",
         "title": "呼和浩特市一整形美容医院被罚5000元",
+        "title_eng": "A plastic surgery hospital in Hohhot was fined 5,000 yuan",
         "nickname": "北方新报",
         "created_at": "2023-08-22",
         "archive": "gh_2e5a04e5cea6_2023-08-22_2247735138_EoZp9FTi8O.y.tar.gz",
         "censored_date": "2023-08-24 21:57:58",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-23 16:17:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/onqMTKaw1HNoT9Fv6lp7Zg",
+        "title": "假如邓小平还在……",
+        "nickname": "长平讲谈",
+        "created_at": "2023-08-21",
+        "archive": "gh_10535210e139_2023-08-21_missing_cxT0YLavIQ.y.tar.gz",
+        "censored_date": "2023-08-24 22:56:10",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-23 18:06:45"
     }
 ]
