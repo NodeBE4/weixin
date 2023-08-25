@@ -3347,7 +3347,8 @@
         "created_at": "2023-07-04",
         "archive": "gh_f9d3f82882ba_2023-07-04_missing_MvXqixbtYB.y.tar.gz",
         "censored_date": "2023-08-24 17:26:47",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-26 00:22:15"
     },
     {
         "url": "mp.weixin.qq.com/s/48LLmdU3Ryw_6gBfJ-mzyQ",
@@ -3524,11 +3525,23 @@
     {
         "url": "mp.weixin.qq.com/s/n_orWwKCB3i_nZP8tF8vtg",
         "title": "1976年毛主席逝世，毛岸青未能送葬，毛新宇：父亲一直很想念爷爷",
+        "title_eng": "Chairman Mao passed away in 1976, and Mao Anqing was unable to attend the funeral. Mao Xinyu: Father has always missed grandpa",
         "nickname": "伟人之魂",
         "created_at": "2023-08-23",
         "archive": "gh_511394ddb5ba_2023-08-23_missing_HlEy9TfdOr.y.tar.gz",
         "censored_date": "2023-08-25 23:03:09",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-08-24 14:23:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/CwWenB4DQmhwEC7QnIzbwg",
+        "title": "​斯塔诺瓦亚：普京为何要杀死普里戈任？他需要让人们看到“普京的逻辑”",
+        "title_eng": "Stanovaya: Why did Putin kill Prigozhin? He needs to let people see 'Putin's logic'",
+        "nickname": "新周说",
+        "created_at": "2023-08-24",
+        "archive": "gh_1d37be4bdcc1_2023-08-24_missing_80JStzcZOd.y.tar.gz",
+        "censored_date": "2023-08-25 23:25:41",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-24 14:39:01"
     }
 ]
