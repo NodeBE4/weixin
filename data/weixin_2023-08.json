@@ -3326,7 +3326,8 @@
         "created_at": "2023-08-24",
         "archive": "gh_1aa55fadd2a2_2023-08-24_2247498059_P29YfqvIJM.y.tar.gz",
         "censored_date": "2023-08-24 15:01:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-26 00:48:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxMDUwNzEyMg==&mid=2247484178&idx=1&sn=f425dc973efc5ef1f228cd925830ae98&",
@@ -3543,5 +3544,15 @@
         "censored_date": "2023-08-25 23:25:41",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-08-24 14:39:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/WlkqOkMxqRrlbrPndUxbQg",
+        "title": "如果马克思活在今天，他会说什么?",
+        "nickname": "武穆的学习笔记",
+        "created_at": "2023-08-06",
+        "archive": "gh_2ac4c28112b7_2023-08-06_missing_FWqcbgdD8J.y.tar.gz",
+        "censored_date": "2023-08-26 01:09:27",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-24 17:52:32"
     }
 ]
