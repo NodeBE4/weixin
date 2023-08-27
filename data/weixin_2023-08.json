@@ -3632,7 +3632,8 @@
         "created_at": "2023-08-25",
         "archive": "gh_21f5b568bfc7_2023-08-25_2247541242_bZv40Ps8TM.y.tar.gz",
         "censored_date": "2023-08-26 17:38:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-27 09:57:27"
     },
     {
         "url": "mp.weixin.qq.com/s/Sik5ZOoOY9fWUlxnt4mR5w",
@@ -3676,5 +3677,15 @@
         "censored_date": "2023-08-27 08:26:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-08-26 20:08:29"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/DWWBKUtIuiv9Wnsvw901Iw",
+        "title": "他们享受免费医疗，却阻止给人民免费医疗",
+        "nickname": "看他起高楼",
+        "created_at": "2023-08-25",
+        "archive": "gh_82058abd2299_2023-08-25_missing_HG38RgZsvN.y.tar.gz",
+        "censored_date": "2023-08-27 09:43:24",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-26 11:05:28"
     }
 ]
