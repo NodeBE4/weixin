@@ -3753,7 +3753,7 @@
         "archive": "gh_623c5c12b45e_2023-08-25_2247508609_KUZRx76bPn.y.tar.gz",
         "censored_date": "2023-08-29 14:19:45",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-08-28 22:32:30"
+        "update_date": "2023-08-30 10:49:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNDgwMjc5NQ==&mid=2247498103&idx=1&sn=f1f6104e3591b1d9ac0abe67aafe8a8a",
@@ -3774,7 +3774,8 @@
         "created_at": "2023-08-10",
         "archive": "gh_7536ca447de0_2023-08-10_2247593654_aUQmPbF542.y.tar.gz",
         "censored_date": "2023-08-29 17:07:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-30 10:47:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NzcwNjk2Mw==&mid=2247512518&idx=1&sn=96936c91ad96884d3d5dae7d63715299&",
@@ -3887,6 +3888,7 @@
     {
         "url": "mp.weixin.qq.com/s/ZZFFSw4oIT-dccumaFNg0g",
         "title": "包头市作协等被民政局列入拟撤销名单，当地文联回应",
+        "title_eng": "The Baotou City Writers Association was included in the list to be revoked by the Civil Affairs Bureau, and the local Federation of Literary and Art Circles responded",
         "nickname": "九派新闻",
         "created_at": "2023-08-28",
         "archive": "gh_7efe52a6188f_2023-08-28_missing_cm3LkhEgH5.y.tar.gz",
@@ -3904,5 +3906,26 @@
         "censored_date": "2023-08-30 09:26:57",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-08-29 15:24:32"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MzE3NzgzNQ==&mid=2247593946&idx=2&sn=4a9b01dfea302191509bc3fdf447361f&",
+        "title": "西安“天价月嫂”事件曝光：1周25次！太狠了...",
+        "title_eng": "Exposure of Xi'an Astronomical Yuesao incident: 25 times a week! too harsh...",
+        "nickname": "玩机狐",
+        "created_at": "2023-08-19",
+        "archive": "gh_7536ca447de0_2023-08-19_2247593946_Xlb1IhfonN.y.tar.gz",
+        "censored_date": "2023-08-30 10:27:53",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-29 15:09:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/zPVbyql82l_g6sDzWU2Dpg",
+        "title": "“悲惨遭遇系”“陌生人系”“制造矛盾系”……短视频摆拍引流的法律界限在哪里？",
+        "nickname": "大庆市人民检察院",
+        "created_at": "2023-08-28",
+        "archive": "gh_12625d9ce8cc_2023-08-28_missing_vwFNzeQon4.y.tar.gz",
+        "censored_date": "2023-08-30 12:15:34",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-29 17:06:16"
     }
 ]
