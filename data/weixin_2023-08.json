@@ -3938,7 +3938,8 @@
         "created_at": "2023-08-29",
         "archive": "gh_8ea8fa12c9c5_2023-08-29_2247676499_FMUCrIzkSg.y.tar.gz",
         "censored_date": "2023-08-30 17:34:20",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-31 20:19:21"
     },
     {
         "url": "mp.weixin.qq.com/s/FHCaTOaq7EWTsmQzta61GA",
@@ -3948,7 +3949,8 @@
         "created_at": "2023-08-29",
         "archive": "gh_6b4406901c7c_2023-08-29_missing_5Jq6Hxn7UT.y.tar.gz",
         "censored_date": "2023-08-30 18:06:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-08-31 20:18:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MzAyMzE4Nw==&mid=2457555944&idx=1&sn=06431edb390d01d6a9fd33250440aeff&",
@@ -4038,11 +4040,23 @@
     {
         "url": "mp.weixin.qq.com/s/mtmy389m6d66F95yBc1aFw",
         "title": "塞尔维亚公然背叛俄 美宣布援乌空空导弹",
+        "title_eng": "Serbia openly betrays Russia, US announces aid to Ukraine with air-to-air missiles",
         "nickname": "远见之道",
         "created_at": "2023-08-30",
         "archive": "gh_59e7225a67d7_2023-08-30_missing_78y0pB4Nkh.y.tar.gz",
         "censored_date": "2023-08-31 19:17:36",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-08-30 17:35:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MzI4NTAzMA==&mid=2247497803&idx=1&sn=43ff22e90bf8723e8881f71651780e51",
+        "title": "华为Mate 60突然发售，背后可能隐藏着一些大事",
+        "title_eng": "Huawei Mate 60 is on sale suddenly, and there may be some big things hidden behind it",
+        "nickname": "枫冷慕诗",
+        "created_at": "2023-08-30",
+        "archive": "gh_1b6f1764d336_2023-08-30_2247497803_MUCuBmdr42.y.tar.gz",
+        "censored_date": "2023-08-31 20:24:00",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-08-30 21:33:44"
     }
 ]
