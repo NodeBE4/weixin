@@ -608,7 +608,8 @@
         "created_at": "2023-09-04",
         "archive": "gh_cca7e138234d_2023-09-04_missing_PkrnC7pILV.y.tar.gz",
         "censored_date": "2023-09-06 00:36:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-07 05:42:11"
     },
     {
         "url": "mp.weixin.qq.com/s/gdx0lLQp9koEruBKvLafYA",
@@ -789,11 +790,32 @@
     {
         "url": "mp.weixin.qq.com/s/sPfyaihHNpHg3hVuuxvSxg",
         "title": "《四川政协报》今天文章好荒唐",
+        "title_eng": "Today's article in Sichuan CPPCC News is so ridiculous",
         "nickname": "梅新育论衡",
         "created_at": "2023-08-31",
         "archive": "gh_ed0aa2f23047_2023-08-31_missing_TGvH0fCPlD.y.tar.gz",
         "censored_date": "2023-09-07 05:13:48",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-09-06 00:25:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/rJQQ7HrvzY2x-fp511LlHg",
+        "title": "凤凰金融的案子判后会在网上公布",
+        "title_eng": "Phoenix Financial's case will be announced online after the verdict",
+        "nickname": "难友家园",
+        "created_at": "2023-09-05",
+        "archive": "gh_9c1ffe6d8db3_2023-09-05_missing_ym0zT7WeCR.y.tar.gz",
+        "censored_date": "2023-09-07 05:38:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-06 00:40:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247538316&idx=2&sn=c8561cc3c2f4d5ce13ee16ae3353d1aa&",
+        "title": "“律师的案源是打出来的”",
+        "nickname": "律法帝国",
+        "created_at": "2023-08-31",
+        "archive": "gh_b3c0e9559e02_2023-08-31_2247538316_cfCEP9L1uv.y.tar.gz",
+        "censored_date": "2023-09-07 06:21:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
