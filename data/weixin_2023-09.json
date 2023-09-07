@@ -841,7 +841,8 @@
         "created_at": "2023-09-05",
         "archive": "gh_21f5b568bfc7_2023-09-05_2247541625_oy9x0TApBK.y.tar.gz",
         "censored_date": "2023-09-07 09:05:07",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 06:14:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzIyNzAyNw==&mid=2651229188&idx=2&sn=966be57ca7c25e05c28efb3166384830",
@@ -1008,7 +1009,8 @@
         "created_at": "2023-09-04",
         "archive": "gh_fec2939dbded_2023-09-04_2652855928_wIxdM23ejy.y.tar.gz",
         "censored_date": "2023-09-07 22:12:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 06:01:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0OTQ3MzIxNQ==&mid=2247486435&idx=4&sn=ff564140a13f3e2c39696df4b33f0d0b&",
@@ -1045,11 +1047,21 @@
     {
         "url": "mp.weixin.qq.com/s/M5OVnGbyYG35UpcTiqqO-g",
         "title": "劳东燕：我反对！建议删除《治安管理处罚法（修订草案）》第34条第2-3项的规定",
+        "title_eng": "Lao Dongyan: I object! It is recommended to delete the provisions of Items 2-3 of Article 34 of the Public Security Management Punishment Law (Revised Draft)",
         "nickname": "法之光明",
         "created_at": "2023-09-06",
         "archive": "gh_f3e2834ecc5a_2023-09-06_missing_ChGEjFmwQW.y.tar.gz",
         "censored_date": "2023-09-08 04:59:49",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-09-06 23:25:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247507242&idx=2&sn=8e2ed4c978eccbfc81647fee0a5f9775",
+        "title": "一大波新片，速看！",
+        "nickname": "非凡影娱",
+        "created_at": "2023-09-06",
+        "archive": "gh_1bd38fe3354f_2023-09-06_2247507242_6ou8Jm7ywf.y.tar.gz",
+        "censored_date": "2023-09-08 05:51:08",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
