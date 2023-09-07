@@ -686,7 +686,8 @@
         "created_at": "2023-09-04",
         "archive": "gh_88e7a58ae8a8_2023-09-04_2651865416_tyAOXxo1R3.y.tar.gz",
         "censored_date": "2023-09-06 16:34:47",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-09-07 16:46:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183146&idx=2&sn=82417862d8971e42c2961ec8f25b133b",
@@ -904,6 +905,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MzI4MDMxOQ==&mid=2247486813&idx=1&sn=61b367666d9e51ca392c19e307c7c4c6&",
         "title": "字越少，事越大！！",
+        "title_eng": "Fewer words mean bigger things! !",
         "nickname": "明小西",
         "created_at": "2023-09-05",
         "archive": "gh_70621fb542a7_2023-09-05_2247486813_gGpNxisoTB.y.tar.gz",
@@ -914,11 +916,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247597871&idx=7&sn=b2f48fdb1880c1a66f14428ef9f1c0fb",
         "title": "洗浴小J！心悦电母大骂X视频女主播！九局连麦旭旭宝宝！叶无道晒全家合照！",
+        "title_eng": "Bathing little J! Xinyue Dianâ€™s mother cursed the female anchor of the X video! Nine consecutive games with Mai Xuxu baby! Ye Wudao posted a family photo!",
         "nickname": "歪理歪说Y",
         "created_at": "2023-09-04",
         "archive": "gh_c316ab540b5d_2023-09-04_2247597871_SsWVJjCf2l.y.tar.gz",
         "censored_date": "2023-09-07 16:12:39",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-06 16:04:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDUxNDY4Mw==&mid=2247549602&idx=2&sn=1a734efd0265d4a039ee7bb1c7c905bd",
+        "title": "徐昕：当事人问律师 “案子能不能赢”，律师应该如何回答？",
+        "nickname": "法布天下",
+        "created_at": "2023-09-04",
+        "archive": "gh_2583929cf969_2023-09-04_2247549602_b0olQUy5wp.y.tar.gz",
+        "censored_date": "2023-09-07 17:03:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-06 16:55:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDUxNDY4Mw==&mid=2247549594&idx=2&sn=ced028e4336ebd88b0300185a3339716",
+        "title": "徐昕：“刑事案件律师费6万，到底贵不贵？”",
+        "nickname": "法布天下",
+        "created_at": "2023-09-03",
+        "archive": "gh_2583929cf969_2023-09-03_2247549594_3vmHwByz2E.y.tar.gz",
+        "censored_date": "2023-09-07 17:04:45",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-05 23:55:57"
     }
 ]
