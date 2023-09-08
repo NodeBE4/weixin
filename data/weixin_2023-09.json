@@ -777,7 +777,8 @@
         "created_at": "2023-09-06",
         "archive": "gh_02c1b54329eb_2023-09-06_2674353172_rO3xYCK7Bo.y.tar.gz",
         "censored_date": "2023-09-07 03:01:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 09:53:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607438&idx=2&sn=074a7b2bbf971f557815fb2cbd4a2877",
@@ -852,7 +853,8 @@
         "created_at": "2023-09-05",
         "archive": "gh_f0692ac72534_2023-09-05_2651229188_N00syRprVo.y.tar.gz",
         "censored_date": "2023-09-07 11:10:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 09:44:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MzIyNzAyNw==&mid=2651228175&idx=2&sn=4419cdf4a263ea660b4a10cdde1d3127",
@@ -862,7 +864,8 @@
         "created_at": "2023-08-28",
         "archive": "gh_f0692ac72534_2023-08-28_2651228175_HEIc6deZ2L.y.tar.gz",
         "censored_date": "2023-09-07 11:18:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 09:51:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MzU0OTQzMw==&mid=2650213578&idx=1&sn=13877c4d4ce86eb688f34630ccd562f3",
@@ -1068,6 +1071,7 @@
     {
         "url": "mp.weixin.qq.com/s/70k-7nM41FUvDuPxp7YBJA",
         "title": "三法学教授谈《治安管理处罚法》修订草案：要慎重",
+        "title_eng": "Three law professors talk about the draft revision of the Public Security Management Punishment Law: Be cautious",
         "nickname": "法度LawBJ",
         "created_at": "2023-09-06",
         "archive": "gh_7cccd5d84f41_2023-09-06_missing_Xs8YhIt9Cd.y.tar.gz",
@@ -1078,11 +1082,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI1Njc1Mw==&mid=2649661006&idx=2&sn=d8c137478efc6e2e5eca24c5581c7c61&",
         "title": "融合创新助力高质量发展—— 首届中国能源电子大会暨广东新型储能高质量发展论坛将于11月8-10日在珠海举行",
+        "title_eng": "Integrating innovation to boost high-quality developmentâ€”the first China Energy Electronics Conference and Guangdong New Energy Storage High-quality Development Forum will be held in Zhuhai on November 8-10",
         "nickname": "中国电子报",
         "created_at": "2023-09-06",
         "archive": "gh_35845b693950_2023-09-06_2649661006_0645MP0BlX.y.tar.gz",
         "censored_date": "2023-09-08 08:41:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-07 00:57:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247486912&idx=1&sn=43bb617b2dad861ee7d52f95d56fa520&",
+        "title": "70r/次，打字即可~",
+        "nickname": "风息了山谷",
+        "created_at": "2023-08-28",
+        "archive": "gh_b5e9ac019de4_2023-08-28_2247486912_SoCtibJrxM.y.tar.gz",
+        "censored_date": "2023-09-08 09:32:55",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
