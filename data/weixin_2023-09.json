@@ -643,7 +643,7 @@
         "archive": "gh_b3c0e9559e02_2023-08-30_2247538298_KnqvQNrimk.y.tar.gz",
         "censored_date": "2023-09-06 12:52:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-06 01:35:49"
+        "update_date": "2023-09-09 03:24:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5ODA2NTY0MQ==&mid=2247504020&idx=1&sn=e9dc67a4436142331249838b262afab0",
@@ -1440,16 +1440,18 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4ODIyMzA2Ng==&mid=2649505371&idx=1&sn=9b140632464a79e3d86e63d39edbafe4&",
         "title": "附条件支持《治安管理处罚法》草案第三十四条",
+        "title_eng": "Conditional support for Article 34 of the draft Public Security Management Punishment Law",
         "nickname": "法治盛言",
         "created_at": "2023-09-06",
         "archive": "gh_0d2f35bdbb0a_2023-09-06_2649505371_Q5ajc9EH80.y.tar.gz",
         "censored_date": "2023-09-09 02:55:54",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-07 21:41:27"
+        "update_date": "2023-09-09 03:47:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDAzODg3NA==&mid=2650604378&idx=1&sn=214ed872fc31f9e947359a90cf7dfd4d",
         "title": "中国不再是美国第一大进口国，贸易战殃及纺织业？ 美国进一步延长352项中国商品的关税豁免期",
+        "title_eng": "China is no longer the largest importer of the United States. Will the trade war affect the textile industry? The United States further extends the tariff exemption period for 352 Chinese products",
         "nickname": "中国纱线网",
         "created_at": "2023-09-07",
         "archive": "gh_74628836ab1f_2023-09-07_2650604378_WdH70Z2bJo.y.tar.gz",
@@ -1459,10 +1461,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247543476&idx=1&sn=8f3000c47fe2dcee0febe0e96593c87b",
         "title": "晚上10点在葫芦岛一高中学校门口发生的事，女孩撕裂的喊着，别动手",
+        "title_eng": "What happened at the gate of a high school in Huludao at 10 p.m., the girl shouted tearfully, donâ€™t do it",
         "nickname": "葫芦岛都市网",
         "created_at": "2023-09-07",
         "archive": "gh_f86665431cb0_2023-09-07_2247543476_WlIEmg1Vwz.y.tar.gz",
         "censored_date": "2023-09-09 03:04:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652584591&idx=1&sn=f0d6495b97f6f5372d5d9b477488191c",
+        "title": "最强暴雨席卷福州：有市民在公交车过夜，一位老人被洪水冲走",
+        "title_eng": "The strongest rainstorm swept across Fuzhou: some citizens stayed overnight on the bus, and an old man was washed away by the floods",
+        "nickname": "南方周末",
+        "created_at": "2023-09-07",
+        "archive": "nanfangzhoumo_2023-09-07_2652584591_H9RrgkDm1f.y.tar.gz",
+        "censored_date": "2023-09-09 03:26:22",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
