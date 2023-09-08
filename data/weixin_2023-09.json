@@ -1146,6 +1146,7 @@
     {
         "url": "mp.weixin.qq.com/s/ftLjwPuEAMuT6GfW8zbVpA",
         "title": "我看到长沙受伤孩子的手术记录了，气到发抖……",
+        "title_eng": "I saw the operation record of the injured child in Changsha, and I was so angry that I trembled...",
         "nickname": "李清晨",
         "created_at": "2023-09-08",
         "archive": "gh_533a58667ad1_2023-09-08_missing_LUBmrG8WAn.y.tar.gz",
@@ -1155,10 +1156,22 @@
     {
         "url": "mp.weixin.qq.com/s/kRgKaxHYXVcbi09yAka6Qg",
         "title": "《治安管理处罚法》：不要让我们失去自信和宽容",
+        "title_eng": "Public Security Management Punishment Law: Don't Let Us Lose Self-Confidence and Tolerance",
         "nickname": "徐老游2",
         "created_at": "2023-09-07",
         "archive": "gh_98868ca5d298_2023-09-07_missing_rKwAY0lIUd.y.tar.gz",
         "censored_date": "2023-09-08 12:40:33",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NjQ2ODI4MQ==&mid=2247504149&idx=1&sn=e7a607a4c54ad0f0f3726a678f3cc7e4",
+        "title": "邓小平诞辰119周年：我们不搞政治游戏，不搞语言游戏",
+        "title_eng": "Deng Xiaopingâ€™s 119th Birthday: We donâ€™t play political games or language games",
+        "nickname": "段字手",
+        "created_at": "2023-09-01",
+        "archive": "gh_6fb98f76adf0_2023-09-01_2247504149_UbWCRFOtqD.y.tar.gz",
+        "censored_date": "2023-09-08 13:27:36",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-07 02:46:16"
     }
 ]
