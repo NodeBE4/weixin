@@ -905,7 +905,8 @@
         "created_at": "2023-09-04",
         "archive": "nanfangzhoumo_2023-09-04_2652584175_3UL0rNOJj9.y.tar.gz",
         "censored_date": "2023-09-07 13:35:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 12:05:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MzI4MDMxOQ==&mid=2247486813&idx=1&sn=61b367666d9e51ca392c19e307c7c4c6&",
@@ -1103,10 +1104,40 @@
     {
         "url": "mp.weixin.qq.com/s/wRZ0AZTM9GJV4OWnNEw-AQ",
         "title": "反对第34条，就是为未来的自己辩护",
+        "title_eng": "To oppose Article 34 is to defend your future self",
         "nickname": "在法言法",
         "created_at": "2023-09-06",
         "archive": "gh_d2f7604c9f2c_2023-09-06_missing_UeX8aIV3YL.y.tar.gz",
         "censored_date": "2023-09-08 10:33:17",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDUxNDY4Mw==&mid=2247549613&idx=2&sn=9256412396cbf4ae7e1152f66f160756",
+        "title": "徐昕：三流律师靠运气、二流律师靠人脉、一流律师靠...",
+        "nickname": "法布天下",
+        "created_at": "2023-09-05",
+        "archive": "gh_2583929cf969_2023-09-05_2247549613_Aru5ZgCSi1.y.tar.gz",
+        "censored_date": "2023-09-08 12:02:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-07 13:32:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Y3hguwWwAiUJ26pNitXv-g",
+        "title": "关于《治安管理处罚法》，媒体的沉默震耳欲聋",
+        "nickname": "亮见",
+        "created_at": "2023-09-07",
+        "archive": "gh_6d130830712c_2023-09-07_missing_QP1oRvJ36D.y.tar.gz",
+        "censored_date": "2023-09-08 12:09:43",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652099677&idx=4&sn=84c0341e0f6befce7f6ebb7c49da7adc",
+        "title": "北交所券商&quot;总动员&quot;！超1100人线上参会，欢迎推荐大公司…",
+        "title_eng": "Beijing Stock Exchange Securities Co., Ltd.",
+        "nickname": "券商中国",
+        "created_at": "2023-09-07",
+        "archive": "gh_6df2146bcb82_2023-09-07_2652099677_6nMhqkNb4f.y.tar.gz",
+        "censored_date": "2023-09-08 11:29:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
