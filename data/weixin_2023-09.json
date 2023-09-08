@@ -971,7 +971,8 @@
         "created_at": "2023-09-04",
         "archive": "gh_b5e9ac019de4_2023-09-04_2247486967_KW9OTJtlrF.y.tar.gz",
         "censored_date": "2023-09-07 19:02:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 17:29:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjcwNzExMg==&mid=2247581608&idx=1&sn=1902736ee38cf80ab90df83cb638c9e9",
@@ -1215,5 +1216,15 @@
         "censored_date": "2023-09-08 15:19:50",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-07 16:50:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NTg5MDgyNQ==&mid=2247483761&idx=1&sn=45294a4b57078116f723f867225e23f2&",
+        "title": "揭露一个产业链 骗子 杭州拆迁户",
+        "nickname": "困得睡到下午",
+        "created_at": "2023-09-01",
+        "archive": "gh_6e8dace7211b_2023-09-01_2247483761_XMb7JA42yg.y.tar.gz",
+        "censored_date": "2023-09-08 18:03:33",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-09-06 18:10:01"
     }
 ]
