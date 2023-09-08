@@ -632,7 +632,7 @@
         "archive": "gh_d60f8485ffe2_2023-09-02_missing_tYR1zuZPmL.y.tar.gz",
         "censored_date": "2023-09-06 01:39:09",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-09-06 05:50:56"
+        "update_date": "2023-09-08 19:34:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247538298&idx=2&sn=7c0671a35726c24045f9fa03df721db1&",
@@ -767,7 +767,8 @@
         "created_at": "2023-08-26",
         "archive": "gh_cbe49e48bd1e_2023-08-26_2247569459_ZCU4zVrwmH.y.tar.gz",
         "censored_date": "2023-09-06 23:47:38",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 20:36:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTk1MjA0MA==&mid=2674353172&idx=1&sn=230a928ce81ba1d1e0e584efd813eb07",
@@ -1231,11 +1232,34 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxOTUyMjQ5NA==&mid=2247539420&idx=2&sn=11871194f1273f87df3b1bcd2c24ccba&",
         "title": "洗米华家人近况曝光，洗米嫂在国外为继子庆生，喝酒助兴感情融洽",
+        "title_eng": "The recent situation of Xi Mihuaâ€™s family has been revealed. Xi Mihuaâ€™s sister-in-law celebrated her stepsonâ€™s birthday abroad and drank wine to make the relationship harmonious.",
         "nickname": "港澳湾那些事儿",
         "created_at": "2023-09-02",
         "archive": "gh_7001ed9b2b9f_2023-09-02_2247539420_u7DqOoxjIB.y.tar.gz",
         "censored_date": "2023-09-08 18:34:56",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-07 20:05:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247486967&idx=1&sn=b505a72be1e89c6e0c78d1fd91cc5bdf&",
+        "title": "60r/次，会打字就行~",
+        "title_eng": "60r/time, as long as you can type~",
+        "nickname": "风息了山谷",
+        "created_at": "2023-09-04",
+        "archive": "gh_b5e9ac019de4_2023-09-04_2247486967_pMQyeEnxBA.y.tar.gz",
+        "censored_date": "2023-09-08 19:52:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-06 07:09:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652584311&idx=1&sn=0a0673f5afebf0ba7a5fed4c0811f2e2",
+        "title": "7天4场葬礼，洪水带走大西屯的故事",
+        "title_eng": "Four funerals in seven days, the story of the flood taking away Daxitun",
+        "nickname": "南方周末",
+        "created_at": "2023-09-05",
+        "archive": "nanfangzhoumo_2023-09-05_2652584311_k4yPKoz0j5.y.tar.gz",
+        "censored_date": "2023-09-08 20:27:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-06 21:58:20"
     }
 ]
