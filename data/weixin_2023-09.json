@@ -895,7 +895,8 @@
         "created_at": "2023-09-05",
         "archive": "gh_97f487331201_2023-09-05_2650140278_0HIGW7dFZs.y.tar.gz",
         "censored_date": "2023-09-07 14:03:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 12:34:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652584175&idx=1&sn=afa6287116d6ce040ca7dda2e0728a84",
@@ -1114,6 +1115,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDUxNDY4Mw==&mid=2247549613&idx=2&sn=9256412396cbf4ae7e1152f66f160756",
         "title": "徐昕：三流律师靠运气、二流律师靠人脉、一流律师靠...",
+        "title_eng": "Xu Xin: Third-rate lawyers rely on luck, second-rate lawyers rely on connections, and first-rate lawyers rely on...",
         "nickname": "法布天下",
         "created_at": "2023-09-05",
         "archive": "gh_2583929cf969_2023-09-05_2247549613_Aru5ZgCSi1.y.tar.gz",
@@ -1124,6 +1126,7 @@
     {
         "url": "mp.weixin.qq.com/s/Y3hguwWwAiUJ26pNitXv-g",
         "title": "关于《治安管理处罚法》，媒体的沉默震耳欲聋",
+        "title_eng": "Regarding the Public Security Administration Punishment Law, the mediaâ€™s silence is deafening",
         "nickname": "亮见",
         "created_at": "2023-09-07",
         "archive": "gh_6d130830712c_2023-09-07_missing_QP1oRvJ36D.y.tar.gz",
@@ -1139,5 +1142,23 @@
         "archive": "gh_6df2146bcb82_2023-09-07_2652099677_6nMhqkNb4f.y.tar.gz",
         "censored_date": "2023-09-08 11:29:17",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ftLjwPuEAMuT6GfW8zbVpA",
+        "title": "我看到长沙受伤孩子的手术记录了，气到发抖……",
+        "nickname": "李清晨",
+        "created_at": "2023-09-08",
+        "archive": "gh_533a58667ad1_2023-09-08_missing_LUBmrG8WAn.y.tar.gz",
+        "censored_date": "2023-09-08 12:40:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/kRgKaxHYXVcbi09yAka6Qg",
+        "title": "《治安管理处罚法》：不要让我们失去自信和宽容",
+        "nickname": "徐老游2",
+        "created_at": "2023-09-07",
+        "archive": "gh_98868ca5d298_2023-09-07_missing_rKwAY0lIUd.y.tar.gz",
+        "censored_date": "2023-09-08 12:40:33",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
