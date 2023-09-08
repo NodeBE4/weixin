@@ -676,7 +676,7 @@
         "archive": "gh_9c1ffe6d8db3_2023-09-05_2650385843_jSL2e18hwu.y.tar.gz",
         "censored_date": "2023-09-06 16:06:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-05 23:35:44"
+        "update_date": "2023-09-09 06:26:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMjAyMzc0Mg==&mid=2651865416&idx=6&sn=38a53dc9611c81102b48004562a6edae",
@@ -719,7 +719,8 @@
         "created_at": "2023-08-30",
         "archive": "gh_f65867e77e76_2023-08-30_2653183146_oOhreAJw0q.y.tar.gz",
         "censored_date": "2023-09-06 17:00:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-09 07:00:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183175&idx=4&sn=2d5373ac56a028c063d3f084ae76c3ba",
@@ -1500,16 +1501,37 @@
         "archive": "gh_e11956f9ac7f_2023-09-06_missing_w90DREdnm7.y.tar.gz",
         "censored_date": "2023-09-09 04:50:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-07 23:07:05"
+        "update_date": "2023-09-09 06:30:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247502404&idx=1&sn=f976ac523aa0c974e0ee54208f55eb5b&",
         "title": "战鼓擂响，科技战场攻城拔寨，好消息接连不断，令人振奋",
+        "title_eng": "The drums of war are beating, the technological battlefield is sieging the city, and the good news continues one after another, which is exciting",
         "nickname": "昆羽继圣",
         "created_at": "2023-09-05",
         "archive": "gh_096550e8717a_2023-09-05_2247502404_oSXNnMA5Zz.y.tar.gz",
         "censored_date": "2023-09-09 06:21:13",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-09-08 03:24:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183211&idx=3&sn=69acef65c1ab02cde6a88d803134d25f",
+        "title": "直降千元，1299元get高颜值「戴森吹风机」",
+        "nickname": "拾文化",
+        "created_at": "2023-09-02",
+        "archive": "gh_f65867e77e76_2023-09-02_2653183211_pK50OWdJVc.y.tar.gz",
+        "censored_date": "2023-09-09 06:50:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-06 16:55:18"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTYxODU1MA==&mid=2660108842&idx=2&sn=6f4c406ecc16549a34de7eca19d3c870",
+        "title": "47岁李湘官宣退休！这个爱好让她财富自由",
+        "nickname": "广电实战",
+        "created_at": "2023-09-05",
+        "archive": "gh_2e427d48e141_2023-09-05_2660108842_OaHwRk586B.y.tar.gz",
+        "censored_date": "2023-09-09 07:02:59",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-08 03:47:41"
     }
 ]
