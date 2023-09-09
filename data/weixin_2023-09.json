@@ -1104,7 +1104,7 @@
         "archive": "gh_35845b693950_2023-09-06_2649661006_0645MP0BlX.y.tar.gz",
         "censored_date": "2023-09-08 08:41:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-07 00:57:28"
+        "update_date": "2023-09-09 14:37:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247486912&idx=1&sn=43bb617b2dad861ee7d52f95d56fa520&",
@@ -1569,11 +1569,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NzU3MDY1Mw==&mid=2247621609&idx=2&sn=e1fe5700c79c762c76706d8914f47ecd&",
         "title": "外媒不情願承認：華為打臉美國",
+        "title_eng": "Foreign media are reluctant to admit: Huawei slaps the United States in the face",
         "nickname": "大公文匯",
         "created_at": "2023-09-06",
         "archive": "gh_cd6158ac7e8b_2023-09-06_2247621609_Za8ANsL7PT.y.tar.gz",
         "censored_date": "2023-09-09 13:57:13",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-09-08 17:43:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzODE3ODg4OQ==&mid=2247549677&idx=7&sn=e79b662df11b7743a4413b61b22447f1&",
+        "title": "在自己婚礼上吐舌头的新娘",
+        "nickname": "时间背后",
+        "created_at": "2023-08-22",
+        "archive": "gh_0ddc2e9e10ba_2023-08-22_2247549677_hKdADNuZcY.y.tar.gz",
+        "censored_date": "2023-09-09 15:17:46",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
