@@ -1592,7 +1592,8 @@
         "created_at": "2023-08-22",
         "archive": "gh_0ddc2e9e10ba_2023-08-22_2247549677_hKdADNuZcY.y.tar.gz",
         "censored_date": "2023-09-09 15:17:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-10 17:41:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjQ2ODI4MQ==&mid=2247504282&idx=1&sn=97d44a603c75f00ff0ea7ac7773ce8ff",
@@ -1872,5 +1873,16 @@
         "censored_date": "2023-09-10 16:25:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-09 07:10:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1ODA2Mjg3MQ==&mid=2651160967&idx=1&sn=ff37cea0cd3d5f9e24bdf57b0e0352d0",
+        "title": "周小平夫妇，败坏中国形象，绑架中国外交",
+        "title_eng": "Zhou Xiaoping and his wife ruined Chinaâ€™s image and kidnapped Chinaâ€™s diplomacy",
+        "nickname": "晓看",
+        "created_at": "2023-09-09",
+        "archive": "gh_73451afc2300_2023-09-09_2651160967_PhlRZqrmsF.y.tar.gz",
+        "censored_date": "2023-09-10 17:24:46",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-09-09 15:05:41"
     }
 ]
