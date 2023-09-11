@@ -1736,7 +1736,7 @@
         "archive": "gh_a414d01c6b75_2023-09-09_2650489730_NZRYKQXO9F.y.tar.gz",
         "censored_date": "2023-09-09 23:14:38",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-09-10 13:09:42"
+        "update_date": "2023-09-11 09:22:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653127890&idx=2&sn=44fd117f981ae906404462f5f1caa5ac",
@@ -1842,7 +1842,7 @@
         "archive": "gh_6f7af582bf5e_2023-09-09_2247514720_oqT7gseypI.y.tar.gz",
         "censored_date": "2023-09-10 12:30:40",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-09-09 23:36:50"
+        "update_date": "2023-09-11 09:28:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651192538&idx=2&sn=0570a0e7646c8ed553db5c4c49e36751&",
@@ -1954,10 +1954,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NzA2OTk4NQ==&mid=2650540348&idx=1&sn=9dee148694dc751262f2ec21bcff7a30",
         "title": "北大法学教授沈岿：关于《治安管理处罚法（修订草案）》的十条意见",
+        "title_eng": "Peking University Law Professor Shen Kui: Ten opinions on the Public Security Management Punishment Law (Revised Draft)",
         "nickname": "景来律师",
         "created_at": "2023-09-10",
         "archive": "gh_9efaafe1944e_2023-09-10_2650540348_Hp0njMFVJl.y.tar.gz",
         "censored_date": "2023-09-11 07:06:04",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4NTU3NzU4OQ==&mid=2247517464&idx=2&sn=b171275e4bf5b8232cbf2c10b9907dfb&",
+        "title": "彭博雄文：芯片、丝绸、造纸术，你无法永远保守秘密",
+        "title_eng": "Bloomberg: Chips, silk, papermaking, you canâ€™t keep secrets forever",
+        "nickname": "美第奇效应",
+        "created_at": "2023-09-10",
+        "archive": "gh_e66682fa81e9_2023-09-10_2247517464_nyhacxPkpV.y.tar.gz",
+        "censored_date": "2023-09-11 08:33:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-10 11:43:00"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/EvPTfHS4FFnXh52G5UG34w",
+        "title": "湘大学子走访清真寺|探访回民文化，弘扬民族精神",
+        "title_eng": "Xiang University students visited the mosque | Exploring the culture of the Hui people and carrying forward the national spirit",
+        "nickname": "启智赋能助马奔腾三下乡实践团",
+        "created_at": "2023-07-30",
+        "archive": "gh_27e5b7b42031_2023-07-30_missing_jwV5RZtmNY.y.tar.gz",
+        "censored_date": "2023-09-11 08:11:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-10 14:05:05"
     }
 ]
