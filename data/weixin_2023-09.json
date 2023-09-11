@@ -1894,7 +1894,8 @@
         "created_at": "2023-09-10",
         "archive": "gh_2f5860905c4b_2023-09-10_missing_2Dif08qKZj.y.tar.gz",
         "censored_date": "2023-09-11 00:08:42",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-09-11 13:31:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&mid=2458100603&idx=2&sn=43e042a8fee7acb217085e005c07ead3&",
@@ -1986,6 +1987,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651423952&idx=2&sn=86457e67c887b9b7da3095e1f1b0d1ee",
         "title": "为什么嘴上一直喊辞职的人，留得最久",
+        "title_eng": "Why do people who keep calling for resignation stay the longest?",
         "nickname": "思想精髓",
         "created_at": "2023-09-02",
         "archive": "gh_6dddc9d2e66e_2023-09-02_2651423952_E9UlCyrwJk.y.tar.gz",
@@ -1996,11 +1998,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651423983&idx=1&sn=0f1b90eea2d43c24eb69f65a39f8cbf8&",
         "title": "“女友说结婚花销AA，但要一个孩子随她姓”：婚姻的本质，是价值交换",
+        "title_eng": "â€œMy girlfriend said her marriage would cost AA, but she wants a child with her last nameâ€<9d>: The essence of marriage is value exchange",
         "nickname": "思想精髓",
         "created_at": "2023-09-04",
         "archive": "gh_6dddc9d2e66e_2023-09-04_2651423983_HTsp39tRPW.y.tar.gz",
         "censored_date": "2023-09-11 11:54:38",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-10 23:32:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247569523&idx=2&sn=148aba6c310fe8af86df36c686548a2b",
+        "title": "我做律师1年全款买了房：你看不起的业务，真的很赚钱！",
+        "title_eng": "I bought a house with full payment after working as a lawyer for 1 year: this business that you look down on is really very profitable!",
+        "nickname": "律法读报",
+        "created_at": "2023-09-08",
+        "archive": "gh_cbe49e48bd1e_2023-09-08_2247569523_0FC9YLzpN7.y.tar.gz",
+        "censored_date": "2023-09-11 12:31:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 00:05:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxMzMxMjQ0NQ==&mid=2247528990&idx=1&sn=90edb1399492562a5e5aa388b496d9e3&",
+        "title": "关键时刻，韩国打通中方电话，作出新承诺！",
+        "nickname": "晋观评论",
+        "created_at": "2023-09-01",
+        "archive": "gh_2e4f8f3006cb_2023-09-01_2247528990_KEGt98dNfY.y.tar.gz",
+        "censored_date": "2023-09-11 13:30:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
