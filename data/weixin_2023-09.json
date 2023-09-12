@@ -2225,6 +2225,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1NjQ1Nw==&mid=2651299482&idx=4&sn=f3919d7fed80a14d2845f1770f8b698e",
         "title": "13天花费40万，医院里烧钱式的治疗，ICU凭啥这么贵?看完就明白了",
+        "title_eng": "13 days cost 400,000 yuan. Itâ€™s a money-burning treatment in the hospital. Why is the ICU so expensive? Youâ€™ll understand after reading this",
         "nickname": "医护站",
         "created_at": "2023-09-07",
         "archive": "gh_ca377f3496f1_2023-09-07_2651299482_isr9AwPeNM.y.tar.gz",
@@ -2234,6 +2235,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247513166&idx=2&sn=856f78d698bfc9c18ec79707d504de74",
         "title": "懵了！64岁的舞王杨丽萍，涉黄？/习瑞之死，更多细节不忍卒读",
+        "title_eng": "Senseless! 64-year-old dance king Yang Liping, involved in pornography? /The death of Xi Rui, more details are too painful to read",
         "nickname": "每日乐评",
         "created_at": "2023-09-12",
         "archive": "gh_96522be72207_2023-09-12_2247513166_zF9X5VI6Rl.y.tar.gz",
@@ -2243,10 +2245,39 @@
     {
         "url": "mp.weixin.qq.com/s/JqMfJLPaa-GCqLNsbbi6lw",
         "title": "谁来帮助长江存储？",
+        "title_eng": "Who will help Yangtze River Storage?",
         "nickname": "远川研究所",
         "created_at": "2023-09-11",
         "archive": "gh_4ed187a4bb37_2023-09-11_missing_zrjUCmWAgZ.y.tar.gz",
         "censored_date": "2023-09-12 22:25:09",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1NjQ1Nw==&mid=2651299193&idx=5&sn=c62748f54598651e5d50e290347934be",
+        "title": "50个床位只有5个产妇，产科冷冷清清，真的令人意想不到",
+        "title_eng": "There are only 5 pregnant women in 50 beds, and the obstetrics department is deserted, which is really unexpected.",
+        "nickname": "医护站",
+        "created_at": "2023-09-04",
+        "archive": "gh_ca377f3496f1_2023-09-04_2651299193_t4cgSybu69.y.tar.gz",
+        "censored_date": "2023-09-12 23:26:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjUwODI5MQ==&mid=2247571870&idx=2&sn=c0bbc2c28ad9b054e4560ad6496ccf9f",
+        "title": "越闹越大！市委书记短袖品牌被P，价格被网友扒出，怪不得要掩盖",
+        "nickname": "儒乐榜",
+        "created_at": "2023-09-07",
+        "archive": "gh_8465ef29b13d_2023-09-07_2247571870_Tlth4f0q1n.y.tar.gz",
+        "censored_date": "2023-09-13 00:20:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MjUwODI5MQ==&mid=2247571926&idx=1&sn=eaa88b2de8857dcb0a008b6bf573fbec",
+        "title": "上海立大功！把资产非法转移到国外的人完蛋了！“润人”头子被抓",
+        "nickname": "儒乐榜",
+        "created_at": "2023-09-11",
+        "archive": "gh_8465ef29b13d_2023-09-11_2247571926_ULamXPb0Qy.y.tar.gz",
+        "censored_date": "2023-09-13 00:22:03",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
