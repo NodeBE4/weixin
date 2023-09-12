@@ -2074,6 +2074,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651192621&idx=5&sn=6265bfc1424dcd3b5c36fc5707da6e67&",
         "title": "科学家发现：少得病的秘密！（强烈推荐）",
+        "title_eng": "Scientists discover: The secret to less disease! (highly recommended)",
         "nickname": "新老人",
         "created_at": "2023-09-11",
         "archive": "gh_2ff5d816ea7a_2023-09-11_2651192621_4DfWgr6eSO.y.tar.gz",
@@ -2084,6 +2085,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMjE3MzY0Ng==&mid=2653527550&idx=1&sn=3f121dc28e0c70a995ccd821a3d61961&",
         "title": "副部级高官周江勇的办公室，以及他背后的女人",
+        "title_eng": "The office of Zhou Jiangyong, a senior deputy ministerial official, and the woman behind him",
         "nickname": "青春洞见",
         "created_at": "2023-09-10",
         "archive": "gh_a1c78cfb6b0d_2023-09-10_2653527550_fSNY6mUtCh.y.tar.gz",
@@ -2093,11 +2095,74 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njg5MjAwMg==&mid=2651559517&idx=1&sn=b1c07852677074c1fd08005643e28816&",
         "title": "五经普专列 | 第四站：普查业务流程",
+        "title_eng": "Five Classics Census Special Train | Fourth Stop: Census Business Process",
         "nickname": "统计微讯",
         "created_at": "2023-09-11",
         "archive": "gh_a3ebe5bdcdb1_2023-09-11_2651559517_HfGpuI8L2Q.y.tar.gz",
         "censored_date": "2023-09-12 10:06:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-11 15:02:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247980902&idx=3&sn=7903ee4c43e9783bc77528e4778d14f3",
+        "title": "活了30年，总算吃到了最好吃的牛肉干",
+        "title_eng": "After living for 30 years, I finally ate the most delicious beef jerky",
+        "nickname": "凤凰网",
+        "created_at": "2023-09-08",
+        "archive": "gh_08885da058c6_2023-09-08_2247980902_u0plGSV5EA.y.tar.gz",
+        "censored_date": "2023-09-12 12:53:29",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 22:42:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/RdF8Jb1EUsYa6bksHEPdNQ",
+        "title": "中秋假期换个玩法，来分享收获丰收节吧！",
+        "nickname": "分享收获农场",
+        "created_at": "2023-09-10",
+        "archive": "gh_154b8fb04bd8_2023-09-10_missing_slYy27kCN3.y.tar.gz",
+        "censored_date": "2023-09-12 13:43:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 23:34:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/nz86ZsHqFxQ3xGEB_Iz-GQ",
+        "title": "重庆市司法局取消特殊困难群体法律援助事项范围限制",
+        "title_eng": "Chongqing Municipal Justice Bureau lifts restrictions on the scope of legal aid matters for groups with special needs",
+        "nickname": "司法部",
+        "created_at": "2023-09-12",
+        "archive": "gh_8c22a02b0e6c_2023-09-12_missing_MmRA2JOTYC.y.tar.gz",
+        "censored_date": "2023-09-12 12:36:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247981389&idx=2&sn=b28b4b69174acf678b9d887e513a8914",
+        "title": "“投胎王者”江浙沪独生女的优势能持续多久？",
+        "title_eng": "How long can the advantage of the reincarnated king the only daughter in Jiangsu, Zhejiang and Shanghai last?",
+        "nickname": "凤凰网",
+        "created_at": "2023-09-11",
+        "archive": "gh_08885da058c6_2023-09-11_2247981389_bXkwWB2QGq.y.tar.gz",
+        "censored_date": "2023-09-12 12:50:39",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 22:39:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247538707&idx=2&sn=339e4d23b57eacf7ffac424efe6a003f",
+        "title": "突然宣布！开展高考志愿规划师培训！教师家长免费申领，9月14日截止！",
+        "title_eng": "Suddenly announced! Carry out college entrance examination volunteer planner training! Teachers and parents can apply for free, deadline is September 14th!",
+        "nickname": "律法帝国",
+        "created_at": "2023-09-11",
+        "archive": "gh_b3c0e9559e02_2023-09-11_2247538707_A6JpXvGNto.y.tar.gz",
+        "censored_date": "2023-09-12 13:21:31",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247522860&idx=3&sn=fa745e61fc826aa258d344e168c3731d",
+        "title": "悲剧！情侣吵架，一言不合就跳河……",
+        "nickname": "曾经的道哥",
+        "created_at": "2023-09-11",
+        "archive": "gh_526cee4e55f0_2023-09-11_2247522860_s2QvJYwGxm.y.tar.gz",
+        "censored_date": "2023-09-12 13:59:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 23:43:06"
     }
 ]
