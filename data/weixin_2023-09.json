@@ -2117,6 +2117,7 @@
     {
         "url": "mp.weixin.qq.com/s/RdF8Jb1EUsYa6bksHEPdNQ",
         "title": "中秋假期换个玩法，来分享收获丰收节吧！",
+        "title_eng": "Change the Mid-Autumn Festival holiday and share the Harvest Festival!",
         "nickname": "分享收获农场",
         "created_at": "2023-09-10",
         "archive": "gh_154b8fb04bd8_2023-09-10_missing_slYy27kCN3.y.tar.gz",
@@ -2158,11 +2159,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247522860&idx=3&sn=fa745e61fc826aa258d344e168c3731d",
         "title": "悲剧！情侣吵架，一言不合就跳河……",
+        "title_eng": "tragedy! Couples quarrel and jump into the river when they disagree...",
         "nickname": "曾经的道哥",
         "created_at": "2023-09-11",
         "archive": "gh_526cee4e55f0_2023-09-11_2247522860_s2QvJYwGxm.y.tar.gz",
         "censored_date": "2023-09-12 13:59:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-11 23:43:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MzI4NTAzMA==&mid=2247497962&idx=1&sn=f3126a7a3b065b6570fb35172773bc21",
+        "title": "某官媒对中国历史的神分析，醍醐灌顶！",
+        "nickname": "枫冷慕诗",
+        "created_at": "2023-09-05",
+        "archive": "gh_1b6f1764d336_2023-09-05_2247497962_PgSpOmEKM5.y.tar.gz",
+        "censored_date": "2023-09-12 14:36:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-11 23:20:35"
     }
 ]
