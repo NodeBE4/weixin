@@ -2286,7 +2286,8 @@
         "created_at": "2023-09-11",
         "archive": "gh_8465ef29b13d_2023-09-11_2247571926_ULamXPb0Qy.y.tar.gz",
         "censored_date": "2023-09-13 00:22:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-14 08:09:22"
     },
     {
         "url": "mp.weixin.qq.com/s/PHZ754Km56bdjMR_beXyEg",
@@ -2728,6 +2729,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247964572&idx=2&sn=2ef9b070f9bdcc1ca42094e9f4cccd32&",
         "title": "她跳楼了，全网崩溃！",
+        "title_eng": "She jumped off the building and the whole network collapsed!",
         "nickname": "她姐生活",
         "created_at": "2023-09-01",
         "archive": "gh_4c63fcb04eaf_2023-09-01_2247964572_swSbvZM9Lk.y.tar.gz",
@@ -2745,5 +2747,15 @@
         "censored_date": "2023-09-14 05:20:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-13 01:59:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247522860&idx=1&sn=0cbaa542a36f00416943d708407a8356",
+        "title": "自我斩首装置，一拉绳子头就掉了",
+        "nickname": "曾经的道哥",
+        "created_at": "2023-09-11",
+        "archive": "gh_526cee4e55f0_2023-09-11_2247522860_Skbjt3PFMW.y.tar.gz",
+        "censored_date": "2023-09-14 08:58:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-12 13:58:40"
     }
 ]
