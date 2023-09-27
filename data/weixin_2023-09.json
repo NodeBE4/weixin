@@ -3658,7 +3658,8 @@
         "created_at": "2023-09-25",
         "archive": "gh_732c9ca2980e_2023-09-25_2247489728_Ssiv5HlG9R.y.tar.gz",
         "censored_date": "2023-09-26 16:09:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-28 03:48:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NTg5OTk2Mg==&mid=2247586142&idx=1&sn=2be8ce072271bbf1fb83228e4e67ad06",
@@ -3784,5 +3785,35 @@
         "archive": "gh_70d81af72ed8_2023-09-25_missing_sxjeV3p1LJ.y.tar.gz",
         "censored_date": "2023-09-28 00:37:29",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198021&idx=4&sn=72b582463977ac577e82e15e417a8632",
+        "title": "公安局政委、派出所教导员必备：机关党建文件汇编",
+        "nickname": "基层业务",
+        "created_at": "2023-09-25",
+        "archive": "gh_1344ec61ae9a_2023-09-25_2649198021_ws3m0OAgRG.y.tar.gz",
+        "censored_date": "2023-09-28 04:19:00",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-27 12:27:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198021&idx=3&sn=d9474332eb5401266d6916e0c8c1a084",
+        "title": "【基层】早秋必备卫衣，保暖兔绒、舒适透气，一件顶好几件",
+        "nickname": "基层业务",
+        "created_at": "2023-09-25",
+        "archive": "gh_1344ec61ae9a_2023-09-25_2649198021_MRyPeLIpK1.y.tar.gz",
+        "censored_date": "2023-09-28 04:19:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-27 12:27:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198005&idx=2&sn=219525bb897f3506b9da89ad236bfaa9&",
+        "title": "公务必备的皮鞋，比普通皮鞋舒适，比运动鞋正式",
+        "nickname": "基层业务",
+        "created_at": "2023-09-21",
+        "archive": "gh_1344ec61ae9a_2023-09-21_2649198005_9ah7mtDCZK.y.tar.gz",
+        "censored_date": "2023-09-28 03:34:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-27 13:07:32"
     }
 ]
