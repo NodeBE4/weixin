@@ -3713,7 +3713,8 @@
         "created_at": "2023-09-25",
         "archive": "gh_d017447a7b5d_2023-09-25_2247517171_7IH9DPcldX.y.tar.gz",
         "censored_date": "2023-09-26 23:31:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-28 11:25:19"
     },
     {
         "url": "mp.weixin.qq.com/s/uPMtgFbeZGB7yIwAouI7mA",
@@ -3877,10 +3878,39 @@
     {
         "url": "mp.weixin.qq.com/s/BOh3c5Dg8IBNpjMAC-CSLw",
         "title": "【夏季行动】左权县公安局拐儿排派出所扎实开展“中秋”“国庆”节前安全检查",
+        "title_eng": "[Summer Operation] Zuoquan County Public Security Bureau Guaerpai Police Station carried out safety inspections before the Mid-Autumn Festival and National Day",
         "nickname": "左权公安",
         "created_at": "2023-09-26",
         "archive": "gh_6b4406901c7c_2023-09-26_missing_p0QBvJ7eMm.y.tar.gz",
         "censored_date": "2023-09-28 10:35:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649197995&idx=4&sn=835be04178823f11f1d8823b7f8448b6&",
+        "title": "汇聚全国公安智慧的《电信网络诈骗犯罪侦查》",
+        "nickname": "基层业务",
+        "created_at": "2023-09-18",
+        "archive": "gh_1344ec61ae9a_2023-09-18_2649197995_p2azNWVjUS.y.tar.gz",
+        "censored_date": "2023-09-28 11:35:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-27 19:50:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/3v_hkGKJ9z7mThb8ltLc1w",
+        "title": "新冠三年，世卫主席谭德赛，对疫苗终于说了真话",
+        "nickname": "拾光纪事",
+        "created_at": "2023-09-26",
+        "archive": "gh_2673840baafc_2023-09-26_missing_0U2pRu40ac.y.tar.gz",
+        "censored_date": "2023-09-28 11:56:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650585510&idx=2&sn=764726bf2fc8e987bb54e8b093ef6e47",
+        "title": "如果条件允许，建议用它泡茶，为了自己和家人好",
+        "nickname": "南师国学堂",
+        "created_at": "2023-09-22",
+        "archive": "gh_45de294b7642_2023-09-22_2650585510_pbinPY42ge.y.tar.gz",
+        "censored_date": "2023-09-28 12:17:30",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
