@@ -3604,7 +3604,7 @@
         "archive": "gh_454c977ff353_2023-09-24_2247502074_XG2BeW9CL8.y.tar.gz",
         "censored_date": "2023-09-25 17:25:33",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-26 13:17:47"
+        "update_date": "2023-09-28 14:14:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3Nzg5Nzg0Ng==&mid=2247502959&idx=1&sn=baafe69f68d36e1b2f1c28e9b57e6ab4&",
@@ -3888,6 +3888,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649197995&idx=4&sn=835be04178823f11f1d8823b7f8448b6&",
         "title": "汇聚全国公安智慧的《电信网络诈骗犯罪侦查》",
+        "title_eng": "Telecommunications Network Fraud Crime Investigation that gathers the wisdom of public security agencies across the country",
         "nickname": "基层业务",
         "created_at": "2023-09-18",
         "archive": "gh_1344ec61ae9a_2023-09-18_2649197995_p2azNWVjUS.y.tar.gz",
@@ -3898,6 +3899,7 @@
     {
         "url": "mp.weixin.qq.com/s/3v_hkGKJ9z7mThb8ltLc1w",
         "title": "新冠三年，世卫主席谭德赛，对疫苗终于说了真话",
+        "title_eng": "Three years after COVID-19, WHO Chairman Tedros Adhanom Ghebreyesus finally told the truth about vaccines",
         "nickname": "拾光纪事",
         "created_at": "2023-09-26",
         "archive": "gh_2673840baafc_2023-09-26_missing_0U2pRu40ac.y.tar.gz",
@@ -3907,10 +3909,71 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650585510&idx=2&sn=764726bf2fc8e987bb54e8b093ef6e47",
         "title": "如果条件允许，建议用它泡茶，为了自己和家人好",
+        "title_eng": "If conditions permit, it is recommended to use it to make tea, for the sake of yourself and your family",
         "nickname": "南师国学堂",
         "created_at": "2023-09-22",
         "archive": "gh_45de294b7642_2023-09-22_2650585510_pbinPY42ge.y.tar.gz",
         "censored_date": "2023-09-28 12:17:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183976&idx=4&sn=4cab6997344b702308f44d479623c637",
+        "title": "一把银壶99元！皎洁灵动如明月，嗜茶人的心头好",
+        "title_eng": "A silver pot costs 99 yuan! Bright and bright as the bright moon, a delight for tea lovers",
+        "nickname": "拾文化",
+        "created_at": "2023-09-23",
+        "archive": "gh_f65867e77e76_2023-09-23_2653183976_T302rIvKcY.y.tar.gz",
+        "censored_date": "2023-09-28 13:08:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183976&idx=3&sn=d83f65e091bcb6ee6cc25bfde6f6ef8f",
+        "title": "苏东坡钟爱的酥月？到底多好吃···50年老师傅手作，越嚼越香！",
+        "title_eng": "Su Dongpoâ€™s beloved Su Yue? How delicious it is... Handmade by a master with 50 years of experience, the more you chew, the more delicious it becomes!",
+        "nickname": "拾文化",
+        "created_at": "2023-09-23",
+        "archive": "gh_f65867e77e76_2023-09-23_2653183976_sF0fAxqMiG.y.tar.gz",
+        "censored_date": "2023-09-28 13:07:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183923&idx=3&sn=4b2c833eff52bfcc956aa82959652cf3",
+        "title": "炸裂！900多岁的千里江山图，变色了！",
+        "title_eng": "Explode! The 900-year-old Thousand Miles of Rivers and Mountains map has changed color!",
+        "nickname": "拾文化",
+        "created_at": "2023-09-19",
+        "archive": "gh_f65867e77e76_2023-09-19_2653183923_1Mp3d89Ds5.y.tar.gz",
+        "censored_date": "2023-09-28 13:09:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183923&idx=4&sn=d675e99a5b18eca7c74237f1dcf6e10a",
+        "title": "36岁辞官“摆地摊”，专注40年成国家非遗技艺香包，每一只都美翻了！",
+        "title_eng": "He resigned from his job at the age of 36 and started to set up a street stall, focusing on developing national intangible cultural heritage sachets for 40 years. Every one of them is amazing!",
+        "nickname": "拾文化",
+        "created_at": "2023-09-19",
+        "archive": "gh_f65867e77e76_2023-09-19_2653183923_sGvFS7rlg4.y.tar.gz",
+        "censored_date": "2023-09-28 13:10:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183923&idx=2&sn=937aa346696d2ea7df033a80f07fd53a",
+        "title": "苏东坡钟爱的酥月？到底多好吃···50年老师傅手作，越嚼越香！",
+        "title_eng": "Su Dongpoâ€™s beloved Su Yue? How delicious it is... Handmade by a master with 50 years of experience, the more you chew, the more delicious it becomes!",
+        "nickname": "拾文化",
+        "created_at": "2023-09-19",
+        "archive": "gh_f65867e77e76_2023-09-19_2653183923_bI8WU0wKdP.y.tar.gz",
+        "censored_date": "2023-09-28 13:09:12",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653183976&idx=2&sn=168d5a5700aa87fdd0d4e99834a09f59",
+        "title": "收到会惊掉下巴的中秋礼盒！Folli Follie原价3999的月光宝盒，299 元抢！买月饼送包包、送手表！",
+        "title_eng": "Receive a Mid-Autumn Festival gift box that will make your jaw drop! Folli Follie's moonlight treasure box, originally priced at 3,999, is available for 299 yuan! Buy mooncakes and get free bags and watches!",
+        "nickname": "拾文化",
+        "created_at": "2023-09-23",
+        "archive": "gh_f65867e77e76_2023-09-23_2653183976_RtXFl4op9r.y.tar.gz",
+        "censored_date": "2023-09-28 13:07:09",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
