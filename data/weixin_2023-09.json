@@ -3691,7 +3691,8 @@
         "created_at": "2023-09-25",
         "archive": "gh_dc11846d4458_2023-09-25_missing_O3ci0CktNS.y.tar.gz",
         "censored_date": "2023-09-26 19:37:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-28 07:42:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzI1Njc1Mw==&mid=2649662006&idx=1&sn=02dc886bfc667d540610716938ffc01d&",
@@ -3844,10 +3845,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651539071&idx=5&sn=8b7a768e23a29bc0f85c4c29a5b8de90&",
         "title": "房价下跌，比狠了！",
+        "title_eng": "House prices are falling, itâ€™s so bad!",
         "nickname": "财金新天地",
         "created_at": "2023-09-17",
         "archive": "gh_517f0d8d1792_2023-09-17_2651539071_ObYzPr19tA.y.tar.gz",
         "censored_date": "2023-09-28 06:44:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4ODQ5NDc1MA==&mid=2649173236&idx=2&sn=e25f8f0caa721a56e12a1d7401d7d547&",
+        "title": "畜生从小就是畜生！",
+        "nickname": "燕梳楼",
+        "created_at": "2023-09-24",
+        "archive": "gh_6e45327b3e42_2023-09-24_2649173236_wh8pEZcbCe.y.tar.gz",
+        "censored_date": "2023-09-28 08:37:08",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-09-27 15:55:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651539359&idx=8&sn=37b8455f7dc1e46a1ad2a84bc1e7217c&",
+        "title": "​南京火焰雪花肥牛烧人事件的当事人，不就是热搜上惹怒全网的女明星吗？",
+        "title_eng": "​Isnâ€™t the person involved in the Nanjing Flame, Snowflake, Fatty Cow and Human Burning Incident the same female celebrity who has angered the entire Internet on trending searches?",
+        "nickname": "财金新天地",
+        "created_at": "2023-09-19",
+        "archive": "gh_517f0d8d1792_2023-09-19_2651539359_g9Zboci285.y.tar.gz",
+        "censored_date": "2023-09-28 07:43:12",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
