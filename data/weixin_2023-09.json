@@ -4343,6 +4343,7 @@
     {
         "url": "mp.weixin.qq.com/s/DHlGsub2EwPEzyxyfm8vvQ",
         "title": "被退货20亿元、大幅裁员，储能界“红人”能熬过这次危机吗？",
+        "title_eng": "With 2 billion yuan in refunds and massive layoffs, can the celebrities in the energy storage industry survive this crisis?",
         "nickname": "储能头条",
         "created_at": "2023-09-27",
         "archive": "gh_a5171980d152_2023-09-27_missing_VbRmU5WTsN.y.tar.gz",
@@ -4353,11 +4354,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMDY5MTc5Mw==&mid=2651539638&idx=8&sn=85fd4a68741a6d52cea01a1d45de64d7&",
         "title": "一个自缢身亡，一个住进养老院…湖南重庆俩富豪的晚年，颠覆了我对养老的认知",
+        "title_eng": "One hanged himself, and the other lived in a nursing home... The later years of two wealthy people in Hunan and Chongqing subverted my understanding of elderly care.",
         "nickname": "财金新天地",
         "created_at": "2023-09-21",
         "archive": "gh_517f0d8d1792_2023-09-21_2651539638_8BlDCQjHVc.y.tar.gz",
         "censored_date": "2023-09-30 13:22:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-09-28 23:46:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247559877&idx=1&sn=dafe64bbc2f1b96232a6e41efeb12a15",
+        "title": "贵圈太乱！金融圈又来瓜，这次是奻……",
+        "nickname": "重生道",
+        "created_at": "2023-09-27",
+        "archive": "gh_efdfc4769f39_2023-09-27_2247559877_zDY2ecE80r.y.tar.gz",
+        "censored_date": "2023-09-30 13:43:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-30 13:50:19"
     }
 ]
