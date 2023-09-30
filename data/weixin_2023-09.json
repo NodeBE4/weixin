@@ -4000,7 +4000,7 @@
         "archive": "gh_f65867e77e76_2023-09-23_2653183976_GdwLHknDor.y.tar.gz",
         "censored_date": "2023-09-28 14:47:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-09-28 19:26:25"
+        "update_date": "2023-09-30 16:19:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTE4Njg5OA==&mid=2247503827&idx=1&sn=e7a862acec6c4b5122b0a6ff8c17468b",
@@ -4011,7 +4011,7 @@
         "archive": "gh_851735f64eee_2023-09-26_2247503827_noS8UeqpJH.y.tar.gz",
         "censored_date": "2023-09-28 15:16:45",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-09-28 19:59:10"
+        "update_date": "2023-09-30 16:59:14"
     },
     {
         "url": "mp.weixin.qq.com/s/S9w4fMuVgzTw5qm507x6qg",
@@ -4376,6 +4376,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247486990&idx=5&sn=993d68fd4eb641ef9e6346c0a137746b",
         "title": "张鸣：我们这一代的痛",
+        "title_eng": "Zhang Ming: The pain of our generation",
         "nickname": "炎黄春",
         "created_at": "2023-09-22",
         "archive": "gh_695be352a397_2023-09-22_2247486990_qw70moGAly.y.tar.gz",
@@ -4385,10 +4386,50 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247486990&idx=2&sn=f2d46d149b8f4dcfa129d4266513ff34",
         "title": "张家界一景区多名身着警察制服人员殴打游客？警方通报称：是非法穿着",
+        "title_eng": "Multiple police officers in uniforms beat tourists at a scenic spot in Zhangjiajie? The police report said: It is illegal to wear",
         "nickname": "炎黄春",
         "created_at": "2023-09-22",
         "archive": "gh_695be352a397_2023-09-22_2247486990_T4rG1JZk5s.y.tar.gz",
         "censored_date": "2023-09-30 15:01:23",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653450338&idx=1&sn=186eeacb8145b2c84c47ce010f92c291",
+        "title": "陈楚生回来了：爆红时为女友被全网封杀，她陪着走过艰难岁月，如今一家四口幸福美满",
+        "title_eng": "Chen Chusheng is back: When he became famous, he was banned from the entire Internet for his girlfriend. She accompanied him through the difficult times, and now he is a happy family of four",
+        "nickname": "亲子派",
+        "created_at": "2023-09-24",
+        "archive": "gh_47a9a35a129b_2023-09-24_2653450338_cFg0mi9T8r.y.tar.gz",
+        "censored_date": "2023-09-30 16:29:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656077378&idx=6&sn=0a292a24a42cd619b8e9a4bb4f2c5b33",
+        "title": "看了43岁柳岩的独居生活，才发现：精致女人都在和生活谈恋爱",
+        "title_eng": "After looking at 43-year-old Liu Yanâ€™s solitary life, I realized that exquisite women are all in love with life.",
+        "nickname": "十点读书",
+        "created_at": "2023-09-25",
+        "archive": "gh_5c7e8b7f586b_2023-09-25_2656077378_8WlFP5vk7G.y.tar.gz",
+        "censored_date": "2023-09-30 16:11:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653450267&idx=1&sn=862ed5576c9769ea716c458d8918a245",
+        "title": "那个“被逼洗袜子”的男孩保送上清华！普通家庭的父母，做到这一点就很成功了",
+        "title_eng": "The boy who was forced to wash his socks was recommended to Tsinghua University! Parents of ordinary families will be very successful if they do this",
+        "nickname": "亲子派",
+        "created_at": "2023-09-22",
+        "archive": "gh_47a9a35a129b_2023-09-22_2653450267_jZAC6qMtkG.y.tar.gz",
+        "censored_date": "2023-09-30 16:28:39",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxOTc5NjQ2NA==&mid=2650234375&idx=1&sn=9c2c2d1039ca7518433b5d7ea2fc4917&",
+        "title": "职业打假人被拘押千余天获国家赔偿四十五万，精神赔偿二十二万",
+        "nickname": "消费研究",
+        "created_at": "2023-09-28",
+        "archive": "gh_8eaeac3da624_2023-09-28_2650234375_BkJ0v0CpKY.y.tar.gz",
+        "censored_date": "2023-09-30 16:45:14",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
