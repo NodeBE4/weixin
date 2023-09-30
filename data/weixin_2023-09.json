@@ -4381,7 +4381,8 @@
         "created_at": "2023-09-22",
         "archive": "gh_695be352a397_2023-09-22_2247486990_qw70moGAly.y.tar.gz",
         "censored_date": "2023-09-30 15:01:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-30 20:20:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247486990&idx=2&sn=f2d46d149b8f4dcfa129d4266513ff34",
@@ -4391,7 +4392,8 @@
         "created_at": "2023-09-22",
         "archive": "gh_695be352a397_2023-09-22_2247486990_T4rG1JZk5s.y.tar.gz",
         "censored_date": "2023-09-30 15:01:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-09-30 20:20:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653450338&idx=1&sn=186eeacb8145b2c84c47ce010f92c291",
@@ -4436,6 +4438,7 @@
     {
         "url": "mp.weixin.qq.com/s/pUJcJJFF__u39rMInHW-Mw",
         "title": "原南通市公安局长高山落马背后，任内最大刑案被指“逐利性执法”",
+        "title_eng": "Behind the resignation of former Nantong City Public Security Director Gao Shan, the biggest criminal case during his tenure was accused of profit-seeking law enforcement",
         "nickname": "法度Law",
         "created_at": "2023-09-28",
         "archive": "gh_786b13383d5b_2023-09-28_missing_imX3un2Ib7.y.tar.gz",
@@ -4445,10 +4448,41 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTg2MDg4MA==&mid=2832636382&idx=5&sn=f2c2961120bcf277741b59a020aa565a&",
         "title": "拿起笔，铺好纸，在一笔一划间写下你的福报",
+        "title_eng": "Pick up a pen, lay out the paper, and write down your blessings in one stroke.",
         "nickname": "百草园书店",
         "created_at": "2023-09-27",
         "archive": "gh_476e9bd4e780_2023-09-27_2832636382_TuXPtU0Rjg.y.tar.gz",
         "censored_date": "2023-09-30 18:49:40",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwMjA4NTUyMg==&mid=2247536885&idx=1&sn=dbb6d5d033810e9182062669d3c4d6fb",
+        "title": "华为系又出小作文！",
+        "title_eng": "Huawei series publishes another short essay!",
+        "nickname": "调研纪要",
+        "created_at": "2023-09-28",
+        "archive": "gh_7c3a3226b29f_2023-09-28_2247536885_0pCf0toQ3V.y.tar.gz",
+        "censored_date": "2023-09-30 20:24:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650717538&idx=1&sn=eb45499731905e5dbc7b687d6a3c123a&",
+        "title": "激进、冒险、自负，“中国地产枭雄” 许家印商界人生落幕",
+        "title_eng": "Radical, adventurous and conceited, Chinese real estate tycoon Xu Jiayin's business life comes to an end",
+        "nickname": "界面新闻",
+        "created_at": "2023-09-28",
+        "archive": "gh_93119cc8064a_2023-09-28_2650717538_S0JbtDafdx.y.tar.gz",
+        "censored_date": "2023-09-30 20:12:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/Qp3J0nOM-n5iTNhwHpZg7g",
+        "title": "激进、冒险、自负，“中国地产枭雄” 许家印商界人生落幕",
+        "title_eng": "Radical, adventurous and conceited, Chinese real estate tycoon Xu Jiayin's business life comes to an end",
+        "nickname": "界面新闻",
+        "created_at": "2023-09-28",
+        "archive": "gh_93119cc8064a_2023-09-28_missing_0inUDvqfw9.y.tar.gz",
+        "censored_date": "2023-09-30 20:33:41",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
