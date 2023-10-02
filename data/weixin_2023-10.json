@@ -1033,6 +1033,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498596&idx=2&sn=9cc73634a89f26246d67fb9e066a92c8",
         "title": "你必须知道的事！",
+        "title_eng": "îˆ™Things you must know!",
         "nickname": "爱众人",
         "created_at": "2023-10-01",
         "archive": "gh_0523b3802f64_2023-10-01_2247498596_vFoR0BKuJ5.y.tar.gz",
@@ -1042,6 +1043,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247513891&idx=4&sn=042299549adab4d7eeb698124ebd06a5",
         "title": "报纸大面积停刊，电视也将迎来关停潮？",
+        "title_eng": "Newspapers have ceased publication in large areas, will televisions also usher in a wave of closures?",
         "nickname": "每日乐评",
         "created_at": "2023-10-01",
         "archive": "gh_96522be72207_2023-10-01_2247513891_hXo5Ar7U2e.y.tar.gz",
@@ -1051,10 +1053,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247513891&idx=3&sn=b3d687ac1daf78362939aa14f76648e0",
         "title": "安徽第一权力家族覆灭记",
+        "title_eng": "The downfall of the most powerful family in Anhui",
         "nickname": "每日乐评",
         "created_at": "2023-10-01",
         "archive": "gh_96522be72207_2023-10-01_2247513891_dXeC2APnNO.y.tar.gz",
         "censored_date": "2023-10-02 18:50:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498596&idx=2&sn=9cc73634a89f26246d67fb9e066a92c8&",
+        "title": "你必须知道的事！",
+        "title_eng": "îˆ™Things you must know!",
+        "nickname": "爱众人",
+        "created_at": "2023-10-01",
+        "archive": "gh_0523b3802f64_2023-10-01_2247498596_oNwx3Lkgzp.y.tar.gz",
+        "censored_date": "2023-10-02 19:21:52",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
