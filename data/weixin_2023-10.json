@@ -1052,7 +1052,8 @@
         "created_at": "2023-10-01",
         "archive": "gh_96522be72207_2023-10-01_2247513891_hXo5Ar7U2e.y.tar.gz",
         "censored_date": "2023-10-02 18:50:39",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-03 19:53:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247513891&idx=3&sn=b3d687ac1daf78362939aa14f76648e0",
@@ -1180,5 +1181,15 @@
         "censored_date": "2023-10-03 17:49:44",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-02 14:31:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwOTUwMTU3OA==&mid=2247484325&idx=3&sn=283f3986d7b9503eeccc67b3e164a7a0&",
+        "title": "心疼！杭州亚运会吴艳妮面临网络抨击，国内媒体又冷嘲热讽，热搜风暴让人痛心",
+        "title_eng": "Feeling distressed! Wu Yanni faced online criticism at the Hangzhou Asian Games, domestic media also ridiculed her, and the hot search storm was heartbreaking",
+        "nickname": "流云侃事",
+        "created_at": "2023-10-02",
+        "archive": "gh_601cab01e9e2_2023-10-02_2247484325_9kazMPGdXZ.y.tar.gz",
+        "censored_date": "2023-10-03 20:18:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
