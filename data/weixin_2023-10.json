@@ -1204,7 +1204,8 @@
         "created_at": "2023-10-02",
         "archive": "gh_601cab01e9e2_2023-10-02_2247484358_ZRMcS4NOIK.y.tar.gz",
         "censored_date": "2023-10-03 21:20:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-05 04:58:45"
     },
     {
         "url": "mp.weixin.qq.com/s/0jKRwJLTIr2atpd8nFLZKw",
@@ -1822,6 +1823,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NTgyODAzMA==&mid=2651670910&idx=2&sn=ac7c324005fc3d225f48fbeb1471575e&",
         "title": "安利的经销商收入与社会阶层的对标",
+        "title_eng": "Amwayâ€™s dealer income compared with social class",
         "nickname": "Et国际工作室",
         "created_at": "2023-09-30",
         "archive": "gh_633d18c2262e_2023-09-30_2651670910_PpwRqYhlnI.y.tar.gz",
@@ -1832,6 +1834,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247599201&idx=7&sn=da3a06343e2947b2cfaea28a00f68db8&",
         "title": "刘一手嘲辛巴出头阿哲！啧哥@徐梦尧：替你还账！小白龙@大嘎子：X你媳妇姿势！",
+        "title_eng": "Liu Yishou mocked Simba for showing off Azhe!å•§å“¥@é›ªæ¢¦å°§: Iâ€™ll pay the debt for you! Xiaobailong@å¤§GAå­<90>: X your wifeâ€™s posture!",
         "nickname": "歪理歪说Y",
         "created_at": "2023-09-20",
         "archive": "gh_c316ab540b5d_2023-09-20_2247599201_dRWKF2u0tE.y.tar.gz",
@@ -1841,6 +1844,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247599390&idx=5&sn=6a1d889266c8ff6f46f82461d3cb937b&",
         "title": "大佛自曝白P芮甜甜，芮甜甜对撕黑粉全是屌丝。芮甜甜自爆钱多的花不完。",
+        "title_eng": "Dafo revealed that Bai P Rui Tiantian is a loser to the black fans. Rui Tiantian revealed that she had too much money to spend.",
         "nickname": "歪理歪说Y",
         "created_at": "2023-09-22",
         "archive": "gh_c316ab540b5d_2023-09-22_2247599390_3oWfahrwIU.y.tar.gz",
@@ -1855,6 +1859,15 @@
         "created_at": "2023-09-27",
         "archive": "gh_c316ab540b5d_2023-09-27_2247599497_Lq0HgU5796.y.tar.gz",
         "censored_date": "2023-10-05 04:23:23",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198062&idx=2&sn=608829a28abcbeba170afe56fc899b58&",
+        "title": "公安机关确认违法行为已过六个月的追究时效，即可终止调查，无需完全查清案件事实",
+        "nickname": "基层业务",
+        "created_at": "2023-10-03",
+        "archive": "gh_1344ec61ae9a_2023-10-03_2649198062_XuTB9cUnPH.y.tar.gz",
+        "censored_date": "2023-10-05 04:57:57",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
