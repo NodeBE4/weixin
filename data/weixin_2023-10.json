@@ -1207,7 +1207,7 @@
         "archive": "gh_601cab01e9e2_2023-10-02_2247484358_ZRMcS4NOIK.y.tar.gz",
         "censored_date": "2023-10-03 21:20:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 04:58:45"
+        "update_date": "2023-10-05 20:18:05"
     },
     {
         "url": "mp.weixin.qq.com/s/0jKRwJLTIr2atpd8nFLZKw",
@@ -1879,7 +1879,8 @@
         "created_at": "2023-09-22",
         "archive": "gh_c316ab540b5d_2023-09-22_2247599390_3oWfahrwIU.y.tar.gz",
         "censored_date": "2023-10-05 04:22:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-05 19:43:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247599497&idx=4&sn=1eaedfa657ced9c02a079381f9296d3b&",
@@ -1899,7 +1900,8 @@
         "created_at": "2023-10-03",
         "archive": "gh_1344ec61ae9a_2023-10-03_2649198062_XuTB9cUnPH.y.tar.gz",
         "censored_date": "2023-10-05 04:57:57",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-05 20:17:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487005&idx=1&sn=7087877c6499dfb134818e605f26b42a",
@@ -1975,7 +1977,8 @@
         "created_at": "2023-10-03",
         "archive": "gh_6f7af582bf5e_2023-10-03_2247515096_DXBaxJVc1o.y.tar.gz",
         "censored_date": "2023-10-05 05:24:13",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-05 20:42:58"
     },
     {
         "url": "mp.weixin.qq.com/s/JE6OFwuHrrqkc8FR-8CvOQ",
@@ -2219,10 +2222,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527965&idx=2&sn=a99d578a2f37374ceea149ce6494766e&",
         "title": "毛主席为什么不同意把“毛泽东思想”改成“毛泽东主义”？",
+        "title_eng": "Why did Chairman Mao not agree to change Mao Zedong Thought to Mao Zedongism?",
         "nickname": "星火公社网",
         "created_at": "2023-09-23",
         "archive": "gh_6384da4822c7_2023-09-23_2247527965_41H8SfmWEZ.y.tar.gz",
         "censored_date": "2023-10-05 19:12:40",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTAzMDE2MA==&mid=2652997991&idx=1&sn=b01a8aa826ec33fc3b1a8532570cb37e&",
+        "title": "【疯狂啊】中国游客，重新攻占全球：澳洲小编，亲历悉尼海滩下饺子！日本京都餐厅，6桌里4桌讲中文！香港看烟火，人比烟花还多...",
+        "title_eng": "[Crazy] Chinese tourists are taking over the world again: Australian editor, experienced dumplings on Sydney beach! In a restaurant in Kyoto, Japan, 4 out of 6 tables spoke Chinese! Watching fireworks in Hong Kong, there are more people than fireworks...",
+        "nickname": "E旅行网",
+        "created_at": "2023-10-02",
+        "archive": "gh_5f84837b1ee3_2023-10-02_2652997991_2d4KJluGCM.y.tar.gz",
+        "censored_date": "2023-10-05 20:14:28",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-05 04:55:05"
     }
 ]
