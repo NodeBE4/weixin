@@ -1196,7 +1196,7 @@
         "archive": "gh_601cab01e9e2_2023-10-02_2247484325_9kazMPGdXZ.y.tar.gz",
         "censored_date": "2023-10-03 20:18:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 03:52:32"
+        "update_date": "2023-10-05 19:13:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwOTUwMTU3OA==&mid=2247484358&idx=1&sn=2af8855b215fac6128c912ff2ada99b7&",
@@ -1836,7 +1836,8 @@
         "created_at": "2023-10-02",
         "archive": "gh_47a9a35a129b_2023-10-02_2653450564_gO5WGDXoL3.y.tar.gz",
         "censored_date": "2023-10-05 03:10:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-05 18:32:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198062&idx=1&sn=af73bf909cafd2a248ee463b1ea93a07&",
@@ -1867,7 +1868,8 @@
         "created_at": "2023-09-20",
         "archive": "gh_c316ab540b5d_2023-09-20_2247599201_dRWKF2u0tE.y.tar.gz",
         "censored_date": "2023-10-05 03:37:48",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-05 18:58:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247599390&idx=5&sn=6a1d889266c8ff6f46f82461d3cb937b&",
@@ -2173,6 +2175,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527977&idx=2&sn=bd36296daf3f7e979b7569f83ac5364b&",
         "title": "李敏李讷姐妹俩和毛主席的这张合影，难得一见",
+        "title_eng": "This rare photo of sisters Li Min and Li Na with Chairman Mao",
         "nickname": "星火公社网",
         "created_at": "2023-09-24",
         "archive": "gh_6384da4822c7_2023-09-24_2247527977_Cd2rf1UeqG.y.tar.gz",
@@ -2183,6 +2186,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508709&idx=1&sn=9176807acdc2be7190489551dcd943c6",
         "title": "恒大歌舞团私照流出！网友：简直不敢相信！",
+        "title_eng": "Private photos of Evergrande Song and Dance Troupe leaked! Netizen: I canâ€™t believe it!",
         "nickname": "律政小常识",
         "created_at": "2023-10-03",
         "archive": "gh_623c5c12b45e_2023-10-03_2247508709_jGFrgPRVLz.y.tar.gz",
@@ -2193,6 +2197,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508699&idx=2&sn=f657eb5c5a017ea90f629175b51000cb",
         "title": "多次在北京国家信访局恶意登记进行上访，上访期间经劝阻拒不返回，其行为扰乱了信访机关正常秩序",
+        "title_eng": "He maliciously registered and petitioned at the National Bureau of Letters and Calls in Beijing many times, and refused to return despite being dissuaded during the petition. His behavior disrupted the normal order of the petitioning bureau.",
         "nickname": "律政小常识",
         "created_at": "2023-09-25",
         "archive": "gh_623c5c12b45e_2023-09-25_2247508699_UypfiShCda.y.tar.gz",
@@ -2203,11 +2208,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508703&idx=2&sn=af626b4acdac36b15b19eb3b9e6db72e",
         "title": "“私造浮桥案”最新进展：法院承认判错了并决定再审（附裁定全文）",
+        "title_eng": "Latest developments in the Private Floating Bridge Construction Case: The court admitted that it was wrong and decided to retry (full text of the ruling is attached)",
         "nickname": "律政小常识",
         "created_at": "2023-09-30",
         "archive": "gh_623c5c12b45e_2023-09-30_2247508703_autOMKrNqT.y.tar.gz",
         "censored_date": "2023-10-05 18:25:16",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-05 03:03:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527965&idx=2&sn=a99d578a2f37374ceea149ce6494766e&",
+        "title": "毛主席为什么不同意把“毛泽东思想”改成“毛泽东主义”？",
+        "nickname": "星火公社网",
+        "created_at": "2023-09-23",
+        "archive": "gh_6384da4822c7_2023-09-23_2247527965_41H8SfmWEZ.y.tar.gz",
+        "censored_date": "2023-10-05 19:12:40",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
