@@ -1240,7 +1240,7 @@
         "archive": "gh_fd21e602787b_2023-09-29_2247483874_VDAjyeT4Sq.y.tar.gz",
         "censored_date": "2023-10-04 10:53:04",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-03 19:24:31"
+        "update_date": "2023-10-06 16:18:41"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247748232&idx=1&sn=e955f33c683080dd6e0c248db6e2945b&",
@@ -2307,7 +2307,7 @@
         "archive": "gh_b50997668f3b_2023-10-02_2247568569_yqb8vhspMD.y.tar.gz",
         "censored_date": "2023-10-06 00:06:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 08:48:14"
+        "update_date": "2023-10-06 16:20:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247568666&idx=2&sn=27c7444785a501f1124fcb3c52bb701a",
@@ -2317,7 +2317,8 @@
         "created_at": "2023-10-03",
         "archive": "gh_b50997668f3b_2023-10-03_2247568666_Zr3tuDf70y.y.tar.gz",
         "censored_date": "2023-10-06 00:02:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-06 16:24:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247568469&idx=1&sn=7e0f668cd48b9573104f860631f56728&",
@@ -2482,5 +2483,16 @@
         "archive": "gh_b50997668f3b_2023-10-01_2247568469_E3jQgABts2.y.tar.gz",
         "censored_date": "2023-10-06 13:36:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/cI0TvTHndZ-XTsH_31eMKA",
+        "title": "【疯狂啊】中国游客，重新攻占全球：澳洲小编，亲历悉尼海滩下饺子！日本京都餐厅，6桌里4桌讲中文！香港看烟火，人比烟花还多...",
+        "title_eng": "[Crazy] Chinese tourists are taking over the world again: Australian editor, experienced dumplings on Sydney beach! In a restaurant in Kyoto, Japan, 4 out of 6 tables spoke Chinese! Watching fireworks in Hong Kong, there are more people than fireworks...",
+        "nickname": "E旅行网",
+        "created_at": "2023-10-02",
+        "archive": "gh_5f84837b1ee3_2023-10-02_missing_L9QpaY1Mzy.y.tar.gz",
+        "censored_date": "2023-10-06 15:27:51",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-05 11:01:37"
     }
 ]
