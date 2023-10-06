@@ -1789,7 +1789,8 @@
         "created_at": "2023-09-20",
         "archive": "gh_c316ab540b5d_2023-09-20_2247599201_8fdPCgeckv.y.tar.gz",
         "censored_date": "2023-10-04 21:34:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-06 12:04:34"
     },
     {
         "url": "mp.weixin.qq.com/s/m7sTUm489w_lQWtdqx7ilQ",
@@ -2205,7 +2206,7 @@
         "archive": "gh_6384da4822c7_2023-09-23_2247527965_obFyWlxDih.y.tar.gz",
         "censored_date": "2023-10-05 15:44:13",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 00:14:36"
+        "update_date": "2023-10-06 11:48:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527965&idx=5&sn=86138edc2be565a69424cfe8291aa73c&",
@@ -2216,7 +2217,7 @@
         "archive": "gh_6384da4822c7_2023-09-23_2247527965_VAtYEBGHR0.y.tar.gz",
         "censored_date": "2023-10-05 15:44:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 00:15:26"
+        "update_date": "2023-10-06 11:55:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527977&idx=2&sn=bd36296daf3f7e979b7569f83ac5364b&",
@@ -2270,7 +2271,8 @@
         "created_at": "2023-09-23",
         "archive": "gh_6384da4822c7_2023-09-23_2247527965_41H8SfmWEZ.y.tar.gz",
         "censored_date": "2023-10-05 19:12:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-06 12:19:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTAzMDE2MA==&mid=2652997991&idx=1&sn=b01a8aa826ec33fc3b1a8532570cb37e&",
@@ -2417,5 +2419,24 @@
         "archive": "gh_695be352a397_2023-10-02_2247487003_5BjCGHUwlX.y.tar.gz",
         "censored_date": "2023-10-06 09:08:10",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4OTA0NTcxNg==&mid=2652449775&idx=1&sn=5510fff464b486de6c48443aa4f6c1fd&",
+        "title": "残雪：许多作家都在文坛混，同那些批评家抱成一团欺骗读者",
+        "nickname": "哈哈镜V",
+        "created_at": "2019-08-12",
+        "archive": "gh_54b4a890eee5_2019-08-12_2652449775_As3dW0ju8r.y.tar.gz",
+        "censored_date": "2023-10-06 11:30:45",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxMjI0MTMzNw==&mid=2247483847&idx=1&sn=bcf2b63270aff446c4664e06c9eaa13c&",
+        "title": "许家印与二儿子相继被抓！妻子”和大儿子出逃海外，已偷偷转移500亿出国？",
+        "nickname": "纠结的长发",
+        "created_at": "2023-10-02",
+        "archive": "gh_65bc77dab0b5_2023-10-02_2247483847_heaQIxHbGm.y.tar.gz",
+        "censored_date": "2023-10-06 11:38:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-04 21:52:50"
     }
 ]
