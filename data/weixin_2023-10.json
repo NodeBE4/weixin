@@ -2021,7 +2021,7 @@
         "archive": "gh_1e7b312fd057_2023-09-21_missing_fChVqQjErW.y.tar.gz",
         "censored_date": "2023-10-05 05:37:48",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 20:56:20"
+        "update_date": "2023-10-07 20:15:19"
     },
     {
         "url": "mp.weixin.qq.com/s/BtLlsT-7Ojw0EYUMavuRtw",
@@ -2263,7 +2263,7 @@
         "archive": "gh_623c5c12b45e_2023-09-30_2247508703_autOMKrNqT.y.tar.gz",
         "censored_date": "2023-10-05 18:25:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 03:03:24"
+        "update_date": "2023-10-07 19:18:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247527965&idx=2&sn=a99d578a2f37374ceea149ce6494766e&",
@@ -2658,7 +2658,8 @@
         "created_at": "2023-10-05",
         "archive": "gh_50d81b753d02_2023-10-05_missing_hjecnSxumB.y.tar.gz",
         "censored_date": "2023-10-07 15:49:38",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-07 20:33:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzA3MjE3Ng==&mid=2650412213&idx=2&sn=984e91caa0293aaaa367c19babbf12df&",
@@ -2681,5 +2682,38 @@
         "censored_date": "2023-10-07 17:36:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-07 18:22:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyNzI3ODU3NA==&mid=2247502205&idx=1&sn=504020331f98b402aa16ba083184d11e&",
+        "title": "九华山和尚宣誓了，永远跟党走",
+        "title_eng": "The monk in Jiuhua Mountain swore an oath to always follow the party",
+        "nickname": "黑柳丁",
+        "created_at": "2023-10-04",
+        "archive": "gh_876fc26ca750_2023-10-04_2247502205_yPFSCWEbp4.y.tar.gz",
+        "censored_date": "2023-10-07 20:10:24",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-07 20:23:59"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyNzI3ODU3NA==&mid=2247502205&idx=1&sn=504020331f98b402aa16ba083184d11e",
+        "title": "九华山和尚宣誓了，永远跟党走",
+        "title_eng": "The monk in Jiuhua Mountain swore an oath to always follow the party",
+        "nickname": "黑柳丁",
+        "created_at": "2023-10-04",
+        "archive": "gh_876fc26ca750_2023-10-04_2247502205_sjCThMY7SB.y.tar.gz",
+        "censored_date": "2023-10-07 19:49:08",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-07 20:03:21"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656079208&idx=6&sn=4f009a820d7fd2e45f5801409256f734",
+        "title": "自从换了这个保温杯，一天轻松8杯水，安全防摔又保温",
+        "title_eng": "Since I replaced this thermos cup, I can easily drink 8 glasses of water a day. It is safe, anti-falling and heat-insulating.",
+        "nickname": "十点读书",
+        "created_at": "2023-10-04",
+        "archive": "gh_5c7e8b7f586b_2023-10-04_2656079208_jrudU6t0vx.y.tar.gz",
+        "censored_date": "2023-10-07 19:33:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-07 19:35:24"
     }
 ]
