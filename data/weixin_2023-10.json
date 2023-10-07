@@ -1867,7 +1867,7 @@
         "archive": "gh_47a9a35a129b_2023-10-02_2653450564_gO5WGDXoL3.y.tar.gz",
         "censored_date": "2023-10-05 03:10:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-05 18:32:13"
+        "update_date": "2023-10-07 13:25:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198062&idx=1&sn=af73bf909cafd2a248ee463b1ea93a07&",
@@ -2597,6 +2597,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzQxNjM1Mw==&mid=2247528027&idx=2&sn=b5d5d186ee17e2cc95f286a80feb5b89&",
         "title": "毛主席临终前仍担心日本，为何连敲三下床头？张玉凤披露内情",
+        "title_eng": "Chairman Mao was still worried about Japan before he died. Why did he knock on the bedside three times? Zhang Yufeng reveals the inside story",
         "nickname": "星火公社网",
         "created_at": "2023-09-26",
         "archive": "gh_6384da4822c7_2023-09-26_2247528027_7AFkIHTRiE.y.tar.gz",
@@ -2607,6 +2608,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656078944&idx=6&sn=0341746c1d91e1320e30f4a10714c3cf",
         "title": "女人气血不足、脸蜡黄？老中医：常喝它补血养颜，显年轻10岁",
+        "title_eng": "Does a woman have insufficient energy and blood and a sallow face? Old Chinese medicine doctor: Drink it often to replenish blood and nourish the skin, making you look 10 years younger",
         "nickname": "十点读书",
         "created_at": "2023-10-01",
         "archive": "gh_5c7e8b7f586b_2023-10-01_2656078944_nrAMo6EKbh.y.tar.gz",
@@ -2617,11 +2619,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656079034&idx=6&sn=5ee8f34247b92b66b67d1d0bcbc950ee",
         "title": "一衣穿三季，冲锋衣届「颜值担当」，防水防污，只要129",
+        "title_eng": "One piece can be worn for three seasons. This jacket is the perfect look-worthy jacket. It's waterproof and stain-proof and only costs 129.",
         "nickname": "十点读书",
         "created_at": "2023-10-02",
         "archive": "gh_5c7e8b7f586b_2023-10-02_2656079034_DEAIk8i25Y.y.tar.gz",
         "censored_date": "2023-10-07 13:21:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-05 18:17:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649551623&idx=3&sn=bdb5b2ffafcda2cd30c6d8511f0320cf",
+        "title": "论文辅导 | SCI论文辅导怎么选不踩雷？认准这家老牌机构！",
+        "nickname": "口述历史",
+        "created_at": "2023-10-05",
+        "archive": "gh_f37c9048d287_2023-10-05_2649551623_F2mrbYKJjy.y.tar.gz",
+        "censored_date": "2023-10-07 14:13:35",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
