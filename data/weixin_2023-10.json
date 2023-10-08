@@ -2987,6 +2987,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247640253&idx=2&sn=465830217d1dcb88044f1a2a43c24674",
         "title": "【双休+正式编制+6险2金】2023文职面向社会公开招考，正式编制！大专可报！",
+        "title_eng": "[Saturday weekend, official establishment, 6 insurances and 2 gold] 2023 Civil Service Open Recruitment to the public, official establishment! Can apply for junior college!",
         "nickname": "第一法商",
         "created_at": "2023-10-06",
         "archive": "gh_5980b8ba5607_2023-10-06_2247640253_NS3fPgH0lA.y.tar.gz",
@@ -2996,6 +2997,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508558&idx=6&sn=516aece11a38d9588bf90d989c39a548",
         "title": "《人民的名义》（31-40）",
+        "title_eng": "In the Name of the People (31-40)",
         "nickname": "非凡影娱",
         "created_at": "2023-10-06",
         "archive": "gh_1bd38fe3354f_2023-10-06_2247508558_eRvtTlbHsL.y.tar.gz",
@@ -3005,6 +3007,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508558&idx=8&sn=7831ea09ec986cd9ac847ef1cabc8c3c",
         "title": "《聊斋》67 云翠仙·上",
+        "title_eng": "Liao Zhai 67 Yun CuixianÂ·Part 1",
         "nickname": "非凡影娱",
         "created_at": "2023-10-06",
         "archive": "gh_1bd38fe3354f_2023-10-06_2247508558_2jcSGRNgqF.y.tar.gz",
@@ -3024,10 +3027,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508605&idx=8&sn=cb31938241eaca06c8d10c399bdd4bb5",
         "title": "《聊斋》68 云翠仙·下",
+        "title_eng": "Liao Zhai 68 Yun CuixianÂ·Part 2",
         "nickname": "非凡影娱",
         "created_at": "2023-10-07",
         "archive": "gh_1bd38fe3354f_2023-10-07_2247508605_VNRWpvHB01.y.tar.gz",
         "censored_date": "2023-10-09 01:15:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/pf3kMcJ0MZOhtlUxgEclhg",
+        "title": "打窝子",
+        "nickname": "政信三公子",
+        "created_at": "2023-10-07",
+        "archive": "gh_e252f7984953_2023-10-07_missing_CQiM8t4PcH.y.tar.gz",
+        "censored_date": "2023-10-09 02:00:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-08 02:03:03"
     }
 ]
