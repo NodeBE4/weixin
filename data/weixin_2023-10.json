@@ -2670,7 +2670,7 @@
         "archive": "gh_c5eb7bc3be3d_2023-10-02_2650412213_KhrwYUmRE2.y.tar.gz",
         "censored_date": "2023-10-07 17:37:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-07 18:23:58"
+        "update_date": "2023-10-09 12:35:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MzcwMTg2Mw==&mid=2247483792&idx=1&sn=badf9dc8492081f48641207a4eb48627&",
@@ -3275,6 +3275,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508522&idx=5&sn=870dc5303aff5ade8b99c7b7fc32f9c2",
         "title": "《人民的名义》（21-30）",
+        "title_eng": "In the Name of the People (21-30)",
         "nickname": "非凡影娱",
         "created_at": "2023-10-05",
         "archive": "gh_1bd38fe3354f_2023-10-05_2247508522_i916gTGzWI.y.tar.gz",
@@ -3285,6 +3286,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508462&idx=3&sn=1efef3431f154891c717f49ccff598c9",
         "title": "《人民的名义》（1-10）",
+        "title_eng": "In the Name of the People (1-10)",
         "nickname": "非凡影娱",
         "created_at": "2023-10-03",
         "archive": "gh_1bd38fe3354f_2023-10-03_2247508462_40plfXIwkC.y.tar.gz",
@@ -3295,6 +3297,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247569954&idx=2&sn=b7946e2ace385f6d8fcc926d90356076",
         "title": "李建伟：法规变了，律师该何去何从？",
+        "title_eng": "Li Jianwei: Regulations have changed, what should lawyers do?",
         "nickname": "律法读报",
         "created_at": "2023-10-05",
         "archive": "gh_cbe49e48bd1e_2023-10-05_2247569954_PY7U2sCp0O.y.tar.gz",
@@ -3305,6 +3308,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247569965&idx=2&sn=a69e5021ead24295bffb58c12f269f7c",
         "title": "李建伟：法规变了，律师该何去何从？",
+        "title_eng": "Li Jianwei: Regulations have changed, what should lawyers do?",
         "nickname": "律法读报",
         "created_at": "2023-10-06",
         "archive": "gh_cbe49e48bd1e_2023-10-06_2247569965_oZ0In3iY4k.y.tar.gz",
@@ -3315,6 +3319,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508522&idx=7&sn=b313dad07680f3f5c4f87391f523f5f9",
         "title": "《聊斋》66 婴宁·下",
+        "title_eng": "Liao Zhai 66 YingningÂ·Part 2",
         "nickname": "非凡影娱",
         "created_at": "2023-10-05",
         "archive": "gh_1bd38fe3354f_2023-10-05_2247508522_D8Npu5Kk0y.y.tar.gz",
@@ -3332,5 +3337,15 @@
         "censored_date": "2023-10-09 11:45:47",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-07 15:54:14"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247628989&idx=1&sn=5ccdd9d2cbc9cbbbea97596da3110da4",
+        "title": "最高人民法院明确：第三人的侵权责任不能因为受害人获得社会保险的给付而减轻或者免除，赔偿义务人应当赔偿已报销的医疗费！",
+        "nickname": "律法新声",
+        "created_at": "2023-10-05",
+        "archive": "gh_697523b9eb34_2023-10-05_2247628989_q1MzuD80rs.y.tar.gz",
+        "censored_date": "2023-10-09 13:14:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-07 19:20:15"
     }
 ]
