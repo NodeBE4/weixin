@@ -2963,7 +2963,8 @@
         "created_at": "2023-10-07",
         "archive": "gh_f624bd447b0f_2023-10-07_missing_sj24cU5Hqn.y.tar.gz",
         "censored_date": "2023-10-09 00:00:33",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-09 15:16:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649551680&idx=2&sn=8aaab0f5cf804f360247b9651e8a2319",
@@ -3352,6 +3353,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498694&idx=4&sn=5b944c77f42bef248e0061e5a7716020",
         "title": "如 何 看 待 方、 言 ！",
+        "title_eng": "îˆ™How to treat Fang and Yan!",
         "nickname": "爱众人",
         "created_at": "2023-10-07",
         "archive": "gh_0523b3802f64_2023-10-07_2247498694_c6AJpgR9Z7.y.tar.gz",
@@ -3362,11 +3364,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498694&idx=1&sn=7fe6b3e94697805148ffa6e482c87aa9",
         "title": "为什么不是好人上天堂，而是信的人？",
+        "title_eng": "îˆ™Why not good people go to heaven, but believers?",
         "nickname": "爱众人",
         "created_at": "2023-10-07",
         "archive": "gh_0523b3802f64_2023-10-07_2247498694_eXP6OJz93x.y.tar.gz",
         "censored_date": "2023-10-09 14:18:57",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-08 22:14:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498694&idx=4&sn=5b944c77f42bef248e0061e5a7716020&",
+        "title": "如 何 看 待 方、 言 ！",
+        "title_eng": "îˆ™How to treat Fang and Yan!",
+        "nickname": "爱众人",
+        "created_at": "2023-10-07",
+        "archive": "gh_0523b3802f64_2023-10-07_2247498694_XCkT4JuoWA.y.tar.gz",
+        "censored_date": "2023-10-09 14:46:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-08 23:00:00"
     }
 ]
