@@ -2758,7 +2758,7 @@
         "archive": "gh_b4440ba65477_2023-10-05_2247676753_ZIc82DfMCT.y.tar.gz",
         "censored_date": "2023-10-07 21:57:42",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-07 22:30:06"
+        "update_date": "2023-10-09 08:04:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247569951&idx=2&sn=cea89f7adf90e0a8eb1c7b7225776363",
@@ -2769,7 +2769,7 @@
         "archive": "gh_cbe49e48bd1e_2023-10-04_2247569951_KDubMni5Zy.y.tar.gz",
         "censored_date": "2023-10-07 22:31:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-07 21:59:22"
+        "update_date": "2023-10-09 08:45:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyNTIyNTg5Mg==&mid=2247608350&idx=2&sn=0db5638d5a90a46c54632da81679e1c9&",
@@ -2779,7 +2779,8 @@
         "created_at": "2023-09-24",
         "archive": "gh_a1d0d243a32a_2023-09-24_2247608350_lVAiEvPf3u.y.tar.gz",
         "censored_date": "2023-10-07 23:15:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-09 08:43:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514089&idx=3&sn=3234296c6874be85a50db654f27ca675",
@@ -3099,6 +3100,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDAxNTAzMw==&mid=2247519640&idx=1&sn=77085977d2403e25f92b72e09d9e4b77&",
         "title": "揭秘恒大集团巨额债务背后的真相：这5家银行欠款最多，第一名竟然高达1000亿元！",
+        "title_eng": "Reveal the truth behind Evergrande Groupâ€™s huge debt: These five banks owe the most, and the first one owes as much as 100 billion yuan!",
         "nickname": "眼里只有房",
         "created_at": "2023-10-04",
         "archive": "gh_7f12b3a5fe8f_2023-10-04_2247519640_JuGUmAj68t.y.tar.gz",
@@ -3108,6 +3110,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5OTk4MjQ1Nw==&mid=2247483890&idx=1&sn=a3a5405985a5186419ea4fc5cc4f754a&",
         "title": "“村书记和妇女主任”",
+        "title_eng": "Village Secretary and Women's Director",
         "nickname": "辣白蔡",
         "created_at": "2023-10-07",
         "archive": "gh_11a9f9916b26_2023-10-07_2247483890_uYpX5N2qoD.y.tar.gz",
@@ -3117,10 +3120,69 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzQ5NjIyMQ==&mid=2661601208&idx=1&sn=cd26c56816544fa44099b94feeb29635&",
         "title": "小度科技CEO景鲲将离职：李莹接任 业务在百度趋于边缘化",
+        "title_eng": "Xiaodu Technology CEO Jing Kun will resign: Li Ying will take over, and the business will become marginalized in Baidu",
         "nickname": "雷递",
         "created_at": "2023-10-07",
         "archive": "gh_0b402438b2de_2023-10-07_2661601208_bVWsu6YS9n.y.tar.gz",
         "censored_date": "2023-10-09 07:16:07",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/rYP4awhd_3EGuprnPPNCPA",
+        "title": "恒大债权人排行榜",
+        "title_eng": "Evergrande creditor ranking list",
+        "nickname": "IPO智库资讯",
+        "created_at": "2023-10-07",
+        "archive": "gh_862c2d50de85_2023-10-07_missing_pmalkOTJWN.y.tar.gz",
+        "censored_date": "2023-10-09 07:51:31",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247569979&idx=2&sn=5cb930afa388d926d8c3331298eda6e5",
+        "title": "23年心理咨询师报名通道开启，招募心理爱好者可考心理证书！不限专业，薪资待遇堪比公务员！",
+        "title_eng": "The registration channel for psychological counselors in 2023 is open, recruiting psychology enthusiasts can take the psychological certificate! No matter the major, the salary is comparable to civil servants!",
+        "nickname": "律法读报",
+        "created_at": "2023-10-07",
+        "archive": "gh_cbe49e48bd1e_2023-10-07_2247569979_5P1XOW6VIU.y.tar.gz",
+        "censored_date": "2023-10-09 07:55:44",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzM0NTEzNw==&mid=2247486534&idx=2&sn=bf7f4421179c1957fa3194f401cddd6d&",
+        "title": "记者爆料：日本政府完全不顾中国警告，核污水排海背后或酝酿重大阴谋",
+        "title_eng": "Reporter broke the news: The Japanese government completely ignored Chinaâ€™s warning and there may be a major conspiracy behind the discharge of nuclear sewage into the sea.",
+        "nickname": "SOS侠盗联盟",
+        "created_at": "2023-10-07",
+        "archive": "gh_62d8804b0808_2023-10-07_2247486534_GlicNjgCv8.y.tar.gz",
+        "censored_date": "2023-10-09 08:12:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NjAyMDY4OA==&mid=2247484504&idx=2&sn=f5941af8f4a52f4b66b41542a790564d&",
+        "title": "山东潍坊书记未关摄像头：窥见背后的道德警示",
+        "nickname": "杂注",
+        "created_at": "2023-10-07",
+        "archive": "gh_e36aed2c67fe_2023-10-07_2247484504_OEPetoXlqg.y.tar.gz",
+        "censored_date": "2023-10-09 08:47:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/n73nc3p5pcvJri7PAW4WUw",
+        "title": "盛洪：比经济衰退更危险",
+        "nickname": "中制智库",
+        "created_at": "2023-10-07",
+        "archive": "gh_b9dd7968d054_2023-10-07_missing_Q714DhP3At.y.tar.gz",
+        "censored_date": "2023-10-09 08:51:54",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzM0NTEzNw==&mid=2247486534&idx=1&sn=fcd69801160611cf38f3dfb7d394e4e4&",
+        "title": "全网愤怒：毒教材事件就这样草草收场了，网友却对此并不甘心",
+        "title_eng": "The whole Internet is angry: The poisonous textbook incident ended hastily like this, but netizens are not reconciled to it.",
+        "nickname": "SOS侠盗联盟",
+        "created_at": "2023-10-07",
+        "archive": "gh_62d8804b0808_2023-10-07_2247486534_qM0gSILYah.y.tar.gz",
+        "censored_date": "2023-10-09 08:12:37",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
