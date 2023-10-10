@@ -2988,7 +2988,8 @@
         "created_at": "2023-10-07",
         "archive": "gh_8e7bbcca75ad_2023-10-07_missing_xniGwzTBdJ.y.tar.gz",
         "censored_date": "2023-10-09 00:23:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-10 10:38:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247640253&idx=2&sn=465830217d1dcb88044f1a2a43c24674",
@@ -2998,7 +2999,8 @@
         "created_at": "2023-10-06",
         "archive": "gh_5980b8ba5607_2023-10-06_2247640253_NS3fPgH0lA.y.tar.gz",
         "censored_date": "2023-10-09 00:39:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-10 11:19:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508558&idx=6&sn=516aece11a38d9588bf90d989c39a548",
@@ -3030,7 +3032,8 @@
         "created_at": "2023-10-06",
         "archive": "gh_f37c9048d287_2023-10-06_2649551653_qKtDLwOFfA.y.tar.gz",
         "censored_date": "2023-10-09 00:47:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-10 10:57:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247508605&idx=8&sn=cb31938241eaca06c8d10c399bdd4bb5",
@@ -3040,7 +3043,8 @@
         "created_at": "2023-10-07",
         "archive": "gh_1bd38fe3354f_2023-10-07_2247508605_VNRWpvHB01.y.tar.gz",
         "censored_date": "2023-10-09 01:15:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-10 11:20:07"
     },
     {
         "url": "mp.weixin.qq.com/s/pf3kMcJ0MZOhtlUxgEclhg",
@@ -3194,7 +3198,7 @@
         "archive": "gh_b9dd7968d054_2023-10-07_missing_Q714DhP3At.y.tar.gz",
         "censored_date": "2023-10-09 08:51:54",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-09 23:06:02"
+        "update_date": "2023-10-10 10:28:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzM0NTEzNw==&mid=2247486534&idx=1&sn=fcd69801160611cf38f3dfb7d394e4e4&",
@@ -3414,7 +3418,7 @@
         "archive": "gh_88e9499896f5_2023-10-08_2247516516_DVrJS9mI7e.y.tar.gz",
         "censored_date": "2023-10-09 23:46:39",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-09 09:34:14"
+        "update_date": "2023-10-10 10:46:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyNzUwNzc4OA==&mid=2247485873&idx=1&sn=b314e8f30d416ede3c0cbc8a79cac472&",
@@ -3643,6 +3647,7 @@
     {
         "url": "mp.weixin.qq.com/s/vYJEX60MBdzR2Za6uVKqAQ",
         "title": "退市之后再上市？",
+        "title_eng": "List after delisting?",
         "nickname": "财经私家菜",
         "created_at": "2023-10-08",
         "archive": "gh_fce349f4740d_2023-10-08_missing_NuytBTkDRA.y.tar.gz",
