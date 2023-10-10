@@ -2955,7 +2955,8 @@
         "created_at": "2023-10-07",
         "archive": "gh_63cc4b4ef76d_2023-10-07_2247742659_sLlHOjGqg0.y.tar.gz",
         "censored_date": "2023-10-08 22:03:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-10 09:29:40"
     },
     {
         "url": "mp.weixin.qq.com/s/_q914Udwh2OZ6MfRXRJf7w",
@@ -3127,7 +3128,7 @@
         "archive": "gh_11a9f9916b26_2023-10-07_2247483890_uYpX5N2qoD.y.tar.gz",
         "censored_date": "2023-10-09 07:04:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-09 21:31:48"
+        "update_date": "2023-10-10 09:49:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzQ5NjIyMQ==&mid=2661601208&idx=1&sn=cd26c56816544fa44099b94feeb29635&",
@@ -3182,7 +3183,7 @@
         "archive": "gh_e36aed2c67fe_2023-10-07_2247484504_OEPetoXlqg.y.tar.gz",
         "censored_date": "2023-10-09 08:47:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-09 22:58:28"
+        "update_date": "2023-10-10 10:25:12"
     },
     {
         "url": "mp.weixin.qq.com/s/n73nc3p5pcvJri7PAW4WUw",
@@ -3612,6 +3613,7 @@
     {
         "url": "mp.weixin.qq.com/s/gBVAyra8_u-kST-gx4vVLw",
         "title": "“哈马斯一领导人在袭击中丧生”",
+        "title_eng": "Hamas leader killed in attack",
         "nickname": "环球网",
         "created_at": "2023-10-08",
         "archive": "wxid_3718957189212_2023-10-08_missing_xe07v2hOB5.y.tar.gz",
@@ -3636,6 +3638,15 @@
         "created_at": "2023-10-06",
         "archive": "gh_695be352a397_2023-10-06_2247487009_CI9tvGsVir.y.tar.gz",
         "censored_date": "2023-10-10 08:00:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/vYJEX60MBdzR2Za6uVKqAQ",
+        "title": "退市之后再上市？",
+        "nickname": "财经私家菜",
+        "created_at": "2023-10-08",
+        "archive": "gh_fce349f4740d_2023-10-08_missing_NuytBTkDRA.y.tar.gz",
+        "censored_date": "2023-10-10 09:48:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
