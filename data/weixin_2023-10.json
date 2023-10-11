@@ -3693,7 +3693,7 @@
         "archive": "gh_695be352a397_2023-10-04_2247487007_BSIkqpzUE9.y.tar.gz",
         "censored_date": "2023-10-10 11:28:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-11 02:07:07"
+        "update_date": "2023-10-11 19:56:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMzAwMzQxNw==&mid=2756691471&idx=3&sn=e822b0973e3f8ab05c434544da314cf6&",
@@ -4063,6 +4063,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247724382&idx=1&sn=8dd0d5d5526598579de2ac380a0648b3&",
         "title": "2022年，以色列在联合国反对巴勒斯坦人拥有食物",
+        "title_eng": "Israel opposes Palestinian food ownership at UN in 2022",
         "nickname": "远方青木",
         "created_at": "2023-10-09",
         "archive": "gh_36dfda0fb531_2023-10-09_2247724382_u0JZtqOP3c.y.tar.gz",
@@ -4072,10 +4073,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649551720&idx=2&sn=9040483b40f7e705fa6da433eee414bc",
         "title": "出版社没卖完的书都去了哪里？…内行人几十块买一堆！",
+        "title_eng": "Where do all the unsold books from publishers go? ...Experts can buy a bunch of them for tens of dollars!",
         "nickname": "口述历史",
         "created_at": "2023-10-10",
         "archive": "gh_f37c9048d287_2023-10-10_2649551720_f9Gj0pnm23.y.tar.gz",
         "censored_date": "2023-10-11 19:07:03",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzOTMyMzQxNg==&mid=2247526752&idx=1&sn=baf39f24fb6bb15cc669d962d26431f0&",
+        "title": "YY | 正威的隐雷，“埋伏”了哪些区域和主体？",
+        "title_eng": "YY | In what areas and subjects are Zhengwei's hidden mines ambushed?",
+        "nickname": "ratingdog",
+        "created_at": "2023-10-10",
+        "archive": "gh_3b034ecba5b0_2023-10-10_2247526752_KpHZ8n0Cgf.y.tar.gz",
+        "censored_date": "2023-10-11 19:51:47",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/7TGAEncMUuIR1ZSlIQAG1A",
+        "title": "YY | 正威的隐雷，“埋伏”了哪些区域和主体？",
+        "title_eng": "YY | In what areas and subjects are Zhengwei's hidden mines ambushed?",
+        "nickname": "ratingdog",
+        "created_at": "2023-10-10",
+        "archive": "gh_3b034ecba5b0_2023-10-10_missing_NmIUtGoDi6.y.tar.gz",
+        "censored_date": "2023-10-11 19:18:59",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
