@@ -3906,7 +3906,8 @@
         "created_at": "2023-10-09",
         "archive": "gh_cbe49e48bd1e_2023-10-09_2247570009_1cqjLGb0MY.y.tar.gz",
         "censored_date": "2023-10-11 06:39:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-11 12:48:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508727&idx=2&sn=1dc5ee395f8fe8a6bd1b47beac9a72ed",
@@ -3998,5 +3999,15 @@
         "archive": "gh_6dddc9d2e66e_2023-10-03_2651424794_8acu3yMsbp.y.tar.gz",
         "censored_date": "2023-10-11 10:31:04",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653131703&idx=1&sn=760c24398c30dd39bc9d3f6fcefd61a3",
+        "title": "已超5600人伤亡！航班紧急取消！最新情况",
+        "nickname": "陕西都市快报",
+        "created_at": "2023-10-09",
+        "archive": "gh_6cf32ecd4dba_2023-10-09_2653131703_HC7tDald6e.y.tar.gz",
+        "censored_date": "2023-10-11 12:58:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-11 04:16:54"
     }
 ]
