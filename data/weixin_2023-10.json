@@ -3176,7 +3176,7 @@
         "archive": "gh_62d8804b0808_2023-10-07_2247486534_GlicNjgCv8.y.tar.gz",
         "censored_date": "2023-10-09 08:12:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-09 22:28:41"
+        "update_date": "2023-10-11 08:44:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjAyMDY4OA==&mid=2247484504&idx=2&sn=f5941af8f4a52f4b66b41542a790564d&",
@@ -3209,7 +3209,7 @@
         "archive": "gh_62d8804b0808_2023-10-07_2247486534_qM0gSILYah.y.tar.gz",
         "censored_date": "2023-10-09 08:12:37",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-09 22:29:04"
+        "update_date": "2023-10-11 08:45:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247973230&idx=2&sn=9cd1fe5395b8998d56ca9c5e30c81dd8",
@@ -3583,7 +3583,7 @@
         "archive": "gh_695be352a397_2023-10-06_2247487009_ILNdHDgrx6.y.tar.gz",
         "censored_date": "2023-10-10 07:09:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-10 17:50:01"
+        "update_date": "2023-10-11 07:37:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487014&idx=1&sn=8ec95ce216a25c8171d09161b07f0026",
@@ -3820,7 +3820,7 @@
         "archive": "gh_a9c6a20e4f84_2023-09-28_2247548458_q05ZU4GPob.y.tar.gz",
         "censored_date": "2023-10-11 01:07:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-10 07:40:46"
+        "update_date": "2023-10-11 07:49:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUyMzQwNzk0Ng==&mid=2247486767&idx=2&sn=03630bfeceac171ede5ebc63baf40f07&",
@@ -3830,7 +3830,8 @@
         "created_at": "2023-09-26",
         "archive": "gh_ce82b16a8f5b_2023-09-26_2247486767_LNdJ5AtoDg.y.tar.gz",
         "censored_date": "2023-10-11 02:32:19",
-        "censored_msg": "该公众号已迁移"
+        "censored_msg": "该公众号已迁移",
+        "update_date": "2023-10-11 09:02:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NTA2OTMwNw==&mid=2257531931&idx=2&sn=05bfef1063e160abfa99f6e7ca14dcc2&",
@@ -3878,6 +3879,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508724&idx=1&sn=7510d451b451b282bfbba1d87123ba8c",
         "title": "调整了！恒大诉讼案件不再全部由广州集中管辖！",
+        "title_eng": "adjusted! Evergrande litigation cases are no longer under the centralized jurisdiction of Guangzhou!",
         "nickname": "律政小常识",
         "created_at": "2023-10-07",
         "archive": "gh_623c5c12b45e_2023-10-07_2247508724_fzgaWFjLpc.y.tar.gz",
@@ -3898,6 +3900,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570009&idx=2&sn=9bfbe1b446f1a19b7bbf9f8eefb1838a",
         "title": "2023军队文职面向社会公开招考【双休+正式编制+6险2金]",
+        "title_eng": "2023 Military Civilian Recruitment Open to the Public [Double Holidays, Official Establishment, 6 Insurances and 2 Financial Aid]",
         "nickname": "律法读报",
         "created_at": "2023-10-09",
         "archive": "gh_cbe49e48bd1e_2023-10-09_2247570009_1cqjLGb0MY.y.tar.gz",
@@ -3907,10 +3910,70 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508727&idx=2&sn=1dc5ee395f8fe8a6bd1b47beac9a72ed",
         "title": "女子两次被强奸，第三次在自己生殖器上涂毒，致性侵男子死亡是否构成犯罪？",
+        "title_eng": "Is it a crime for a woman to be raped twice and apply poison on her genitals for the third time, causing the death of a sexually assaulted man?",
         "nickname": "律政小常识",
         "created_at": "2023-10-08",
         "archive": "gh_623c5c12b45e_2023-10-08_2247508727_QlBIDC9x6f.y.tar.gz",
         "censored_date": "2023-10-11 06:53:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/fmB8xF8TAx8N-nWFuXv0rw",
+        "title": "巴以冲突的几个真相，有人可能不愿承认",
+        "nickname": "长平讲谈",
+        "created_at": "2023-10-09",
+        "archive": "gh_10535210e139_2023-10-09_missing_oaSjrIA1il.y.tar.gz",
+        "censored_date": "2023-10-11 08:34:47",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649551704&idx=2&sn=6edd0522b4f8eb4c1ec5853504ad5c88&",
+        "title": "论文辅导｜你的硕士论文/毕业论文/课题论文，终于有救了，专业对口老师一对一辅导你！",
+        "title_eng": "Thesis Counselingï½œYour master's thesis/graduate thesis/thesis is finally saved. Professional teachers will provide you with one-on-one guidance!",
+        "nickname": "口述历史",
+        "created_at": "2023-10-09",
+        "archive": "gh_f37c9048d287_2023-10-09_2649551704_KYQhd7CyBv.y.tar.gz",
+        "censored_date": "2023-10-11 08:11:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/tu2tLfwF24pRvIwb5U6vXA",
+        "title": "台湾主持人亚运会后返回老家，怒斥媒体：大陆比我们发达20倍！",
+        "title_eng": "A Taiwanese host returned to his hometown after the Asian Games and angrily criticized the media: Mainland China is 20 times more developed than us!",
+        "nickname": "兵欣",
+        "created_at": "2023-10-02",
+        "archive": "gh_3c501777aa23_2023-10-02_missing_iYm1dBCPlu.y.tar.gz",
+        "censored_date": "2023-10-11 08:07:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651424773&idx=1&sn=64a84536351319dbc8768f294f479a71&",
+        "title": "江西夫妻洗澡时意外身亡，留下8个孩子成孤儿：这出悲剧，不值得可怜！",
+        "title_eng": "A couple in Jiangxi accidentally died while taking a bath, leaving eight children as orphans: This tragedy is not worth pitying!",
+        "nickname": "思想精髓",
+        "created_at": "2023-09-27",
+        "archive": "gh_6dddc9d2e66e_2023-09-27_2651424773_pDs2AJmYMj.y.tar.gz",
+        "censored_date": "2023-10-11 07:58:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2MzU4NTgxNg==&mid=2247532033&idx=2&sn=b1107da26e35e69c8d4e7ead8d7e8895&",
+        "title": "哈马斯证实：突袭以色列得到伊朗支持！",
+        "title_eng": "Hamas confirms: Raid on Israel is supported by Iran!",
+        "nickname": "晋观新闻",
+        "created_at": "2023-10-09",
+        "archive": "gh_4885e522e665_2023-10-09_2247532033_f9HU5u0RZT.y.tar.gz",
+        "censored_date": "2023-10-11 08:29:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MzU1NTUyNA==&mid=2247503118&idx=2&sn=fd56be0a1ab5b73f83a6091a12a333a5",
+        "title": "湖南婚车事故：新娘自小命苦，男方姨父喝了一晚上酒直接开车接亲？",
+        "title_eng": "Hunan Wedding Car Accident: The brideâ€™s life has been miserable since she was a child, and the groomâ€™s uncle drove to pick her up after a night of drinking?",
+        "nickname": "秀才读史论公道",
+        "created_at": "2023-10-09",
+        "archive": "gh_454c977ff353_2023-10-09_2247503118_BEyzqPO0lc.y.tar.gz",
+        "censored_date": "2023-10-11 07:32:38",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
