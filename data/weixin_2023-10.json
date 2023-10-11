@@ -3616,7 +3616,7 @@
         "archive": "gh_695be352a397_2023-10-07_2247487012_hE8bzU3OaM.y.tar.gz",
         "censored_date": "2023-10-10 06:57:06",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-10 17:49:11"
+        "update_date": "2023-10-11 18:27:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656079276&idx=6&sn=8a90ebc427846786fb5e51158dbc7d5f",
@@ -4019,6 +4019,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MzIwMjk5MQ==&mid=2247586602&idx=1&sn=1286cdb9458ae6a51f9de722e93fd906&",
         "title": "烟台最新人事任免！",
+        "title_eng": "Yantaiâ€™s latest personnel appointments and dismissals!",
         "nickname": "烟台水母网",
         "created_at": "2023-10-09",
         "archive": "gh_c4be80984880_2023-10-09_2247586602_WiIwctjVmE.y.tar.gz",
@@ -4047,5 +4048,15 @@
         "censored_date": "2023-10-11 17:13:29",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-11 08:09:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxODcyMzI2MA==&mid=2247721447&idx=2&sn=871c540714d3fe2aba1ec2f87c78e9f3&",
+        "title": "确定！要复活了！无锡人熟悉的记忆",
+        "nickname": "无锡eTV",
+        "created_at": "2023-10-08",
+        "archive": "gh_9b6b685b9776_2023-10-08_2247721447_ZNLcsn0zoa.y.tar.gz",
+        "censored_date": "2023-10-11 17:59:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-11 10:19:20"
     }
 ]
