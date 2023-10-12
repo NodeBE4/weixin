@@ -4120,7 +4120,8 @@
         "created_at": "2023-10-09",
         "archive": "gh_a9c6a20e4f84_2023-10-09_2247548817_uJAl46EW2s.y.tar.gz",
         "censored_date": "2023-10-11 21:30:17",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-12 15:48:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTg0MTk0Nw==&mid=2676134146&idx=1&sn=900e786885d6ebab896ccbf4efe17c5e",
@@ -4309,6 +4310,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656079545&idx=2&sn=203b069a2ba7affa7a9f9fdac698eb0e",
         "title": "三年来，逢人就推的国货精华！淡纹紧致，30天试用不满意不要钱",
+        "title_eng": "Over the past three years, I have recommended the best domestic products to everyone I meet! Lighten lines and tighten, no charge if you are not satisfied with the 30-day trial",
         "nickname": "十点读书",
         "created_at": "2023-10-08",
         "archive": "gh_5c7e8b7f586b_2023-10-08_2656079545_NPrW91GJo7.y.tar.gz",
@@ -4318,6 +4320,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656079382&idx=6&sn=e172490c9fdc8d7176cbfead87c33ff1",
         "title": "89元/3件！早秋百搭打底衫，这么穿才时髦又显瘦",
+        "title_eng": "89 yuan/3 pieces! Versatile bottoming shirt for early autumn, it is fashionable and slimming when worn like this",
         "nickname": "十点读书",
         "created_at": "2023-10-07",
         "archive": "gh_5c7e8b7f586b_2023-10-07_2656079382_C30XcNLZ4W.y.tar.gz",
@@ -4327,6 +4330,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NDIxODQ4Mg==&mid=2247493381&idx=1&sn=844998077ee7342adf5e1a6844adc282",
         "title": "俄罗斯基于龙芯开发电脑和服务器",
+        "title_eng": "Russia develops computers and servers based on Loongson",
         "nickname": "铁君",
         "created_at": "2023-10-10",
         "archive": "gh_102f8aef8c68_2023-10-10_2247493381_sZtNxb6y5u.y.tar.gz",
@@ -4336,10 +4340,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247564671&idx=2&sn=7ac50b3fd56bdfe3ced76a2e4afa6716&",
         "title": "通知：北京2023年度公开招募高考志愿规划师,零基础可学  迎接挑战新职业",
+        "title_eng": "Notice: Beijingâ€™s 2023 open recruitment for college entrance examination volunteer planners, you can learn from scratch to meet the challenges of new careers",
         "nickname": "京城本地通",
         "created_at": "2023-10-10",
         "archive": "gh_ebabb1e039c3_2023-10-10_2247564671_NS6h5cg8VX.y.tar.gz",
         "censored_date": "2023-10-12 14:56:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg4MTIwNzM1Ng==&mid=2247502417&idx=1&sn=5d6e6132f1a1f1ff5bd29ef87990800b",
+        "title": "张核子大哥...",
+        "nickname": "大米饭的观点",
+        "created_at": "2023-09-25",
+        "archive": "gh_3d5bc964150d_2023-09-25_2247502417_I94W2nFjax.y.tar.gz",
+        "censored_date": "2023-10-12 15:53:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5ODIyMTMyMQ==&mid=2247489049&idx=1&sn=44ed6f200790b59aa9fb588e7ef30b66&",
+        "title": "巴以冲突的几个真相，有人可能不愿承认",
+        "title_eng": "Some truths about the Israeli-Palestinian conflict that some people may not want to admit",
+        "nickname": "长平讲谈",
+        "created_at": "2023-10-09",
+        "archive": "gh_10535210e139_2023-10-09_2247489049_8bGkjRa0FK.y.tar.gz",
+        "censored_date": "2023-10-12 15:46:24",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650356052&idx=2&sn=1f13bd3ef05d795f20f223694acbd877",
+        "title": "上千块的气凝胶防寒服也反季清仓了！全场疯狂立减，只要39元起！",
+        "nickname": "酷玩实验室",
+        "created_at": "2023-10-08",
+        "archive": "gh_f33ea5eaf126_2023-10-08_2650356052_DWsr1V7Mox.y.tar.gz",
+        "censored_date": "2023-10-12 16:09:28",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
