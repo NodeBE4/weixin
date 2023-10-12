@@ -4077,7 +4077,8 @@
         "created_at": "2023-10-09",
         "archive": "gh_36dfda0fb531_2023-10-09_2247724382_u0JZtqOP3c.y.tar.gz",
         "censored_date": "2023-10-11 18:41:38",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-12 13:19:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649551720&idx=2&sn=9040483b40f7e705fa6da433eee414bc",
@@ -4188,7 +4189,8 @@
         "created_at": "2023-10-09",
         "archive": "gh_45de294b7642_2023-10-09_2650587700_UZ5Pgyapwv.y.tar.gz",
         "censored_date": "2023-10-12 07:13:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-12 13:10:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499379&idx=8&sn=245354d3a8a138c7150d3907a82776cf",
@@ -4244,6 +4246,7 @@
     {
         "url": "mp.weixin.qq.com/s/-KCXls0wcB1muzdxg5jPbg",
         "title": "“北极鲇鱼”事件全剧剧终了吗？法律分析来了",
+        "title_eng": "Is the drama about the Arctic Catfish incident over? Legal analysis is coming",
         "nickname": "明人明察",
         "created_at": "2023-10-10",
         "archive": "gh_58f137be4d1d_2023-10-10_missing_zkxt0LmFuI.y.tar.gz",
@@ -4253,6 +4256,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653735539&idx=8&sn=49af547cd0110188a40052ca48e5dedb",
         "title": "贴近生活才是最美的（来源：库洛米公主）",
+        "title_eng": "The most beautiful thing is to be close to life (Source: Princess Kuromi)",
         "nickname": "简笔笑画",
         "created_at": "2023-10-07",
         "archive": "gh_c364747d22d0_2023-10-07_2653735539_sZw49mtcU1.y.tar.gz",
@@ -4262,6 +4266,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653735398&idx=8&sn=2e5550cd267e610f708bcd68cc89f03a",
         "title": "说实话，有被震撼到，MAX小姐姐",
+        "title_eng": "To be honest, I was shocked, Ms. MAX",
         "nickname": "简笔笑画",
         "created_at": "2023-10-06",
         "archive": "gh_c364747d22d0_2023-10-06_2653735398_Q0mUVJufxC.y.tar.gz",
@@ -4271,10 +4276,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653735301&idx=8&sn=f0e43378a829bca73c94486b384fb287",
         "title": "我把我的审美告诉AI，然后AI给我这些，它好像有点懂我",
+        "title_eng": "I tell AI my aesthetics, and then AI gives me these, and it seems to understand me a little bit.",
         "nickname": "简笔笑画",
         "created_at": "2023-10-05",
         "archive": "gh_c364747d22d0_2023-10-05_2653735301_teb00hOA6z.y.tar.gz",
         "censored_date": "2023-10-12 11:58:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTg0MTk0Nw==&mid=2676134174&idx=1&sn=4c1bd741af1cbb507495addbb2bea58c",
+        "title": "为什么最近大家都不去水果店买水果了？",
+        "nickname": "毒舌女",
+        "created_at": "2023-10-09",
+        "archive": "gh_98589e99a248_2023-10-09_2676134174_tg3HkLVIGx.y.tar.gz",
+        "censored_date": "2023-10-12 12:43:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-11 23:20:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NzU5NjM4MA==&mid=2651073425&idx=2&sn=cf35831c2c33833f1ad9dc8a108fa6b7&",
+        "title": "我从体制内辞职做律师半年了，我现在的律师费相当于我几个月的薪水……",
+        "nickname": "法律图书馆",
+        "created_at": "2023-10-09",
+        "archive": "gh_369e6426b7ca_2023-10-09_2651073425_8Es1ehFpHz.y.tar.gz",
+        "censored_date": "2023-10-12 13:03:38",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
