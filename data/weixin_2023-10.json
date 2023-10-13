@@ -3968,7 +3968,7 @@
         "archive": "gh_6dddc9d2e66e_2023-09-27_2651424773_pDs2AJmYMj.y.tar.gz",
         "censored_date": "2023-10-11 07:58:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-11 17:01:39"
+        "update_date": "2023-10-13 20:25:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MzU4NTgxNg==&mid=2247532033&idx=2&sn=b1107da26e35e69c8d4e7ead8d7e8895&",
@@ -4045,7 +4045,7 @@
         "archive": "gh_ebabb1e039c3_2023-10-09_2247564596_K5HQG84MoJ.y.tar.gz",
         "censored_date": "2023-10-11 16:29:56",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-10 23:43:24"
+        "update_date": "2023-10-13 19:54:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653131703&idx=1&sn=760c24398c30dd39bc9d3f6fcefd61a3&",
@@ -4056,7 +4056,7 @@
         "archive": "gh_6cf32ecd4dba_2023-10-09_2653131703_jnHIkYZ7Mq.y.tar.gz",
         "censored_date": "2023-10-11 17:13:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-11 08:09:51"
+        "update_date": "2023-10-13 20:38:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxODcyMzI2MA==&mid=2247721447&idx=2&sn=871c540714d3fe2aba1ec2f87c78e9f3&",
@@ -4089,7 +4089,7 @@
         "archive": "gh_f37c9048d287_2023-10-10_2649551720_f9Gj0pnm23.y.tar.gz",
         "censored_date": "2023-10-11 19:07:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-12 13:40:45"
+        "update_date": "2023-10-13 20:35:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzOTMyMzQxNg==&mid=2247526752&idx=1&sn=baf39f24fb6bb15cc669d962d26431f0&",
@@ -4740,6 +4740,7 @@
     {
         "url": "mp.weixin.qq.com/s/EYO3_ZETS-jYpwmpQ4RhKw",
         "title": "日本驻华大使：90%以上的日本民众都反感中国，中国人应该反思",
+        "title_eng": "Japanese Ambassador to China: More than 90% of Japanese people dislike China, and the Chinese should reflect on it",
         "nickname": "烘焙之家",
         "created_at": "2023-10-10",
         "archive": "gh_37577bc3e270_2023-10-10_missing_R2F4xHidas.y.tar.gz",
@@ -4749,10 +4750,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyNzUzNjAyNA==&mid=2247485787&idx=1&sn=04a0369691d41fee0b7f5198617d0c78&",
         "title": "许家印的爱情故事里，到底有没有范冰冰？",
+        "title_eng": "Is Fan Bingbing included in Xu Jiayin's love story?",
         "nickname": "娱小悠",
         "created_at": "2023-10-11",
         "archive": "gh_412579a80412_2023-10-11_2247485787_U7LNQ49cCr.y.tar.gz",
         "censored_date": "2023-10-13 19:11:08",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652106556&idx=1&sn=05d0dbb1011742c4ee7a06dc6f355571",
+        "title": "突发！印度逮捕vivo中国籍员工！中字头国企转账私人账户近6亿？最新回应！股市两大利好传闻浮现",
+        "title_eng": "Sudden! India arrests vivo Chinese employee! State-owned enterprises with Chinese prefix transfer nearly 600 million to private accounts? Latest response! Two major positive rumors for the stock market emerge",
+        "nickname": "券商中国",
+        "created_at": "2023-10-11",
+        "archive": "gh_6df2146bcb82_2023-10-11_2652106556_EoKWkRA5ja.y.tar.gz",
+        "censored_date": "2023-10-13 19:20:19",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
