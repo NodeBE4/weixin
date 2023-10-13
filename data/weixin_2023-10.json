@@ -4110,7 +4110,8 @@
         "created_at": "2023-10-10",
         "archive": "gh_3b034ecba5b0_2023-10-10_missing_NmIUtGoDi6.y.tar.gz",
         "censored_date": "2023-10-11 19:18:59",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-13 23:19:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247548817&idx=1&sn=92643ccba898a7fae964689c40431bbb",
@@ -4274,7 +4275,7 @@
         "archive": "gh_c364747d22d0_2023-10-07_2653735539_sZw49mtcU1.y.tar.gz",
         "censored_date": "2023-10-12 11:47:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-13 04:30:40"
+        "update_date": "2023-10-13 22:55:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653735398&idx=8&sn=2e5550cd267e610f708bcd68cc89f03a",
@@ -4428,7 +4429,7 @@
         "archive": "gh_36dfda0fb531_2023-10-08_2247724108_uoWev36YMz.y.tar.gz",
         "censored_date": "2023-10-12 18:13:54",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-13 07:25:37"
+        "update_date": "2023-10-13 23:21:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247724108&idx=5&sn=0a5efe16369c1d397531a8421209ce36",
@@ -4770,6 +4771,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjAzNzgyMA==&mid=2650042849&idx=1&sn=3ac6a04232349e95eb4607fe200c7abb",
         "title": "突发！瑞金医院一女医生离世，年仅46岁，原因让人心痛...",
+        "title_eng": "Sudden! A female doctor from Ruijin Hospital passed away at the age of 46. The reason is heartbreaking...",
         "nickname": "掌上医讯",
         "created_at": "2023-10-11",
         "archive": "gh_b45221ff9185_2023-10-11_2650042849_7fapNVGHqJ.y.tar.gz",
@@ -4779,6 +4781,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247544012&idx=2&sn=f95b926598bb06c10694f92c25c15124",
         "title": "辽宁某市小学教师长期狂扇学生耳光画面曝光了。介入调查，官方说，涉事教师已停职",
+        "title_eng": "Footage of a primary school teacher in a city in Liaoning slapping students wildly for a long period of time has been exposed. Involved in investigation, officials said the teacher involved has been suspended",
         "nickname": "葫芦岛都市网",
         "created_at": "2023-10-11",
         "archive": "gh_f86665431cb0_2023-10-11_2247544012_dzQTcYfJ1e.y.tar.gz",
@@ -4798,10 +4801,20 @@
     {
         "url": "mp.weixin.qq.com/s/CWlrvzFcaaKLOU9xT1jXWA",
         "title": "以色列最后通牒全文：哈马斯24小时缴械投降，不降者杀无赦！",
+        "title_eng": "The full text of Israelâ€™s ultimatum: Hamas has 24 hours to surrender, and those who donâ€™t surrender will be killed without mercy!",
         "nickname": "寰宇网事",
         "created_at": "2023-10-11",
         "archive": "gh_e7c14057d952_2023-10-11_missing_ELrisZ2HC8.y.tar.gz",
         "censored_date": "2023-10-13 22:23:18",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MjEyMTYyNg==&mid=2247602853&idx=1&sn=22b0789f8748e4eeab62d10c813a305f",
+        "title": "“一带一路”，中国造，世界心！",
+        "nickname": "有理儿有面",
+        "created_at": "2023-10-11",
+        "archive": "gh_a1ef6a4e04ab_2023-10-11_2247602853_yvQmegOXcU.y.tar.gz",
+        "censored_date": "2023-10-13 23:19:47",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
