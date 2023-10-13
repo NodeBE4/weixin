@@ -4132,7 +4132,8 @@
         "created_at": "2023-10-08",
         "archive": "gh_98589e99a248_2023-10-08_2676134146_Xxh42uRaNH.y.tar.gz",
         "censored_date": "2023-10-11 23:19:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-14 03:50:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3MDkxNzczNw==&mid=2247493659&idx=1&sn=c92c62edd75b81ceecaa1f94bfb5328f&",
@@ -4385,7 +4386,7 @@
         "archive": "gh_10535210e139_2023-10-09_2247489049_8bGkjRa0FK.y.tar.gz",
         "censored_date": "2023-10-12 15:46:24",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-13 14:41:16"
+        "update_date": "2023-10-14 03:45:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650356052&idx=2&sn=1f13bd3ef05d795f20f223694acbd877",
@@ -4877,6 +4878,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTk1MjA0MA==&mid=2674353796&idx=2&sn=cd4f779522f3ba8f8536dc6ce0ba56bd",
         "title": "她，这次的瓜有点大！",
+        "title_eng": "Her melons are a bit bigger this time!",
         "nickname": "后沙月光",
         "created_at": "2023-10-11",
         "archive": "gh_02c1b54329eb_2023-10-11_2674353796_UJxuTYE12z.y.tar.gz",
@@ -4886,10 +4888,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxOTU1MTYwOQ==&mid=2654653252&idx=4&sn=f7a51897349d6eaa49dcd4ef16d71979&",
         "title": "疯狂！日本将中国五大战区司令部列入攻击名单，暴露真实意图？",
+        "title_eng": "crazy! Japan added China's five theater headquarters to its attack list, revealing its true intentions?",
         "nickname": "烘焙之家",
         "created_at": "2023-10-11",
         "archive": "gh_37577bc3e270_2023-10-11_2654653252_NLBkisIz7t.y.tar.gz",
         "censored_date": "2023-10-14 02:44:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4OTk1MjA0MA==&mid=2674353796&idx=2&sn=cd4f779522f3ba8f8536dc6ce0ba56bd&",
+        "title": "她，这次的瓜有点大！",
+        "title_eng": "Her melons are a bit bigger this time!",
+        "nickname": "后沙月光",
+        "created_at": "2023-10-11",
+        "archive": "gh_02c1b54329eb_2023-10-11_2674353796_mx0GKRvi0c.y.tar.gz",
+        "censored_date": "2023-10-14 03:21:36",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
