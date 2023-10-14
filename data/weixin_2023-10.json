@@ -4868,7 +4868,8 @@
         "created_at": "2023-10-11",
         "archive": "gh_ba89754f42d9_2023-10-11_2451480004_g0wz2ac0Or.y.tar.gz",
         "censored_date": "2023-10-14 00:16:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-14 11:49:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651424796&idx=2&sn=a552700fdafdf4ff610365742cb01786&",
@@ -4878,7 +4879,8 @@
         "created_at": "2023-10-05",
         "archive": "gh_6dddc9d2e66e_2023-10-05_2651424796_pTWMEj926f.y.tar.gz",
         "censored_date": "2023-10-14 00:51:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-14 12:24:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2MzQ3NTQ3Mg==&mid=2247515211&idx=1&sn=3b0db3851056e94124ca35c508a65560&",
@@ -4928,11 +4930,13 @@
         "created_at": "2023-10-11",
         "archive": "gh_4c63fcb04eaf_2023-10-11_2247974501_Prve96DbTs.y.tar.gz",
         "censored_date": "2023-10-14 04:31:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-14 12:23:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653451037&idx=2&sn=d348233c23ec31e3ff00be5e09069942",
         "title": "“家庭教育指导师”冲上热搜，报名通道已开启！",
+        "title_eng": "Family education instructor has become a hot search topic, and the registration channel is open!",
         "nickname": "亲子派",
         "created_at": "2023-10-10",
         "archive": "gh_47a9a35a129b_2023-10-10_2653451037_dKYemuv72L.y.tar.gz",
@@ -4942,10 +4946,12 @@
     {
         "url": "mp.weixin.qq.com/s/s65MOIBOhYODobtixgH6RA",
         "title": "赵建：“拜房教”的形成及其崩塌",
+        "title_eng": "Zhao Jian: The Formation and Collapse of the â€œHouse Worship Sectâ€<9d>",
         "nickname": "西京研究院",
         "created_at": "2023-10-09",
         "archive": "gh_94d5e2eab4a3_2023-10-09_missing_02sgnq6ltI.y.tar.gz",
         "censored_date": "2023-10-14 11:15:33",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-14 11:41:41"
     }
 ]
