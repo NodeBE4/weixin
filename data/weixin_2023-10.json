@@ -4397,7 +4397,7 @@
         "archive": "gh_f33ea5eaf126_2023-10-08_2650356052_DWsr1V7Mox.y.tar.gz",
         "censored_date": "2023-10-12 16:09:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-13 05:18:45"
+        "update_date": "2023-10-15 00:46:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247564671&idx=2&sn=7ac50b3fd56bdfe3ced76a2e4afa6716",
@@ -4408,7 +4408,7 @@
         "archive": "gh_ebabb1e039c3_2023-10-10_2247564671_FNRp2HV5em.y.tar.gz",
         "censored_date": "2023-10-12 17:20:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-12 02:02:05"
+        "update_date": "2023-10-15 01:14:42"
     },
     {
         "url": "mp.weixin.qq.com/s/mOw88U0dF0eEoiPoXByT6Q",
@@ -5072,6 +5072,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487018&idx=5&sn=66b9488d2cc63a0fcb68ad86fa15809b",
         "title": "世界上最伟大的骗局，真是令人震撼！",
+        "title_eng": "The greatest scam in the world, itâ€™s so shocking!",
         "nickname": "炎黄春",
         "created_at": "2023-10-10",
         "archive": "gh_695be352a397_2023-10-10_2247487018_LGKqFYuXth.y.tar.gz",
@@ -5081,6 +5082,7 @@
     {
         "url": "mp.weixin.qq.com/s/y2Zk6zkMcC2mSLLn8Hk_OQ",
         "title": "巴以大战，谁才是野蛮人？",
+        "title_eng": "In the war between Israel and Palestine, who is the barbarian?",
         "nickname": "雷叔写故事",
         "created_at": "2023-10-11",
         "archive": "gh_4c87bae15e04_2023-10-11_missing_i28QSB4Tac.y.tar.gz",
@@ -5095,6 +5097,16 @@
         "created_at": "2023-10-12",
         "archive": "gh_0523b3802f64_2023-10-12_2247498805_E2c5RpDFvk.y.tar.gz",
         "censored_date": "2023-10-14 23:56:42",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-15 01:08:30"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247544044&idx=4&sn=8a9588748e84a47ab804fc03cd79b135&",
+        "title": "网红校长郑强被举报",
+        "nickname": "葫芦岛都市网",
+        "created_at": "2023-10-12",
+        "archive": "gh_f86665431cb0_2023-10-12_2247544044_AB56kH8ovG.y.tar.gz",
+        "censored_date": "2023-10-15 00:34:53",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
