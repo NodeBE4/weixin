@@ -5264,7 +5264,8 @@
         "created_at": "2023-10-13",
         "archive": "gh_dcc806c2f4d8_2023-10-13_2247587401_L6GerMVKF2.y.tar.gz",
         "censored_date": "2023-10-15 11:25:37",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-15 17:31:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247627571&idx=2&sn=cef48256248e545b3b2af5d5f8e06794",
@@ -5284,7 +5285,8 @@
         "created_at": "2023-10-13",
         "archive": "gh_c86111a7658d_2023-10-13_2649604509_jaw6FPsSxE.y.tar.gz",
         "censored_date": "2023-10-15 11:21:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-15 17:28:00"
     },
     {
         "url": "mp.weixin.qq.com/s/Ls4yQOftJ4eCPAdDd2BHJw",
@@ -5341,10 +5343,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTUzMzMyNw==&mid=2247584620&idx=4&sn=316441ea025cd6ae38e6ed530e643490",
         "title": "59岁省领导突然死亡，官方2字回应死因，死前最后露面照流出",
+        "title_eng": "A 59-year-old provincial leader died suddenly. The official gave a two-word response to the cause of death. Photos of his last appearance before his death were leaked.",
         "nickname": "令人战栗的腥闻",
         "created_at": "2023-10-13",
         "archive": "gh_010a43ec3ce7_2023-10-13_2247584620_tBsX3Ribl0.y.tar.gz",
         "censored_date": "2023-10-15 17:10:57",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247640818&idx=2&sn=a5a1086fb61334f6c66ea315387b2cb9",
+        "title": "军队文职全国公开招录【国家编制+6险2金】工作人员公告！",
+        "title_eng": "National open recruitment for military civilian personnel [national establishment, 6 insurances and 2 gold] staff announcement!",
+        "nickname": "第一法商",
+        "created_at": "2023-10-12",
+        "archive": "gh_5980b8ba5607_2023-10-12_2247640818_So5nB0et3G.y.tar.gz",
+        "censored_date": "2023-10-15 18:09:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
