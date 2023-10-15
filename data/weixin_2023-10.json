@@ -5297,7 +5297,8 @@
         "created_at": "2023-10-13",
         "archive": "gh_f7f907a05634_2023-10-13_missing_o0V0JKtqhQ.y.tar.gz",
         "censored_date": "2023-10-15 12:38:20",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-15 20:37:28"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247564802&idx=2&sn=1817629f10f67efe7ad572fac53c03f8",
@@ -5307,7 +5308,8 @@
         "created_at": "2023-10-12",
         "archive": "gh_ebabb1e039c3_2023-10-12_2247564802_I9LE03Pqi8.y.tar.gz",
         "censored_date": "2023-10-15 12:42:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-15 20:49:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653451133&idx=2&sn=158ab3e6ef745a939a007e9a5ff3a514",
@@ -5369,6 +5371,7 @@
         "created_at": "2023-10-12",
         "archive": "gh_0283f21651f9_2023-10-12_2247489159_mkXCqAJB6e.y.tar.gz",
         "censored_date": "2023-10-15 19:51:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-15 20:56:56"
     }
 ]
