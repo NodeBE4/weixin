@@ -5561,7 +5561,8 @@
         "created_at": "2023-10-11",
         "archive": "gh_e80b5c3c8b87_2023-10-11_2247584087_Od9hBwzyao.y.tar.gz",
         "censored_date": "2023-10-16 07:39:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-16 13:41:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247640900&idx=2&sn=f483a33592cd188fa0c19135595e8bfb",
@@ -5627,6 +5628,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NTE3MjY4MA==&mid=2247486880&idx=2&sn=a5da29dc5ccd71d01f159b2dde6fc146",
         "title": "通知：您已关注公众号满1年，诚邀您加入《周易》学习交流群！扫码进！",
+        "title_eng": "Notice: You have been following the official account for more than 1 year, and you are sincerely invited to join the Book of Changes study and exchange group! Scan the code to enter!",
         "nickname": "护士电子证照",
         "created_at": "2023-10-14",
         "archive": "gh_46cfcecff297_2023-10-14_2247486880_2x0fsWiBm1.y.tar.gz",
@@ -5637,10 +5639,20 @@
     {
         "url": "mp.weixin.qq.com/s/T6uFz-Qo5GllwbTDR24o4A",
         "title": "“一哥”王亚伟旗下机构最新发声：A股当前就在底部附近！还关注了这些公司……",
+        "title_eng": "First Brother Wang Yawei's latest statement: A-shares are currently near the bottom! Also following these companiesâ€¦",
         "nickname": "证券市场周刊市场号",
         "created_at": "2023-10-14",
         "archive": "gh_a9a62aa272c6_2023-10-14_missing_235vh6AcJI.y.tar.gz",
         "censored_date": "2023-10-16 12:51:13",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656080014&idx=2&sn=50c50962dcf4f6f4f41861fdd37a067c",
+        "title": "无论你“色斑”有多深，试试这个老国货，70岁以内都有救",
+        "nickname": "十点读书",
+        "created_at": "2023-10-12",
+        "archive": "gh_5c7e8b7f586b_2023-10-12_2656080014_FKoYQtJpZU.y.tar.gz",
+        "censored_date": "2023-10-16 13:41:19",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
