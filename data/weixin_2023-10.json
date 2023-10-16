@@ -5661,7 +5661,8 @@
         "created_at": "2023-10-12",
         "archive": "gh_5c7e8b7f586b_2023-10-12_2656080014_FKoYQtJpZU.y.tar.gz",
         "censored_date": "2023-10-16 13:41:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-16 19:31:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1NjQ1Nw==&mid=2651301849&idx=3&sn=e4eb08a45fd7e07645917e015131e3ee",
@@ -5723,5 +5724,16 @@
         "archive": "gh_7001ed9b2b9f_2023-10-14_2247540548_UW5PC0GonV.y.tar.gz",
         "censored_date": "2023-10-16 18:14:51",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/5PeH9aBMdSAfc9FfyMUNbA",
+        "title": "首届数字全民国防教育高峰论坛在京举行",
+        "title_eng": "The first digital national defense education summit forum was held in Beijing",
+        "nickname": "军民协同发展",
+        "created_at": "2023-10-14",
+        "archive": "gh_4efba85bb802_2023-10-14_missing_XQy32h4vBS.y.tar.gz",
+        "censored_date": "2023-10-16 19:24:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-16 13:59:22"
     }
 ]
