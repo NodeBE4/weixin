@@ -6025,7 +6025,7 @@
         "archive": "gh_4377c6319acc_2023-10-15_missing_cANQJSTmuF.y.tar.gz",
         "censored_date": "2023-10-17 09:10:03",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-17 17:00:52"
+        "update_date": "2023-10-18 19:08:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxOTUyMjQ5NA==&mid=2247540577&idx=2&sn=837f86cb46e48e77fe2e3b9e9f8628b5",
@@ -6036,7 +6036,7 @@
         "archive": "gh_7001ed9b2b9f_2023-10-15_2247540577_PlTwVBzHu6.y.tar.gz",
         "censored_date": "2023-10-17 09:24:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-18 01:33:52"
+        "update_date": "2023-10-18 19:10:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247640981&idx=2&sn=8c2f1199c58c46a709451e6ea67634bb",
@@ -6536,10 +6536,39 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651196555&idx=1&sn=72f08a52a603feb75e1e7b5b86cffcd1",
         "title": "退休人员注意了：10月起开始严查！这6种行为别再做了",
+        "title_eng": "Attention retirees: Strict inspections will begin in October! Donâ€™t do these 6 behaviors again",
         "nickname": "新老人",
         "created_at": "2023-10-17",
         "archive": "gh_2ff5d816ea7a_2023-10-17_2651196555_d3RgK069Nw.y.tar.gz",
         "censored_date": "2023-10-18 18:26:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/BUUZJWT_rpTD1ZcFZZY_WA",
+        "title": "呼和浩特这小区因管道跑水迟迟热不起来 工人连夜抢修",
+        "nickname": "都市全接触 奔腾融媒",
+        "created_at": "2023-10-17",
+        "archive": "gh_95d2f7909b35_2023-10-17_missing_cPtQlEwoRL.y.tar.gz",
+        "censored_date": "2023-10-18 18:45:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/SXEifebbaAmYSEVGyM4yhw",
+        "title": "华西村已成“天下第一负村”，人均欠债1300万元",
+        "nickname": "汨罗江上",
+        "created_at": "2023-10-16",
+        "archive": "gh_ad238e15effa_2023-10-16_missing_0uEPHigr1e.y.tar.gz",
+        "censored_date": "2023-10-18 18:53:10",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651196555&idx=2&sn=11e90cb2fb3699f453675fd46175d2bb",
+        "title": "中国唯一立过集体一等功的明星，离婚再娶，儿子却沦为阶下囚...",
+        "title_eng": "The only star in China who has achieved first-class collective merit, divorced and remarried, but his son became a prisoner...",
+        "nickname": "新老人",
+        "created_at": "2023-10-17",
+        "archive": "gh_2ff5d816ea7a_2023-10-17_2651196555_m91uKCGWQg.y.tar.gz",
+        "censored_date": "2023-10-18 18:28:10",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
