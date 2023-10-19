@@ -6541,7 +6541,7 @@
         "archive": "gh_818c949b7569_2023-10-10_2649597246_t9ZETMldHG.y.tar.gz",
         "censored_date": "2023-10-18 12:12:27",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-18 17:23:44"
+        "update_date": "2023-10-20 02:36:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651196555&idx=1&sn=72f08a52a603feb75e1e7b5b86cffcd1",
@@ -6584,7 +6584,8 @@
         "created_at": "2023-10-17",
         "archive": "gh_2ff5d816ea7a_2023-10-17_2651196555_m91uKCGWQg.y.tar.gz",
         "censored_date": "2023-10-18 18:28:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-20 03:11:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247601133&idx=3&sn=7d9859b90cf554b5f8765a90a6c0059f",
@@ -6910,6 +6911,7 @@
     {
         "url": "mp.weixin.qq.com/s/ol_eHkVe-tfT026sU2uvqA",
         "title": "“恶魔医生”割掉病人健康器官注射香油，往体内塞结石：“钱不到位我很难办”",
+        "title_eng": "Devil doctor cuts off the patient's healthy organs, injects sesame oil, and stuffs stones into the body: It will be difficult for me if I don't have enough money.",
         "nickname": "记录和传播",
         "created_at": "2023-10-08",
         "archive": "gh_d2641ed98b88_2023-10-08_missing_c0jYAeT0sE.y.tar.gz",
@@ -6920,10 +6922,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247502674&idx=2&sn=cf5d1d80c7a0e0207576b678446abf02",
         "title": "喜迎中秋，酱香好礼送不停～",
+        "title_eng": "Welcome the Mid-Autumn Festival, and the gifts will never stop~",
         "nickname": "麟阁经略",
         "created_at": "2023-09-28",
         "archive": "gh_5771ce1bec7d_2023-09-28_2247502674_J2400mjM6P.y.tar.gz",
         "censored_date": "2023-10-20 01:42:47",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/b353Q-bWrduU5L4I21T8GQ",
+        "title": "明天，呼和浩特多个地方将停电！快看看有你家吗?",
+        "nickname": "北方新报",
+        "created_at": "2023-10-18",
+        "archive": "gh_2e5a04e5cea6_2023-10-18_missing_Z4OX0f7p0o.y.tar.gz",
+        "censored_date": "2023-10-20 02:47:03",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
