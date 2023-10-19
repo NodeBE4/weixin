@@ -6288,7 +6288,7 @@
         "archive": "gh_2ff5d816ea7a_2023-10-16_2651196420_kDtdSiUbcG.y.tar.gz",
         "censored_date": "2023-10-17 22:01:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-19 02:00:56"
+        "update_date": "2023-10-19 21:26:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NjUyMzA0NA==&mid=2247507138&idx=2&sn=4a86b308a54eb95edd1396016d2dfd11",
@@ -6677,7 +6677,8 @@
         "created_at": "2023-10-16",
         "archive": "gh_f745ba7423f3_2023-10-16_2247486965_Du9NTioqUh.y.tar.gz",
         "censored_date": "2023-10-19 02:20:54",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-19 21:20:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTczNTA4MA==&mid=2247504452&idx=1&sn=d1d59a2b78b49b89059a1952fd7d9cae",
@@ -6799,5 +6800,15 @@
         "censored_date": "2023-10-19 19:43:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-19 01:20:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653184493&idx=3&sn=6712ca3da7ba49f6236e4c18e0dec828",
+        "title": "豆瓣9.4，畅销百年，令钱钟书、钱穆、李敖毕生拜读的神作！",
+        "nickname": "拾文化",
+        "created_at": "2023-10-08",
+        "archive": "gh_f65867e77e76_2023-10-08_2653184493_CWmZXoHed8.y.tar.gz",
+        "censored_date": "2023-10-19 20:54:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-17 22:26:36"
     }
 ]
