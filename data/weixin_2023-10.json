@@ -6914,7 +6914,8 @@
         "created_at": "2023-10-17",
         "archive": "gh_5980b8ba5607_2023-10-17_2247641240_RyQJEm3lAG.y.tar.gz",
         "censored_date": "2023-10-20 00:54:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-21 00:55:41"
     },
     {
         "url": "mp.weixin.qq.com/s/ol_eHkVe-tfT026sU2uvqA",
@@ -7095,6 +7096,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247641343&idx=2&sn=679c4f41bba0ae0a00bb81c0c43662f8",
         "title": "急寻200名1960-2000年出生的学心理咨询，免费试学！不限职业！",
+        "title_eng": "Urgently looking for 200 people born between 1960 and 2000 to study psychological counseling, free trial! No occupation limit!",
         "nickname": "第一法商",
         "created_at": "2023-10-18",
         "archive": "gh_5980b8ba5607_2023-10-18_2247641343_0xFkbMXSLE.y.tar.gz",
@@ -7104,10 +7106,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247627633&idx=2&sn=ead9b061a8a6cfddec20efb33f4c6ca1",
         "title": "速戳~2023年普通人的风口",
+        "title_eng": "Quickly poke~The trend for ordinary people in 2023",
         "nickname": "有范爸妈读书会",
         "created_at": "2023-10-19",
         "archive": "gh_46a785a11778_2023-10-19_2247627633_k8mY9K4jBo.y.tar.gz",
         "censored_date": "2023-10-21 00:14:25",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/5LVuBMfF7HZCpYs5ebDkyg",
+        "title": "加沙医院被炸遍地尸块儿，以色列这锅甩不走",
+        "nickname": "侠客栈",
+        "created_at": "2023-10-19",
+        "archive": "gh_72ff761bb1d7_2023-10-19_missing_bFDunaEyM6.y.tar.gz",
+        "censored_date": "2023-10-21 00:33:42",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247570230&idx=8&sn=c944e16417d771caae2393cd2f6eade1",
+        "title": "“她刚到就S了”！小王哥吐槽“点果盘经历”！后悔给钱：花3k只M腿！弹幕、礼物！",
+        "nickname": "DY趣事",
+        "created_at": "2023-10-19",
+        "archive": "gh_b50997668f3b_2023-10-19_2247570230_J7kzGZ546g.y.tar.gz",
+        "censored_date": "2023-10-21 00:48:57",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
