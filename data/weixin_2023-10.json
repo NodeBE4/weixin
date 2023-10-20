@@ -7136,6 +7136,7 @@
     {
         "url": "mp.weixin.qq.com/s/FCkiCgu-nkadsn_XISDkQQ",
         "title": "中央音乐学院到我州开展新时代文明实践中心建设调研",
+        "title_eng": "The Central Conservatory of Music went to our state to conduct research on the construction of a new era civilization practice center",
         "nickname": "大理日报",
         "created_at": "2023-10-19",
         "archive": "gh_f54ffa737dc9_2023-10-19_missing_doP0rCZiVg.y.tar.gz",
@@ -7145,6 +7146,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247502743&idx=1&sn=0ed5e7e7e94683280fb66ae77ce67385",
         "title": "通知：2023年度公开招募高考志愿规划师,零基础可学  迎接挑战新职业",
+        "title_eng": "Notice: Open recruitment for college entrance examination volunteer planners in 2023. You can learn from scratch to meet the challenges of a new career.",
         "nickname": "中小学生普法网",
         "created_at": "2023-10-18",
         "archive": "gh_f59a99d1715b_2023-10-18_2247502743_ICg9afOxB0.y.tar.gz",
@@ -7155,10 +7157,22 @@
     {
         "url": "mp.weixin.qq.com/s/u_Lgrhd_nvNxcbIkWoDReA",
         "title": "美国调查红杉资本在华投资科技公司情况",
+        "title_eng": "U.S. investigates Sequoia Capitalâ€™s investment in technology companies in China",
         "nickname": "北美商业电讯",
         "created_at": "2023-10-19",
         "archive": "gh_9e1d7f7c3628_2023-10-19_missing_9UDXlvftLu.y.tar.gz",
         "censored_date": "2023-10-21 01:56:35",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247601249&idx=3&sn=cbded6a82229b0e89a3fa30a5ef9177e",
+        "title": "阿哲@小损样大骂，放话：百万收黑料！国威电母穿肚兜开播！说的谁？曝朋友圈内幕！",
+        "title_eng": "Ah Zhe@å°<8f>lossyang cursed loudly and said, You can collect dirty information for a million dollars! Guowei Dianmu wears a bellyband and starts broadcasting! Who said that? Exposing the inside story of Moments!",
+        "nickname": "歪理歪说Y",
+        "created_at": "2023-10-17",
+        "archive": "gh_c316ab540b5d_2023-10-17_2247601249_XYcIOoypeW.y.tar.gz",
+        "censored_date": "2023-10-21 02:25:49",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-20 06:09:03"
     }
 ]
