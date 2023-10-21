@@ -6915,7 +6915,7 @@
         "archive": "gh_5980b8ba5607_2023-10-17_2247641240_RyQJEm3lAG.y.tar.gz",
         "censored_date": "2023-10-20 00:54:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-21 00:55:41"
+        "update_date": "2023-10-22 04:34:57"
     },
     {
         "url": "mp.weixin.qq.com/s/ol_eHkVe-tfT026sU2uvqA",
@@ -7036,7 +7036,7 @@
         "archive": "gh_639c258dcc5a_2023-10-19_missing_anzf2BeVPF.y.tar.gz",
         "censored_date": "2023-10-20 15:01:20",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-10-21 06:28:35"
+        "update_date": "2023-10-22 04:45:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499548&idx=3&sn=294e608de69b3df7badf7c317e293ee1",
@@ -7409,11 +7409,31 @@
     {
         "url": "mp.weixin.qq.com/s/3H0QX9cRfCyIhwVqDT1V3Q",
         "title": "我向有关部门实名举报了广西高院 卢上需副院长 | “官商勾结、贪污受贿、枉法判案！”",
+        "title_eng": "I made a real-name report to the relevant departments about Lu Shangyu, Vice President of the Guangxi High Court | â€œCollusion between government and business, corruption and bribery, and perverting of the law in adjudicating cases!â€<9d>",
         "nickname": "张松成",
         "created_at": "2023-10-18",
         "archive": "gh_ff19acee4f24_2023-10-18_missing_L3ax8mwjUt.y.tar.gz",
         "censored_date": "2023-10-22 03:49:08",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-21 10:51:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/bTum0M8pSkfllCZflSEJag",
+        "title": "每一条恶狗背后，都站着一个恶人",
+        "nickname": "燕梳楼",
+        "created_at": "2023-10-20",
+        "archive": "gh_6e45327b3e42_2023-10-20_missing_1t05zAergu.y.tar.gz",
+        "censored_date": "2023-10-22 05:06:24",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwMjA4NTUyMg==&mid=2247537220&idx=1&sn=189fff1430d0119779ef3e989f31a390",
+        "title": "机会确定，上车！",
+        "title_eng": "The opportunity is confirmed, get in the car!",
+        "nickname": "调研纪要",
+        "created_at": "2023-10-21",
+        "archive": "gh_7c3a3226b29f_2023-10-21_2247537220_vOU3BVfoCP.y.tar.gz",
+        "censored_date": "2023-10-22 04:21:30",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
