@@ -6992,7 +6992,7 @@
         "archive": "gh_c316ab540b5d_2023-10-19_2247601523_ygLHEUi3bl.y.tar.gz",
         "censored_date": "2023-10-20 13:37:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-21 19:09:44"
+        "update_date": "2023-10-23 04:06:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247601523&idx=6&sn=683a04aa6659534fc860d46c7a5054c9",
@@ -7289,7 +7289,7 @@
         "archive": "gh_5980b8ba5607_2023-10-20_2247641534_F0C82siaAv.y.tar.gz",
         "censored_date": "2023-10-21 17:29:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-23 01:57:49"
+        "update_date": "2023-10-23 04:19:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247641453&idx=2&sn=ecb280c2911281d33cca91cead62d692",
@@ -7299,7 +7299,8 @@
         "created_at": "2023-10-19",
         "archive": "gh_5980b8ba5607_2023-10-19_2247641453_Q9X0pG8cMt.y.tar.gz",
         "censored_date": "2023-10-21 17:32:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-23 03:44:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTczMTU2Mw==&mid=2247485291&idx=1&sn=c6e5ee40cbe12c56c28132d6521221f7",
@@ -7309,7 +7310,8 @@
         "created_at": "2023-10-20",
         "archive": "gh_0d1c8892b001_2023-10-20_2247485291_OmqhtpvBKZ.y.tar.gz",
         "censored_date": "2023-10-21 18:42:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-23 04:11:57"
     },
     {
         "url": "mp.weixin.qq.com/s/_IYSgx-JRefPBFisJa5PkA",
@@ -7592,6 +7594,7 @@
     {
         "url": "mp.weixin.qq.com/s/Dq5og6vUbHQqJB2yc4VUFA",
         "title": "又打农民的主意了",
+        "title_eng": "I'm targeting farmers again.",
         "nickname": "红友之略",
         "created_at": "2023-10-18",
         "archive": "gh_56311d465e4a_2023-10-18_missing_4TcUuGYR51.y.tar.gz",
@@ -7601,11 +7604,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499548&idx=2&sn=3cb1139e1502df0c230aa46496db2466",
         "title": "官场清一色的白衬衫，这到底有什么神奇的讲究？",
+        "title_eng": "What is the magical value of white shirts being worn exclusively in official circles?",
         "nickname": "历史微时刻",
         "created_at": "2023-10-17",
         "archive": "gh_31930173e92d_2023-10-17_2247499548_2m9ySuGF8O.y.tar.gz",
         "censored_date": "2023-10-23 02:58:48",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-10-21 21:24:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NjczOTc4Mw==&mid=2247492459&idx=1&sn=0e8ace111fea68315ec654d7c5f3724a",
+        "title": "周雪光：过去四十年的改革开放，其实是中国历史惯有轨道上的一个“脱轨”",
+        "nickname": "合众声",
+        "created_at": "2023-10-18",
+        "archive": "gh_6aa876ff25c8_2023-10-18_2247492459_7h0u6sHqEU.y.tar.gz",
+        "censored_date": "2023-10-23 03:34:51",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-21 18:00:28"
     }
 ]
