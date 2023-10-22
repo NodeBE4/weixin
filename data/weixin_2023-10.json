@@ -7322,7 +7322,7 @@
         "archive": "gh_55e837d43e1b_2023-10-19_missing_19tQZTRoCS.y.tar.gz",
         "censored_date": "2023-10-21 19:39:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-22 15:36:21"
+        "update_date": "2023-10-23 05:01:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247975377&idx=1&sn=1260a295bdb0ab715578c38c16bfc8f2",
@@ -7599,7 +7599,8 @@
         "created_at": "2023-10-18",
         "archive": "gh_56311d465e4a_2023-10-18_missing_4TcUuGYR51.y.tar.gz",
         "censored_date": "2023-10-23 02:34:36",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-23 04:36:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499548&idx=2&sn=3cb1139e1502df0c230aa46496db2466",
@@ -7615,11 +7616,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NjczOTc4Mw==&mid=2247492459&idx=1&sn=0e8ace111fea68315ec654d7c5f3724a",
         "title": "周雪光：过去四十年的改革开放，其实是中国历史惯有轨道上的一个“脱轨”",
+        "title_eng": "Zhou Xueguang: The reform and opening up in the past forty years was actually a derailment on the usual track of Chinese history.",
         "nickname": "合众声",
         "created_at": "2023-10-18",
         "archive": "gh_6aa876ff25c8_2023-10-18_2247492459_7h0u6sHqEU.y.tar.gz",
         "censored_date": "2023-10-23 03:34:51",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-10-21 18:00:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/flXM3lcjkgbGwsr7Bhj2vw",
+        "title": "大战要来了么",
+        "nickname": "九霄瞰世",
+        "created_at": "2023-10-21",
+        "archive": "gh_c658d215e31b_2023-10-21_missing_bhd2i9Y0Em.y.tar.gz",
+        "censored_date": "2023-10-23 05:04:49",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
