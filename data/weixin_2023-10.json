@@ -7750,6 +7750,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197472&idx=5&sn=94d6319c5ed2484d84f8cadb20d99cb9",
         "title": "万能通讯录，一人一份！太实用了，值得收藏！",
+        "title_eng": "Universal address book, one copy for each person! So practical and worth collecting!",
         "nickname": "新老人",
         "created_at": "2023-10-21",
         "archive": "gh_2ff5d816ea7a_2023-10-21_2651197472_dhXo04jUD1.y.tar.gz",
@@ -7760,6 +7761,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197472&idx=7&sn=d999eb9e2dd411306915d28a69370e76",
         "title": "身份证尾号是X的人，到底有多特殊？",
+        "title_eng": "How special are people whose ID numbers end in X?",
         "nickname": "新老人",
         "created_at": "2023-10-21",
         "archive": "gh_2ff5d816ea7a_2023-10-21_2651197472_lpo02yYiRx.y.tar.gz",
@@ -7770,11 +7772,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MzA0MDk1Nw==&mid=2651404313&idx=1&sn=b95ae9c001f60e6bfbde0d3760f56bad",
         "title": "请给被恶犬袭击的人以“无限自卫权”",
+        "title_eng": "Please give those who are attacked by vicious dogs the unlimited right to self-defense",
         "nickname": "成贺",
         "created_at": "2023-10-19",
         "archive": "gh_4028fe7de2d7_2023-10-19_2651404313_HtniD0g8dW.y.tar.gz",
         "censored_date": "2023-10-23 23:57:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-22 21:50:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247548938&idx=2&sn=825d7ece7a519c133116581cb9bf2e3a",
+        "title": "山东33岁男子自捆双脚跳桥身亡，评论区的一句留言让人破防了……",
+        "title_eng": "A 33-year-old man in Shandong tied his legs and jumped off a bridge to his death. A message in the comment area made people break their guard...",
+        "nickname": "贝菈小姐",
+        "created_at": "2023-10-17",
+        "archive": "gh_a9c6a20e4f84_2023-10-17_2247548938_rXU10cpQJ8.y.tar.gz",
+        "censored_date": "2023-10-24 00:28:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-22 23:07:12"
     }
 ]
