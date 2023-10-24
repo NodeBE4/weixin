@@ -7673,7 +7673,8 @@
         "created_at": "2023-10-22",
         "archive": "gh_2ff5d816ea7a_2023-10-22_2651197477_ViZS8QRtgl.y.tar.gz",
         "censored_date": "2023-10-23 16:08:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-24 15:29:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604565&idx=5&sn=07943f0962ccec92ea9709d7749d6f20",
@@ -7705,7 +7706,8 @@
         "created_at": "2023-10-21",
         "archive": "gh_d2f38c576a87_2023-10-21_missing_JBjy0shqVu.y.tar.gz",
         "censored_date": "2023-10-23 17:29:29",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-24 15:54:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247498982&idx=2&sn=888a9e8d168f799094940a7cb126d79d",
@@ -7923,5 +7925,14 @@
         "archive": "gh_2ff5d816ea7a_2023-10-23_2651197551_yNq2r4FBDk.y.tar.gz",
         "censored_date": "2023-10-24 12:42:45",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/IVudF-dfZAHZakD7xzwsNg",
+        "title": "汪峰章子怡的离婚费不会也要A股买单吧？",
+        "nickname": "雷叔写故事",
+        "created_at": "2023-10-23",
+        "archive": "gh_4c87bae15e04_2023-10-23_missing_ITNKehnkzi.y.tar.gz",
+        "censored_date": "2023-10-24 16:03:43",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
