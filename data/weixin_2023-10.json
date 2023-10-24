@@ -7915,7 +7915,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_2ff5d816ea7a_2023-10-23_2651197551_sLg36HxY0m.y.tar.gz",
         "censored_date": "2023-10-24 12:41:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 06:44:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197551&idx=5&sn=28796347777a0a14734a97688a9f2f5e",
@@ -7996,5 +7997,36 @@
         "archive": "gh_848452d917ca_2023-10-23_missing_X0R7GlaSQO.y.tar.gz",
         "censored_date": "2023-10-24 18:42:00",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197551&idx=3&sn=92d3f9d9ba99741729b132345f24b4ce",
+        "title": "今日重阳！这6大风俗“禁忌”千万别犯，赶紧看看，不是迷信",
+        "nickname": "新老人",
+        "created_at": "2023-10-23",
+        "archive": "gh_2ff5d816ea7a_2023-10-23_2651197551_eU5cRXjTVG.y.tar.gz",
+        "censored_date": "2023-10-25 06:42:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-24 12:41:56"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197551&idx=6&sn=2f4cc9b7852fcda2a7e8a4ee349bf7c4",
+        "title": "霜降别忘了吃它！咳嗽、喉咙痒都不怕，随手一炒就下饭～",
+        "nickname": "新老人",
+        "created_at": "2023-10-23",
+        "archive": "gh_2ff5d816ea7a_2023-10-23_2651197551_Sc4HfVxE61.y.tar.gz",
+        "censored_date": "2023-10-25 06:42:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-24 12:42:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwMjA4NTUyMg==&mid=2247537230&idx=2&sn=86ebc03d8d491416e4b412c40fccbe26",
+        "title": "机构投资者周末交流纪要",
+        "title_eng": "Minutes of weekend exchanges between institutional investors",
+        "nickname": "调研纪要",
+        "created_at": "2023-10-22",
+        "archive": "gh_7c3a3226b29f_2023-10-22_2247537230_hmIL59gjB0.y.tar.gz",
+        "censored_date": "2023-10-25 06:25:18",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-24 12:04:19"
     }
 ]
