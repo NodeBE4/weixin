@@ -8002,7 +8002,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_848452d917ca_2023-10-23_missing_X0R7GlaSQO.y.tar.gz",
         "censored_date": "2023-10-24 18:42:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 21:20:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197551&idx=3&sn=92d3f9d9ba99741729b132345f24b4ce",
@@ -8199,5 +8200,14 @@
         "archive": "gh_31930173e92d_2023-10-24_2247499598_L9Kk0u0FrX.y.tar.gz",
         "censored_date": "2023-10-25 20:07:54",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkzMjE3NTg5Mw==&mid=2247487259&idx=1&sn=24b70cc14d281bb6d76c3dd649636260",
+        "title": "实录乙：适应这个世界的温度",
+        "nickname": "陽在下也",
+        "created_at": "2023-10-24",
+        "archive": "gh_e419c5b5177b_2023-10-24_2247487259_UMOQzLftFq.y.tar.gz",
+        "censored_date": "2023-10-25 20:55:02",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
