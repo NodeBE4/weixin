@@ -7937,7 +7937,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_4c87bae15e04_2023-10-23_missing_ITNKehnkzi.y.tar.gz",
         "censored_date": "2023-10-24 16:03:43",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-25 19:23:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTg1ODQ0NA==&mid=2247508808&idx=1&sn=f8fe8e6ff8347563fdaba4d1a1e32e00",
@@ -7947,7 +7948,8 @@
         "created_at": "2023-10-22",
         "archive": "gh_623c5c12b45e_2023-10-22_2247508808_tYzjr6TKec.y.tar.gz",
         "censored_date": "2023-10-24 17:17:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 20:11:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247502872&idx=1&sn=6a7eaa29562ddcfba04f5b5a065e833e",
@@ -7968,7 +7970,8 @@
         "created_at": "2023-10-22",
         "archive": "gh_623c5c12b45e_2023-10-22_2247508808_3CRMJLZGNI.y.tar.gz",
         "censored_date": "2023-10-24 17:16:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 20:10:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653451495&idx=2&sn=864bc29ebe3e6dc9b3e53f5414f6631f",
@@ -8170,6 +8173,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247565353&idx=2&sn=6fe06bc643d986afc4888be5d4b03704",
         "title": "急寻200名1960-2000年出生的学心理咨询，免费试学！不限职业！",
+        "title_eng": "Urgently looking for 200 people born between 1960 and 2000 to study psychological counseling, free trial! No occupation limit!",
         "nickname": "京城本地通",
         "created_at": "2023-10-21",
         "archive": "gh_ebabb1e039c3_2023-10-21_2247565353_vig4XONx3s.y.tar.gz",
@@ -8179,10 +8183,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247565647&idx=2&sn=420f8efc0175d66e9b2ebbb331277e65",
         "title": "出版社仓库积压的正版书，原来可以在清仓群降至1折起入手",
+        "title_eng": "Genuine books that are overstocked in the publisher's warehouse can be purchased at 10% off in the clearance group.",
         "nickname": "京城本地通",
         "created_at": "2023-10-24",
         "archive": "gh_ebabb1e039c3_2023-10-24_2247565647_LU0PrEYdZw.y.tar.gz",
         "censored_date": "2023-10-25 19:10:00",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499598&idx=1&sn=a8bf0cc23a43eb626a42ccb90b79b914",
+        "title": "中国的镜子：伊朗",
+        "title_eng": "Mirror of China: Iran",
+        "nickname": "历史微时刻",
+        "created_at": "2023-10-24",
+        "archive": "gh_31930173e92d_2023-10-24_2247499598_L9Kk0u0FrX.y.tar.gz",
+        "censored_date": "2023-10-25 20:07:54",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
