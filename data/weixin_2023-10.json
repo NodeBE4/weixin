@@ -8163,7 +8163,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_21f5b568bfc7_2023-10-23_2247542703_HEFoPUN95G.y.tar.gz",
         "censored_date": "2023-10-25 18:22:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-26 22:19:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570328&idx=2&sn=e277067c1d26a065827f4f4d485d60ba",
@@ -8422,6 +8423,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546081&idx=1&sn=36137550416a92895d6bbbec1487c4d4",
         "title": "一个时代，结束了？",
+        "title_eng": "An era is over?",
         "nickname": "中产先生",
         "created_at": "2023-10-24",
         "archive": "gh_3defe3adf3fd_2023-10-24_2247546081_uGPSy4qj6z.y.tar.gz",
@@ -8432,11 +8434,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546081&idx=2&sn=d77e700e1e4eea31f55c8b256766d03c",
         "title": "不太给领导面子",
+        "title_eng": "Doesnâ€™t give the leader much face",
         "nickname": "中产先生",
         "created_at": "2023-10-24",
         "archive": "gh_3defe3adf3fd_2023-10-24_2247546081_I0cxeSvKqM.y.tar.gz",
         "censored_date": "2023-10-26 21:17:26",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-25 13:02:47"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247542712&idx=1&sn=d8b3779e0f223cd2f80f279813265859",
+        "title": "红圈律所某合官宣杀入新风口，ESG岗位都炒到15万月薪了？",
+        "nickname": "最高办案指南",
+        "created_at": "2023-10-24",
+        "archive": "gh_21f5b568bfc7_2023-10-24_2247542712_5uvyTF4LBX.y.tar.gz",
+        "censored_date": "2023-10-26 22:14:52",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 18:20:52"
     }
 ]
