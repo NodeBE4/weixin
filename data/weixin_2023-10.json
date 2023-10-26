@@ -8152,7 +8152,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_b3c0e9559e02_2023-10-23_2247539805_x8X5D9mhgO.y.tar.gz",
         "censored_date": "2023-10-25 16:53:53",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-26 21:05:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247542703&idx=2&sn=9678d98e06bcd145947fcb1176f4b720",
@@ -8417,5 +8418,25 @@
         "archive": "gh_c316ab540b5d_2023-10-24_2247601990_hBNArgu0zG.y.tar.gz",
         "censored_date": "2023-10-26 19:44:53",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546081&idx=1&sn=36137550416a92895d6bbbec1487c4d4",
+        "title": "一个时代，结束了？",
+        "nickname": "中产先生",
+        "created_at": "2023-10-24",
+        "archive": "gh_3defe3adf3fd_2023-10-24_2247546081_uGPSy4qj6z.y.tar.gz",
+        "censored_date": "2023-10-26 21:16:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 13:01:58"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546081&idx=2&sn=d77e700e1e4eea31f55c8b256766d03c",
+        "title": "不太给领导面子",
+        "nickname": "中产先生",
+        "created_at": "2023-10-24",
+        "archive": "gh_3defe3adf3fd_2023-10-24_2247546081_I0cxeSvKqM.y.tar.gz",
+        "censored_date": "2023-10-26 21:17:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-25 13:02:47"
     }
 ]
