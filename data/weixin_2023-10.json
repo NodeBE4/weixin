@@ -8069,7 +8069,8 @@
         "created_at": "2023-10-24",
         "archive": "gh_2ff5d816ea7a_2023-10-24_2651197783_P7g34JGrUo.y.tar.gz",
         "censored_date": "2023-10-25 11:50:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-27 06:48:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197783&idx=5&sn=1d20d90f60cf707d1c018b06975f33c8",
@@ -8079,7 +8080,8 @@
         "created_at": "2023-10-24",
         "archive": "gh_2ff5d816ea7a_2023-10-24_2651197783_8VCX0kJSxU.y.tar.gz",
         "censored_date": "2023-10-25 11:50:45",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-27 06:52:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMzNzQwMA==&mid=2662706330&idx=1&sn=d75c95dd1f7a0c96faaea2e83bf0f723&",
@@ -8089,7 +8091,8 @@
         "created_at": "2023-10-23",
         "archive": "gh_837b4b7c5dca_2023-10-23_2662706330_zfwdGCFtgq.y.tar.gz",
         "censored_date": "2023-10-25 12:30:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-27 06:50:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247641785&idx=2&sn=b8a8ae0b76ec472200c26eb40fd4d11f",
@@ -8563,6 +8566,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NTE3MjY4MA==&mid=2247486893&idx=1&sn=5f7f3936b49fc646b3bdd030c00a5896",
         "title": "优先入编！2023军区医院面向医护招聘人员公告！10月19日开始（最新岗位+不上夜班+挑战高薪）",
+        "title_eng": "Priority admission! 2023 Military Hospital Recruitment Announcement for Medical Nurses! Starting on October 19th (Latest position: No night shift, challenge for high salary)",
         "nickname": "护士电子证照",
         "created_at": "2023-10-19",
         "archive": "gh_46cfcecff297_2023-10-19_2247486893_yaxmJeK0Hh.y.tar.gz",
@@ -8572,6 +8576,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247641965&idx=2&sn=9e79e1dd4689efd60cce0a9615d5b503",
         "title": "军队文职全国公开招录【国家编制+6险2金】工作人员公告！",
+        "title_eng": "National open recruitment for military civilian personnel [national establishment, 6 insurances and 2 gold] staff announcement!",
         "nickname": "第一法商",
         "created_at": "2023-10-25",
         "archive": "gh_5980b8ba5607_2023-10-25_2247641965_gTtkIWRyFL.y.tar.gz",
@@ -8581,10 +8586,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5ODg0NDIzMw==&mid=2247491563&idx=1&sn=b8a6fd094a87b88f15f3afb4c7d2b541",
         "title": "10月接近翻倍，全靠这3支马",
+        "title_eng": "Nearly doubled in October, all thanks to these three horses",
         "nickname": "竹不倒",
         "created_at": "2023-10-25",
         "archive": "gh_307be0bd98f2_2023-10-25_2247491563_1Z4zyi57hR.y.tar.gz",
         "censored_date": "2023-10-27 06:10:08",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247627678&idx=2&sn=b703fd252e0ceb483de39fe784997b12",
+        "title": "看懂这些，你会发现：穷人为何越穷？富人就越富",
+        "title_eng": "After understanding this, you will find: Why do the poor get poorer? The rich get richer",
+        "nickname": "有范爸妈读书会",
+        "created_at": "2023-10-25",
+        "archive": "gh_46a785a11778_2023-10-25_2247627678_9cwXyhqWFr.y.tar.gz",
+        "censored_date": "2023-10-27 06:29:55",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
