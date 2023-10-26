@@ -8048,7 +8048,7 @@
         "archive": "gh_2ff5d816ea7a_2023-10-24_2651197783_Urdy8Jh5Tg.y.tar.gz",
         "censored_date": "2023-10-25 11:49:06",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-26 05:31:13"
+        "update_date": "2023-10-27 02:18:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197783&idx=3&sn=0fcf0e48bae4786300e8e75261874e74",
@@ -8059,7 +8059,7 @@
         "archive": "gh_2ff5d816ea7a_2023-10-24_2651197783_BR00FXm9P2.y.tar.gz",
         "censored_date": "2023-10-25 11:49:30",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-26 05:29:33"
+        "update_date": "2023-10-27 02:16:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651197783&idx=4&sn=ded92e5fd00f21b2f25f1737b76066d2",
@@ -8454,5 +8454,23 @@
         "censored_date": "2023-10-26 22:14:52",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-25 18:20:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/dSa4ndkGNIz6wlwCsNQvMg",
+        "title": "突发！英伟达H800/A800禁令竟提前生效，但4090意外豁免",
+        "nickname": "新智元",
+        "created_at": "2023-10-25",
+        "archive": "gh_108f2a2a27f4_2023-10-25_missing_zmDQVrvOlI.y.tar.gz",
+        "censored_date": "2023-10-27 01:43:00",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDE4MDg4Mw==&mid=2649314155&idx=2&sn=9a18be19c4e90b047b603d44e3f006b9",
+        "title": "高管新瓜：4p 过时，5p 来袭？",
+        "nickname": "金融人小伙伴",
+        "created_at": "2023-10-24",
+        "archive": "gh_16e68ee8982f_2023-10-24_2649314155_lpB4cFIjit.y.tar.gz",
+        "censored_date": "2023-10-27 01:44:12",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
