@@ -8762,7 +8762,8 @@
         "created_at": "2023-10-25",
         "archive": "gh_b3c0e9559e02_2023-10-25_2247539847_zp9dNcbh8y.y.tar.gz",
         "censored_date": "2023-10-28 00:53:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-29 03:02:00"
     },
     {
         "url": "mp.weixin.qq.com/s/tvaCqCHfEEMk8hqpMx8Quw",
@@ -9138,6 +9139,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604594&idx=1&sn=565fc5f67f504939ad9789ddb5dd6eaf",
         "title": "64岁毕福剑：定居辽宁小县城，开三轮车载客，日晒雨淋不怕累",
+        "title_eng": "64-year-old Bi Fujian: Settled in a small county in Liaoning, drives a tricycle to carry passengers, and is not afraid of getting tired in the sun or rain.",
         "nickname": "落梅軒读书人",
         "created_at": "2023-10-26",
         "archive": "gh_c86111a7658d_2023-10-26_2649604594_nfbMPExw76.y.tar.gz",
@@ -9148,6 +9150,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604594&idx=6&sn=a51bfa4b72188988d3e99b9b35bbcea4",
         "title": "浙江一个老师在家补课被查，评论区吵翻了：在家补课到底碍着谁了",
+        "title_eng": "A teacher in Zhejiang was investigated for making up lessons at home, and there was a quarrel in the comment area: Who is in the way of making up lessons at home?",
         "nickname": "落梅軒读书人",
         "created_at": "2023-10-26",
         "archive": "gh_c86111a7658d_2023-10-26_2649604594_wC3FzZEIVp.y.tar.gz",
@@ -9158,11 +9161,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604593&idx=1&sn=becc0bfaf265998d29a6ffb43cbe1197",
         "title": "许家印现况如何？最新消息",
+        "title_eng": "How is Xu Jiayinâ€™s current situation? latest news",
         "nickname": "落梅軒读书人",
         "created_at": "2023-10-25",
         "archive": "gh_c86111a7658d_2023-10-25_2649604593_SxTsw27ANy.y.tar.gz",
         "censored_date": "2023-10-29 02:16:32",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-27 23:25:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247502819&idx=1&sn=ce5de4b95866820c7c12fac01bdd8ac7",
+        "title": "定了！高考志愿规划师正式开始招募！大力扶持，对接就业！",
+        "nickname": "中小学生普法网",
+        "created_at": "2023-10-26",
+        "archive": "gh_f59a99d1715b_2023-10-26_2247502819_b53w0PIs1N.y.tar.gz",
+        "censored_date": "2023-10-29 02:36:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-29 02:53:43"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247502801&idx=1&sn=a71d3fec800283f72056eb29d52064c9",
+        "title": "紧急通知![小学三-六年级] 数学直播课，限时低价，手无!(速领)",
+        "nickname": "中小学生普法网",
+        "created_at": "2023-10-25",
+        "archive": "gh_f59a99d1715b_2023-10-25_2247502801_b1Fc7wETPZ.y.tar.gz",
+        "censored_date": "2023-10-29 02:37:30",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-29 02:54:32"
     }
 ]
