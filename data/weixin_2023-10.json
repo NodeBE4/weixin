@@ -8750,7 +8750,8 @@
         "created_at": "2023-10-25",
         "archive": "gh_c316ab540b5d_2023-10-25_2247602133_XNWIw7P4Cp.y.tar.gz",
         "censored_date": "2023-10-27 23:22:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-28 23:24:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247539847&idx=2&sn=d011a07425791e2ea062611624b75edb",
@@ -8770,7 +8771,8 @@
         "created_at": "2023-10-25",
         "archive": "gh_3a77b8c355b1_2023-10-25_missing_t2uV9ygO1K.y.tar.gz",
         "censored_date": "2023-10-28 01:09:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-28 23:57:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247539861&idx=3&sn=56992ce04cdbf8af1ceaa9f28cf577b8",
@@ -8780,7 +8782,8 @@
         "created_at": "2023-10-26",
         "archive": "gh_b3c0e9559e02_2023-10-26_2247539861_UINjh490am.y.tar.gz",
         "censored_date": "2023-10-28 00:37:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-28 23:58:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3Nzc0MTE0OQ==&mid=2247523088&idx=2&sn=4f66a39b82415d76e3f8c920e4e51982",
@@ -8866,7 +8869,8 @@
         "created_at": "2023-10-25",
         "archive": "gh_21f5b568bfc7_2023-10-25_2247542720_Y6br0Touw4.y.tar.gz",
         "censored_date": "2023-10-28 03:37:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-28 23:57:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU4NjU4OQ==&mid=2650841399&idx=2&sn=ef4bfd02528dd7df3eb7fae15e91f43c",
@@ -9102,6 +9106,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDM4NzI0Mg==&mid=2247496142&idx=1&sn=31ac64e754bb52911d8298b6dbaa3862",
         "title": "【科环手机报】10月27日 总第263期",
+        "title_eng": "[Kehuan Mobile News] October 27th, Issue 263",
         "nickname": "科环集团",
         "created_at": "2023-10-27",
         "archive": "gh_8823091faea0_2023-10-27_2247496142_O8nmVw3cEz.y.tar.gz",
@@ -9111,10 +9116,21 @@
     {
         "url": "mp.weixin.qq.com/s/RucP0hBntMq9wfQ6m0G-Mg",
         "title": "中国第七届环境考古学大会在河南大学成功举办",
+        "title_eng": "The 7th China Environmental Archeology Conference was successfully held at Henan University",
         "nickname": "黄河文明",
         "created_at": "2023-10-27",
         "archive": "gh_1bdc94ffe543_2023-10-27_missing_szB0ZCpIj6.y.tar.gz",
         "censored_date": "2023-10-28 23:09:02",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604581&idx=4&sn=e1c57fdfef897e902408d829f0e518d5",
+        "title": "64岁毕福剑：陋居农村，吃力修三轮，走上一条“不归路”",
+        "nickname": "落梅軒读书人",
+        "created_at": "2023-10-24",
+        "archive": "gh_c86111a7658d_2023-10-24_2649604581_utiBQsJ0ZU.y.tar.gz",
+        "censored_date": "2023-10-29 00:10:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-27 18:43:01"
     }
 ]
