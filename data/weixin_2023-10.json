@@ -8499,7 +8499,7 @@
         "archive": "gh_16e68ee8982f_2023-10-24_2649314155_lpB4cFIjit.y.tar.gz",
         "censored_date": "2023-10-27 01:44:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-27 17:49:46"
+        "update_date": "2023-10-28 22:01:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656081702&idx=5&sn=ac2496e4a0123997f3527e4f345e3cb7",
@@ -8664,7 +8664,7 @@
         "archive": "gh_a791b9844790_2023-10-24_2247516958_N6h03gfC7X.y.tar.gz",
         "censored_date": "2023-10-27 08:44:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-10-27 16:53:53"
+        "update_date": "2023-10-28 21:45:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523638&idx=1&sn=87aba1c121fb48bf9f7c44beecfecce1",
@@ -9062,6 +9062,7 @@
     {
         "url": "mp.weixin.qq.com/s/HBSyB9wbJ_bKMP7qe6k0qg",
         "title": "作为法律人的李克强｜他撰写了中国AI法学第一篇论文：法律工作的计算机化",
+        "title_eng": "Li Keqiang as a lawyerï½œHe wrote the first paper on Chinese AI law: Computerization of legal work",
         "nickname": "法学学术前沿",
         "created_at": "2023-10-27",
         "archive": "gh_997758c7ed25_2023-10-27_missing_cwLEU8561F.y.tar.gz",
@@ -9071,6 +9072,7 @@
     {
         "url": "mp.weixin.qq.com/s/jdWCTUlECP4jPdzMVmD2Sg",
         "title": "我的同学克强",
+        "title_eng": "My classmate Keqiang",
         "nickname": "思想者洞鉴",
         "created_at": "2023-10-27",
         "archive": "gh_09ae6be0c071_2023-10-27_missing_5aVZWfLRc1.y.tar.gz",
@@ -9080,10 +9082,20 @@
     {
         "url": "mp.weixin.qq.com/s/qfts87ZzXMlquV2A1Xn6BQ",
         "title": "女人值不值得娶，看这3点就够了",
+        "title_eng": "Whether a woman is worth marrying or not, just look at these 3 points.",
         "nickname": "张良计",
         "created_at": "2023-10-27",
         "archive": "gh_2674c2070af7_2023-10-27_missing_auCEALScOU.y.tar.gz",
         "censored_date": "2023-10-28 20:36:50",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/PNiDZ2Yue0hdDZLHZHdwNw",
+        "title": "合肥园博小镇|一键get骆岗LMF音乐节全攻略！",
+        "nickname": "合肥园博小镇",
+        "created_at": "2023-10-27",
+        "archive": "gh_9bbb3eae2d9a_2023-10-27_missing_xfA0JcbrQs.y.tar.gz",
+        "censored_date": "2023-10-28 21:41:20",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
