@@ -9088,7 +9088,8 @@
         "created_at": "2023-10-27",
         "archive": "gh_09ae6be0c071_2023-10-27_missing_5aVZWfLRc1.y.tar.gz",
         "censored_date": "2023-10-28 21:01:20",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-10-29 13:11:12"
     },
     {
         "url": "mp.weixin.qq.com/s/qfts87ZzXMlquV2A1Xn6BQ",
@@ -9217,5 +9218,15 @@
         "censored_date": "2023-10-29 10:48:20",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-10-28 15:57:34"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546112&idx=3&sn=65f4ea8ad6628b9169920e737af877ac",
+        "title": "非常罕见，政策突然转向",
+        "nickname": "中产先生",
+        "created_at": "2023-10-26",
+        "archive": "gh_3defe3adf3fd_2023-10-26_2247546112_gAYFUfK1Xs.y.tar.gz",
+        "censored_date": "2023-10-29 12:44:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-28 20:30:21"
     }
 ]
