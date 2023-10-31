@@ -9388,6 +9388,7 @@
     {
         "url": "mp.weixin.qq.com/s/5FZhJTP6hzqdgDt_d4g29A",
         "title": "程虹丨译诗《我没有离去》",
+        "title_eng": "Cheng Hongä¸¨Translated poem I Didn't Leave",
         "nickname": "思想守夜人",
         "created_at": "2023-10-30",
         "archive": "gh_661db5d2f645_2023-10-30_missing_YOl92dA7wp.y.tar.gz",
@@ -9397,6 +9398,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NzMzNTc0NQ==&mid=2247496470&idx=1&sn=33bd8a0656db624246551303227850aa",
         "title": "发现一个特别靠谱的商家",
+        "title_eng": "Found a particularly reliable merchant",
         "nickname": "贵平老师",
         "created_at": "2023-10-26",
         "archive": "gh_05951e8aa6fd_2023-10-26_2247496470_Qk609JbVYo.y.tar.gz",
@@ -9406,10 +9408,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247487345&idx=1&sn=77df2364d0fcd3ad18d2233151092f25",
         "title": "急招：400元/小时，念出书中内容即可，无需经验，在家可做 ",
+        "title_eng": "Urgent offer: 400 yuan/hour, just read out the content in the book, no experience required, can be done at home",
         "nickname": "风息了山谷",
         "created_at": "2023-10-24",
         "archive": "gh_b5e9ac019de4_2023-10-24_2247487345_54lnUcVIiz.y.tar.gz",
         "censored_date": "2023-10-31 10:12:21",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743112&idx=2&sn=8531d19f6b5363ae2398ec444d2fc0a7",
+        "title": "2023丨白癜风/银屑病(牛皮癣)重点公益项目，援助500人",
+        "nickname": "志愿云",
+        "created_at": "2023-10-28",
+        "archive": "gh_63cc4b4ef76d_2023-10-28_2247743112_836XGq2AQo.y.tar.gz",
+        "censored_date": "2023-10-31 11:10:35",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
