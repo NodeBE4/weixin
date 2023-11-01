@@ -745,7 +745,7 @@
         "archive": "gh_661db5d2f645_2023-10-30_missing_YOl92dA7wp.y.tar.gz",
         "censored_date": "2023-10-31 10:02:23",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-01 10:30:16"
+        "update_date": "2023-11-02 05:01:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247642320&idx=2&sn=19b7708237ee4884de5c0d77b86e2977",
@@ -1372,6 +1372,7 @@
     {
         "url": "mp.weixin.qq.com/s/he4xEhX4KTtD5Dc7FaB18g",
         "title": "正国级领导人的丧礼，有何规矩？",
+        "title_eng": "What are the rules for funerals of state-level leaders?",
         "nickname": "方家评说",
         "created_at": "2023-10-31",
         "archive": "gh_a0562b3bb79c_2023-10-31_missing_TY7bKDB9fl.y.tar.gz",
@@ -1381,10 +1382,59 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247542782&idx=2&sn=c87f9c22c360cfd93a108d1160caedcd",
         "title": "三流律师靠运气、二流律师靠人脉、一流律师靠...",
+        "title_eng": "Third-rate lawyers rely on luck, second-rate lawyers rely on connections, and first-rate lawyers rely on...",
         "nickname": "最高办案指南",
         "created_at": "2023-10-31",
         "archive": "gh_21f5b568bfc7_2023-10-31_2247542782_5YHZwdgtul.y.tar.gz",
         "censored_date": "2023-11-02 03:11:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/NqLioSUZwKc51YF1UQMpRA",
+        "title": "恒大债务重组“死局”：美元债担保资产多数虚无｜清流·金融地产",
+        "title_eng": "Evergrande's debt restructuring dead end: most of the US dollar debt-backed assets are void | QingliuÂ·Financial Real Estate",
+        "nickname": "网易清流工作室",
+        "created_at": "2023-10-31",
+        "archive": "gh_57c35f8bb238_2023-10-31_missing_TdGFlN7XPi.y.tar.gz",
+        "censored_date": "2023-11-02 03:29:08",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651425091&idx=1&sn=147b11fcadab23504db6043e1fc423f1",
+        "title": "罗翔：我始终只求克服自己，不求克服命运",
+        "nickname": "思想精髓",
+        "created_at": "2023-10-25",
+        "archive": "gh_6dddc9d2e66e_2023-10-25_2651425091_yMYg6r5oEN.y.tar.gz",
+        "censored_date": "2023-11-02 04:58:09",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653451712&idx=1&sn=58ccd01c72d944ad5f8fb4e6975f65cd",
+        "title": "章子怡汪峰真的离婚了！细数过往，背后原因让人唏嘘…",
+        "nickname": "亲子派",
+        "created_at": "2023-10-26",
+        "archive": "gh_47a9a35a129b_2023-10-26_2653451712_ei3HLswDBa.y.tar.gz",
+        "censored_date": "2023-11-02 05:09:14",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651425001&idx=2&sn=0258c9b7e55760364932b2e0cd2ef0c5",
+        "title": "喜欢历史，推荐关注这个微信号！",
+        "title_eng": "If you like history, I recommend following this WeChat account!",
+        "nickname": "思想精髓",
+        "created_at": "2023-10-22",
+        "archive": "gh_6dddc9d2e66e_2023-10-22_2651425001_58h0JyMNwY.y.tar.gz",
+        "censored_date": "2023-11-02 04:58:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651425062&idx=2&sn=5535db22f1a8d7c8b80abc54e0774ecc",
+        "title": "喜欢历史，推荐关注这个微信号！",
+        "title_eng": "If you like history, I recommend following this WeChat account!",
+        "nickname": "思想精髓",
+        "created_at": "2023-10-24",
+        "archive": "gh_6dddc9d2e66e_2023-10-24_2651425062_rAOZDefWzP.y.tar.gz",
+        "censored_date": "2023-11-02 04:57:46",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
