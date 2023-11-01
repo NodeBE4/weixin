@@ -876,7 +876,8 @@
         "created_at": "2023-10-26",
         "archive": "gh_05951e8aa6fd_2023-10-26_2247496470_Qk609JbVYo.y.tar.gz",
         "censored_date": "2023-10-31 10:26:25",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-02 01:15:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247487345&idx=1&sn=77df2364d0fcd3ad18d2233151092f25",
@@ -886,7 +887,8 @@
         "created_at": "2023-10-24",
         "archive": "gh_b5e9ac019de4_2023-10-24_2247487345_54lnUcVIiz.y.tar.gz",
         "censored_date": "2023-10-31 10:12:21",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-02 01:15:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743112&idx=2&sn=8531d19f6b5363ae2398ec444d2fc0a7",
@@ -896,7 +898,8 @@
         "created_at": "2023-10-28",
         "archive": "gh_63cc4b4ef76d_2023-10-28_2247743112_836XGq2AQo.y.tar.gz",
         "censored_date": "2023-10-31 11:10:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-02 01:51:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570472&idx=3&sn=43d0ebe90112a8a9b4bf65c40788a5e0",
@@ -1253,6 +1256,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514627&idx=1&sn=edbee6167827682ba3c1b4e45ac99b7a",
         "title": "铁腕人物王岐山！",
+        "title_eng": "Strong man Wang Qishan!",
         "nickname": "每日乐评",
         "created_at": "2023-10-31",
         "archive": "gh_96522be72207_2023-10-31_2247514627_fiItnxRAhU.y.tar.gz",
@@ -1262,6 +1266,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514627&idx=3&sn=8b75463b4dfba58b690cba4ecdeee27e",
         "title": "“面子”与“圈子”的背后",
+        "title_eng": "Behind face and circle",
         "nickname": "每日乐评",
         "created_at": "2023-10-31",
         "archive": "gh_96522be72207_2023-10-31_2247514627_fL3NwgjM5O.y.tar.gz",
@@ -1271,6 +1276,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487044&idx=6&sn=2338a98ccafdce9260317fef55c90761",
         "title": "突发心脏病心梗，10秒自救法！",
+        "title_eng": "Sudden heart attack and myocardial infarction, 10 seconds self-help method!",
         "nickname": "炎黄春",
         "created_at": "2023-10-31",
         "archive": "gh_695be352a397_2023-10-31_2247487044_gvDIyfrTUY.y.tar.gz",
@@ -1311,10 +1317,51 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514627&idx=4&sn=183e1c2a020f578c7a5c60be53e59a60",
         "title": "人一生可以干很多蠢事，但最蠢的一件事，就是。。。",
+        "title_eng": "People can do many stupid things in life, but the stupidest thing is... . .",
         "nickname": "每日乐评",
         "created_at": "2023-10-31",
         "archive": "gh_96522be72207_2023-10-31_2247514627_MZJ2bAKT9u.y.tar.gz",
         "censored_date": "2023-11-01 23:54:52",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650590211&idx=4&sn=914df7306db222bca6b39baa21b37f6c",
+        "title": "华为的管理理念：任正非洞察人性",
+        "nickname": "南师国学堂",
+        "created_at": "2023-10-26",
+        "archive": "gh_45de294b7642_2023-10-26_2650590211_lTXi1BVunE.y.tar.gz",
+        "censored_date": "2023-11-02 02:17:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-01 05:13:57"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247549648&idx=3&sn=5646f1c8445a5f4903695111f605b27d",
+        "title": "发现一个特别靠谱的商家",
+        "title_eng": "Found a particularly reliable merchant",
+        "nickname": "贝菈小姐",
+        "created_at": "2023-10-28",
+        "archive": "gh_a9c6a20e4f84_2023-10-28_2247549648_o2z9YQZGhx.y.tar.gz",
+        "censored_date": "2023-11-02 02:12:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-10-31 11:51:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MjEzMjg3OA==&mid=2649692577&idx=3&sn=4b2e66e95409c693d1089dbbd49e8f2e",
+        "title": "报名启动｜IPO阶段性收紧，科创企业下一步如何做？",
+        "nickname": "知识产权家",
+        "created_at": "2023-10-30",
+        "archive": "gh_e22964dc1650_2023-10-30_2649692577_sFUWrQSAdZ.y.tar.gz",
+        "censored_date": "2023-11-02 02:16:52",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/j9U7T7lNXEYK12R8H8hGWw",
+        "title": "满意安丘",
+        "nickname": "今日安丘",
+        "created_at": "2023-10-27",
+        "archive": "gh_027dc6f1304e_2023-10-27_missing_al1WYDQcrd.y.tar.gz",
+        "censored_date": "2023-11-02 02:03:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-01 02:01:48"
     }
 ]
