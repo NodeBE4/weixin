@@ -701,7 +701,7 @@
         "archive": "gh_98589e99a248_2023-10-30_2676134436_bm2Ej5zslC.y.tar.gz",
         "censored_date": "2023-11-01 03:14:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-01 07:11:19"
+        "update_date": "2023-11-02 03:17:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247642127&idx=2&sn=179501af2c5265afe391fb497d1ac118",
@@ -909,7 +909,8 @@
         "created_at": "2023-10-28",
         "archive": "gh_cbe49e48bd1e_2023-10-28_2247570472_lkHYq8DBVT.y.tar.gz",
         "censored_date": "2023-10-31 12:59:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-02 02:56:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570491&idx=3&sn=499c563d0d5693be413ec1195ce455c1",
@@ -919,7 +920,8 @@
         "created_at": "2023-10-29",
         "archive": "gh_cbe49e48bd1e_2023-10-29_2247570491_71WoF9OHmS.y.tar.gz",
         "censored_date": "2023-10-31 12:57:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-02 02:57:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NjA4NjMwNw==&mid=2248265201&idx=1&sn=2f80fee9afcac32f2b99728c89fd4eef",
@@ -1327,6 +1329,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650590211&idx=4&sn=914df7306db222bca6b39baa21b37f6c",
         "title": "华为的管理理念：任正非洞察人性",
+        "title_eng": "Huawei's management philosophy: Ren Zhengfei has insight into human nature",
         "nickname": "南师国学堂",
         "created_at": "2023-10-26",
         "archive": "gh_45de294b7642_2023-10-26_2650590211_lTXi1BVunE.y.tar.gz",
@@ -1348,6 +1351,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MjEzMjg3OA==&mid=2649692577&idx=3&sn=4b2e66e95409c693d1089dbbd49e8f2e",
         "title": "报名启动｜IPO阶段性收紧，科创企业下一步如何做？",
+        "title_eng": "Registration startsï½œIPO phased tightening, what are the next steps for science and technology innovation companies?",
         "nickname": "知识产权家",
         "created_at": "2023-10-30",
         "archive": "gh_e22964dc1650_2023-10-30_2649692577_sFUWrQSAdZ.y.tar.gz",
@@ -1357,11 +1361,30 @@
     {
         "url": "mp.weixin.qq.com/s/j9U7T7lNXEYK12R8H8hGWw",
         "title": "满意安丘",
+        "title_eng": "Satisfied with Anqiu",
         "nickname": "今日安丘",
         "created_at": "2023-10-27",
         "archive": "gh_027dc6f1304e_2023-10-27_missing_al1WYDQcrd.y.tar.gz",
         "censored_date": "2023-11-02 02:03:21",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-01 02:01:48"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/he4xEhX4KTtD5Dc7FaB18g",
+        "title": "正国级领导人的丧礼，有何规矩？",
+        "nickname": "方家评说",
+        "created_at": "2023-10-31",
+        "archive": "gh_a0562b3bb79c_2023-10-31_missing_TY7bKDB9fl.y.tar.gz",
+        "censored_date": "2023-11-02 02:37:59",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247542782&idx=2&sn=c87f9c22c360cfd93a108d1160caedcd",
+        "title": "三流律师靠运气、二流律师靠人脉、一流律师靠...",
+        "nickname": "最高办案指南",
+        "created_at": "2023-10-31",
+        "archive": "gh_21f5b568bfc7_2023-10-31_2247542782_5YHZwdgtul.y.tar.gz",
+        "censored_date": "2023-11-02 03:11:36",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
