@@ -723,7 +723,7 @@
         "archive": "gh_1bd38fe3354f_2023-10-21_2247509277_8JvUgbx7pO.y.tar.gz",
         "censored_date": "2023-10-31 07:40:55",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-01 08:13:40"
+        "update_date": "2023-11-03 04:51:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247509310&idx=6&sn=b87c9dfaaf7c341e817b248be48a763a",
@@ -734,7 +734,7 @@
         "archive": "gh_1bd38fe3354f_2023-10-22_2247509310_LQbng0Ku1h.y.tar.gz",
         "censored_date": "2023-10-31 07:41:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-01 08:17:49"
+        "update_date": "2023-11-03 04:56:11"
     },
     {
         "url": "mp.weixin.qq.com/s/5FZhJTP6hzqdgDt_d4g29A",
@@ -1580,6 +1580,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607661&idx=1&sn=bf5a73325a46996edce5b20ae685b56b",
         "title": "“蚕丝被”和“棉花被”哪个好？当初不懂，后悔我家买错了...",
+        "title_eng": "Which one is better, silk quilt or cotton quilt? I didn't understand it at first and regretted that I bought the wrong one...",
         "nickname": "她言他语",
         "created_at": "2023-11-01",
         "archive": "gh_ec6dcd28a470_2023-11-01_2651607661_pm1qdXY268.y.tar.gz",
@@ -1589,10 +1590,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514672&idx=2&sn=a91297d78e08fccc7a9d86979b602cf7",
         "title": "市长退休回家种地：宁肯得罪省长，也不能得罪副省长",
+        "title_eng": "The mayor retires and goes home to farm: I would rather offend the governor than the deputy governor",
         "nickname": "每日乐评",
         "created_at": "2023-11-01",
         "archive": "gh_96522be72207_2023-11-01_2247514672_FGtOwaHmKR.y.tar.gz",
         "censored_date": "2023-11-03 03:14:22",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650359245&idx=4&sn=701ff8f98798547aa9932ef129666539",
+        "title": "开启预约！千里江山图纪念币发行价抢购，10套！",
+        "title_eng": "Start booking! The Thousand Miles of Rivers and Mountains Commemorative Coins are available for sale at the issuance price, 10 sets!",
+        "nickname": "酷玩实验室",
+        "created_at": "2023-10-24",
+        "archive": "gh_f33ea5eaf126_2023-10-24_2650359245_zsZ9Hldj83.y.tar.gz",
+        "censored_date": "2023-11-03 03:39:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI5NzA3NjEzNQ==&mid=2247485835&idx=1&sn=3b5005aa884c8901b1ec7d1b21edf4bb",
+        "title": "上海万圣节：一个城市的治愈",
+        "title_eng": "Halloween in Shanghai: A cityâ€™s healing",
+        "nickname": "城市的地得",
+        "created_at": "2023-11-01",
+        "archive": "gh_aecae97a9865_2023-11-01_2247485835_LBezVoh2CN.y.tar.gz",
+        "censored_date": "2023-11-03 03:19:48",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MTg0MTk0Nw==&mid=2676134396&idx=2&sn=9e7027c3e14c6fd74f983757e377149e",
+        "title": "Lancome兰蔻发生了什么？菁纯眼面霜这价格…专柜哭晕了",
+        "title_eng": "What happened to LancÃ´me? The price of Jingchun Eye Cream... the counter made me cry.",
+        "nickname": "毒舌女",
+        "created_at": "2023-10-28",
+        "archive": "gh_98589e99a248_2023-10-28_2676134396_oaingWhqDy.y.tar.gz",
+        "censored_date": "2023-11-03 04:19:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-01 07:12:35"
     }
 ]
