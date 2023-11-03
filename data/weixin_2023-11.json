@@ -1438,7 +1438,7 @@
         "archive": "gh_47a9a35a129b_2023-10-26_2653451712_ei3HLswDBa.y.tar.gz",
         "censored_date": "2023-11-02 05:09:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-02 23:29:47"
+        "update_date": "2023-11-04 03:28:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651425001&idx=2&sn=0258c9b7e55760364932b2e0cd2ef0c5",
@@ -1559,7 +1559,7 @@
         "archive": "gh_4c63fcb04eaf_2023-10-30_2247978051_Opi3RPgl4h.y.tar.gz",
         "censored_date": "2023-11-02 23:51:10",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-02 08:55:52"
+        "update_date": "2023-11-04 03:48:51"
     },
     {
         "url": "mp.weixin.qq.com/s/g1mcgOryy_0Wqk-UsJqzJg",
@@ -1656,7 +1656,7 @@
         "archive": "gh_5980b8ba5607_2023-10-31_2247642494_1BA8calQij.y.tar.gz",
         "censored_date": "2023-11-03 07:48:50",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-03 11:05:19"
+        "update_date": "2023-11-04 03:40:03"
     },
     {
         "url": "mp.weixin.qq.com/s/A1pYKx9v7oQcMW3sMXoEyQ",
@@ -1743,7 +1743,7 @@
         "archive": "gh_dd09c6f67da0_2023-11-01_missing_2zRP1AExW5.y.tar.gz",
         "censored_date": "2023-11-03 12:33:53",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-03 20:16:13"
+        "update_date": "2023-11-04 03:18:51"
     },
     {
         "url": "mp.weixin.qq.com/s/to7hqcOMd3xh_NCdG4Dr7A",
@@ -1754,7 +1754,7 @@
         "archive": "gh_15a54fc27592_2023-11-01_missing_kyA6VcM8KN.y.tar.gz",
         "censored_date": "2023-11-03 11:26:25",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-03 13:34:23"
+        "update_date": "2023-11-04 04:18:42"
     },
     {
         "url": "mp.weixin.qq.com/s/xxyKLbPpuw-dP-SjCjlGLg",
@@ -2286,6 +2286,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247499105&idx=4&sn=6fe7005c88ca0083223291a79ef9b056",
         "title": "车祸中被抛出18米经历奇妙的保护",
+        "title_eng": "îˆ™Thrown 18 meters in a car accident and experienced wonderful protection",
         "nickname": "爱众人",
         "created_at": "2023-10-27",
         "archive": "gh_0523b3802f64_2023-10-27_2247499105_DCAmiHVoFj.y.tar.gz",
@@ -2296,6 +2297,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247499105&idx=5&sn=7a983737f76e87c7d7c8d700d4e6d498",
         "title": "做一个有胸怀有格局的人",
+        "title_eng": "îˆ™Be a person with great ambition and structure",
         "nickname": "爱众人",
         "created_at": "2023-10-27",
         "archive": "gh_0523b3802f64_2023-10-27_2247499105_J5O9Deh4yq.y.tar.gz",
@@ -2326,6 +2328,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653451900&idx=2&sn=f6430a69c8095b503daee11bc285dac8",
         "title": "为什么读懂《周易》的人更好命？交流群正式开放！",
+        "title_eng": "Why do people who understand The Book of Changes have better lives? The communication group is officially open!",
         "nickname": "亲子派",
         "created_at": "2023-11-01",
         "archive": "gh_47a9a35a129b_2023-11-01_2653451900_0L2x18n9KA.y.tar.gz",
@@ -2335,6 +2338,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4Nzc1Njc5MQ==&mid=2451480046&idx=1&sn=b365cf1345dab277748bf8b0b8c15d08",
         "title": "逐鹿中原身先死",
+        "title_eng": "Chasing a deer in the Central Plains and dying first",
         "nickname": "浮蚁",
         "created_at": "2023-11-02",
         "archive": "gh_ba89754f42d9_2023-11-02_2451480046_V4BvmE8XNq.y.tar.gz",
@@ -2350,5 +2354,15 @@
         "archive": "gh_629e1a654a8e_2023-11-02_missing_kLv1ZoN32q.y.tar.gz",
         "censored_date": "2023-11-04 01:27:23",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514816&idx=3&sn=f9741bf81187c8781aa0d824860e67b3",
+        "title": "跟富人要谈理想，跟穷人要谈钱",
+        "title_eng": "Talk about ideals with the rich, talk about money with the poor",
+        "nickname": "每日乐评",
+        "created_at": "2023-11-03",
+        "archive": "gh_96522be72207_2023-11-03_2247514816_aTFfv04n6S.y.tar.gz",
+        "censored_date": "2023-11-04 03:41:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
