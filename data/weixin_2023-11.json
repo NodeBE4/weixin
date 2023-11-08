@@ -2652,6 +2652,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTYxMDEwOA==&mid=2651007463&idx=1&sn=aa71a2ada4880047ed75ae7a941e1794",
         "title": "还小明同学一个头条，顺带谈谈球迷文化",
+        "title_eng": "Give classmate Xiao Ming a headline and talk about fan culture",
         "nickname": "石庄大茶坊",
         "created_at": "2023-11-07",
         "archive": "gh_8925c98a7896_2023-11-07_2651007463_Cge8P0Au43.y.tar.gz",
@@ -2661,6 +2662,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTYxMDEwOA==&mid=2651007447&idx=3&sn=bf450581c91c9beb50ba3010a26f4203",
         "title": "小明同学，你在生活中究竟遭遇了什么？",
+        "title_eng": "Classmate Xiao Ming, what exactly have you encountered in your life?",
         "nickname": "石庄大茶坊",
         "created_at": "2023-11-06",
         "archive": "gh_8925c98a7896_2023-11-06_2651007447_WcE75LbTnU.y.tar.gz",
@@ -2670,6 +2672,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTYxMDEwOA==&mid=2651007424&idx=1&sn=1f5991930999dbb9d9da7b69c789f7ad",
         "title": "关于两件事（百岁老人步行20公里进城领老年公交卡、奥体周边放烟花庆祝支云保级）的思考",
+        "title_eng": "Thoughts on two things (a centenarian walking 20 kilometers into the city to get a senior citizen bus card, and fireworks being set off around the Olympic Games to celebrate Zhiyunâ€™s relegation)",
         "nickname": "石庄大茶坊",
         "created_at": "2023-11-05",
         "archive": "gh_8925c98a7896_2023-11-05_2651007424_w6W2oBeKiz.y.tar.gz",
@@ -2679,6 +2682,7 @@
     {
         "url": "mp.weixin.qq.com/s/Hllc41AG2r3Ycqf3RUFUFA",
         "title": "一次线上足疗店0元购！！",
+        "title_eng": "Purchase at an online pedicure shop for 0 yuan! !",
         "nickname": "NGC660安全实验室",
         "created_at": "2023-11-07",
         "archive": "gh_5fc2f516b008_2023-11-07_missing_FckMbq4VlS.y.tar.gz",
@@ -2688,6 +2692,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652592140&idx=1&sn=acaa55aa8baf7325e6dcfa78f37e470a",
         "title": "佳木斯体育馆坍塌背后： 建设单位多次中标市政工程，涉事广场系省级重点项目",
+        "title_eng": "Behind the collapse of Jiamusi Gymnasium: The construction unit has won multiple bids for municipal projects, and the square involved is a provincial key project",
         "nickname": "南方周末",
         "created_at": "2023-11-07",
         "archive": "nanfangzhoumo_2023-11-07_2652592140_OiZzSwvsgG.y.tar.gz",
@@ -2697,6 +2702,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247774420&idx=3&sn=f8f0e44a0e9a21d4d95a11bc4ffa993a",
         "title": "山东七旬老人被村民杀害：案件一审开庭，死者去世前2年内多次报警",
+        "title_eng": "A 70-year-old man in Shandong was killed by villagers: The first instance of the case was heard and the deceased called the police multiple times in the 2 years before his death.",
         "nickname": "红星新闻",
         "created_at": "2023-11-06",
         "archive": "gh_1ede6c42db01_2023-11-06_2247774420_Nc4vVmATBO.y.tar.gz",
@@ -2706,10 +2712,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652592140&idx=2&sn=7b54a608fff77f8effe609e1bae8153f",
         "title": "黑龙江又有体育馆坍塌：形式主义安全检查难辞其咎",
+        "title_eng": "Another gymnasium collapses in Heilongjiang: Formalistic safety inspections are to blame",
         "nickname": "南方周末",
         "created_at": "2023-11-07",
         "archive": "nanfangzhoumo_2023-11-07_2652592140_L8jwoNVsXT.y.tar.gz",
         "censored_date": "2023-11-08 12:20:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743260&idx=1&sn=416ccaa2e110fbebd6d37c0ddc93f55f",
+        "title": "短裙黑丝“外卖媛”送货事件：为什么惹了众怒？",
+        "nickname": "志愿云",
+        "created_at": "2023-11-06",
+        "archive": "gh_63cc4b4ef76d_2023-11-06_2247743260_JQO29I8toA.y.tar.gz",
+        "censored_date": "2023-11-08 12:49:27",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
