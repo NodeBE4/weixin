@@ -2819,7 +2819,8 @@
         "created_at": "2023-10-26",
         "archive": "gh_31930173e92d_2023-10-26_2247499612_fnH4pEuq30.y.tar.gz",
         "censored_date": "2023-11-08 21:53:42",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-09 15:15:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwOTc3Nw==&mid=2649910875&idx=2&sn=145bf2a965bf6d357ceab64c2e8f5bd8",
@@ -2952,5 +2953,15 @@
         "censored_date": "2023-11-09 12:46:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-08 19:00:20"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552173&idx=2&sn=68f3fa2b889e97d997fbe42fb5f9c47d",
+        "title": "论文辅导｜你的毕业论文/课题论文/硕博论文，终于有救了，专业对口老师一对一辅导你！",
+        "nickname": "口述历史",
+        "created_at": "2023-11-07",
+        "archive": "gh_f37c9048d287_2023-11-07_2649552173_fePHJKix9h.y.tar.gz",
+        "censored_date": "2023-11-09 14:32:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-08 21:20:56"
     }
 ]
