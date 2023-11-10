@@ -2592,7 +2592,7 @@
         "archive": "gh_b50997668f3b_2023-11-05_2247571914_Yj89ba5yrO.y.tar.gz",
         "censored_date": "2023-11-07 04:31:44",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 04:24:57"
+        "update_date": "2023-11-10 12:52:46"
     },
     {
         "url": "mp.weixin.qq.com/s/bs-oip9b4GZWVfPeIRey_Q",
@@ -2636,7 +2636,7 @@
         "archive": "gh_b50997668f3b_2023-11-05_2247571914_5PCfcWvRXD.y.tar.gz",
         "censored_date": "2023-11-08 03:27:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-07 08:12:53"
+        "update_date": "2023-11-10 12:51:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247572011&idx=2&sn=af013262a7a644ff9a320fd5330b430c",
@@ -2945,7 +2945,8 @@
         "created_at": "2023-11-07",
         "archive": "gh_b50997668f3b_2023-11-07_2247572098_HNwJlo2zxq.y.tar.gz",
         "censored_date": "2023-11-09 11:58:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-10 12:26:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247572098&idx=2&sn=279b56cc9c8dafc84924096c42ba702e",
@@ -2955,7 +2956,8 @@
         "created_at": "2023-11-07",
         "archive": "gh_b50997668f3b_2023-11-07_2247572098_gvyWOXl4LM.y.tar.gz",
         "censored_date": "2023-11-09 11:58:53",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-10 12:26:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796389666&idx=2&sn=ef6692dac1fa673c47409fb667a1e1d8",
@@ -3268,6 +3270,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247572189&idx=1&sn=30c8897f4a8b9bcb2ae619e1c230d378",
         "title": "成无业游民了！团播女主播“露D”惨被永封？大舅哥联系CG被怒怼：我有图片你看吗！",
+        "title_eng": "Become a vagrant! Group broadcast female anchor Lu D was banned forever? My uncle contacted CG and was angry: I have pictures, do you want to see them?",
         "nickname": "DY趣事",
         "created_at": "2023-11-08",
         "archive": "gh_b50997668f3b_2023-11-08_2247572189_svwfLVREMB.y.tar.gz",
@@ -3277,6 +3280,7 @@
     {
         "url": "mp.weixin.qq.com/s/_G4_ttcznUK4kqBNERN_cA",
         "title": "90后月光族在国外间谍指导下考上公务员，泄密获刑",
+        "title_eng": "A post-90s generation who became a civil servant under the guidance of foreign spies was jailed for leaking secrets",
         "nickname": "光明网",
         "created_at": "2023-11-08",
         "archive": "gh_1f6174881f08_2023-11-08_missing_bPATMLO8Vw.y.tar.gz",
@@ -3286,6 +3290,7 @@
     {
         "url": "mp.weixin.qq.com/s/JimuCNq_HsOxZ3IqzqtyNg",
         "title": "张庆方：我将对内江检察院吴传珍控告到底",
+        "title_eng": "Zhang Qingfang: I will prosecute Wu Chuanzhen from the Neijiang Procuratorate to the end",
         "nickname": "金生3729",
         "created_at": "2023-11-08",
         "archive": "gh_90c277ce1065_2023-11-08_missing_6RMI7nJK9a.y.tar.gz",
@@ -3295,6 +3300,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247542922&idx=1&sn=b87111d75140710177ecc0c745dd8d02",
         "title": "关注！迟夙生律师休庭后突发心脏疾病送医，律所通报：系法警强行扣留所致",
+        "title_eng": "focus on! Lawyer Chi Susheng suffered a heart attack after the court adjourned and was sent to the hospital. The law firm reported that it was caused by the judicial policeâ€™s forced detention.",
         "nickname": "最高办案指南",
         "created_at": "2023-11-07",
         "archive": "gh_21f5b568bfc7_2023-11-07_2247542922_HeB6DrC9lA.y.tar.gz",
@@ -3305,10 +3311,79 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjA3NDQ5Mjc0MQ==&mid=2653111047&idx=6&sn=86b63afc2e9878d50b9917459ba8c7bc",
         "title": "​一年一度双十一，独属于美酒的超值福利来啦",
+        "title_eng": "​The annual Double Eleven, great value benefits unique to wine are here",
         "nickname": "930老友记",
         "created_at": "2023-11-08",
         "archive": "wxid_1982209821011_2023-11-08_2653111047_AoXl4mic56.y.tar.gz",
         "censored_date": "2023-11-10 11:56:05",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499601&idx=1&sn=6feca3b9e4d88c64478f25194eba9797",
+        "title": "为什么很多人走不出“文革”？",
+        "title_eng": "Why can't many people get out of the Cultural Revolution?",
+        "nickname": "历史微时刻",
+        "created_at": "2023-10-25",
+        "archive": "gh_31930173e92d_2023-10-25_2247499601_3r84WUPuhm.y.tar.gz",
+        "censored_date": "2023-11-10 12:29:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-09 15:05:53"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499601&idx=2&sn=6509e5660b8614c9663753358d4f0668",
+        "title": "世道变坏，就是从这件事开始的！",
+        "title_eng": "The deterioration of the world started from this incident!",
+        "nickname": "历史微时刻",
+        "created_at": "2023-10-25",
+        "archive": "gh_31930173e92d_2023-10-25_2247499601_WDrzImBXd1.y.tar.gz",
+        "censored_date": "2023-11-10 12:30:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-09 15:06:41"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499601&idx=4&sn=d4c3f9d49ad8c159ed4132ab197133d7",
+        "title": "美国对寿命重磅研究：只做一件事就能延寿",
+        "nickname": "历史微时刻",
+        "created_at": "2023-10-25",
+        "archive": "gh_31930173e92d_2023-10-25_2247499601_oz80nCe4gE.y.tar.gz",
+        "censored_date": "2023-11-10 12:30:51",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-09 15:07:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247515000&idx=2&sn=71ffd726397e08e5b1636d50363fae37",
+        "title": "最近关于人生，又有了点新感悟",
+        "nickname": "每日乐评",
+        "created_at": "2023-11-08",
+        "archive": "gh_96522be72207_2023-11-08_2247515000_mi8KNoUsBa.y.tar.gz",
+        "censored_date": "2023-11-10 13:05:33",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247514914&idx=2&sn=431a48408db87d594a7e2e55776f0ebc",
+        "title": "清算他们的时候终于到了",
+        "nickname": "每日乐评",
+        "created_at": "2023-11-06",
+        "archive": "gh_96522be72207_2023-11-06_2247514914_9vewd8gIUY.y.tar.gz",
+        "censored_date": "2023-11-10 13:06:45",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200451&idx=3&sn=1fb89412befd8cc4a059e097f5a83be8",
+        "title": "钟南山预测：5年后这种病越来越多！如何应对？",
+        "nickname": "新老人",
+        "created_at": "2023-11-08",
+        "archive": "gh_2ff5d816ea7a_2023-11-08_2651200451_bRBo74fpcZ.y.tar.gz",
+        "censored_date": "2023-11-10 13:08:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247515000&idx=3&sn=45591f0e651a229b0046846ede796ecb",
+        "title": "为什么要努力？这是我见过最现实的回答",
+        "nickname": "每日乐评",
+        "created_at": "2023-11-08",
+        "archive": "gh_96522be72207_2023-11-08_2247515000_BzZWEPfr0I.y.tar.gz",
+        "censored_date": "2023-11-10 13:05:57",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
