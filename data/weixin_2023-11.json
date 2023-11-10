@@ -2778,7 +2778,8 @@
         "created_at": "2023-11-01",
         "archive": "gh_695be352a397_2023-11-01_2247487046_ku7W1wxhtY.y.tar.gz",
         "censored_date": "2023-11-08 16:23:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-10 22:37:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxOTA3NTI1OA==&mid=2652859795&idx=2&sn=fa3d03cc6ac9296b1851e3b097d7e434",
@@ -3048,7 +3049,7 @@
         "archive": "gh_36dfda0fb531_2023-11-03_2247730013_93IR4jLQic.y.tar.gz",
         "censored_date": "2023-11-10 02:41:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-09 09:50:41"
+        "update_date": "2023-11-10 22:49:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NDMxNjQ1Mw==&mid=2247498122&idx=1&sn=00da35a4b5fd849b643ed6bee8bb5ba3",
@@ -3738,10 +3739,22 @@
     {
         "url": "mp.weixin.qq.com/s/8JrI-Ejk2Z2vMwziFO_u8A",
         "title": "实名举报内江纪委书记王渊有案不查包庇四大班子领导",
+        "title_eng": "Report with real name Wang Yuan, Secretary of Neijiang Discipline Inspection Commission, did not investigate the case and shielded the leaders of the four major teams",
         "nickname": "案件现场",
         "created_at": "2023-11-08",
         "archive": "gh_84483d42c857_2023-11-08_missing_v6n5PgILof.y.tar.gz",
         "censored_date": "2023-11-10 21:50:54",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247588070&idx=1&sn=4650f95d384ff6d74e6a315372a32ccb",
+        "title": "最损耗阳气的日子要来了！学会这样“做”，女人面如桃花、男人强肾固精！",
+        "title_eng": "The most depleting day is coming! Learn to do this way, women will look like peach blossoms, and men will strengthen their kidneys and essence!",
+        "nickname": "徐雪芬札记",
+        "created_at": "2023-11-06",
+        "archive": "gh_06140cfad959_2023-11-06_2247588070_pmxCV0BOIr.y.tar.gz",
+        "censored_date": "2023-11-10 22:44:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-08 16:34:38"
     }
 ]
