@@ -2819,7 +2819,7 @@
         "archive": "gh_623c5c12b45e_2023-11-06_2247508874_NlW3H6wd21.y.tar.gz",
         "censored_date": "2023-11-08 19:25:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-10 08:11:36"
+        "update_date": "2023-11-10 19:05:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499612&idx=6&sn=dfba914a7fb803ca741b77e2556c2d76",
@@ -3156,7 +3156,7 @@
         "archive": "gh_623c5c12b45e_2023-11-07_2247508876_eCBMtN1l6m.y.tar.gz",
         "censored_date": "2023-11-10 08:06:12",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 19:24:15"
+        "update_date": "2023-11-10 19:00:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649604794&idx=1&sn=3fbb01aca28671a5669f40c1f9727433",
@@ -3612,6 +3612,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwMjA4NTUyMg==&mid=2247537556&idx=1&sn=a0dfa914761c84a401aa0f9cb4545117",
         "title": "月薪已炒到15万！港府明确官宣：ESG人才来了直接给香港身份！",
+        "title_eng": "The monthly salary has reached 150,000! The Hong Kong government has made it clear and official: ESG talents will be directly given Hong Kong status when they come!",
         "nickname": "调研纪要",
         "created_at": "2023-11-07",
         "archive": "gh_7c3a3226b29f_2023-11-07_2247537556_jcF8aUlnDS.y.tar.gz",
@@ -3632,6 +3633,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653452250&idx=2&sn=5948ba93a323b7295e2c9d3ed03a4e00",
         "title": "家里凌乱的注意啦！急招200人学整理收纳！让家干净又宽敞，顺便get一门副业！",
+        "title_eng": "Pay attention to the messy home! Urgently recruiting 200 people to learn organization and storage! Make your home clean and spacious, and get a side job at the same time!",
         "nickname": "亲子派",
         "created_at": "2023-11-07",
         "archive": "gh_47a9a35a129b_2023-11-07_2653452250_mVleiQFGWu.y.tar.gz",
@@ -3641,11 +3643,42 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247566065&idx=2&sn=ec9e38c5ce06aedb09ebe2a6feaa6781",
         "title": "急需有声配音员：对照文案阅读即可，地点、时间不限，不会可免费培训！",
+        "title_eng": "Voice actors are urgently needed: just read the copy, there is no limit on location and time, and free training will be provided if you are not qualified!",
         "nickname": "京城本地通",
         "created_at": "2023-11-04",
         "archive": "gh_ebabb1e039c3_2023-11-04_2247566065_h0W8CaO279.y.tar.gz",
         "censored_date": "2023-11-10 18:25:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-09 12:25:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796389669&idx=2&sn=ee860e6e42e0308089151b6d4e99effc",
+        "title": "3枚小龙邮票拍卖552万！！！为什么中国人对「龙」独有情钟？",
+        "title_eng": "3 Xiaolong stamps were auctioned for 5.52 million! ! ! Why do Chinese people have a unique love for dragon?",
+        "nickname": "钱生钱",
+        "created_at": "2023-11-07",
+        "archive": "gh_3282d7c3e272_2023-11-07_2796389669_uwgY9fsK1L.y.tar.gz",
+        "censored_date": "2023-11-10 18:49:43",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-09 12:44:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MzU1NTUyNA==&mid=2247506061&idx=5&sn=c485cbbad524b2c0f748ba6052c6e408",
+        "title": "黄维的悲欢与重生：他被特赦后，苦等27年的妻子蔡若曙，却跳入护城河青山的识角 2023-11-07 21:39 发表于湖南 51",
+        "nickname": "秀才读史论公道",
+        "created_at": "2023-11-08",
+        "archive": "gh_454c977ff353_2023-11-08_2247506061_SseOGDaNkX.y.tar.gz",
+        "censored_date": "2023-11-10 18:33:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyNzI3ODU3NA==&mid=2247502553&idx=1&sn=1a198834f52a5b785bf3a569fc51692a",
+        "title": "官宣了，严厉打击一切破坏中美关系的犯罪行为！",
+        "title_eng": "It has been officially announced that we will severely crack down on all criminal activities that undermine Sino-US relations!",
+        "nickname": "黑柳丁",
+        "created_at": "2023-11-08",
+        "archive": "gh_876fc26ca750_2023-11-08_2247502553_2hlpOocIw0.y.tar.gz",
+        "censored_date": "2023-11-10 18:28:15",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
