@@ -3871,7 +3871,8 @@
         "created_at": "2023-11-07",
         "archive": "gh_cee16b0e2dc6_2023-11-07_missing_xhYaITPjmV.y.tar.gz",
         "censored_date": "2023-11-10 23:35:52",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 12:16:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODA4OTIyMA==&mid=2652385638&idx=2&sn=ef9431937728178391055f3b366af2ba",
@@ -3881,7 +3882,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_80330ed4178a_2023-11-08_2652385638_MwTAmnNz5J.y.tar.gz",
         "censored_date": "2023-11-10 23:37:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 12:17:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653135677&idx=1&sn=d8ce06a21bf6f5d055b648f73b98198d",
@@ -4085,5 +4087,15 @@
         "censored_date": "2023-11-11 09:25:59",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-10 00:59:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796389678&idx=2&sn=fd8fbf3046f88f7363fb2bf20c49fd47",
+        "title": "真德绒·真保暖 德国吸湿发热黑科技让你轻松面对寒冬 寒风凛冽轻装上阵",
+        "nickname": "钱生钱",
+        "created_at": "2023-11-08",
+        "archive": "gh_3282d7c3e272_2023-11-08_2796389678_vOm7MgFjH0.y.tar.gz",
+        "censored_date": "2023-11-11 11:35:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-10 19:29:28"
     }
 ]
