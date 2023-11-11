@@ -3196,7 +3196,7 @@
         "archive": "gh_ae36af7e44bd_2023-11-05_2247669543_618kH7MEvn.y.tar.gz",
         "censored_date": "2023-11-10 08:21:43",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-11 00:38:50"
+        "update_date": "2023-11-12 00:44:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247669717&idx=2&sn=c3d0873f380c8884e701a4ccc9d8edf5",
@@ -3229,7 +3229,7 @@
         "archive": "gh_ae36af7e44bd_2023-11-04_2247669318_qmhsupFbAv.y.tar.gz",
         "censored_date": "2023-11-10 08:22:07",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-11 00:39:12"
+        "update_date": "2023-11-12 00:48:56"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650591850&idx=2&sn=fbcb85af0aca48d91656e034e9f07177",
@@ -4388,6 +4388,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247518058&idx=1&sn=44ad127a713628d505fd681ab97d17b7",
         "title": "漂亮女孩惨被斩首，现场图流出",
+        "title_eng": "A beautiful girl was brutally beheaded and pictures of the scene leaked",
         "nickname": "曾经de道哥",
         "created_at": "2023-11-08",
         "archive": "gh_a791b9844790_2023-11-08_2247518058_QjxcfmM8yC.y.tar.gz",
@@ -4408,6 +4409,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200755&idx=1&sn=c52d7919209ad8673fb7fc2ae937e175",
         "title": "近5年致20万人死伤！央视曝其乱象：2023年底起，老人出行将有大变化.....",
+        "title_eng": "200,000 people were killed or injured in the past five years! CCTV exposed the chaos: Starting from the end of 2023, the elderlyâ€™s travel will undergo major changes...",
         "nickname": "新老人",
         "created_at": "2023-11-10",
         "archive": "gh_2ff5d816ea7a_2023-11-10_2651200755_WB0JMgj7eI.y.tar.gz",
@@ -4417,6 +4419,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200755&idx=4&sn=1a2e98830ef070baf99766bd71e8b4de",
         "title": "它是天然 “二甲 双胍”，建议一周吃2次，稳三高 防血栓、结节！早知早受益",
+        "title_eng": "It is a natural â€œmetforminâ€<9d> and is recommended to be taken twice a week to stabilize the three highs and prevent blood clots and nodules! Early knowledge and early benefit",
         "nickname": "新老人",
         "created_at": "2023-11-10",
         "archive": "gh_2ff5d816ea7a_2023-11-10_2651200755_H0NtJE0b8u.y.tar.gz",
@@ -4426,6 +4429,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200755&idx=7&sn=feede07873a636f7efa3bd2749dc86f2",
         "title": "“我们犯的是死罪！”医院院长倒卖此证明，每张96000元？真相细思极恐...",
+        "title_eng": "What we committed is a capital crime! The hospital director resold this certificate for 96,000 yuan each? The truth is horrifying to think about...",
         "nickname": "新老人",
         "created_at": "2023-11-10",
         "archive": "gh_2ff5d816ea7a_2023-11-10_2651200755_TE947xCoLB.y.tar.gz",
@@ -4435,6 +4439,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200755&idx=8&sn=1dfd1dabe479bb9dddcd5de3a670f058",
         "title": "莫言公开评击当前社会怪像，太犀利！",
+        "title_eng": "Mo Yanâ€™s public comment on the current social monstrosity is so sharp!",
         "nickname": "新老人",
         "created_at": "2023-11-10",
         "archive": "gh_2ff5d816ea7a_2023-11-10_2651200755_kBhrUnc2fd.y.tar.gz",
@@ -4444,6 +4449,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247568572&idx=1&sn=77c5b0838d4c3b734f1307e5f9b08fe2",
         "title": "重口味！人死后身体变化过程竟然是这样的……（高能预警）",
+        "title_eng": "Heavy flavor! This is how the body changes after death... (High energy warning)",
         "nickname": "重生道",
         "created_at": "2023-11-08",
         "archive": "gh_efdfc4769f39_2023-11-08_2247568572_nfoKlGrmjT.y.tar.gz",
@@ -4463,10 +4469,38 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxNjQ3MzQ5Mg==&mid=2247499322&idx=3&sn=ac327ec2cffbd4d0c8c06db0ab447b34",
         "title": "第31天：姊妹从以色列传来了好消息",
+        "title_eng": "îˆ™Day 31: Sisters brought good news from Israel",
         "nickname": "爱众人",
         "created_at": "2023-11-08",
         "archive": "gh_0523b3802f64_2023-11-08_2247499322_IY5QLn7N0C.y.tar.gz",
         "censored_date": "2023-11-12 00:03:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247515171&idx=2&sn=b2701ede9dd9683827993b8d1a8c72ad",
+        "title": "90后在间谍指导下考上公务员后泄密获刑",
+        "nickname": "每日乐评",
+        "created_at": "2023-11-10",
+        "archive": "gh_96522be72207_2023-11-10_2247515171_EK5oeCLuXS.y.tar.gz",
+        "censored_date": "2023-11-12 00:47:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/HtbzFJxzfHof7HYbmLiY7A",
+        "title": "改革开放亟需新突破",
+        "nickname": "美味365",
+        "created_at": "2023-11-09",
+        "archive": "gh_ba6085b6aa43_2023-11-09_missing_zJ5WS0NnKT.y.tar.gz",
+        "censored_date": "2023-11-12 00:56:45",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540372&idx=2&sn=2e9308bc15696aee61bd61bacba3d20e",
+        "title": "通知：高考报考指导师开始招募！薪资过万，全职兼职均可！考过推荐就业！",
+        "nickname": "律法帝国",
+        "created_at": "2023-11-10",
+        "archive": "gh_b3c0e9559e02_2023-11-10_2247540372_NfLIJzMDaZ.y.tar.gz",
+        "censored_date": "2023-11-12 01:15:44",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
