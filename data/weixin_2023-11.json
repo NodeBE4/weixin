@@ -3734,7 +3734,7 @@
         "archive": "gh_31930173e92d_2023-10-26_2247499612_IZM12OrSxK.y.tar.gz",
         "censored_date": "2023-11-10 20:02:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 21:52:53"
+        "update_date": "2023-11-11 14:35:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MTUzMzMyNw==&mid=2247586426&idx=2&sn=f1f8bd8161f1e9c6474745cc74707574",
@@ -3744,7 +3744,8 @@
         "created_at": "2023-11-05",
         "archive": "gh_010a43ec3ce7_2023-11-05_2247586426_YjrTsoKvnL.y.tar.gz",
         "censored_date": "2023-11-10 20:38:07",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 15:11:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499612&idx=4&sn=c9d94807fa08d33ee81af6e4c3783f9d",
@@ -3755,7 +3756,7 @@
         "archive": "gh_31930173e92d_2023-10-26_2247499612_dkNCmPOVjK.y.tar.gz",
         "censored_date": "2023-11-10 20:02:28",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 21:53:19"
+        "update_date": "2023-11-11 14:36:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMzMyOTkzOA==&mid=2247484943&idx=1&sn=239b1497d6f5205b9ce6045eae5827b4",
@@ -4175,6 +4176,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247515021&idx=3&sn=9499fc1bae34a02aac2b2551fbde8016",
         "title": "部级高官与女明星的秘史",
+        "title_eng": "The secret history of senior ministerial officials and female celebrities",
         "nickname": "每日乐评",
         "created_at": "2023-11-09",
         "archive": "gh_96522be72207_2023-11-09_2247515021_j0By2xXnQT.y.tar.gz",
@@ -4184,6 +4186,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDM1MTk4NA==&mid=2247548128&idx=3&sn=9c35996470bbb5ebaeb0a6d7ce6e8cc2",
         "title": "施一公祖父度过112岁生日，或成亚洲最年长男寿星，曾任华东师大党委书记",
+        "title_eng": "Grandfather Shi Yigong celebrated his 112th birthday and may have become the oldest male birthday star in Asia. He was the party secretary of East China Normal University.",
         "nickname": "常识流通处",
         "created_at": "2023-11-09",
         "archive": "gh_612917ae95b0_2023-11-09_2247548128_hSoPmCvTL4.y.tar.gz",
@@ -4193,6 +4196,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540330&idx=2&sn=3a390f313d7755c849e3c7efc602bac3",
         "title": "2024《军队文职》公开招考通知：正式编制！大专可报！",
+        "title_eng": "2024 Army Civilian open recruitment notice: Official establishment! Can apply for junior college!",
         "nickname": "律法帝国",
         "created_at": "2023-11-09",
         "archive": "gh_b3c0e9559e02_2023-11-09_2247540330_rvV7mqIpbB.y.tar.gz",
@@ -4213,6 +4217,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NzE1ODI3OQ==&mid=2653580611&idx=2&sn=83d3561b1f1c9dd160e11a1a8b3861fe",
         "title": "相约十四冬｜会徽有何寓意？",
+        "title_eng": "Meet in the Fourteenth Winter | What does the emblem mean?",
         "nickname": "内蒙古日报",
         "created_at": "2023-11-09",
         "archive": "gh_b7047f0cbe74_2023-11-09_2653580611_T0koNxhsVe.y.tar.gz",
@@ -4222,10 +4227,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540173&idx=5&sn=6af2a35edcc319fa152cd9a1d9aa0f4a",
         "title": "女毒贩五次怀孕生子逃避刑罚，其未成年子女该何去何从……",
+        "title_eng": "A female drug dealer evaded punishment by becoming pregnant and giving birth to children five times. What should her underage children do...",
         "nickname": "律法帝国",
         "created_at": "2023-11-04",
         "archive": "gh_b3c0e9559e02_2023-11-04_2247540173_UycNs5kpSu.y.tar.gz",
         "censored_date": "2023-11-11 14:20:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/9WeXB3wwAcxHaws69XMd-g",
+        "title": "财新社论：《改革亟需新突破》",
+        "nickname": "黑猫财金",
+        "created_at": "2023-11-08",
+        "archive": "gh_9360c4b2e1b4_2023-11-08_missing_LKYq3XIQnJ.y.tar.gz",
+        "censored_date": "2023-11-11 14:55:52",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxMDI3OTg1Mw==&mid=2247696473&idx=2&sn=c44e83cc3091f095b861c06ba99e554b",
+        "title": "招募100名配音员，念书即可，简单好做！",
+        "nickname": "志云说",
+        "created_at": "2023-11-09",
+        "archive": "gh_123bef9e7add_2023-11-09_2247696473_bcL01KRZzk.y.tar.gz",
+        "censored_date": "2023-11-11 15:02:03",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
