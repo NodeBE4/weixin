@@ -2790,7 +2790,7 @@
         "archive": "gh_fec2939dbded_2023-11-07_2652859795_ARXc1aBCyW.y.tar.gz",
         "censored_date": "2023-11-08 17:59:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-10 23:58:04"
+        "update_date": "2023-11-11 22:59:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5MDcwMzY4OA==&mid=2247566117&idx=2&sn=ca0b7b0f4cbe042ee0413949b6c51034",
@@ -2801,7 +2801,7 @@
         "archive": "gh_ebabb1e039c3_2023-11-06_2247566117_3XUBgALMO1.y.tar.gz",
         "censored_date": "2023-11-08 18:16:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-10 23:58:27"
+        "update_date": "2023-11-11 23:00:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796389650&idx=2&sn=7cbc101f9d5582647f45eeb5f567d248",
@@ -3909,7 +3909,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_e93e84d0166d_2023-11-08_missing_1xoU7XjDmT.y.tar.gz",
         "censored_date": "2023-11-11 00:23:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 23:16:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651200018&idx=1&sn=bd8bbaeafb3cfce697565b419b5c4c09",
@@ -4371,6 +4372,15 @@
         "created_at": "2023-11-09",
         "archive": "gh_6cf32ecd4dba_2023-11-09_2653135877_SdavCkYBMf.y.tar.gz",
         "censored_date": "2023-11-11 19:41:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUyNzUxNTA4MA==&mid=2247631621&idx=1&sn=c9952c935074b779e220706a45bbb7c5",
+        "title": "罕见！高院在判决中严厉批评交警部门：对车辆性质的认定标准不能统一尺度且如此反复，只能说明执法的随意和粗放！",
+        "nickname": "律法新声",
+        "created_at": "2023-11-09",
+        "archive": "gh_697523b9eb34_2023-11-09_2247631621_MVqSJOlg2c.y.tar.gz",
+        "censored_date": "2023-11-11 22:48:07",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
