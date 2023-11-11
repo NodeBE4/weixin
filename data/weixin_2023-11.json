@@ -3766,7 +3766,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_d3bd55440640_2023-11-08_2247484943_P067xWLzqm.y.tar.gz",
         "censored_date": "2023-11-10 21:12:41",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-11 15:46:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzMzMzMDY5OQ==&mid=2247484846&idx=1&sn=840538ddd56d2377f3d24242cdcdfe20",
@@ -3776,7 +3777,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_a6527d195cd7_2023-11-08_2247484846_vOBR7FYAwZ.y.tar.gz",
         "censored_date": "2023-11-10 20:57:04",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-11 15:30:53"
     },
     {
         "url": "mp.weixin.qq.com/s/8JrI-Ejk2Z2vMwziFO_u8A",
@@ -3928,7 +3930,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_68e6750a2618_2023-11-08_missing_n0kMGc8Khj.y.tar.gz",
         "censored_date": "2023-11-11 00:58:13",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-11 16:10:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2247996994&idx=3&sn=831f7ff1908e747fc923ec691b938797",
@@ -3939,7 +3942,7 @@
         "archive": "gh_08885da058c6_2023-11-07_2247996994_SuEte9CNyL.y.tar.gz",
         "censored_date": "2023-11-11 00:59:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 23:46:36"
+        "update_date": "2023-11-11 16:11:42"
     },
     {
         "url": "mp.weixin.qq.com/s/u2QT2sOhOVo-TmZuLVTgiw",
@@ -3949,7 +3952,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_95b0feda9646_2023-11-08_missing_C2EGMq9hxz.y.tar.gz",
         "censored_date": "2023-11-11 01:00:13",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 16:12:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NzUwMTEzOQ==&mid=2247546731&idx=2&sn=4d8bd213fb03f87412894643a6aaefd6",
@@ -3959,7 +3963,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_71613a2af4eb_2023-11-08_2247546731_h7Q9cFuYP0.y.tar.gz",
         "censored_date": "2023-11-11 01:20:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 15:46:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651199955&idx=1&sn=ed89167a687a75b516c7d44be115230f",
@@ -4002,7 +4007,7 @@
         "archive": "gh_08885da058c6_2023-11-06_2247996778_YT2RaNyGfX.y.tar.gz",
         "censored_date": "2023-11-11 01:38:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 23:47:48"
+        "update_date": "2023-11-11 16:14:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247568022&idx=3&sn=1505037045e23792657c112351d5f3a8",
@@ -4237,6 +4242,7 @@
     {
         "url": "mp.weixin.qq.com/s/9WeXB3wwAcxHaws69XMd-g",
         "title": "财新社论：《改革亟需新突破》",
+        "title_eng": "Caixin editorial: Reform urgently needs new breakthroughs",
         "nickname": "黑猫财金",
         "created_at": "2023-11-08",
         "archive": "gh_9360c4b2e1b4_2023-11-08_missing_LKYq3XIQnJ.y.tar.gz",
@@ -4246,10 +4252,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxMDI3OTg1Mw==&mid=2247696473&idx=2&sn=c44e83cc3091f095b861c06ba99e554b",
         "title": "招募100名配音员，念书即可，简单好做！",
+        "title_eng": "Recruit 100 voice actors, just study, itâ€™s easy and easy to do!",
         "nickname": "志云说",
         "created_at": "2023-11-09",
         "archive": "gh_123bef9e7add_2023-11-09_2247696473_bcL01KRZzk.y.tar.gz",
         "censored_date": "2023-11-11 15:02:03",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0OTI2MzkxMA==&mid=2247801632&idx=3&sn=837f82c50d65f6d54aea975fafbac8fa",
+        "title": "陈少杰失联，斗鱼偏逢连夜雨",
+        "nickname": "金融八卦女频道",
+        "created_at": "2023-11-08",
+        "archive": "gh_4884d6abb87a_2023-11-08_2247801632_ENV0OkgM9D.y.tar.gz",
+        "censored_date": "2023-11-11 15:44:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247643197&idx=2&sn=a33ee57440c4c7f6ab8c1bb132959489",
+        "title": "【双休+正式编制+6险2金】2023军队文职面向社会公开招考，正式编制！大专可报！",
+        "nickname": "第一法商",
+        "created_at": "2023-11-08",
+        "archive": "gh_5980b8ba5607_2023-11-08_2247643197_i5Yox60SvO.y.tar.gz",
+        "censored_date": "2023-11-11 15:39:31",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
