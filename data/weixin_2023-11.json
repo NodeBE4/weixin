@@ -2944,7 +2944,7 @@
         "archive": "gh_21f5b568bfc7_2023-11-03_2247542855_WwI8TZfXAD.y.tar.gz",
         "censored_date": "2023-11-09 12:24:39",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-10 04:49:01"
+        "update_date": "2023-11-12 02:32:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247572098&idx=1&sn=eafcc18e30b40f80f493f2763dffd72b",
@@ -2955,7 +2955,7 @@
         "archive": "gh_b50997668f3b_2023-11-07_2247572098_HNwJlo2zxq.y.tar.gz",
         "censored_date": "2023-11-09 11:58:30",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-10 12:26:21"
+        "update_date": "2023-11-12 02:32:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247572098&idx=2&sn=279b56cc9c8dafc84924096c42ba702e",
@@ -2977,7 +2977,7 @@
         "archive": "gh_3282d7c3e272_2023-11-06_2796389666_8f6ReOcbmB.y.tar.gz",
         "censored_date": "2023-11-09 12:46:55",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 19:00:20"
+        "update_date": "2023-11-12 03:11:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552173&idx=2&sn=68f3fa2b889e97d997fbe42fb5f9c47d",
@@ -4283,7 +4283,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_4884d6abb87a_2023-11-08_2247801632_ENV0OkgM9D.y.tar.gz",
         "censored_date": "2023-11-11 15:44:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-12 02:26:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247643197&idx=2&sn=a33ee57440c4c7f6ab8c1bb132959489",
@@ -4511,6 +4512,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NzUxNDkxOA==&mid=2247521146&idx=1&sn=037942b169929075ef7b5c7793806500",
         "title": "未经批准，擅自施工！漳州一企业被罚68万余元！",
+        "title_eng": "Construction without approval! A Zhangzhou company was fined more than 680,000 yuan!",
         "nickname": "闽南网漳州",
         "created_at": "2023-11-10",
         "archive": "gh_36c36bdef701_2023-11-10_2247521146_I126XZes0j.y.tar.gz",
@@ -4520,6 +4522,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NzQ1ODQwMQ==&mid=2247495688&idx=1&sn=0d31bece489cc5c289a3722388d2f58f",
         "title": "极 度 缺 人：400-800元/天，不用坐班，大量要人，时间自由可日结！",
+        "title_eng": "Extremely short of people: 400-800 yuan/day, no need to work, a lot of people are needed, free time and can be paid on a daily basis!",
         "nickname": "大玉er",
         "created_at": "2023-11-10",
         "archive": "gh_633dfe855db3_2023-11-10_2247495688_UiHmzyrINK.y.tar.gz",
@@ -4539,6 +4542,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552192&idx=2&sn=0c07c5142c2ebbc277d72ed6a8cc3ac7",
         "title": "看了师姐用AI处理数据，我人都傻了！",
+        "title_eng": "After watching my senior sister use AI to process data, I was dumbfounded!",
         "nickname": "口述历史",
         "created_at": "2023-11-09",
         "archive": "gh_f37c9048d287_2023-11-09_2649552192_KUbhMAIrgH.y.tar.gz",
