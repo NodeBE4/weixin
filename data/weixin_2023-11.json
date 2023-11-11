@@ -4204,7 +4204,8 @@
         "created_at": "2023-11-09",
         "archive": "gh_612917ae95b0_2023-11-09_2247548128_hSoPmCvTL4.y.tar.gz",
         "censored_date": "2023-11-11 14:13:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 19:27:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540330&idx=2&sn=3a390f313d7755c849e3c7efc602bac3",
@@ -4214,7 +4215,8 @@
         "created_at": "2023-11-09",
         "archive": "gh_b3c0e9559e02_2023-11-09_2247540330_rvV7mqIpbB.y.tar.gz",
         "censored_date": "2023-11-11 14:16:22",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 19:30:45"
     },
     {
         "url": "mp.weixin.qq.com/s/9IMnBukQFuwkosRy-yP73A",
@@ -4246,7 +4248,8 @@
         "created_at": "2023-11-04",
         "archive": "gh_b3c0e9559e02_2023-11-04_2247540173_UycNs5kpSu.y.tar.gz",
         "censored_date": "2023-11-11 14:20:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 19:34:52"
     },
     {
         "url": "mp.weixin.qq.com/s/9WeXB3wwAcxHaws69XMd-g",
@@ -4256,7 +4259,8 @@
         "created_at": "2023-11-08",
         "archive": "gh_9360c4b2e1b4_2023-11-08_missing_LKYq3XIQnJ.y.tar.gz",
         "censored_date": "2023-11-11 14:55:52",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-11 20:17:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxMDI3OTg1Mw==&mid=2247696473&idx=2&sn=c44e83cc3091f095b861c06ba99e554b",
@@ -4266,7 +4270,8 @@
         "created_at": "2023-11-09",
         "archive": "gh_123bef9e7add_2023-11-09_2247696473_bcL01KRZzk.y.tar.gz",
         "censored_date": "2023-11-11 15:02:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-11 20:24:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0OTI2MzkxMA==&mid=2247801632&idx=3&sn=837f82c50d65f6d54aea975fafbac8fa",
@@ -4301,6 +4306,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwOTc3Nw==&mid=2649910920&idx=1&sn=f07a347adbd72f277cf3a07114699996",
         "title": "碧桂园拖欠律师费，导致一律所资金链断裂？",
+        "title_eng": "Country Garden defaults on legal fees, causing the law firmâ€™s capital chain to break?",
         "nickname": "红鲤鱼的江湖",
         "created_at": "2023-11-09",
         "archive": "gh_016262b0e5ce_2023-11-09_2649910920_hFfKSU9Ds0.y.tar.gz",
@@ -4310,6 +4316,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499639&idx=2&sn=159246629a4d2b1ec45623590cbebc42",
         "title": "摄像头又害人！一段7分钟的不雅视频被曝光，疑似教育工作者",
+        "title_eng": "Cameras are hurting people again! A 7-minute indecent video was exposed, suspected of being an educator",
         "nickname": "历史微时刻",
         "created_at": "2023-11-09",
         "archive": "gh_31930173e92d_2023-11-09_2247499639_WZSpJ0eVvI.y.tar.gz",
@@ -4319,6 +4326,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499612&idx=5&sn=f5c573823bbbf75bf119f2f5846b8313",
         "title": "一个非常严重又紧迫的问题",
+        "title_eng": "A very serious and urgent problem",
         "nickname": "历史微时刻",
         "created_at": "2023-10-26",
         "archive": "gh_31930173e92d_2023-10-26_2247499612_WlqUPyg0no.y.tar.gz",
@@ -4343,6 +4351,26 @@
         "created_at": "2023-11-08",
         "archive": "gh_e93e84d0166d_2023-11-08_2651017769_DdFSQ0R6CI.y.tar.gz",
         "censored_date": "2023-11-11 19:06:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/-vqUSr-WqAAjOGzIRE9zEw",
+        "title": "县政协副主席贾慧就领衔督办的“进一步落实民族幼儿园设立清真餐”提案开展实地调研",
+        "title_eng": "Jia Hui, Vice Chairman of the County CPPCC, conducted on-site research on the proposal to further implement the establishment of halal meals in ethnic kindergartens under the leadership of the Supervisor",
+        "nickname": "固阳县政协",
+        "created_at": "2022-06-23",
+        "archive": "gh_e730f2d5ff6b_2022-06-23_missing_gNtlye6Suw.y.tar.gz",
+        "censored_date": "2023-11-11 20:29:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653135877&idx=2&sn=d228f2ff3eba2266e0524aafb326b9ff",
+        "title": "男子报警称自己遭人逼停殴打致伤，警方：据车牌搜寻未果",
+        "title_eng": "A man called the police and claimed that he was forced to stop, beaten and injured. Police: Search based on license plate failed.",
+        "nickname": "陕西都市快报",
+        "created_at": "2023-11-09",
+        "archive": "gh_6cf32ecd4dba_2023-11-09_2653135877_SdavCkYBMf.y.tar.gz",
+        "censored_date": "2023-11-11 19:41:53",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
