@@ -2834,7 +2834,7 @@
         "archive": "gh_31930173e92d_2023-10-26_2247499612_fnH4pEuq30.y.tar.gz",
         "censored_date": "2023-11-08 21:53:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-09 15:15:02"
+        "update_date": "2023-11-12 03:44:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3ODMwOTc3Nw==&mid=2649910875&idx=2&sn=145bf2a965bf6d357ceab64c2e8f5bd8",
@@ -2988,7 +2988,7 @@
         "archive": "gh_f37c9048d287_2023-11-07_2649552173_fePHJKix9h.y.tar.gz",
         "censored_date": "2023-11-09 14:32:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-08 21:20:56"
+        "update_date": "2023-11-12 03:46:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247517977&idx=1&sn=b019b46b0bae0773cd35b07e750acbef",
@@ -4547,6 +4547,25 @@
         "created_at": "2023-11-09",
         "archive": "gh_f37c9048d287_2023-11-09_2649552192_KUbhMAIrgH.y.tar.gz",
         "censored_date": "2023-11-12 02:17:59",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247588267&idx=2&sn=01ee47c1b806a5f20230fd92b8688889",
+        "title": "摄像头又害人！一段7分钟的不雅视频被曝光，疑似教育工作者",
+        "title_eng": "Cameras are hurting people again! A 7-minute indecent video was exposed, suspected of being an educator",
+        "nickname": "徐雪芬札记",
+        "created_at": "2023-11-10",
+        "archive": "gh_06140cfad959_2023-11-10_2247588267_ZPSDlfuGCE.y.tar.gz",
+        "censored_date": "2023-11-12 03:27:43",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/fqx6njI3vh6lZgDbA4aQZQ",
+        "title": "兰斌强：警惕！敏感时刻有人操弄中美议题造谣是何居心？",
+        "nickname": "中外大视角",
+        "created_at": "2023-11-09",
+        "archive": "gh_9c8c9e489dc7_2023-11-09_missing_MpJP5xULGt.y.tar.gz",
+        "censored_date": "2023-11-12 04:11:50",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
