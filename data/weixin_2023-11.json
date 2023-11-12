@@ -4516,7 +4516,7 @@
         "archive": "gh_ba6085b6aa43_2023-11-09_missing_zJ5WS0NnKT.y.tar.gz",
         "censored_date": "2023-11-12 00:56:45",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-12 13:38:53"
+        "update_date": "2023-11-13 06:23:03"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540372&idx=2&sn=2e9308bc15696aee61bd61bacba3d20e",
@@ -4864,11 +4864,23 @@
     {
         "url": "mp.weixin.qq.com/s/B7J_zpTRlNXgyK2av5JtNA",
         "title": "中国果断采购美大豆：粮食战争！",
+        "title_eng": "China decisively purchases U.S. soybeans: food war!",
         "nickname": "华山穹剑",
         "created_at": "2023-11-09",
         "archive": "gh_55d4526004e0_2023-11-09_missing_78ePonAGIY.y.tar.gz",
         "censored_date": "2023-11-13 04:58:45",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-11-12 16:26:16"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/EuL15DFwpPsHqcG9T82rvQ",
+        "title": "ICCAD 2023魏少军教授官方报告：提升芯片产品竞争力",
+        "title_eng": "ICCAD 2023 Professor Wei Shaojunâ€™s official report: Improving the competitiveness of chip products",
+        "nickname": "ICCAD年会",
+        "created_at": "2023-11-10",
+        "archive": "gh_b04b5978e66f_2023-11-10_missing_avYGWElKf6.y.tar.gz",
+        "censored_date": "2023-11-13 05:22:08",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-12 16:46:42"
     }
 ]
