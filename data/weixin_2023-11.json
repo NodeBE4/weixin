@@ -6000,7 +6000,8 @@
         "created_at": "2023-11-16",
         "archive": "gh_45de294b7642_2023-11-16_2650592735_DvgVKnSfp2.y.tar.gz",
         "censored_date": "2023-11-17 16:57:07",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-19 07:05:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247643830&idx=2&sn=68e6fc09fb197564878983c1d22c4af8",
@@ -6247,6 +6248,7 @@
     {
         "url": "mp.weixin.qq.com/s/S86oEMhOMDo11lhTb1kXzQ",
         "title": "（11.17）a 股 6000 点与男足夺冠",
+        "title_eng": "(11.17) A-shares hit 6,000 points and the menâ€™s football team won the championship",
         "nickname": "安纳克里昂",
         "created_at": "2023-11-17",
         "archive": "gh_6be66a8ae82d_2023-11-17_missing_tlLNReAzSi.y.tar.gz",
@@ -6266,10 +6268,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247643958&idx=2&sn=895b11941537c1f2b007f688ec358490",
         "title": "军队文职全国公开招录【国家编制+6险2金】工作人员公告！",
+        "title_eng": "National open recruitment for military civilian personnel [national establishment, 6 insurances and 2 gold] staff announcement!",
         "nickname": "第一法商",
         "created_at": "2023-11-16",
         "archive": "gh_5980b8ba5607_2023-11-16_2247643958_cG20aSvphi.y.tar.gz",
         "censored_date": "2023-11-19 05:30:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDcxNDYxOQ==&mid=2650305129&idx=2&sn=d11661c679c2f46e854b6bdafe7a661a",
+        "title": "“生殖器上涂抹风油精、辣椒水”海南重犯王仕高自述刑讯逼供细节",
+        "nickname": "宾曰语云",
+        "created_at": "2023-11-16",
+        "archive": "gh_b61bafb1cb59_2023-11-16_2650305129_Y5KIpyFstX.y.tar.gz",
+        "censored_date": "2023-11-19 07:03:33",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-17 17:17:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/LLRshalCvDMMcuRuCsOPig",
+        "title": "联盛荣誉 | 江苏省刑事诉讼法学会年会，联盛律师四篇论文获奖",
+        "nickname": "江苏联盛律师事务所",
+        "created_at": "2023-11-17",
+        "archive": "gh_3aef883ad3da_2023-11-17_missing_Vxmzu2vIn0.y.tar.gz",
+        "censored_date": "2023-11-19 07:12:53",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
