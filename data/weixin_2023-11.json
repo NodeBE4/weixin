@@ -6227,10 +6227,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5Njc3NDQ0Mg==&mid=2667127489&idx=1&sn=376ef4fb0b205fe26344983476369230",
         "title": "这张照片提示了什么",
+        "title_eng": "What does this photo suggest?",
         "nickname": "肖仲华开讲",
         "created_at": "2023-11-17",
         "archive": "gh_b0c6552453ce_2023-11-17_2667127489_JNi4kRtWEP.y.tar.gz",
         "censored_date": "2023-11-19 04:03:15",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743648&idx=2&sn=60daf1223a54df3875b6ef92e34e45c2",
+        "title": "招募100名读书爱好者，给书籍内容录音即可，不用露脸，居家办公",
+        "nickname": "志愿云",
+        "created_at": "2023-11-17",
+        "archive": "gh_63cc4b4ef76d_2023-11-17_2247743648_zq1xyVjOUD.y.tar.gz",
+        "censored_date": "2023-11-19 05:14:20",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
