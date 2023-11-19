@@ -6187,7 +6187,7 @@
         "archive": "gh_88e9499896f5_2023-11-15_2247518059_sub2WVvGah.y.tar.gz",
         "censored_date": "2023-11-19 02:46:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-17 16:43:51"
+        "update_date": "2023-11-19 16:23:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653186852&idx=2&sn=bb1c439720a7328f590e0d51842fcfb5",
@@ -6258,7 +6258,8 @@
         "created_at": "2023-11-17",
         "archive": "gh_6be66a8ae82d_2023-11-17_missing_tlLNReAzSi.y.tar.gz",
         "censored_date": "2023-11-19 05:54:47",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-19 15:21:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247644062&idx=1&sn=a1f1587e011aa79c1ee5e9bc8d7bb060",
@@ -6312,5 +6313,26 @@
         "archive": "gh_6993bbbb98a6_2023-11-17_missing_5COsAIzbXV.y.tar.gz",
         "censored_date": "2023-11-19 09:04:18",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543211&idx=2&sn=fe9fbecf091a683b6a7a4c780e2ddd64",
+        "title": "突然宣布：法律工作者何去何从？",
+        "title_eng": "Sudden announcement: Where will legal workers go?",
+        "nickname": "最高办案指南",
+        "created_at": "2023-11-17",
+        "archive": "gh_21f5b568bfc7_2023-11-17_2247543211_YItOGE05yT.y.tar.gz",
+        "censored_date": "2023-11-19 15:28:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-19 02:23:49"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543203&idx=2&sn=a3456481496c4973edf1671fe8d7a092",
+        "title": "定了！刚刚宣布：全体法律人员彻底沸腾了！11月16日开始实行！！",
+        "nickname": "最高办案指南",
+        "created_at": "2023-11-16",
+        "archive": "gh_21f5b568bfc7_2023-11-16_2247543203_EHviwnFTh0.y.tar.gz",
+        "censored_date": "2023-11-19 15:30:17",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-19 02:25:54"
     }
 ]
