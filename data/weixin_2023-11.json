@@ -6363,7 +6363,8 @@
         "created_at": "2023-11-17",
         "archive": "gh_8dc27948cd71_2023-11-17_missing_kjYTOp54US.y.tar.gz",
         "censored_date": "2023-11-19 22:43:16",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-20 18:04:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650593058&idx=2&sn=c6b36fefad84b2c5eea0ea7469a0592b",
@@ -6373,7 +6374,8 @@
         "created_at": "2023-11-18",
         "archive": "gh_45de294b7642_2023-11-18_2650593058_jDo6n0cQ5A.y.tar.gz",
         "censored_date": "2023-11-19 22:26:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-20 17:47:33"
     },
     {
         "url": "mp.weixin.qq.com/s/N4zDasBuHnpPhueeAdcynA",
@@ -6471,6 +6473,7 @@
     {
         "url": "mp.weixin.qq.com/s/OeIqj3EJJsZ3IT4BuEhh5w",
         "title": "时间定了！即将下调",
+        "title_eng": "The time is set! Will be lowered soon",
         "nickname": "龙岩发布",
         "created_at": "2023-11-19",
         "archive": "gh_5f4bf87ff9f4_2023-11-19_missing_o4pRU3Sc62.y.tar.gz",
