@@ -6470,7 +6470,8 @@
         "created_at": "2023-11-19",
         "archive": "gh_8228ae303829_2023-11-19_missing_lLfdo2TGBe.y.tar.gz",
         "censored_date": "2023-11-20 15:42:17",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-21 05:53:57"
     },
     {
         "url": "mp.weixin.qq.com/s/OeIqj3EJJsZ3IT4BuEhh5w",
@@ -6512,5 +6513,25 @@
         "archive": "gh_50a2024b5eab_2023-11-19_2247491361_7640IdgGUT.y.tar.gz",
         "censored_date": "2023-11-20 22:28:31",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607735&idx=2&sn=744de7fc214476d1f3fe40fbcba6ca51",
+        "title": "恭喜！刚刚正式发布：拼多多电商运营公开招募，不限经验，男女可报！",
+        "nickname": "她言他语",
+        "created_at": "2023-11-17",
+        "archive": "gh_ec6dcd28a470_2023-11-17_2651607735_9pJPcnyVvb.y.tar.gz",
+        "censored_date": "2023-11-21 06:25:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-20 10:34:24"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546506&idx=1&sn=333af074fc25135756dd64bed216a2cc",
+        "title": "这个可以说吗？",
+        "title_eng": "Can this be said?",
+        "nickname": "中产先生",
+        "created_at": "2023-11-19",
+        "archive": "gh_3defe3adf3fd_2023-11-19_2247546506_jZuvzYBm1P.y.tar.gz",
+        "censored_date": "2023-11-21 05:24:19",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
