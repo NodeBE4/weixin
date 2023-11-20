@@ -6309,7 +6309,7 @@
         "archive": "gh_3aef883ad3da_2023-11-17_missing_Vxmzu2vIn0.y.tar.gz",
         "censored_date": "2023-11-19 07:12:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-19 17:21:10"
+        "update_date": "2023-11-20 13:27:58"
     },
     {
         "url": "mp.weixin.qq.com/s/EoWE_9erX6OjzhAHooRKeQ",
@@ -6320,7 +6320,7 @@
         "archive": "gh_6993bbbb98a6_2023-11-17_missing_5COsAIzbXV.y.tar.gz",
         "censored_date": "2023-11-19 09:04:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-19 21:38:45"
+        "update_date": "2023-11-20 14:02:01"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543211&idx=2&sn=fe9fbecf091a683b6a7a4c780e2ddd64",
@@ -6431,10 +6431,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247505740&idx=1&sn=fe914891610c4622488d7e5f01f59014&",
         "title": "中国必将统一，回来还会继续磨刀",
+        "title_eng": "China will surely be reunified, and we will continue to sharpen our swords when we return.",
         "nickname": "昆羽继圣",
         "created_at": "2023-11-17",
         "archive": "gh_096550e8717a_2023-11-17_2247505740_ebhNQ1fEtS.y.tar.gz",
         "censored_date": "2023-11-20 12:55:50",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/TS1FfotBOiYbShejCptS1Q",
+        "title": "亦忱｜对伊斯兰教千年没有进步的历史一无所知的人，不具备谈论哈以战争的基础文明知识",
+        "nickname": "亦忱看世界",
+        "created_at": "2023-11-19",
+        "archive": "gh_ac4e58cd2f22_2023-11-19_missing_GtPLVOMHRp.y.tar.gz",
+        "censored_date": "2023-11-20 14:13:13",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
