@@ -6496,7 +6496,7 @@
         "archive": "gh_09e16dd1fc6d_2023-11-18_missing_c5NS9Pji0V.y.tar.gz",
         "censored_date": "2023-11-20 18:31:01",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-22 01:06:26"
+        "update_date": "2023-11-22 04:28:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653137133&idx=2&sn=2d54703bf058679be78a02cc9806ad67",
@@ -6507,7 +6507,7 @@
         "archive": "gh_6cf32ecd4dba_2023-11-18_2653137133_9wIQmi5LKq.y.tar.gz",
         "censored_date": "2023-11-20 21:03:15",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-20 01:56:37"
+        "update_date": "2023-11-22 05:04:29"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQyNjU1Mg==&mid=2247491361&idx=1&sn=ce9702c70a49f089eccdc716c1a7f261",
@@ -6897,10 +6897,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796389786&idx=2&sn=6de92c2f06a5f976bee240dd74332c48",
         "title": "明朝首辅张居正的权术一生！（豆瓣9.2）",
+        "title_eng": "The political life of Zhang Juzheng, the chief minister of the Ming Dynasty! (Douban 9.2)",
         "nickname": "钱生钱",
         "created_at": "2023-11-18",
         "archive": "gh_3282d7c3e272_2023-11-18_2796389786_qDnm0F9w0j.y.tar.gz",
         "censored_date": "2023-11-22 04:06:53",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI0NjUxMzkzMg==&mid=2247602746&idx=2&sn=f18e136519ef4dd7a60266d34f8088e0",
+        "title": "抗生素的合理使用（曹彬教授）",
+        "nickname": "离床医学",
+        "created_at": "2023-11-20",
+        "archive": "gh_3eec121f48b8_2023-11-20_2247602746_EdcA0g1JB0.y.tar.gz",
+        "censored_date": "2023-11-22 04:33:19",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-21 10:58:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247573605&idx=3&sn=3a5c2a7d8f7ea141952a1e48147b7391",
+        "title": "“小视频中哪个女主播最黑”！众主播畅玩真心话！明知严打依然尺度拉满！",
+        "nickname": "DY趣事",
+        "created_at": "2023-11-21",
+        "archive": "gh_b50997668f3b_2023-11-21_2247573605_nb1P0yNhwe.y.tar.gz",
+        "censored_date": "2023-11-22 04:52:32",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
