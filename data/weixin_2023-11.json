@@ -6481,7 +6481,8 @@
         "created_at": "2023-11-19",
         "archive": "gh_5f4bf87ff9f4_2023-11-19_missing_o4pRU3Sc62.y.tar.gz",
         "censored_date": "2023-11-20 16:48:45",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-21 10:09:20"
     },
     {
         "url": "mp.weixin.qq.com/s/HBCmruJtv5uaDFcX2BkCnA",
@@ -6535,5 +6536,16 @@
         "archive": "gh_3defe3adf3fd_2023-11-19_2247546506_jZuvzYBm1P.y.tar.gz",
         "censored_date": "2023-11-21 05:24:19",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247503017&idx=1&sn=9abb0505f6abd792fe081fceae5ba77b",
+        "title": "今天，我只想喝点酒，说点掏心窝子的话！",
+        "title_eng": "Today, I just want to drink some wine and say something that touches my heart!",
+        "nickname": "麟阁经略",
+        "created_at": "2023-11-16",
+        "archive": "gh_5771ce1bec7d_2023-11-16_2247503017_BlIDdQA2n6.y.tar.gz",
+        "censored_date": "2023-11-21 10:10:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-20 17:10:51"
     }
 ]
