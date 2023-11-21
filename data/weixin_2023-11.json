@@ -6856,6 +6856,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552344&idx=2&sn=757b9509f56b8289df49aadd727227b1",
         "title": "出版社订单被取消，一大批正版童书急需脱手，超低价清仓！",
+        "title_eng": "Orders from the publishing house have been cancelled, and a large number of genuine children's books are in urgent need of sale. They are being cleared at super low prices!",
         "nickname": "口述历史",
         "created_at": "2023-11-20",
         "archive": "gh_f37c9048d287_2023-11-20_2649552344_qJIXn7ygBr.y.tar.gz",
@@ -6865,11 +6866,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650593079&idx=1&sn=4e97c52930463cfd44645fea84326d0d",
         "title": "男性最“耗阳”行为，烟酒未上榜，排第一的，多数人不重视！",
+        "title_eng": "Among the most yang-consuming behaviors for men, smoking and drinking are not on the list. It ranks first, but most people don't pay attention to it!",
         "nickname": "南师国学堂",
         "created_at": "2023-11-19",
         "archive": "gh_45de294b7642_2023-11-19_2650593079_KfEeFZu5Ld.y.tar.gz",
         "censored_date": "2023-11-22 02:16:58",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-21 08:53:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540637&idx=1&sn=ded38e9ec54f1e7eb540c4546cc7e561",
+        "title": "空姐在机舱内拍不雅照被开除，法院判决：公司没错！（全文）",
+        "title_eng": "A flight attendant was fired for taking indecent photos in the cabin. The court ruled: The company was not wrong! (full text)",
+        "nickname": "律法帝国",
+        "created_at": "2023-11-19",
+        "archive": "gh_b3c0e9559e02_2023-11-19_2247540637_MTWLCtGsIO.y.tar.gz",
+        "censored_date": "2023-11-22 02:29:57",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540605&idx=1&sn=2483cd751b56c1fe027b9fbe8f9b297c",
+        "title": "故意按摩让女生“产生欲望”后发生关系，算性侵吗？",
+        "nickname": "律法帝国",
+        "created_at": "2023-11-17",
+        "archive": "gh_b3c0e9559e02_2023-11-17_2247540605_aW6NHibYF9.y.tar.gz",
+        "censored_date": "2023-11-22 02:35:27",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
