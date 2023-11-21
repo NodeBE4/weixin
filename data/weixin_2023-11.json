@@ -6440,7 +6440,8 @@
         "created_at": "2023-11-17",
         "archive": "gh_096550e8717a_2023-11-17_2247505740_ebhNQ1fEtS.y.tar.gz",
         "censored_date": "2023-11-20 12:55:50",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-21 15:23:38"
     },
     {
         "url": "mp.weixin.qq.com/s/TS1FfotBOiYbShejCptS1Q",
@@ -6450,7 +6451,8 @@
         "created_at": "2023-11-19",
         "archive": "gh_ac4e58cd2f22_2023-11-19_missing_GtPLVOMHRp.y.tar.gz",
         "censored_date": "2023-11-20 14:13:13",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-21 15:57:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247546501&idx=2&sn=ab27f36a9f6008213937c21d86a5c7f8",
@@ -6460,7 +6462,8 @@
         "created_at": "2023-11-18",
         "archive": "gh_3defe3adf3fd_2023-11-18_2247546501_cDgFPysdwB.y.tar.gz",
         "censored_date": "2023-11-20 14:39:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-21 16:20:20"
     },
     {
         "url": "mp.weixin.qq.com/s/UUVPJEVj1IAbl9ghunSPcA",
@@ -6596,6 +6599,15 @@
         "created_at": "2023-11-19",
         "archive": "gh_a791b9844790_2023-11-19_2247518615_MDHzw9vW68.y.tar.gz",
         "censored_date": "2023-11-21 13:28:16",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570672&idx=2&sn=f60aed16f6586c0dfa632cbb80023c0f",
+        "title": "律师的苦楚：这年头，不是家里穷，谁还出来当律师？",
+        "nickname": "律法读报",
+        "created_at": "2023-11-17",
+        "archive": "gh_cbe49e48bd1e_2023-11-17_2247570672_dajUO7KtLu.y.tar.gz",
+        "censored_date": "2023-11-21 15:47:05",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
