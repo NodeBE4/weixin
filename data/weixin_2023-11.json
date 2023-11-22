@@ -6605,7 +6605,7 @@
         "archive": "gh_a791b9844790_2023-11-19_2247518615_MDHzw9vW68.y.tar.gz",
         "censored_date": "2023-11-21 13:28:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-22 07:09:40"
+        "update_date": "2023-11-23 06:17:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247570672&idx=2&sn=f60aed16f6586c0dfa632cbb80023c0f",
@@ -6857,7 +6857,8 @@
         "created_at": "2023-11-19",
         "archive": "gh_e30bd75447bd_2023-11-19_missing_wZhdsbGoVH.y.tar.gz",
         "censored_date": "2023-11-21 21:57:19",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-23 05:31:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NTQ2NDI3MQ==&mid=2247490984&idx=1&sn=cea29a2688e60b60e3b1c70cab37df92",
@@ -6967,7 +6968,7 @@
         "archive": "gh_a791b9844790_2023-11-20_2247518652_K50sn2czmL.y.tar.gz",
         "censored_date": "2023-11-22 07:05:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-21 13:25:24"
+        "update_date": "2023-11-23 06:14:06"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247733191&idx=3&sn=2d7162a2ff4311d1624ebb3daf842fb8",
@@ -7174,10 +7175,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5NzYyMjYyMw==&mid=2247498354&idx=1&sn=a858e9f16a1bc80e6f9684ef03e28b5b",
         "title": "桐城一派｜让子弹飞一会儿：海宁某街道的瓜，半生不熟",
+        "title_eng": "Tongcheng Groupï½œLet the bullets fly for a while: The melons in a street in Haining are half-cooked",
         "nickname": "桐城一派",
         "created_at": "2023-11-21",
         "archive": "gh_e8247942eec4_2023-11-21_2247498354_E5zdbxaC7P.y.tar.gz",
         "censored_date": "2023-11-23 05:09:19",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MjExNDA3MA==&mid=2247500522&idx=1&sn=f5f3a47755bfbcb0b51f622245c9ce09",
+        "title": "忘了？无人性以色列还欠我们12笔债！",
+        "title_eng": "forget? Inhumane Israel still owes us 12 debts!",
+        "nickname": "忠评",
+        "created_at": "2023-11-19",
+        "archive": "gh_18dde84dca20_2023-11-19_2247500522_g2WdK9OhpC.y.tar.gz",
+        "censored_date": "2023-11-23 05:27:05",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-21 22:19:27"
     }
 ]
