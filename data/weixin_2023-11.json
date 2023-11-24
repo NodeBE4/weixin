@@ -7266,7 +7266,7 @@
         "archive": "gh_123bef9e7add_2023-11-21_2247696745_saD7HEqLkg.y.tar.gz",
         "censored_date": "2023-11-23 08:11:19",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-23 19:38:52"
+        "update_date": "2023-11-24 23:59:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743711&idx=2&sn=c01cf117f843c87dbc7b0ed43aea57cf",
@@ -7288,7 +7288,7 @@
         "archive": "gh_a791b9844790_2023-11-16_2247518550_VuRF8KEdfq.y.tar.gz",
         "censored_date": "2023-11-23 08:47:11",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-23 20:29:48"
+        "update_date": "2023-11-25 00:15:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247628394&idx=2&sn=068f3694dfd13321c4f2a94375e2e9a3",
@@ -7732,6 +7732,15 @@
         "created_at": "2023-11-21",
         "archive": "gh_c84e84cd2e79_2023-11-21_2652907720_4Nr89JqitK.y.tar.gz",
         "censored_date": "2023-11-24 22:06:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247518719&idx=1&sn=ff8d8e3ea4e84398e3f4404e854f27f6",
+        "title": "胆 小 慎 入",
+        "nickname": "曾经de道哥",
+        "created_at": "2023-11-23",
+        "archive": "gh_a791b9844790_2023-11-23_2247518719_SiLpyXVlqs.y.tar.gz",
+        "censored_date": "2023-11-24 23:47:34",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
