@@ -7276,7 +7276,8 @@
         "created_at": "2023-11-21",
         "archive": "gh_63cc4b4ef76d_2023-11-21_2247743711_bYxt2eLprV.y.tar.gz",
         "censored_date": "2023-11-23 08:21:01",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-24 18:47:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247518550&idx=2&sn=4ab5d046ce4b3936ef3fc3cbb0dfa7c1",
@@ -7685,11 +7686,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5ODA2NTY0MQ==&mid=2247505240&idx=2&sn=2284b751b37023d5d223d0acecf47750",
         "title": "弄死阿哲全家！玄律群曝光！分B不少，阿哲撕X全心悦主播，谁没给签约费？",
+        "title_eng": "Kill Azheâ€™s whole family! The Xuanlu Group is exposed! There are a lot of points, A Zhe is torn to host Quan Xinyue, who didnâ€™t pay the signing fee?",
         "nickname": "灰虎传媒公司",
         "created_at": "2023-11-23",
         "archive": "gh_d5fd74b9d1db_2023-11-23_2247505240_eQw2I0tbsC.y.tar.gz",
         "censored_date": "2023-11-24 18:14:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-24 11:53:40"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/kKtXkNX7bplf0G22PAKM0A",
+        "title": "画面曝光！15岁女孩KTV陪酒坠楼重伤，更多详情",
+        "nickname": "南方都市报",
+        "created_at": "2023-11-23",
+        "archive": "wxid_4783107810411_2023-11-23_missing_zS5wKs0Od0.y.tar.gz",
+        "censored_date": "2023-11-24 19:05:36",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
