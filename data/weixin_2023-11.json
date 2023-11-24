@@ -7112,7 +7112,7 @@
         "archive": "gh_372ae2bb1547_2023-11-21_2247496446_hPouVb50Mr.y.tar.gz",
         "censored_date": "2023-11-23 01:35:30",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-24 11:58:14"
+        "update_date": "2023-11-24 18:26:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDY2NTA2NA==&mid=2652315442&idx=1&sn=728594fdb27e6c6f26d1b6944c4ad19c",
@@ -7638,7 +7638,8 @@
         "created_at": "2023-11-21",
         "archive": "gh_cbe49e48bd1e_2023-11-21_2247570901_a25f7HRDsX.y.tar.gz",
         "censored_date": "2023-11-24 12:51:02",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-24 16:34:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDgzOTkzMg==&mid=2652401251&idx=1&sn=2bc90a597531f9f311164a8234708eea&",
@@ -7673,11 +7674,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247776854&idx=1&sn=6deb35d3156881a20889e61bbe56c41b",
         "title": "海清最新回应！",
+        "title_eng": "Haiqingâ€™s latest response!",
         "nickname": "红星新闻",
         "created_at": "2023-11-22",
         "archive": "gh_1ede6c42db01_2023-11-22_2247776854_0mvGIUY1D2.y.tar.gz",
         "censored_date": "2023-11-24 16:22:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-24 08:21:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5ODA2NTY0MQ==&mid=2247505240&idx=2&sn=2284b751b37023d5d223d0acecf47750",
+        "title": "弄死阿哲全家！玄律群曝光！分B不少，阿哲撕X全心悦主播，谁没给签约费？",
+        "nickname": "灰虎传媒公司",
+        "created_at": "2023-11-23",
+        "archive": "gh_d5fd74b9d1db_2023-11-23_2247505240_eQw2I0tbsC.y.tar.gz",
+        "censored_date": "2023-11-24 18:14:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-24 11:53:40"
     }
 ]
