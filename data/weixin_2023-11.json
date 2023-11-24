@@ -7643,6 +7643,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MDgzOTkzMg==&mid=2652401251&idx=1&sn=2bc90a597531f9f311164a8234708eea&",
         "title": "明为：关于应对当前经济形势之我见",
+        "title_eng": "Mingwei: My views on coping with the current economic situation",
         "nickname": "昆仑策研究院",
         "created_at": "2023-11-23",
         "archive": "gh_46a6fab64569_2023-11-23_2652401251_l8yi6cBbfr.y.tar.gz",
@@ -7662,10 +7663,21 @@
     {
         "url": "mp.weixin.qq.com/s/s-EH2ydVkeqe08AdQNpTOQ",
         "title": "罪大恶极！假和尚诱奸14名女弟子，3名未成年！",
+        "title_eng": "What a heinous crime! Fake monk seduced 14 female disciples, 3 of whom were minors!",
         "nickname": "燕梳楼",
         "created_at": "2023-11-22",
         "archive": "gh_6e45327b3e42_2023-11-22_missing_xwGh7zFalt.y.tar.gz",
         "censored_date": "2023-11-24 14:38:33",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247776854&idx=1&sn=6deb35d3156881a20889e61bbe56c41b",
+        "title": "海清最新回应！",
+        "nickname": "红星新闻",
+        "created_at": "2023-11-22",
+        "archive": "gh_1ede6c42db01_2023-11-22_2247776854_0mvGIUY1D2.y.tar.gz",
+        "censored_date": "2023-11-24 16:22:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-24 08:21:45"
     }
 ]
