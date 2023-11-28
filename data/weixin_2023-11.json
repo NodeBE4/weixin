@@ -7959,7 +7959,7 @@
         "archive": "gh_86c47c8343b7_2023-11-26_missing_MmYza18XNx.y.tar.gz",
         "censored_date": "2023-11-27 15:19:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-28 05:33:38"
+        "update_date": "2023-11-29 02:57:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247743869&idx=2&sn=6e928d84ea33ff1ebeab70a3bb9aa3ee",
@@ -7981,7 +7981,7 @@
         "archive": "gh_e662a619c304_2023-11-26_missing_Kn5YfFuayI.y.tar.gz",
         "censored_date": "2023-11-28 06:13:34",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-27 11:01:46"
+        "update_date": "2023-11-29 03:14:06"
     },
     {
         "url": "mp.weixin.qq.com/s/rICywLEA6qcN4ZodZfjGgw",
@@ -7992,7 +7992,7 @@
         "archive": "gh_f606cf77d808_2023-11-26_missing_4SIe3vRqzD.y.tar.gz",
         "censored_date": "2023-11-28 06:14:49",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-27 11:03:28"
+        "update_date": "2023-11-29 03:12:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247574205&idx=7&sn=a57227a2e165b2d6954e4ce165ef48ac",
@@ -8207,10 +8207,21 @@
     {
         "url": "mp.weixin.qq.com/s/6WXV1USZWQjuCX-jD3gjlw",
         "title": "LH",
+        "title_eng": "LH",
         "nickname": "ylzhang01",
         "created_at": "2020-10-20",
         "archive": "gh_220ed06a54da_2020-10-20_missing_h3HpXcqfo9.y.tar.gz",
         "censored_date": "2023-11-29 02:03:02",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/_8EM-BQe92rm6t5mGrYbtg",
+        "title": "江西女子索要68万彩礼，婚后8年一直还债，得知父母没还礼后崩溃",
+        "nickname": "友票管家",
+        "created_at": "2023-11-25",
+        "archive": "gh_0e550dff108c_2023-11-25_missing_jqa7GYnd6C.y.tar.gz",
+        "censored_date": "2023-11-29 02:39:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-28 04:29:40"
     }
 ]
