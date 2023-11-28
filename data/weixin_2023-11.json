@@ -8076,6 +8076,7 @@
     {
         "url": "mp.weixin.qq.com/s/EE0yQL9Aj9Y-lX3ZK7Y8Ow",
         "title": "“三年困难时期”总死亡人数才三千万，何来“饿死三千万”？",
+        "title_eng": "The total number of deaths during the Three Difficult Periods was only 30 million. How could 30 million people starve to death?",
         "nickname": "红友新发现",
         "created_at": "2023-11-26",
         "archive": "gh_f62fa6fbd680_2023-11-26_missing_dXnNkbavtD.y.tar.gz",
@@ -8085,10 +8086,30 @@
     {
         "url": "mp.weixin.qq.com/s/OiUBb2NjQwAyMMpogedomA",
         "title": "“亩产万斤粮”到底是谁在鼓吹？",
+        "title_eng": "Who is advocating 10,000 kilograms of grain per acre?",
         "nickname": "红友新发现",
         "created_at": "2023-11-24",
         "archive": "gh_f62fa6fbd680_2023-11-24_missing_FDhLuv00kJ.y.tar.gz",
         "censored_date": "2023-11-28 17:18:27",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/A9xfGD7lA5xzcn54t2Z_VQ",
+        "title": "美方专家：中国别再执迷不悟，如果继续研发芯片，将遭遇经济危机",
+        "title_eng": "US experts: China should stop being stubborn. If it continues to develop chips, it will encounter an economic crisis",
+        "nickname": "红友新发现",
+        "created_at": "2023-11-25",
+        "archive": "gh_f62fa6fbd680_2023-11-25_missing_Hbe53i4jGs.y.tar.gz",
+        "censored_date": "2023-11-28 17:24:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247550450&idx=2&sn=21b2a1d24304c88b8214a070f8ab67d6",
+        "title": "西安惊现江歌案2.0版，离谱案情曝光：快！找出藏在你身边的「伥鬼」",
+        "nickname": "贝菈小姐",
+        "created_at": "2023-11-17",
+        "archive": "gh_a9c6a20e4f84_2023-11-17_2247550450_3FcwnVkDL8.y.tar.gz",
+        "censored_date": "2023-11-28 17:59:37",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
