@@ -8022,7 +8022,8 @@
         "created_at": "2023-11-23",
         "archive": "gh_06140cfad959_2023-11-23_2247588703_kzfp6yQ4SC.y.tar.gz",
         "censored_date": "2023-11-28 11:51:27",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-29 08:22:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247588703&idx=4&sn=d93ed4d8eb35d8d9baa6daa959d49aa9",
@@ -8032,7 +8033,8 @@
         "created_at": "2023-11-23",
         "archive": "gh_06140cfad959_2023-11-23_2247588703_aG3UOwHz6y.y.tar.gz",
         "censored_date": "2023-11-28 11:52:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-29 08:19:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247572298&idx=1&sn=74b0be7b9a985d4565d19af48dd83c51",
@@ -8282,6 +8284,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607763&idx=2&sn=ff6adcf3617c2a3f6ae7f8328b35638e",
         "title": "急需有声配音员：照着文本读即可，极度缺人，可居家办公",
+        "title_eng": "Voice actors are urgently needed: Just read the text, there is an extreme shortage of voice actors, and you can work from home",
         "nickname": "她言他语",
         "created_at": "2023-11-25",
         "archive": "gh_ec6dcd28a470_2023-11-25_2651607763_MwoBeRd98b.y.tar.gz",
@@ -8292,6 +8295,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607770&idx=2&sn=438aed7f245ee953e025e5e91a919668",
         "title": "时间自由，女大学生赚钱秘诀曝光：拼多多副业新模式千万要把握住！",
+        "title_eng": "Free time, female college studentsâ€™ secrets of making money are exposed: Pinduoduoâ€™s new side business model must be grasped!",
         "nickname": "她言他语",
         "created_at": "2023-11-27",
         "archive": "gh_ec6dcd28a470_2023-11-27_2651607770_ETJ9yhNWfd.y.tar.gz",
@@ -8302,10 +8306,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NTQ2NDI3MQ==&mid=2247490997&idx=1&sn=66ef757a5d565d15fef4931651d2d1c9",
         "title": "“燃灯校长”张桂梅，差点被他们毁了...",
+        "title_eng": "Principal Ran Deng Zhang Guimei was almost destroyed by them...",
         "nickname": "预辅导",
         "created_at": "2023-11-27",
         "archive": "gh_9e3e3c116c60_2023-11-27_2247490997_87WJurOfV9.y.tar.gz",
         "censored_date": "2023-11-29 06:59:58",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/ag4pk6sjV64ALKm8dTwwGQ",
+        "title": "鸦片战争以来跟侵略者较量唯一成功的就是毛泽东和毛泽东思想",
+        "title_eng": "Since the Opium War, the only thing that has successfully fought against the invaders is Mao Zedong and Mao Zedong Thought.",
+        "nickname": "红友新发现",
+        "created_at": "2023-11-26",
+        "archive": "gh_f62fa6fbd680_2023-11-26_missing_7wAePcj0Os.y.tar.gz",
+        "censored_date": "2023-11-29 08:45:37",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-28 12:38:37"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/4VNNF6wk0jTuaL5KcRkHKg",
+        "title": "我所经历的毛主席时代",
+        "title_eng": "The era of Chairman Mao that I experienced",
+        "nickname": "红友新发现",
+        "created_at": "2023-11-26",
+        "archive": "gh_f62fa6fbd680_2023-11-26_missing_HUiBOIRpWv.y.tar.gz",
+        "censored_date": "2023-11-29 08:49:26",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-28 12:42:48"
     }
 ]
