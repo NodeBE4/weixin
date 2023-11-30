@@ -8068,7 +8068,8 @@
         "created_at": "2023-11-27",
         "archive": "gh_96522be72207_2023-11-27_2247516015_tjyFskWTwM.y.tar.gz",
         "censored_date": "2023-11-28 13:07:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-30 10:03:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247572077&idx=1&sn=422c8070b8ccf163ee098674132e9abf",
@@ -8152,7 +8153,7 @@
         "archive": "gh_cbe49e48bd1e_2023-11-24_2247570984_Ea3A9mh0ti.y.tar.gz",
         "censored_date": "2023-11-28 20:12:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-29 13:49:32"
+        "update_date": "2023-11-30 10:17:30"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247871460&idx=4&sn=be5a97f49723ac1dbb7d64f3be98aba5",
@@ -8163,7 +8164,7 @@
         "archive": "gh_f99a5327b51a_2023-11-19_2247871460_y84BZkeJMr.y.tar.gz",
         "censored_date": "2023-11-28 20:06:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-29 13:54:33"
+        "update_date": "2023-11-30 10:23:03"
     },
     {
         "url": "mp.weixin.qq.com/s/vdnd5k3Md76wlBkrTJwgfA",
@@ -8720,6 +8721,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247550792&idx=2&sn=26a285ba1d60c38e2d06f54fe17e016c",
         "title": "23岁女子患外阴癌前病变，罪魁祸首为所有女性敲响警钟！",
+        "title_eng": "A 23-year-old woman suffers from precancerous lesions on her vulva, and the culprit is a wake-up call for all women!",
         "nickname": "贝菈小姐",
         "created_at": "2023-11-27",
         "archive": "gh_a9c6a20e4f84_2023-11-27_2247550792_xJn6ENrhcO.y.tar.gz",
@@ -8790,5 +8792,47 @@
         "censored_date": "2023-11-30 08:34:46",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-11-29 10:21:50"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/AQh6YRQII46Rms6vQhdesg",
+        "title": "只有毛主席，才能让我们活的有尊严",
+        "title_eng": "Only Chairman Mao can let us live with dignity",
+        "nickname": "红友新发现",
+        "created_at": "2023-11-26",
+        "archive": "gh_f62fa6fbd680_2023-11-26_missing_0TrptEqV1R.y.tar.gz",
+        "censored_date": "2023-11-30 09:42:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-28 12:41:33"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653187578&idx=4&sn=6d1edc5356c27e52266411ee9b553301",
+        "title": "《丰子恺漫画古诗词日历》",
+        "title_eng": "Feng Zikai's Comics Ancient Poems Calendar",
+        "nickname": "拾文化",
+        "created_at": "2023-11-22",
+        "archive": "gh_f65867e77e76_2023-11-22_2653187578_asG8lTOB7N.y.tar.gz",
+        "censored_date": "2023-11-30 10:01:01",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653187771&idx=3&sn=50bbad6b568c0789c0a562df19436d0d",
+        "title": "今年秋冬流行的打底衫，明星超模都爱穿~简约高级，显瘦有型，绝美！",
+        "title_eng": "The popular bottoming shirt in autumn and winter this year is loved by celebrities and supermodels. It is simple and high-end, looks slim and stylish, and is absolutely beautiful!",
+        "nickname": "拾文化",
+        "created_at": "2023-11-26",
+        "archive": "gh_f65867e77e76_2023-11-26_2653187771_0gX2rzon1U.y.tar.gz",
+        "censored_date": "2023-11-30 10:00:38",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653187662&idx=3&sn=46ad1eeb1abe44dece1e0725e9fe3857",
+        "title": "秋冬睡“艾”，寒湿不来",
+        "title_eng": "If you sleep on moxa in autumn and winter, the cold and dampness will not come back",
+        "nickname": "拾文化",
+        "created_at": "2023-11-23",
+        "archive": "gh_f65867e77e76_2023-11-23_2653187662_oEBDkjPxwr.y.tar.gz",
+        "censored_date": "2023-11-30 10:28:07",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-28 14:23:06"
     }
 ]
