@@ -8178,7 +8178,8 @@
         "created_at": "2023-11-27",
         "archive": "gh_1e7ef126c2d1_2023-11-27_missing_e6ZFaKMQn2.y.tar.gz",
         "censored_date": "2023-11-28 19:48:53",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-30 18:02:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247871692&idx=4&sn=9eeb50640b84cc3d36ee17c99ab05c36",
@@ -8188,7 +8189,8 @@
         "created_at": "2023-11-21",
         "archive": "gh_f99a5327b51a_2023-11-21_2247871692_uj2xCtAvU7.y.tar.gz",
         "censored_date": "2023-11-28 20:03:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-30 18:03:24"
     },
     {
         "url": "mp.weixin.qq.com/s/f4LbDp4ckLArfSq8gKJYlg",
@@ -8927,6 +8929,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTQ1NDY1Ng==&mid=2654973177&idx=1&sn=92f58f748e16a4b85950f1b51a2c735b&",
         "title": "我国第一个“被除名”的5A景区！曾名扬四海，因宰客臭名远扬，如今恢复5A，却无人敢去......",
+        "title_eng": "my country's first 5A scenic spot to be removed! It was once famous all over the world and notorious for robbing customers. Now it is restored to 5A, but no one dares to go...",
         "nickname": "旅行攻略",
         "created_at": "2023-11-28",
         "archive": "gh_4254c7d046d5_2023-11-28_2654973177_8FCGpRugl9.y.tar.gz",
@@ -8972,6 +8975,25 @@
         "created_at": "2023-11-20",
         "archive": "gh_31930173e92d_2023-11-20_2247499709_17ObR0wTea.y.tar.gz",
         "censored_date": "2023-11-30 15:35:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNjQ3ODAyMw==&mid=2247548018&idx=2&sn=a5ed5d019c72dc1412ff2f31623d0cc3",
+        "title": "一个著名企业家的三次厄运：遭湖北省监委反复调查，其顾问不堪重负跳楼身亡",
+        "nickname": "案例指南",
+        "created_at": "2023-11-26",
+        "archive": "gh_c17e5235b564_2023-11-26_2247548018_ewCyg9fpAo.y.tar.gz",
+        "censored_date": "2023-11-30 18:03:48",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-11-30 04:46:01"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653453190&idx=2&sn=c20da3a36a5bb239f85d4475fcf5335f",
+        "title": "极度缺人！淘宝电商运营招人，不限年龄，无需经验！在家可做！",
+        "nickname": "亲子派",
+        "created_at": "2023-11-28",
+        "archive": "gh_47a9a35a129b_2023-11-28_2653453190_YbkM14l9vm.y.tar.gz",
+        "censored_date": "2023-11-30 17:33:32",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
