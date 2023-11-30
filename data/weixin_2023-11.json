@@ -8003,7 +8003,7 @@
         "archive": "gh_b50997668f3b_2023-11-27_2247574205_3xl96ucHaO.y.tar.gz",
         "censored_date": "2023-11-28 09:52:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-30 07:51:23"
+        "update_date": "2023-12-01 00:48:16"
     },
     {
         "url": "mp.weixin.qq.com/s/CfUF9DTa9oezIF8PJG4V4Q",
@@ -8014,7 +8014,7 @@
         "archive": "gh_aecae97a9865_2023-11-27_missing_7QgMyALwz9.y.tar.gz",
         "censored_date": "2023-11-28 10:26:05",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-11-30 07:51:46"
+        "update_date": "2023-12-01 00:48:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247588703&idx=2&sn=bb2c2349bba0c0f7c1efa5a5206845ee",
@@ -8793,7 +8793,8 @@
         "created_at": "2023-11-25",
         "archive": "gh_36dfda0fb531_2023-11-25_2247735246_kIEKPBNojv.y.tar.gz",
         "censored_date": "2023-11-30 08:29:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 01:25:44"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653187477&idx=4&sn=3683d6dc0ea6e7bffa59139c6a0730a5",
@@ -9002,6 +9003,15 @@
         "created_at": "2023-11-28",
         "archive": "gh_47a9a35a129b_2023-11-28_2653453190_YbkM14l9vm.y.tar.gz",
         "censored_date": "2023-11-30 17:33:32",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247735246&idx=2&sn=b8c5d07490d3b254b93a168ccce20b56",
+        "title": "2折拿下！泸州老窖醇香，一喝难忘，浓香天花板！",
+        "nickname": "远方青木",
+        "created_at": "2023-11-25",
+        "archive": "gh_36dfda0fb531_2023-11-25_2247735246_Y0sMbGQe60.y.tar.gz",
+        "censored_date": "2023-12-01 01:24:56",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
