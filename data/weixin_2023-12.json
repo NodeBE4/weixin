@@ -623,7 +623,7 @@
         "archive": "gh_d5fd74b9d1db_2023-11-27_2247505287_xPcmlavDyu.y.tar.gz",
         "censored_date": "2023-11-29 04:45:08",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-28 07:37:25"
+        "update_date": "2023-12-01 14:56:23"
     },
     {
         "url": "mp.weixin.qq.com/s/Z2SxT7fQHp2gGhrT9JvmhA",
@@ -634,7 +634,7 @@
         "archive": "gh_f62fa6fbd680_2023-11-26_missing_hb5wspcXK7.y.tar.gz",
         "censored_date": "2023-11-29 05:36:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-28 08:26:46"
+        "update_date": "2023-12-01 15:03:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607763&idx=2&sn=ff6adcf3617c2a3f6ae7f8328b35638e",
@@ -1360,6 +1360,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MTM4NTAyNg==&mid=2247657268&idx=2&sn=f60b17d1aa411815c905cffe64347d0c",
         "title": "《蒙古族潮尔道》专著及《蒙古族原生态多声民歌-潮尔道》CD专辑发布会在锡林浩特举行",
+        "title_eng": "The monograph Mongolian Chaoer Dao and the CD album release conference of Mongolian Original Multi-vocal Folk Songs - Chaoer Dao were held in Xilinhot",
         "nickname": "锡林郭勒蒙古语广播AM1170",
         "created_at": "2023-11-29",
         "archive": "gh_8c5729b847bc_2023-11-29_2247657268_LvjftTqmE7.y.tar.gz",
@@ -1369,6 +1370,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247871880&idx=1&sn=85bec06f4598e598f26501d3bca07e81&",
         "title": "网传西藏阿里“全体公务员”为一女子献血，当事人丈夫发声",
+        "title_eng": "It is reported on the Internet that all civil servants in Ali, Tibet donated blood to a woman, and the husband of the person involved spoke out",
         "nickname": "新京报",
         "created_at": "2023-11-29",
         "archive": "gh_16cc427c8e02_2023-11-29_2247871880_OKAC0Dobkz.y.tar.gz",
@@ -1378,6 +1380,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247545569&idx=2&sn=d33b06289a5b78e47d6ff6c6373f3604",
         "title": "明确了！急招200人免费学心理咨询师基础培训，试学3天！",
+        "title_eng": "Clear! Urgently recruiting 200 people to learn basic psychological counselor training for free, with a 3-day trial!",
         "nickname": "葫芦岛都市网",
         "created_at": "2023-11-28",
         "archive": "gh_f86665431cb0_2023-11-28_2247545569_nhGJMc1mPD.y.tar.gz",
@@ -1387,6 +1390,7 @@
     {
         "url": "mp.weixin.qq.com/s/wy9_TTw1jaYSDkylyTWFZQ",
         "title": "典型案例丨沈阳市生态环境局公开发布5个差异化执法典型案例",
+        "title_eng": "Typical casesä¸¨Shenyang Municipal Ecological Environment Bureau publicly released 5 typical cases of differentiated law enforcement",
         "nickname": "沈阳生态环境",
         "created_at": "2023-11-29",
         "archive": "gh_d1c019b6b750_2023-11-29_missing_mB2x79Lq16.y.tar.gz",
@@ -1396,10 +1400,69 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247545609&idx=2&sn=937a81c22796b27336cd1e32190c9f9f",
         "title": "低学历注意了！特招168人直升大专及本科，最低初中学历可报！免试入学！",
+        "title_eng": "Attention low-educated people! Special recruitment of 168 people for direct entry into college and undergraduate programs. Minimum junior high school education is required to apply! Admission without examination!",
         "nickname": "葫芦岛都市网",
         "created_at": "2023-11-29",
         "archive": "gh_f86665431cb0_2023-11-29_2247545609_hvI0Dj7CLq.y.tar.gz",
         "censored_date": "2023-12-01 14:09:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247872987&idx=4&sn=325af5dcb77d2d224a44048a6554cfb0",
+        "title": "这个习惯，正在阻碍你的进步",
+        "nickname": "武志红",
+        "created_at": "2023-11-25",
+        "archive": "gh_f99a5327b51a_2023-11-25_2247872987_z3lsGZogn2.y.tar.gz",
+        "censored_date": "2023-12-01 14:36:11",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-29 13:40:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247872742&idx=4&sn=124b4d6bf0f00d095daebff3f91a7743",
+        "title": "你离抑郁有多远？一分钟测出你的抑郁指数",
+        "nickname": "武志红",
+        "created_at": "2023-11-24",
+        "archive": "gh_f99a5327b51a_2023-11-24_2247872742_QPJsOpykae.y.tar.gz",
+        "censored_date": "2023-12-01 14:37:01",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-29 13:41:44"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247872513&idx=4&sn=7e50514015196fa43683aacc51ff4606",
+        "title": "请查收，你的2023心理健康体检报告｜免费测试",
+        "nickname": "武志红",
+        "created_at": "2023-11-23",
+        "archive": "gh_f99a5327b51a_2023-11-23_2247872513_wK8ANF0Qtk.y.tar.gz",
+        "censored_date": "2023-12-01 14:38:41",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-11-29 13:43:23"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650594225&idx=5&sn=d584a2d9aa8dad4ccf95e1a0b4299281",
+        "title": "当你明白了因果，就不会抱怨",
+        "nickname": "南师国学堂",
+        "created_at": "2023-11-29",
+        "archive": "gh_45de294b7642_2023-11-29_2650594225_KJF0GYtlRw.y.tar.gz",
+        "censored_date": "2023-12-01 14:57:38",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 10:27:51"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247572733&idx=1&sn=43a7c6fd8c7139ac8a994690af89d17b",
+        "title": "“吃一顿饭，do4次”：武汉大学教授与多名女性发生关系，被曝光！！！",
+        "nickname": "重生道",
+        "created_at": "2023-11-29",
+        "archive": "gh_efdfc4769f39_2023-11-29_2247572733_3b5UvGzWxk.y.tar.gz",
+        "censored_date": "2023-12-01 15:19:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656087394&idx=6&sn=2b29c9913d281d920c1cd7115e877fae",
+        "title": "新职业推荐！小众冷门的“整理收纳师”，薪资也可观！招200人培训啦！",
+        "nickname": "十点读书",
+        "created_at": "2023-11-28",
+        "archive": "gh_5c7e8b7f586b_2023-11-28_2656087394_b9PYoSZDM2.y.tar.gz",
+        "censored_date": "2023-12-01 14:52:35",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
