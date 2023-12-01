@@ -1261,7 +1261,7 @@
         "archive": "gh_47a9a35a129b_2023-11-28_2653453190_YbkM14l9vm.y.tar.gz",
         "censored_date": "2023-11-30 17:33:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 07:42:05"
+        "update_date": "2023-12-02 05:30:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247540852&idx=2&sn=c50d3a126b8dcce31a8aad2baaead853",
@@ -1783,7 +1783,7 @@
         "archive": "gh_c364747d22d0_2023-11-29_2653741615_9mAUncoxt1.y.tar.gz",
         "censored_date": "2023-12-01 23:47:02",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 16:25:46"
+        "update_date": "2023-12-02 05:51:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247550873&idx=1&sn=524bd21b4d8189a4eac7126eda607089",
@@ -1818,10 +1818,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247518926&idx=1&sn=dfa34bc4cb001cf61af0102a092bc74e",
         "title": "这段视频吓坏了不少人，慎入！",
+        "title_eng": "This video scared a lot of people, so be careful!",
         "nickname": "曾经de道哥",
         "created_at": "2023-11-30",
         "archive": "gh_a791b9844790_2023-11-30_2247518926_rqldB70WQz.y.tar.gz",
         "censored_date": "2023-12-02 04:55:58",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMjI2MjkzMA==&mid=2247523007&idx=3&sn=e0f8fd793b737a2f006f4e2baace9677",
+        "title": "一个著名企业家的三次厄运：遭湖北省监委反复调查，其顾问不堪重负跳楼身亡",
+        "title_eng": "Three bad lucks for a famous entrepreneur: After being repeatedly investigated by the Hubei Provincial Supervisory Committee, his consultant was overwhelmed and jumped to his death.",
+        "nickname": "徐雪芬说舆",
+        "created_at": "2023-11-27",
+        "archive": "gh_ac141e4a853c_2023-11-27_2247523007_VdRQJs5mSj.y.tar.gz",
+        "censored_date": "2023-12-02 05:30:19",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
