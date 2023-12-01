@@ -722,7 +722,7 @@
         "archive": "gh_31930173e92d_2023-11-21_2247499711_xNT2HkORm8.y.tar.gz",
         "censored_date": "2023-11-29 17:17:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-29 00:14:38"
+        "update_date": "2023-12-01 21:41:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499709&idx=1&sn=419afda6a97d32f188b2c7a8f323184e",
@@ -733,7 +733,7 @@
         "archive": "gh_31930173e92d_2023-11-20_2247499709_2WRLiab0Ak.y.tar.gz",
         "censored_date": "2023-11-29 17:18:05",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-11-29 00:15:03"
+        "update_date": "2023-12-01 21:41:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499725&idx=2&sn=b3c36a7775321271244a3677d4ccb834",
@@ -1151,7 +1151,7 @@
         "archive": "gh_f65867e77e76_2023-11-26_2653187771_0gX2rzon1U.y.tar.gz",
         "censored_date": "2023-11-30 10:00:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 02:55:34"
+        "update_date": "2023-12-01 21:39:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543362&idx=2&sn=99c9786e1253992717f9a0c2ac4d5adf",
@@ -1370,7 +1370,8 @@
         "created_at": "2023-11-29",
         "archive": "gh_8c5729b847bc_2023-11-29_2247657268_LvjftTqmE7.y.tar.gz",
         "censored_date": "2023-12-01 13:40:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 21:38:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247871880&idx=1&sn=85bec06f4598e598f26501d3bca07e81&",
@@ -1380,7 +1381,8 @@
         "created_at": "2023-11-29",
         "archive": "gh_16cc427c8e02_2023-11-29_2247871880_OKAC0Dobkz.y.tar.gz",
         "censored_date": "2023-12-01 13:47:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 21:46:16"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247545569&idx=2&sn=d33b06289a5b78e47d6ff6c6373f3604",
@@ -1390,7 +1392,8 @@
         "created_at": "2023-11-28",
         "archive": "gh_f86665431cb0_2023-11-28_2247545569_nhGJMc1mPD.y.tar.gz",
         "censored_date": "2023-12-01 14:10:30",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 21:59:05"
     },
     {
         "url": "mp.weixin.qq.com/s/wy9_TTw1jaYSDkylyTWFZQ",
@@ -1400,7 +1403,8 @@
         "created_at": "2023-11-29",
         "archive": "gh_d1c019b6b750_2023-11-29_missing_mB2x79Lq16.y.tar.gz",
         "censored_date": "2023-12-01 13:50:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 21:49:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247545609&idx=2&sn=937a81c22796b27336cd1e32190c9f9f",
@@ -1410,7 +1414,8 @@
         "created_at": "2023-11-29",
         "archive": "gh_f86665431cb0_2023-11-29_2247545609_hvI0Dj7CLq.y.tar.gz",
         "censored_date": "2023-12-01 14:09:17",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 21:57:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2247872987&idx=4&sn=325af5dcb77d2d224a44048a6554cfb0",
@@ -1650,6 +1655,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571113&idx=2&sn=2ad9fc0bafe17ac7de68697c1d0cf0ac",
         "title": "全国离婚率高达43.53%，无奈的选择中藏着婚姻“最残忍”的真相！",
+        "title_eng": "The national divorce rate is as high as 43.53%. The helpless choice hides the cruel truth about marriage!",
         "nickname": "律法读报",
         "created_at": "2023-11-28",
         "archive": "gh_cbe49e48bd1e_2023-11-28_2247571113_TH0ZMviXAV.y.tar.gz",
@@ -1660,6 +1666,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571113&idx=5&sn=3ddbfa606ea9906e0d037b6eda75f88a",
         "title": "第一次起诉离婚时还有存款8万，第二次起诉时只剩1千，7.9万分不分？法院判决：",
+        "title_eng": "When I filed for divorce for the first time, I still had a deposit of 80,000, but when I filed for divorce for the second time, I only had 1,000 left. Is it 79,000? Court decision:",
         "nickname": "律法读报",
         "created_at": "2023-11-28",
         "archive": "gh_cbe49e48bd1e_2023-11-28_2247571113_b9OCwWTKXv.y.tar.gz",
@@ -1700,6 +1707,7 @@
     {
         "url": "mp.weixin.qq.com/s/7-l-CeQ1wppmo2AlU2EicA",
         "title": "戴口罩！泉州8岁男童检出4种病原体！儿童医院日均接诊200多患儿",
+        "title_eng": "wear mask! Four pathogens were detected in an 8-year-old boy in Quanzhou! Children's Hospital receives more than 200 children on average every day",
         "nickname": "东南早报",
         "created_at": "2023-11-29",
         "archive": "wxid_9687146871211_2023-11-29_missing_xlBwr6ROPg.y.tar.gz",
@@ -1709,6 +1717,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzNTI3NzUzNw==&mid=2247501611&idx=1&sn=f51a84fb55f47262697313143e6cbadb",
         "title": "吴秀波被执行4.66亿！名利双失的出轨大叔，给男人提了一个醒",
+        "title_eng": "Wu Xiubo was executed for 466 million! The cheating uncle who lost both fame and fortune gave men a warning",
         "nickname": "希公子阿",
         "created_at": "2023-11-26",
         "archive": "gh_8875c3ea6e13_2023-11-26_2247501611_xDubpB8nsk.y.tar.gz",
@@ -1718,6 +1727,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3OTcyOTAyNQ==&mid=2247488503&idx=1&sn=5cb93538a1877446bff4be418982676a",
         "title": "丁薛祥的“新身份”",
+        "title_eng": "Ding Xuexiangâ€™s â€œnew identityâ€<9d>",
         "nickname": "吴习之",
         "created_at": "2023-11-30",
         "archive": "gh_255aec35050c_2023-11-30_2247488503_lZoTJwqD6A.y.tar.gz",
@@ -1727,6 +1737,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3OTcyOTAyNQ==&mid=2247488503&idx=2&sn=5cb361b6983e10b2a9fd70e1763673c6",
         "title": "现任最年轻的5位省委书记，3位是博士，1人毕业于清华，1人毕业于北大",
+        "title_eng": "Among the current five youngest provincial party committee secretaries, three have Ph.D. degrees, one graduated from Tsinghua University, and one graduated from Peking University.",
         "nickname": "吴习之",
         "created_at": "2023-11-30",
         "archive": "gh_255aec35050c_2023-11-30_2247488503_Mc1x20GE7C.y.tar.gz",
@@ -1736,6 +1747,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247744007&idx=2&sn=645bfdfd2e0ce70c7cdf163eb32482e4",
         "title": "家里凌乱的恭喜啦！2023全国整理收纳培训班正式开放，公开招生200名！",
+        "title_eng": "Congratulations on the messy home! The 2023 National Organizing and Storage Training Class is officially open, with 200 open enrollment!",
         "nickname": "志愿云",
         "created_at": "2023-11-30",
         "archive": "gh_63cc4b4ef76d_2023-11-30_2247744007_Dg8rdQwzt1.y.tar.gz",
