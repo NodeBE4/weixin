@@ -1371,7 +1371,7 @@
         "archive": "gh_8c5729b847bc_2023-11-29_2247657268_LvjftTqmE7.y.tar.gz",
         "censored_date": "2023-12-01 13:40:29",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 21:38:27"
+        "update_date": "2023-12-03 14:19:55"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MzA2ODk3Nw==&mid=2247871880&idx=1&sn=85bec06f4598e598f26501d3bca07e81&",
@@ -1689,7 +1689,7 @@
         "archive": "gh_cbe49e48bd1e_2023-11-28_2247571113_b9OCwWTKXv.y.tar.gz",
         "censored_date": "2023-12-01 20:36:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 12:25:56"
+        "update_date": "2023-12-03 14:15:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516239&idx=3&sn=32e93023b19ad5d89fec6441f8bad03a",
@@ -1732,7 +1732,8 @@
         "created_at": "2023-11-29",
         "archive": "wxid_9687146871211_2023-11-29_missing_xlBwr6ROPg.y.tar.gz",
         "censored_date": "2023-12-01 20:42:08",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-03 14:15:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkzNTI3NzUzNw==&mid=2247501611&idx=1&sn=f51a84fb55f47262697313143e6cbadb",
@@ -1742,7 +1743,8 @@
         "created_at": "2023-11-26",
         "archive": "gh_8875c3ea6e13_2023-11-26_2247501611_xDubpB8nsk.y.tar.gz",
         "censored_date": "2023-12-01 21:06:26",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-03 14:16:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3OTcyOTAyNQ==&mid=2247488503&idx=1&sn=5cb93538a1877446bff4be418982676a",
@@ -1763,7 +1765,8 @@
         "created_at": "2023-11-30",
         "archive": "gh_255aec35050c_2023-11-30_2247488503_Mc1x20GE7C.y.tar.gz",
         "censored_date": "2023-12-01 21:21:24",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-03 14:16:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247744007&idx=2&sn=645bfdfd2e0ce70c7cdf163eb32482e4",
@@ -2063,6 +2066,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMjI2MjkzMA==&mid=2247523132&idx=1&sn=5a19db6ac8e50146b9930c2ab7b96f81",
         "title": "紧急通知：怎样天天“养好身体”！难得一遇的机会，多数人不重视！（建议收藏）",
+        "title_eng": "Urgent notice: How to â€œkeep good healthâ€<9d> every day! A rare opportunity that most people donâ€™t take seriously! (recommended collection)",
         "nickname": "徐雪芬说舆",
         "created_at": "2023-11-30",
         "archive": "gh_ac141e4a853c_2023-11-30_2247523132_Pe0RGqyfvb.y.tar.gz",
@@ -2072,6 +2076,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTc5OTM2OQ==&mid=2247489344&idx=2&sn=bcb6eaf109c4d0494009b1896a630775",
         "title": "最新数据揭露：真实中国房地产业",
+        "title_eng": "Latest data revealed: the real China real estate industry",
         "nickname": "北清交大校友俱乐部",
         "created_at": "2023-12-01",
         "archive": "gh_83abda42e275_2023-12-01_2247489344_YesiJncpWK.y.tar.gz",
@@ -2081,11 +2086,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247589040&idx=1&sn=913011a46dbafc228d07184deb2e657f",
         "title": "紧急通知：怎样天天“养好身体”！难得一遇的机会，多数人不重视！（建议收藏）",
+        "title_eng": "Urgent notice: How to â€œkeep good healthâ€<9d> every day! A rare opportunity that most people donâ€™t take seriously! (recommended collection)",
         "nickname": "徐雪芬札记",
         "created_at": "2023-11-30",
         "archive": "gh_06140cfad959_2023-11-30_2247589040_A074sn1CzG.y.tar.gz",
         "censored_date": "2023-12-03 13:01:40",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-01 19:01:46"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyOTEyNzA4Nw==&mid=2247486908&idx=1&sn=0e06280ba3568a87978659481968e048",
+        "title": "声称勒索中国能源建设集团的Rhysida是个什么组织？",
+        "nickname": "常识和洞见",
+        "created_at": "2023-11-29",
+        "archive": "gh_451a14c410e5_2023-11-29_2247486908_jwdbUMIHSC.y.tar.gz",
+        "censored_date": "2023-12-03 14:14:12",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-12-01 21:23:28"
     }
 ]
