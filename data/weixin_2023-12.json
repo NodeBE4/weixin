@@ -1382,7 +1382,7 @@
         "archive": "gh_16cc427c8e02_2023-11-29_2247871880_OKAC0Dobkz.y.tar.gz",
         "censored_date": "2023-12-01 13:47:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 21:46:16"
+        "update_date": "2023-12-03 14:26:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247545569&idx=2&sn=d33b06289a5b78e47d6ff6c6373f3604",
@@ -1481,7 +1481,7 @@
         "archive": "gh_5c7e8b7f586b_2023-11-28_2656087394_b9PYoSZDM2.y.tar.gz",
         "censored_date": "2023-12-01 14:52:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 22:33:18"
+        "update_date": "2023-12-03 15:02:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650594225&idx=2&sn=ad0aed8bad5e826559792ccad1ca08c8",
@@ -2097,11 +2097,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyOTEyNzA4Nw==&mid=2247486908&idx=1&sn=0e06280ba3568a87978659481968e048",
         "title": "声称勒索中国能源建设集团的Rhysida是个什么组织？",
+        "title_eng": "What kind of organization is Rhysida that claims to be blackmailing China Energy Construction Group?",
         "nickname": "常识和洞见",
         "created_at": "2023-11-29",
         "archive": "gh_451a14c410e5_2023-11-29_2247486908_jwdbUMIHSC.y.tar.gz",
         "censored_date": "2023-12-03 14:14:12",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-12-01 21:23:28"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/LOfEGZuKXz9E04Y6yYwVqQ",
+        "title": "日常法务|转融通证券出借后再减持相关问题探讨",
+        "nickname": "资本市场法律服务札记",
+        "created_at": "2023-12-01",
+        "archive": "gh_cb23489a4155_2023-12-01_missing_Lxrfe2G8B4.y.tar.gz",
+        "censored_date": "2023-12-03 14:34:06",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjE1MzgzMQ==&mid=2653302574&idx=1&sn=0a23dc9f715165764e7036c6fca960b0",
+        "title": "官媒掀了卫*委的桌子 | 记者以普通人身份求助协调异地献血，上海卫健委：需在当地申请",
+        "nickname": "大唐007",
+        "created_at": "2023-12-01",
+        "archive": "gh_231916985288_2023-12-01_2653302574_QX42C1i5wu.y.tar.gz",
+        "censored_date": "2023-12-03 15:04:04",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
