@@ -1349,7 +1349,7 @@
         "archive": "gh_98b9ff4152eb_2023-11-29_2660429339_b7VHfZ0Axy.y.tar.gz",
         "censored_date": "2023-12-01 12:18:01",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-01 19:07:09"
+        "update_date": "2023-12-03 13:06:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653187771&idx=4&sn=d9e02ed831c565857110c2ae06980364",
@@ -1613,7 +1613,7 @@
         "archive": "gh_dc66ca259aaf_2023-11-29_missing_YDKEQRShdq.y.tar.gz",
         "censored_date": "2023-12-01 17:23:28",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-12-02 01:33:18"
+        "update_date": "2023-12-03 12:38:38"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwMjA4NTUyMg==&mid=2247538000&idx=1&sn=d69d5f9f2483c3b85e84aeab8c8fe272",
@@ -1666,7 +1666,8 @@
         "created_at": "2023-11-30",
         "archive": "gh_efdfc4769f39_2023-11-30_2247573000_fQPOEWSLiN.y.tar.gz",
         "censored_date": "2023-12-01 19:07:59",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-03 13:17:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571113&idx=2&sn=2ad9fc0bafe17ac7de68697c1d0cf0ac",
@@ -2058,5 +2059,33 @@
         "archive": "gh_4377c6319acc_2023-12-01_2247487991_1vFu2mfERT.y.tar.gz",
         "censored_date": "2023-12-03 10:56:05",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMjI2MjkzMA==&mid=2247523132&idx=1&sn=5a19db6ac8e50146b9930c2ab7b96f81",
+        "title": "紧急通知：怎样天天“养好身体”！难得一遇的机会，多数人不重视！（建议收藏）",
+        "nickname": "徐雪芬说舆",
+        "created_at": "2023-11-30",
+        "archive": "gh_ac141e4a853c_2023-11-30_2247523132_Pe0RGqyfvb.y.tar.gz",
+        "censored_date": "2023-12-03 13:05:22",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTc5OTM2OQ==&mid=2247489344&idx=2&sn=bcb6eaf109c4d0494009b1896a630775",
+        "title": "最新数据揭露：真实中国房地产业",
+        "nickname": "北清交大校友俱乐部",
+        "created_at": "2023-12-01",
+        "archive": "gh_83abda42e275_2023-12-01_2247489344_YesiJncpWK.y.tar.gz",
+        "censored_date": "2023-12-03 13:16:36",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247589040&idx=1&sn=913011a46dbafc228d07184deb2e657f",
+        "title": "紧急通知：怎样天天“养好身体”！难得一遇的机会，多数人不重视！（建议收藏）",
+        "nickname": "徐雪芬札记",
+        "created_at": "2023-11-30",
+        "archive": "gh_06140cfad959_2023-11-30_2247589040_A074sn1CzG.y.tar.gz",
+        "censored_date": "2023-12-03 13:01:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-01 19:01:46"
     }
 ]
