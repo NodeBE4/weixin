@@ -2294,6 +2294,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MDI3OTkxMA==&mid=2651607794&idx=2&sn=851947e880bdfac53978ebc7fbb9e008",
         "title": "“蚕丝被”和“棉花被”哪个好？事关家人健康，你一定要知晓！",
+        "title_eng": "Which one is better, silk quilt or cotton quilt? Itâ€™s about your familyâ€™s health, you must know it!",
         "nickname": "她言他语",
         "created_at": "2023-12-02",
         "archive": "gh_ec6dcd28a470_2023-12-02_2651607794_fIA8akcxTr.y.tar.gz",
@@ -2304,6 +2305,7 @@
     {
         "url": "mp.weixin.qq.com/s/y8uhOnve9cH6paGQBUEC5g",
         "title": "魏杰教授说的是真的话，这个就是战略级别的底部",
+        "title_eng": "What Professor Wei Jie said is true. This is the bottom of the strategic level.",
         "nickname": "老康看财经",
         "created_at": "2023-12-03",
         "archive": "gh_68e6750a2618_2023-12-03_missing_tipXyjA6f8.y.tar.gz",
@@ -2313,6 +2315,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516351&idx=1&sn=b2187fc987c56a4a016a2e2614c79e40",
         "title": "中石化高管的色与横！​2023最炸裂成语：屎上雕花！​穷财政、富养人，这是个大问题！",
+        "title_eng": "The sex and behavior of Sinopec executives! The most explosive idiom of 2023: Carvings on shit! Poor finances, rich people, this is a big problem!",
         "nickname": "每日乐评",
         "created_at": "2023-12-03",
         "archive": "gh_96522be72207_2023-12-03_2247516351_yNDok9whbr.y.tar.gz",
@@ -2322,10 +2325,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDI0NDM2Mw==&mid=2247490660&idx=1&sn=2660cba22b319e2af347040ef74141c7",
         "title": "水落石出！郑强在公徳上是正直坚强的，在私德上是清白无辜的！",
+        "title_eng": "The truth comes out! Zheng Qiang is upright and strong in public ethics, and innocent in private ethics!",
         "nickname": "云溪伴石居",
         "created_at": "2023-12-03",
         "archive": "gh_7716ec1663cc_2023-12-03_2247490660_OgebiHJZpo.y.tar.gz",
         "censored_date": "2023-12-05 02:21:36",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/6GohHviH6kixbkZE6OBUpg",
+        "title": "坐标重庆 | 很难看见的公益影像，蒋能杰导演电影沙龙",
+        "nickname": "棉花沙影像工作室",
+        "created_at": "2023-11-30",
+        "archive": "gh_7b5fa1f1125b_2023-11-30_missing_WfJDTibgvl.y.tar.gz",
+        "censored_date": "2023-12-05 02:51:57",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-04 14:21:54"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247573613&idx=1&sn=91ce8778bfab7ea0608afe961aae0dd6",
+        "title": "美女，好惨……",
+        "nickname": "重生道",
+        "created_at": "2023-12-03",
+        "archive": "gh_efdfc4769f39_2023-12-03_2247573613_X7EPGCz1F9.y.tar.gz",
+        "censored_date": "2023-12-05 02:33:29",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
