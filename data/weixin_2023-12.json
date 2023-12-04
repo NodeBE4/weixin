@@ -2086,7 +2086,7 @@
         "archive": "gh_ac141e4a853c_2023-11-30_2247523132_Pe0RGqyfvb.y.tar.gz",
         "censored_date": "2023-12-03 13:05:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-04 00:32:29"
+        "update_date": "2023-12-04 18:02:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMTc5OTM2OQ==&mid=2247489344&idx=2&sn=bcb6eaf109c4d0494009b1896a630775",
@@ -2097,7 +2097,7 @@
         "archive": "gh_83abda42e275_2023-12-01_2247489344_YesiJncpWK.y.tar.gz",
         "censored_date": "2023-12-03 13:16:36",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-12-04 07:20:36"
+        "update_date": "2023-12-04 17:55:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247589040&idx=1&sn=913011a46dbafc228d07184deb2e657f",
@@ -2184,6 +2184,15 @@
         "created_at": "2023-12-01",
         "archive": "gh_307be0bd98f2_2023-12-01_2247491849_MHVzpfQoen.y.tar.gz",
         "censored_date": "2023-12-04 14:58:49",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s/s2JZO2RHe0pc2n8GJtUV3Q",
+        "title": "沪说 | 简说虞洽卿，上海租界时期的一位传奇人物",
+        "nickname": "天袁地访",
+        "created_at": "2023-12-03",
+        "archive": "gh_3f8da5390c2a_2023-12-03_missing_nKbFl02Zma.y.tar.gz",
+        "censored_date": "2023-12-04 18:04:38",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
