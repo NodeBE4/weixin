@@ -2251,7 +2251,7 @@
         "archive": "gh_46cfcecff297_2023-12-02_2247487012_SuFpy839Dn.y.tar.gz",
         "censored_date": "2023-12-04 23:29:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-04 09:11:17"
+        "update_date": "2023-12-05 20:09:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247518946&idx=1&sn=72e2a9510cb5b186610fe59d908c4025",
@@ -2413,5 +2413,25 @@
         "archive": "gh_ac086cc849eb_2023-12-04_missing_q6XZe85tG2.y.tar.gz",
         "censored_date": "2023-12-05 18:17:17",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s/WzEEzkRB1B1ja-kQXFYvhg",
+        "title": "《翔凤·瓦砾场》漫画发布",
+        "title_eng": "Xiangfeng Rubble Field comic released",
+        "nickname": "翔凤",
+        "created_at": "2023-11-30",
+        "archive": "gh_41495143f896_2023-11-30_missing_hsb4ecg8xM.y.tar.gz",
+        "censored_date": "2023-12-05 20:16:06",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjE1MzgzMQ==&mid=2653302630&idx=1&sn=d75d92c83f043c0f48f44ee9208bbe07",
+        "title": "【热点】江苏昆山一大型工厂解散！​”丰田“、“本田”裁员",
+        "title_eng": "[Hot Spot] A large factory in Kunshan, Jiangsu was disbanded! Toyota, Honda layoffs",
+        "nickname": "大唐007",
+        "created_at": "2023-12-04",
+        "archive": "gh_231916985288_2023-12-04_2653302630_9pP3nlQ81c.y.tar.gz",
+        "censored_date": "2023-12-05 19:23:14",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
