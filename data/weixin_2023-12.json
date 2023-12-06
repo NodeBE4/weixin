@@ -2382,7 +2382,8 @@
         "created_at": "2023-12-03",
         "archive": "gh_1aa55fadd2a2_2023-12-03_2247498965_9o40qVElnD.y.tar.gz",
         "censored_date": "2023-12-05 12:39:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-06 23:56:11"
     },
     {
         "url": "mp.weixin.qq.com/s/lTBHEexwA1L8GD0faj540g",
@@ -2695,10 +2696,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUzMTE4Njg5OA==&mid=2247504075&idx=1&sn=8a9fb86148ba164299ad9c035ad2ac77",
         "title": "海澜之家剪标1折起特卖 清仓，全场低至29.9，12月7日全国开抢",
+        "title_eng": "Heilan Home's discount sale starts at 10% off, clearance, as low as 29.9, available nationwide on December 7",
         "nickname": "读帮",
         "created_at": "2023-12-05",
         "archive": "gh_851735f64eee_2023-12-05_2247504075_CmGMXqbAoW.y.tar.gz",
         "censored_date": "2023-12-06 23:14:46",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247503145&idx=1&sn=b8ace9d180c69ef56420524eebd0a268",
+        "title": "定了！2023年度高考志愿规划师开始招募，不限学历，免费申领！",
+        "title_eng": "deal! Recruitment of volunteer planners for the 2023 College Entrance Examination has begun. No academic qualifications are required. Apply for free!",
+        "nickname": "中小学生普法网",
+        "created_at": "2023-12-05",
+        "archive": "gh_f59a99d1715b_2023-12-05_2247503145_OM9j58X1RH.y.tar.gz",
+        "censored_date": "2023-12-06 23:39:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
