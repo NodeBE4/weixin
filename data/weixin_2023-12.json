@@ -2392,7 +2392,8 @@
         "created_at": "2023-12-04",
         "archive": "gh_04d5f0fc83b9_2023-12-04_missing_3TWgfjD1xQ.y.tar.gz",
         "censored_date": "2023-12-05 15:50:53",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-06 15:02:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571237&idx=2&sn=ac4f2746163654bdcc5445935a6c1b16",
@@ -2566,11 +2567,22 @@
     {
         "url": "mp.weixin.qq.com/s/GN-50LGqIWogrrnQfPDExw",
         "title": "形势比想象的还要严峻",
+        "title_eng": "The situation is more serious than imagined",
         "nickname": "木虫",
         "created_at": "2023-12-04",
         "archive": "gh_19104c7a86ce_2023-12-04_missing_IY0N27MRQx.y.tar.gz",
         "censored_date": "2023-12-06 13:50:22",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-12-05 14:33:45"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571267&idx=3&sn=a6d36e1ea1d64aa33445ca788f55d3ab",
+        "title": "忍无可忍！盈科律所起诉盈科法律咨询公司，法院判了...",
+        "nickname": "律法读报",
+        "created_at": "2023-12-04",
+        "archive": "gh_cbe49e48bd1e_2023-12-04_2247571267_qSwko2nbAB.y.tar.gz",
+        "censored_date": "2023-12-06 15:11:10",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-05 16:04:30"
     }
 ]
