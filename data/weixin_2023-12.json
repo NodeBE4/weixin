@@ -2646,7 +2646,8 @@
         "created_at": "2023-12-05",
         "archive": "gh_ecf04b6af469_2023-12-05_2647759151_ANTZi0IWxt.y.tar.gz",
         "censored_date": "2023-12-06 21:10:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-07 23:16:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MzU4NjU4OQ==&mid=2650843044&idx=1&sn=7ee554bdbe1f96785b243bfb839e2282",
@@ -2931,6 +2932,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMjI2MjkzMA==&mid=2247523379&idx=7&sn=08380dc3ad2323aeec94cdd678cfbd7c",
         "title": "吴敬琏：中国经济社会矛盾几乎到了临界点",
+        "title_eng": "Wu Jinglian: Chinaâ€™s economic and social contradictions have almost reached a critical point",
         "nickname": "徐雪芬说舆",
         "created_at": "2023-12-06",
         "archive": "gh_ac141e4a853c_2023-12-06_2247523379_kxBP0zdGu5.y.tar.gz",
@@ -2940,10 +2942,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTMwNjk0MQ==&mid=2653139326&idx=2&sn=652b05ff2e0fe80a1d2ebad720a4b5d3",
         "title": "甘肃男子家中坐，竟在西安有了开房记录？妻子怒了......",
+        "title_eng": "A man from Gansu is sitting at home, but he actually has a record of opening a house in Xi'an? The wife is angry...",
         "nickname": "陕西都市快报",
         "created_at": "2023-12-06",
         "archive": "gh_6cf32ecd4dba_2023-12-06_2653139326_h1bdXAfDT9.y.tar.gz",
         "censored_date": "2023-12-07 22:02:45",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516431&idx=3&sn=e1711a2e7cf146ee3cc58623cfb4c358",
+        "title": "现在的农村孩子，连架都打不起来了?",
+        "nickname": "每日乐评",
+        "created_at": "2023-12-05",
+        "archive": "gh_96522be72207_2023-12-05_2247516431_8gFiubjwnW.y.tar.gz",
+        "censored_date": "2023-12-07 23:12:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-06 21:07:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MDA2MTc3MA==&mid=2647759043&idx=1&sn=5e9cd8a82e90ebef93b51ba266d7e296",
+        "title": "刚刚！突然宣布：全体已婚女性彻底沸腾了！！",
+        "nickname": "北游独立评论",
+        "created_at": "2023-12-04",
+        "archive": "gh_ecf04b6af469_2023-12-04_2647759043_1bxdhBjpqE.y.tar.gz",
+        "censored_date": "2023-12-07 23:15:23",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-06 21:11:13"
     }
 ]
