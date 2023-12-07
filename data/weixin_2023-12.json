@@ -2708,7 +2708,8 @@
         "created_at": "2023-12-05",
         "archive": "gh_851735f64eee_2023-12-05_2247504075_CmGMXqbAoW.y.tar.gz",
         "censored_date": "2023-12-06 23:14:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-08 00:23:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDQ2NjM3NA==&mid=2247503145&idx=1&sn=b8ace9d180c69ef56420524eebd0a268",
@@ -2718,7 +2719,8 @@
         "created_at": "2023-12-05",
         "archive": "gh_f59a99d1715b_2023-12-05_2247503145_OM9j58X1RH.y.tar.gz",
         "censored_date": "2023-12-06 23:39:23",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-08 00:30:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI0NDI0NDM2Mw==&mid=2247490753&idx=1&sn=48b7ca2a54a7cfb68d3ffec628378652",
@@ -2952,6 +2954,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516431&idx=3&sn=e1711a2e7cf146ee3cc58623cfb4c358",
         "title": "现在的农村孩子，连架都打不起来了?",
+        "title_eng": "Todayâ€™s rural children canâ€™t even fight?",
         "nickname": "每日乐评",
         "created_at": "2023-12-05",
         "archive": "gh_96522be72207_2023-12-05_2247516431_8gFiubjwnW.y.tar.gz",
@@ -2962,11 +2965,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1MDA2MTc3MA==&mid=2647759043&idx=1&sn=5e9cd8a82e90ebef93b51ba266d7e296",
         "title": "刚刚！突然宣布：全体已婚女性彻底沸腾了！！",
+        "title_eng": "just! Suddenly announced: All married women are completely excited! !",
         "nickname": "北游独立评论",
         "created_at": "2023-12-04",
         "archive": "gh_ecf04b6af469_2023-12-04_2647759043_1bxdhBjpqE.y.tar.gz",
         "censored_date": "2023-12-07 23:15:23",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-06 21:11:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3MDcxNDYxOQ==&mid=2650305432&idx=3&sn=5be48ce9dd4e2072c5cb2a69eda45506",
+        "title": "铁打的连花清瘟，流水的病",
+        "title_eng": "Lianhua Qingwen is a disease that is made of iron, and a disease that is caused by running water",
+        "nickname": "宾曰语云",
+        "created_at": "2023-12-05",
+        "archive": "gh_b61bafb1cb59_2023-12-05_2650305432_FE4ViZfG5U.y.tar.gz",
+        "censored_date": "2023-12-07 23:47:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-06 22:44:18"
     }
 ]
