@@ -2808,6 +2808,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwNDM1MTk4NA==&mid=2247548715&idx=1&sn=320bbc6bfa6cd66b5408d711f338b850",
         "title": "连花清瘟、核酸检测、新冠疫苗……那些消失的事物，又陆续回来了？",
+        "title_eng": "Lianhua Qingwen, nucleic acid testing, COVID-19 vaccine...are those things that disappeared coming back one after another?",
         "nickname": "常识流通处",
         "created_at": "2023-12-03",
         "archive": "gh_612917ae95b0_2023-12-03_2247548715_8W1Xnsk5Ip.y.tar.gz",
@@ -2829,6 +2830,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NzMzNTc0NQ==&mid=2247496738&idx=1&sn=0459c3073d1c5844afcf3e3bbf3a6bbc",
         "title": "决定女性衰老速度的行为，运动第三，睡觉第二，第一很多人做不到",
+        "title_eng": "The behaviors that determine the rate of aging of women are exercise third, sleep second, and first many people cannot do it.",
         "nickname": "贵平老师",
         "created_at": "2023-12-04",
         "archive": "gh_05951e8aa6fd_2023-12-04_2247496738_7e0CF4N5gB.y.tar.gz",
@@ -2839,10 +2841,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTc0ODY4Mg==&mid=2666086922&idx=1&sn=78ef16f007195e7855d84094db0297c2",
         "title": "[聚焦]大温这里偷偷搞大动作？！一文速查有什么秘密！",
+        "title_eng": "[Focus] Is there a big move in Greater Vancouver secretly? ! Whatâ€™s the secret of a quick search!",
         "nickname": "温哥华头条",
         "created_at": "2023-12-06",
         "archive": "gh_2788058fd651_2023-12-06_2666086922_FXf8GM0joC.y.tar.gz",
         "censored_date": "2023-12-07 15:11:56",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541002&idx=2&sn=0e852990243747540bca096c40cdf47f",
+        "title": "上班族注意!免试入学拿本科学历，最高补贴8000元! 政策扶持，名额有限，速看",
+        "nickname": "律法帝国",
+        "created_at": "2023-12-05",
+        "archive": "gh_b3c0e9559e02_2023-12-05_2247541002_Q2htf9qkKv.y.tar.gz",
+        "censored_date": "2023-12-07 15:32:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzQwMTQ3OQ==&mid=2649535927&idx=1&sn=35467e803ce6076ab6ea69cd65833d1e",
+        "title": "携家带口“润”美国！这些华人现在在干啥？没拿到身份，孩子免费上学，大人做工...",
+        "nickname": "洛杉矶华人圈",
+        "created_at": "2023-12-06",
+        "archive": "gh_179ef88e69be_2023-12-06_2649535927_SUuK4krCDa.y.tar.gz",
+        "censored_date": "2023-12-07 15:38:00",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
