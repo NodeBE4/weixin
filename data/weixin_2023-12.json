@@ -2570,7 +2570,7 @@
         "archive": "gh_b61bafb1cb59_2023-12-04_2650305415_CcuBjkTvq0.y.tar.gz",
         "censored_date": "2023-12-06 11:27:14",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-12-05 11:55:48"
+        "update_date": "2023-12-07 17:54:02"
     },
     {
         "url": "mp.weixin.qq.com/s/GN-50LGqIWogrrnQfPDExw",
@@ -2871,6 +2871,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4MTg0MTk0Nw==&mid=2676134735&idx=1&sn=76888917406db9485a9a2ef6e1770fae",
         "title": "必须公开！",
+        "title_eng": "It must be made public!",
         "nickname": "毒舌女",
         "created_at": "2023-12-01",
         "archive": "gh_98589e99a248_2023-12-01_2676134735_ASeavQ2RVY.y.tar.gz",
@@ -2880,10 +2881,38 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3Nzk3NzYxOQ==&mid=2650977615&idx=1&sn=876ea88b8303c224d06806ea8e215218",
         "title": "突发！今天全体在职人员要彻底沸腾了！这波惊喜来得太突然啦！",
+        "title_eng": "Sudden! All employees are going to be completely excited today! This surprise came too suddenly!",
         "nickname": "齐俊杰看财经",
         "created_at": "2023-12-05",
         "archive": "gh_7c1e674cacab_2023-12-05_2650977615_lCaDknzd0m.y.tar.gz",
         "censored_date": "2023-12-07 16:57:17",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247551086&idx=1&sn=cf054d566fbef6761f9d283d328e09e4",
+        "title": "一路走好！61岁刘德华突然发文宣布噩耗，字字戳心，让人泪目……",
+        "nickname": "贝菈小姐",
+        "created_at": "2023-12-05",
+        "archive": "gh_a9c6a20e4f84_2023-12-05_2247551086_XeuZR2L65i.y.tar.gz",
+        "censored_date": "2023-12-07 17:59:11",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxODYwODc3MQ==&mid=2649999865&idx=2&sn=90c225eb3f958dff16f0196560d52bc3",
+        "title": "今年这情况......我劝大家还是多留一手准备吧！",
+        "nickname": "民商事实务",
+        "created_at": "2023-12-06",
+        "archive": "gh_b5d4aa36d7fc_2023-12-06_2649999865_lrBQL0xcta.y.tar.gz",
+        "censored_date": "2023-12-07 18:14:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247573958&idx=1&sn=2c7cec397a73e4e89a452c27650058b2",
+        "title": "坐车rou偿，深夜的网约车，那叫一个刺激！",
+        "nickname": "重生道",
+        "created_at": "2023-12-05",
+        "archive": "gh_efdfc4769f39_2023-12-05_2247573958_0bMIn1SN7O.y.tar.gz",
+        "censored_date": "2023-12-07 18:23:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
