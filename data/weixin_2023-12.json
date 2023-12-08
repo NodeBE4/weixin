@@ -2933,7 +2933,7 @@
         "archive": "gh_efdfc4769f39_2023-12-05_2247573958_0bMIn1SN7O.y.tar.gz",
         "censored_date": "2023-12-07 18:23:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-08 21:03:21"
+        "update_date": "2023-12-09 03:40:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4MjUzNDc2Nw==&mid=2247499806&idx=5&sn=77004d6d4f43117ff7630bf594d01d45",
@@ -3120,7 +3120,7 @@
         "archive": "gh_47a9a35a129b_2023-12-01_2653453389_fNH6wUpT4A.y.tar.gz",
         "censored_date": "2023-12-08 09:13:51",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-07 20:02:45"
+        "update_date": "2023-12-09 04:18:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649674412&idx=3&sn=7445b2e3591f7cd1eac61726cda77df5",
@@ -3372,10 +3372,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxOTUyMjQ5NA==&mid=2247541507&idx=2&sn=76f09eace2a165e5424f8c19ccd497f9",
         "title": "TVB港剧《新闻女王》第21集▸粤语▸关注免费观看！佘诗曼 / 马国明 / 李施嬅 / 高海宁",
+        "title_eng": "TVB Hong Kong drama News Queen Episode 21â–¸Cantoneseâ–¸Follow to watch for free! Charmaine Sheh / Ma Guoming / Li Shihua / Gao Haining",
         "nickname": "港澳湾那些事儿",
         "created_at": "2023-12-07",
         "archive": "gh_7001ed9b2b9f_2023-12-07_2247541507_ApjWC0sQbF.y.tar.gz",
         "censored_date": "2023-12-09 02:50:21",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653453537&idx=2&sn=7fd86121b2b085ade2f9a8cbe5e25b0e",
+        "title": "通知：2023年心理咨询师报名通道开启！12月9日截止报名！！！",
+        "nickname": "亲子派",
+        "created_at": "2023-12-05",
+        "archive": "gh_47a9a35a129b_2023-12-05_2653453537_aNQYdmSTXV.y.tar.gz",
+        "censored_date": "2023-12-09 04:14:21",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-08 09:13:28"
     }
 ]
