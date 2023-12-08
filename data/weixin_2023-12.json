@@ -2855,7 +2855,8 @@
         "created_at": "2023-12-06",
         "archive": "gh_2788058fd651_2023-12-06_2666086922_FXf8GM0joC.y.tar.gz",
         "censored_date": "2023-12-07 15:11:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-08 18:53:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541002&idx=2&sn=0e852990243747540bca096c40cdf47f",
@@ -3211,6 +3212,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247744147&idx=2&sn=23ca9236972326b894ee15a82a3b7507",
         "title": "在职本科以下学历直升本科，免试入学，无需到校，灵活在岗就读，速报！",
+        "title_eng": "Those with an on-the-job bachelor's degree or below can go directly to a bachelor's degree. There is no need to take an exam for admission. There is no need to go to school. Flexible on-the-job study. Quick registration!",
         "nickname": "志愿云",
         "created_at": "2023-12-07",
         "archive": "gh_63cc4b4ef76d_2023-12-07_2247744147_2HsTB8Wm7w.y.tar.gz",
@@ -3220,10 +3222,31 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247645994&idx=6&sn=15bc06c67f1919f07e90965c791a3bc4",
         "title": "审判员错将借贷关系定性为投资合伙关系，“三个规定”0报告的，受到处分...",
+        "title_eng": "The judge mistakenly characterized the lending relationship as an investment partnership and reported zero of the Three Provisions and was punished...",
         "nickname": "第一法商",
         "created_at": "2023-12-07",
         "archive": "gh_5980b8ba5607_2023-12-07_2247645994_M1YaszmLNg.y.tar.gz",
         "censored_date": "2023-12-08 17:59:06",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247575118&idx=8&sn=55d1cceeb6d028379f5c3c62b836f91b",
+        "title": "玩逆水寒“找了好几个妹妹”！知名男主播“自爆大瓜”！28被曝猛料！",
+        "nickname": "DY趣事",
+        "created_at": "2023-12-06",
+        "archive": "gh_b50997668f3b_2023-12-06_2247575118_PlDWXYErqe.y.tar.gz",
+        "censored_date": "2023-12-08 18:37:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-07 14:45:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247575118&idx=3&sn=18293662ad1976eaf601e5c765a70ca7",
+        "title": "百级男主播“涉D被抓”！众多真爱粉“失望脱粉”！删除多年粉丝牌！",
+        "nickname": "DY趣事",
+        "created_at": "2023-12-06",
+        "archive": "gh_b50997668f3b_2023-12-06_2247575118_wJ2j0HObfr.y.tar.gz",
+        "censored_date": "2023-12-08 18:42:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-07 14:43:49"
     }
 ]
