@@ -3196,7 +3196,8 @@
         "created_at": "2023-12-07",
         "archive": "gh_96522be72207_2023-12-07_2247516471_zv47wJAdH8.y.tar.gz",
         "censored_date": "2023-12-08 16:45:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-09 18:31:50"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247574218&idx=1&sn=9dc9b07ca9ee989b25c79fe3e88cc319",
@@ -3206,7 +3207,8 @@
         "created_at": "2023-12-06",
         "archive": "gh_efdfc4769f39_2023-12-06_2247574218_WyiRw0MFo9.y.tar.gz",
         "censored_date": "2023-12-08 17:20:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-09 18:31:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541044&idx=3&sn=768a7e8765b02f38bdfa72e96d02ade1",
@@ -3227,7 +3229,8 @@
         "created_at": "2023-12-07",
         "archive": "gh_63cc4b4ef76d_2023-12-07_2247744147_2HsTB8Wm7w.y.tar.gz",
         "censored_date": "2023-12-08 17:45:42",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-09 18:53:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2OTc1NzgzNg==&mid=2247645994&idx=6&sn=15bc06c67f1919f07e90965c791a3bc4",
@@ -3447,10 +3450,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652118932&idx=1&sn=cc3529a2d8465af308cc6eabc52ebc1b",
         "title": "罕见！李嘉诚&quot;经理人&quot;曝光最新动向，涉及股市！&quot;庄股&quot;重挫，背后发生了什么？",
+        "title_eng": "rare! Li Ka-shing",
         "nickname": "券商中国",
         "created_at": "2023-12-08",
         "archive": "gh_6df2146bcb82_2023-12-08_2652118932_jeG4nX0Eth.y.tar.gz",
         "censored_date": "2023-12-09 17:58:07",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4Mzk2NTAyNA==&mid=2650673716&idx=1&sn=037e557d7e20fc75c0f30951d611b9d1",
+        "title": "山东台成20万“中老年妇女的偶像”，旗下团队一年带货五千万",
+        "nickname": "观媒智库",
+        "created_at": "2023-12-08",
+        "archive": "gh_c695be0e45ae_2023-12-08_2650673716_olEFGC1nbu.y.tar.gz",
+        "censored_date": "2023-12-09 18:49:17",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
