@@ -3131,7 +3131,7 @@
         "archive": "gh_2ac9b41ee17c_2023-12-05_2649674412_0TSjwULyhl.y.tar.gz",
         "censored_date": "2023-12-08 11:38:27",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-07 22:42:18"
+        "update_date": "2023-12-09 17:25:27"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMTk2NjU3Nw==&mid=2247592157&idx=3&sn=5e9d0f0118cc2235e63cdc1dd438ef1d",
@@ -3142,7 +3142,7 @@
         "archive": "gh_7dca582a80de_2023-12-05_2247592157_FbsvigTnIa.y.tar.gz",
         "censored_date": "2023-12-08 12:46:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-08 03:16:36"
+        "update_date": "2023-12-09 17:36:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIxMTk2NjU3Nw==&mid=2247592123&idx=3&sn=a469e6fb41c609caed1916c7759e003b",
@@ -3164,7 +3164,7 @@
         "archive": "gh_7dca582a80de_2023-12-06_2247592200_nU0fsuQmYJ.y.tar.gz",
         "censored_date": "2023-12-08 12:45:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-08 03:14:54"
+        "update_date": "2023-12-09 17:36:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247671867&idx=2&sn=dbf3845e43c380980844921ca48d0547",
@@ -3174,7 +3174,8 @@
         "created_at": "2023-12-07",
         "archive": "gh_ae36af7e44bd_2023-12-07_2247671867_FfD7GN4kcQ.y.tar.gz",
         "censored_date": "2023-12-08 15:18:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-09 17:54:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516459&idx=3&sn=3443601f80ecd9296e7a261bfa1419f5",
@@ -3436,10 +3437,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247574413&idx=1&sn=b273b7a83ee0d2f9c80227132234b2b4",
         "title": "玩偶姐姐在线招聘男主角，8个标准曝光！",
+        "title_eng": "Sister Doll is recruiting male protagonists online, and 8 criteria are exposed!",
         "nickname": "重生道",
         "created_at": "2023-12-07",
         "archive": "gh_efdfc4769f39_2023-12-07_2247574413_1jwlfVIAET.y.tar.gz",
         "censored_date": "2023-12-09 16:48:15",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652118932&idx=1&sn=cc3529a2d8465af308cc6eabc52ebc1b",
+        "title": "罕见！李嘉诚&quot;经理人&quot;曝光最新动向，涉及股市！&quot;庄股&quot;重挫，背后发生了什么？",
+        "nickname": "券商中国",
+        "created_at": "2023-12-08",
+        "archive": "gh_6df2146bcb82_2023-12-08_2652118932_jeG4nX0Eth.y.tar.gz",
+        "censored_date": "2023-12-09 17:58:07",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
