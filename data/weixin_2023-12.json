@@ -3493,7 +3493,8 @@
         "created_at": "2023-12-09",
         "archive": "gh_efdfc4769f39_2023-12-09_2247574808_h62E0OsYo4.y.tar.gz",
         "censored_date": "2023-12-10 11:41:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-11 10:23:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516568&idx=2&sn=5d5e9e83db0f2c78d04a387d3392da2b",
@@ -3575,5 +3576,16 @@
         "archive": "gh_2ff5d816ea7a_2023-12-09_2651203697_RLpBTsIhdK.y.tar.gz",
         "censored_date": "2023-12-11 04:49:03",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNDgwMjc5NQ==&mid=2247499031&idx=1&sn=4beb3b2045559aaaf7ddd138a3ee4247",
+        "title": "《唐顿庄园》全6季合集：每天刷一集，英语口语、听力水平蹭蹭涨！",
+        "title_eng": "A collection of all 6 seasons of Downton Abbey: watch one episode every day to improve your English speaking and listening skills!",
+        "nickname": "虞乐仲",
+        "created_at": "2023-12-08",
+        "archive": "gh_1aa55fadd2a2_2023-12-08_2247499031_QetahWI8nP.y.tar.gz",
+        "censored_date": "2023-12-11 10:12:31",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-10 11:36:14"
     }
 ]
