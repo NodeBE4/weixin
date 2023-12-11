@@ -3494,7 +3494,7 @@
         "archive": "gh_efdfc4769f39_2023-12-09_2247574808_h62E0OsYo4.y.tar.gz",
         "censored_date": "2023-12-10 11:41:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-11 10:23:53"
+        "update_date": "2023-12-12 02:40:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516568&idx=2&sn=5d5e9e83db0f2c78d04a387d3392da2b",
@@ -3505,7 +3505,7 @@
         "archive": "gh_96522be72207_2023-12-09_2247516568_KF7R0eu09D.y.tar.gz",
         "censored_date": "2023-12-10 12:12:17",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-11 10:39:11"
+        "update_date": "2023-12-12 02:55:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247516568&idx=4&sn=4ae5ffa31e9d727aebb118e92c974954",
@@ -3527,7 +3527,7 @@
         "archive": "gh_ec6dcd28a470_2023-12-08_2651607824_gJVph20zKS.y.tar.gz",
         "censored_date": "2023-12-10 12:14:20",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-11 10:36:39"
+        "update_date": "2023-12-12 02:52:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247574593&idx=1&sn=830d11fe3b4643cdcdf0c2f79e62391b",
@@ -3591,7 +3591,7 @@
         "archive": "gh_1aa55fadd2a2_2023-12-08_2247499031_QetahWI8nP.y.tar.gz",
         "censored_date": "2023-12-11 10:12:31",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-10 11:36:14"
+        "update_date": "2023-12-12 02:32:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzk0NTE3MjY4MA==&mid=2247487024&idx=1&sn=8d88147d98afcb012d2c9a99179c1a1f",
@@ -3672,6 +3672,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247672268&idx=2&sn=0bcccdb7d01b237ad6776fe8c287da13",
         "title": "拆解64集BBC纪录片，每天看一集，英语水平超大多数国人.......",
+        "title_eng": "Dismantling 64 episodes of BBC documentaries, watching one episode every day, the English level is better than that of most Chinese people...",
         "nickname": "魔都囡",
         "created_at": "2023-12-09",
         "archive": "gh_ae36af7e44bd_2023-12-09_2247672268_dz20kemZbs.y.tar.gz",
@@ -3682,6 +3683,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247672021&idx=2&sn=ccda4c1092b5700c6a622a18e6448c2d",
         "title": "建了个手机剪辑交流群！免费教手机剪辑，速进！（禁止外传）",
+        "title_eng": "Created a mobile editing exchange group! Free teaching on mobile phone editing, quick progress! (No external communication allowed)",
         "nickname": "魔都囡",
         "created_at": "2023-12-08",
         "archive": "gh_ae36af7e44bd_2023-12-08_2247672021_p3MYTHWIlS.y.tar.gz",
@@ -3692,6 +3694,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651203484&idx=3&sn=13a57af5bc1dacbd1a279eae109323cd",
         "title": "今年新出的15条倡议，句句是大实话，建议离退休人员看看！",
+        "title_eng": "The 15 new initiatives released this year are all true. Retirees are advised to take a look!",
         "nickname": "新老人",
         "created_at": "2023-12-08",
         "archive": "gh_2ff5d816ea7a_2023-12-08_2651203484_D7Onm6SzHC.y.tar.gz",
@@ -3702,11 +3705,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjkyMDc2Mg==&mid=2651203697&idx=5&sn=849498aa58065dece31af6e00612fcef",
         "title": "女人最佳“绝经期”公布！不是45岁，而是这个数：越接近越健康！",
+        "title_eng": "The best menopausal period for women is announced! Not 45 years old, but this number: the closer it is, the healthier it is!",
         "nickname": "新老人",
         "created_at": "2023-12-09",
         "archive": "gh_2ff5d816ea7a_2023-12-09_2651203697_13lL27wZDc.y.tar.gz",
         "censored_date": "2023-12-12 02:01:19",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-11 04:49:55"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552647&idx=2&sn=154580fbe4e8493cf30eba0ddfa7a378",
+        "title": "论文辅导 | 拒绝躺平！硕博毕业论文如何逆袭，看完你就懂了~",
+        "nickname": "口述历史",
+        "created_at": "2023-12-09",
+        "archive": "gh_f37c9048d287_2023-12-09_2649552647_Tte2OAPy0g.y.tar.gz",
+        "censored_date": "2023-12-12 02:58:14",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-11 05:33:45"
     }
 ]
