@@ -3956,7 +3956,7 @@
         "archive": "gh_7001ed9b2b9f_2023-12-08_2247541546_dcT8kWsMt0.y.tar.gz",
         "censored_date": "2023-12-13 14:39:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-14 17:13:18"
+        "update_date": "2023-12-15 14:47:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247737272&idx=6&sn=040ee595bd0b6f7eb6eb09a2abe04982",
@@ -4011,7 +4011,7 @@
         "archive": "gh_36dfda0fb531_2023-12-06_2247737120_GiQh5Yq7gZ.y.tar.gz",
         "censored_date": "2023-12-13 15:24:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-14 17:12:55"
+        "update_date": "2023-12-15 14:46:46"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247737120&idx=3&sn=6f66171163903045207f021596574241",
@@ -4022,7 +4022,7 @@
         "archive": "gh_36dfda0fb531_2023-12-06_2247737120_7UCGLQTPsw.y.tar.gz",
         "censored_date": "2023-12-13 15:24:03",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-14 17:13:41"
+        "update_date": "2023-12-15 14:47:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247575534&idx=3&sn=aefa3324d81ba278f977dbcf6abfb03f",
@@ -4033,7 +4033,7 @@
         "archive": "gh_b50997668f3b_2023-12-10_2247575534_ZjIkaf10O9.y.tar.gz",
         "censored_date": "2023-12-13 16:31:52",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-14 17:47:03"
+        "update_date": "2023-12-15 15:17:35"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247519161&idx=1&sn=2d546f099d1c274591db239acd4cd2ae",
@@ -4663,6 +4663,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198741&idx=3&sn=fdd5d952f85b1a48507ada182c6defa7",
         "title": "新警的派出所“进化论”",
+        "title_eng": "The Evolution Theory of the New Police Station",
         "nickname": "基层业务",
         "created_at": "2023-12-10",
         "archive": "gh_1344ec61ae9a_2023-12-10_2649198741_ft1AS0PsmM.y.tar.gz",
@@ -4673,11 +4674,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198741&idx=4&sn=e580b4ac5917bfb52bbc0da3dd039116",
         "title": "王小洪有新职务！",
+        "title_eng": "Wang Xiaohong has a new position!",
         "nickname": "基层业务",
         "created_at": "2023-12-10",
         "archive": "gh_1344ec61ae9a_2023-12-10_2649198741_H0tXTiBfQ9.y.tar.gz",
         "censored_date": "2023-12-15 14:13:35",
         "censored_msg": "该公众号已迁移",
         "update_date": "2023-12-14 16:36:36"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247519161&idx=4&sn=30dc969733e4d41f75d424872fbed417",
+        "title": "惨-烈！都熟了……",
+        "nickname": "曾经de道哥",
+        "created_at": "2023-12-11",
+        "archive": "gh_a791b9844790_2023-12-11_2247519161_Q9Yq2EyUdr.y.tar.gz",
+        "censored_date": "2023-12-15 15:16:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-14 17:45:27"
     }
 ]
