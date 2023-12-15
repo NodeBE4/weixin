@@ -3923,7 +3923,7 @@
         "archive": "gh_f59a99d1715b_2023-12-11_2247503170_n0CIKRQ4M9.y.tar.gz",
         "censored_date": "2023-12-13 12:06:46",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-14 16:10:47"
+        "update_date": "2023-12-15 13:50:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjE1MzgzMQ==&mid=2653302725&idx=1&sn=4c57d0c07a9aea35c0c2cc70ababe3d0",
@@ -4608,6 +4608,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198791&idx=1&sn=a15fdfaf56fb3306637502584747ec6b",
         "title": "基层公安派出所是怎样炼成的→",
+        "title_eng": "How the grassroots police station was built â†’",
         "nickname": "基层业务",
         "created_at": "2023-12-12",
         "archive": "gh_1344ec61ae9a_2023-12-12_2649198791_IvLsBJ9KaU.y.tar.gz",
@@ -4618,6 +4619,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198791&idx=2&sn=46fc24cc6bef52cafa7a232e20166d05",
         "title": "降温了，是时候来条六代加绒通勤裤了！",
+        "title_eng": "The temperature is cooling down, itâ€™s time to grab a pair of sixth-generation fleece commuter pants!",
         "nickname": "基层业务",
         "created_at": "2023-12-12",
         "archive": "gh_1344ec61ae9a_2023-12-12_2649198791_JWIMcSl9mo.y.tar.gz",
@@ -4628,6 +4630,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198735&idx=3&sn=61be971b0a0d5995485943795e347849",
         "title": "现行的《治安管理处罚法》对作出拘留决定，并无明确规定须经行政机关负责人集体讨论决定",
+        "title_eng": "The current Public Security Administration Punishment Law does not clearly stipulate that the decision to make a detention must be subject to collective discussion and decision by the person in charge of the administrative agency.",
         "nickname": "基层业务",
         "created_at": "2023-12-09",
         "archive": "gh_1344ec61ae9a_2023-12-09_2649198735_DXlwi0J59Q.y.tar.gz",
@@ -4638,6 +4641,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198728&idx=3&sn=e2b885d03a2e374f01fb1a072c359a67",
         "title": "《反电信网络诈骗法》处罚裁量基准（征求意见稿）",
+        "title_eng": "Anti-Telecommunications and Internet Fraud Law Penalty Discretionary Baselines (Draft for Comments)",
         "nickname": "基层业务",
         "created_at": "2023-12-08",
         "archive": "gh_1344ec61ae9a_2023-12-08_2649198728_0lA7wkJD8f.y.tar.gz",
@@ -4648,11 +4652,32 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198791&idx=3&sn=67f5f1df6b3aa5144c20cfbdddeebe50",
         "title": "100人！天津公安招聘辅警！大专即可报名！",
+        "title_eng": "100 people! Tianjin Public Security Bureau is recruiting auxiliary police officers! You can register for junior college!",
         "nickname": "基层业务",
         "created_at": "2023-12-12",
         "archive": "gh_1344ec61ae9a_2023-12-12_2649198791_K23JwE8QkB.y.tar.gz",
         "censored_date": "2023-12-15 13:02:07",
         "censored_msg": "该公众号已迁移",
         "update_date": "2023-12-14 15:18:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198741&idx=3&sn=fdd5d952f85b1a48507ada182c6defa7",
+        "title": "新警的派出所“进化论”",
+        "nickname": "基层业务",
+        "created_at": "2023-12-10",
+        "archive": "gh_1344ec61ae9a_2023-12-10_2649198741_ft1AS0PsmM.y.tar.gz",
+        "censored_date": "2023-12-15 14:13:11",
+        "censored_msg": "该公众号已迁移",
+        "update_date": "2023-12-14 16:36:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzOTEzNzI5Ng==&mid=2649198741&idx=4&sn=e580b4ac5917bfb52bbc0da3dd039116",
+        "title": "王小洪有新职务！",
+        "nickname": "基层业务",
+        "created_at": "2023-12-10",
+        "archive": "gh_1344ec61ae9a_2023-12-10_2649198741_H0tXTiBfQ9.y.tar.gz",
+        "censored_date": "2023-12-15 14:13:35",
+        "censored_msg": "该公众号已迁移",
+        "update_date": "2023-12-14 16:36:36"
     }
 ]
