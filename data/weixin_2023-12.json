@@ -6298,7 +6298,8 @@
         "created_at": "2023-12-20",
         "archive": "gh_cbe49e48bd1e_2023-12-20_2247571684_h8D76Yy1RQ.y.tar.gz",
         "censored_date": "2023-12-21 22:41:04",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-23 02:49:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247564687&idx=2&sn=ba89b5c5775e279a7ca2d3783eb6b7e7",
@@ -6308,7 +6309,8 @@
         "created_at": "2023-12-16",
         "archive": "gh_46b1ce89978a_2023-12-16_2247564687_Ii1TvcYkZf.y.tar.gz",
         "censored_date": "2023-12-21 23:10:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-23 02:49:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTA5Nzg1Ng==&mid=2247564723&idx=2&sn=b2d07e69c86ba029ee622fa3c9d5b9e0",
@@ -6635,5 +6637,16 @@
         "archive": "gh_4c63fcb04eaf_2023-12-20_2247987758_nTKGgPhyVA.y.tar.gz",
         "censored_date": "2023-12-23 00:56:12",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTczNTA4MA==&mid=2247505169&idx=1&sn=d8e81e3a42865423fe673ef70b142d56",
+        "title": "酱香酒，危险了！",
+        "title_eng": "Maotai-flavor wine is in danger!",
+        "nickname": "海外博士学者圈子",
+        "created_at": "2023-12-20",
+        "archive": "gh_5adc0787d242_2023-12-20_2247505169_o4ByDOFhUI.y.tar.gz",
+        "censored_date": "2023-12-23 03:14:40",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-22 08:31:00"
     }
 ]
