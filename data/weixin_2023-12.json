@@ -7144,7 +7144,8 @@
         "created_at": "2023-12-21",
         "archive": "gh_47a9a35a129b_2023-12-21_2653454092_brjIPBsi6d.y.tar.gz",
         "censored_date": "2023-12-24 01:51:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 21:37:10"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247503444&idx=1&sn=deab9c1739a2c7f49b1feed4298b6776",
@@ -7166,7 +7167,7 @@
         "archive": "gh_c316ab540b5d_2023-12-21_2247608197_jIhMte07aV.y.tar.gz",
         "censored_date": "2023-12-24 01:25:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-22 17:40:17"
+        "update_date": "2023-12-24 22:08:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247519309&idx=1&sn=70e0ebc364c016986855f57158947400",
@@ -7209,7 +7210,8 @@
         "created_at": "2023-12-22",
         "archive": "gh_526cee4e55f0_2023-12-22_2247523759_T3maRvk7xI.y.tar.gz",
         "censored_date": "2023-12-24 02:13:40",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 21:49:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247607814&idx=5&sn=490e5b9d48f55011e3adbcd0f5d680d5",
@@ -7241,7 +7243,8 @@
         "created_at": "2023-12-22",
         "archive": "gh_b45221ff9185_2023-12-22_2650047709_dFqv3wtoOy.y.tar.gz",
         "censored_date": "2023-12-24 02:43:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 22:11:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NzY5NDU3OQ==&mid=2247487783&idx=2&sn=e6dbe359dd818b4d596767c6f715f855",
@@ -7356,5 +7359,16 @@
         "archive": "gh_526cee4e55f0_2023-12-23_2247523761_eqElDKfSWN.y.tar.gz",
         "censored_date": "2023-12-24 18:00:42",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247628808&idx=2&sn=5ebea28e5b76b4235ddb7a9ad05c44e6",
+        "title": "“钱”是会选人的",
+        "title_eng": "Money chooses people",
+        "nickname": "有范爸妈读书会",
+        "created_at": "2023-12-22",
+        "archive": "gh_46a785a11778_2023-12-22_2247628808_xUiutKFdLc.y.tar.gz",
+        "censored_date": "2023-12-24 21:22:33",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-23 21:59:29"
     }
 ]
