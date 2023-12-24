@@ -7146,7 +7146,8 @@
         "created_at": "2023-12-19",
         "archive": "gh_5771ce1bec7d_2023-12-19_2247503444_2zE1yKF0i5.y.tar.gz",
         "censored_date": "2023-12-24 02:02:49",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 10:43:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247608197&idx=4&sn=bf72a1ff2a64fb64384e09b9e9146e43",
@@ -7208,7 +7209,7 @@
         "archive": "gh_c316ab540b5d_2023-12-18_2247607814_iMbJzPn8ox.y.tar.gz",
         "censored_date": "2023-12-24 02:35:42",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-22 17:48:32"
+        "update_date": "2023-12-24 10:59:02"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247607945&idx=5&sn=06cfa50b0eb8ae009b96453dbb7e07af",
@@ -7219,7 +7220,7 @@
         "archive": "gh_c316ab540b5d_2023-12-19_2247607945_mac72nyMt9.y.tar.gz",
         "censored_date": "2023-12-24 02:34:53",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-22 17:45:54"
+        "update_date": "2023-12-24 10:58:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjAzNzgyMA==&mid=2650047709&idx=2&sn=150cb7d384e920b5f95b41f7b5d4f5d4",
@@ -7272,5 +7273,15 @@
         "censored_date": "2023-12-24 05:25:31",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-23 19:17:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5MjI2NDIzOA==&mid=2796391640&idx=2&sn=b01faa4608190132d30a3119904ff58f",
+        "title": "龙生肖特种邮票，一票难求 ！",
+        "nickname": "钱生钱",
+        "created_at": "2023-12-21",
+        "archive": "gh_3282d7c3e272_2023-12-21_2796391640_7cNQjKtewO.y.tar.gz",
+        "censored_date": "2023-12-24 11:09:16",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 01:31:56"
     }
 ]
