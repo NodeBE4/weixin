@@ -7329,7 +7329,8 @@
         "created_at": "2023-12-22",
         "archive": "gh_b3c0e9559e02_2023-12-22_2247541449_TPKgUFv8cG.y.tar.gz",
         "censored_date": "2023-12-24 14:53:05",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-25 07:55:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247517146&idx=1&sn=96caf77585feb9834183a6b32dbfe06f",
@@ -7339,7 +7340,8 @@
         "created_at": "2023-12-23",
         "archive": "gh_96522be72207_2023-12-23_2247517146_SqNUPJioh5.y.tar.gz",
         "censored_date": "2023-12-24 16:17:51",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-25 09:09:36"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkyODE4NzM4NA==&mid=2247519320&idx=1&sn=ebb2d6f08b8fc4131a25457b486bd4d7",
@@ -7371,5 +7373,15 @@
         "censored_date": "2023-12-24 21:22:33",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-25 03:01:35"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3NDY1NTQyNA==&mid=2247547160&idx=3&sn=de5fc6d6f663730d6cea50247292c707",
+        "title": "深圳，怎么了？",
+        "nickname": "中产先生",
+        "created_at": "2023-12-20",
+        "archive": "gh_3defe3adf3fd_2023-12-20_2247547160_jgrFvAIQNa.y.tar.gz",
+        "censored_date": "2023-12-25 09:30:09",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-24 16:40:55"
     }
 ]
