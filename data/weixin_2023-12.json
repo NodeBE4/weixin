@@ -7471,7 +7471,8 @@
         "created_at": "2023-12-25",
         "archive": "gh_9efaafe1944e_2023-12-25_2650541494_5Aeui90gV6.y.tar.gz",
         "censored_date": "2023-12-25 18:15:17",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-12-26 11:01:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247744438&idx=2&sn=7f5aa9d15e4453b1c0f95e7e65ee78f4",
@@ -7498,6 +7499,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247739600&idx=1&sn=9b888a34fb528cf50d3c9b58910fe811",
         "title": "地狱难度的大凉山扶贫，第三阶段攻坚战的任务是教吃饭",
+        "title_eng": "In the hellish difficulty of poverty alleviation in Daliangshan, the task of the third stage of the battle is to teach people how to eat",
         "nickname": "远方青木",
         "created_at": "2023-12-25",
         "archive": "gh_36dfda0fb531_2023-12-25_2247739600_idesnYmUbK.y.tar.gz",
@@ -7507,10 +7509,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5ODc0NTc1Mw==&mid=2652055546&idx=1&sn=96d2eb6df700f0ca179a7a4b6c1b1b93",
         "title": "母校有约，现场聆听莫言谈创作，文字实录",
+        "title_eng": "An appointment at my alma mater to listen to Mo Yan talk about his creative writing, with written transcripts",
         "nickname": "书写者",
         "created_at": "2023-12-25",
         "archive": "gh_e7e444fbeaed_2023-12-25_2652055546_IyYxS9VKCb.y.tar.gz",
         "censored_date": "2023-12-26 10:04:29",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523768&idx=1&sn=9a3ea64de308a865e905452b21ed4540",
+        "title": "Video",
+        "nickname": "曾经的道哥",
+        "created_at": "2023-12-25",
+        "archive": "gh_526cee4e55f0_2023-12-25_2247523768_NLz53AMdKo.y.tar.gz",
+        "censored_date": "2023-12-26 10:55:26",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MjM5ODc2NjUwNA==&mid=2651806600&idx=3&sn=1dd985854e6372ba9dec16e06a59ca4f",
+        "title": "专属福利来了！“新年玩3D 快乐做公益”线上活动即将开始！",
+        "nickname": "掌上巴彦淖尔",
+        "created_at": "2023-12-25",
+        "archive": "gh_406bfb3c7023_2023-12-25_2651806600_12ijGukYsA.y.tar.gz",
+        "censored_date": "2023-12-26 11:21:27",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
