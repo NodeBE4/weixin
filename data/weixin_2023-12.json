@@ -7518,7 +7518,8 @@
         "created_at": "2023-12-25",
         "archive": "gh_e7e444fbeaed_2023-12-25_2652055546_IyYxS9VKCb.y.tar.gz",
         "censored_date": "2023-12-26 10:04:29",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-27 04:53:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523768&idx=1&sn=9a3ea64de308a865e905452b21ed4540",
@@ -7624,5 +7625,15 @@
         "censored_date": "2023-12-27 03:24:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-26 12:24:31"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI2MTM4NzMwMQ==&mid=2247486553&idx=1&sn=bd05a1d1bba72e4079db992cf6fc11bc",
+        "title": "抵制圣诞，不如先抵制蠢货！",
+        "nickname": "不死鸟今曾",
+        "created_at": "2023-12-25",
+        "archive": "gh_eb41058c6456_2023-12-25_2247486553_MekFaJviz5.y.tar.gz",
+        "censored_date": "2023-12-27 04:59:54",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2023-12-26 10:15:42"
     }
 ]
