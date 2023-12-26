@@ -7311,7 +7311,7 @@
         "archive": "gh_c316ab540b5d_2023-12-19_2247607945_0Ucj6p51E7.y.tar.gz",
         "censored_date": "2023-12-24 14:23:14",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-25 15:08:46"
+        "update_date": "2023-12-26 14:21:13"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247577496&idx=1&sn=e6a609af5bd70c9fb8886245e3a035c1",
@@ -7398,7 +7398,8 @@
         "created_at": "2023-12-18",
         "archive": "gh_123bef9e7add_2023-12-18_2247697497_RMvVmdHK5E.y.tar.gz",
         "censored_date": "2023-12-25 12:32:35",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-26 14:11:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMTYxMDEwOA==&mid=2651008297&idx=1&sn=64754cf01bf487cf078dfd64887c8644",
@@ -7430,7 +7431,8 @@
         "created_at": "2023-12-24",
         "archive": "gh_372ae2bb1547_2023-12-24_2247496569_PzvjrMHfe0.y.tar.gz",
         "censored_date": "2023-12-25 13:58:14",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-26 14:16:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541469&idx=2&sn=1fac56135c2640397d194d0b762b7c8f",
@@ -7440,7 +7442,8 @@
         "created_at": "2023-12-23",
         "archive": "gh_b3c0e9559e02_2023-12-23_2247541469_Eljh097IX2.y.tar.gz",
         "censored_date": "2023-12-25 13:29:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-26 14:12:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247577704&idx=1&sn=a64a32a0294b5c46754ac56aa82539d2",
@@ -7450,7 +7453,8 @@
         "created_at": "2023-12-24",
         "archive": "gh_efdfc4769f39_2023-12-24_2247577704_XmdksWlOpD.y.tar.gz",
         "censored_date": "2023-12-25 13:51:34",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-26 14:17:23"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523766&idx=1&sn=39cabe842857e708bf3c1774e4c3b8ba",
@@ -7560,6 +7564,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656091604&idx=6&sn=34caea202d0084284e52587dbc7a3b29",
         "title": "洗衣机竟比马桶还脏！教你一招，排出10斤黑脏水，干净如新",
+        "title_eng": "The washing machine is actually dirtier than the toilet! Teach you a trick to drain out 10 pounds of black dirty water and make it as clean as new",
         "nickname": "十点读书",
         "created_at": "2023-12-22",
         "archive": "gh_5c7e8b7f586b_2023-12-22_2656091604_QC9YyTtrlX.y.tar.gz",
@@ -7570,10 +7575,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653454141&idx=2&sn=35cc71ef305251bd1cb29c7a2c0a4501",
         "title": "2024年心理咨询师报名通道开启! 可考心理证书！不限专业",
+        "title_eng": "The registration channel for psychological counselors in 2024 is open! You can take the psychological certificate! Any major",
         "nickname": "亲子派",
         "created_at": "2023-12-22",
         "archive": "gh_47a9a35a129b_2023-12-22_2653454141_fBo7xJ81YG.y.tar.gz",
         "censored_date": "2023-12-26 12:44:54",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541504&idx=2&sn=c7a5000547a8dca887bc758e185824cf",
+        "title": "突然宣布！开展高考报考指导师培训！教师家长免费申领，12月27日截止！",
+        "nickname": "律法帝国",
+        "created_at": "2023-12-25",
+        "archive": "gh_b3c0e9559e02_2023-12-25_2247541504_7kdOuEvCiW.y.tar.gz",
+        "censored_date": "2023-12-26 13:40:48",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
