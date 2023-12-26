@@ -7549,7 +7549,7 @@
         "archive": "gh_31930173e92d_2023-12-07_2247499827_0Rl2ixNrY1.y.tar.gz",
         "censored_date": "2023-12-26 12:22:18",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-25 15:56:52"
+        "update_date": "2023-12-27 03:26:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NDc2OTQzNQ==&mid=2247484361&idx=1&sn=0521341f6f289aa084442953a6074878",
@@ -7580,7 +7580,8 @@
         "created_at": "2023-12-22",
         "archive": "gh_47a9a35a129b_2023-12-22_2653454141_fBo7xJ81YG.y.tar.gz",
         "censored_date": "2023-12-26 12:44:54",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-27 03:39:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247541504&idx=2&sn=c7a5000547a8dca887bc758e185824cf",
@@ -7605,11 +7606,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543746&idx=2&sn=002dbe6fc137c7e98867bc8761d1fa69",
         "title": "新公布一个司法解释，即将开始！（全文逐条解读）",
+        "title_eng": "A new judicial interpretation has been announced and will begin soon! (Interpretation of the full text one by one)",
         "nickname": "最高办案指南",
         "created_at": "2023-12-23",
         "archive": "gh_21f5b568bfc7_2023-12-23_2247543746_4GBt98g7fV.y.tar.gz",
         "censored_date": "2023-12-27 03:10:49",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-26 11:57:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248009392&idx=2&sn=eda16e1962d422978fafaf667528dc9a",
+        "title": "皮尔卡丹男士柔绒牛仔裤，优雅的质感",
+        "title_eng": "Pierre Cardin men's soft velvet jeans, elegant texture",
+        "nickname": "凤凰网",
+        "created_at": "2023-12-24",
+        "archive": "gh_08885da058c6_2023-12-24_2248009392_6t0uT8UkCX.y.tar.gz",
+        "censored_date": "2023-12-27 03:24:27",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-26 12:24:31"
     }
 ]
