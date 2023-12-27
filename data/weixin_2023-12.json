@@ -7608,7 +7608,7 @@
         "archive": "gh_1c0e18aab9aa_2023-12-25_2247485217_ge46wXZqEs.y.tar.gz",
         "censored_date": "2023-12-26 15:01:26",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-27 07:30:16"
+        "update_date": "2023-12-28 04:09:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU0NDk2Mzc5NQ==&mid=2247543746&idx=2&sn=002dbe6fc137c7e98867bc8761d1fa69",
@@ -7952,11 +7952,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQyNjU1Mg==&mid=2247491508&idx=1&sn=339cfe5f474a279a4df41b7622196f0b",
         "title": "缅怀长津湖",
+        "title_eng": "Remembering Changjin Lake",
         "nickname": "大民工",
         "created_at": "2023-12-24",
         "archive": "gh_50a2024b5eab_2023-12-24_2247491508_tl3FsKzJyw.y.tar.gz",
         "censored_date": "2023-12-28 02:57:26",
         "censored_msg": "此内容因违规无法查看",
         "update_date": "2023-12-27 11:12:09"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247675031&idx=2&sn=7a47d0bffeff272b1cef0bb3eb613172",
+        "title": "必须公开",
+        "nickname": "魔都囡",
+        "created_at": "2023-12-25",
+        "archive": "gh_ae36af7e44bd_2023-12-25_2247675031_aVBATO4Yy1.y.tar.gz",
+        "censored_date": "2023-12-28 04:00:20",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-27 06:58:10"
     }
 ]
