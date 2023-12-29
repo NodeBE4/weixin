@@ -8058,7 +8058,8 @@
         "created_at": "2023-12-26",
         "archive": "gh_4d54f2cd4009_2023-12-26_2247509707_IEQBGkN26Y.y.tar.gz",
         "censored_date": "2023-12-28 17:45:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-30 02:32:17"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4MTYyMTcwNw==&mid=2247509725&idx=1&sn=eaffd673701f463e76b26d8a73e0df13",
@@ -8369,10 +8370,29 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3NjU3MTkxNw==&mid=2247546717&idx=1&sn=7084a6eaf9146f4a84983447b8bbddd5",
         "title": "葫芦岛市2024年征兵公告~",
+        "title_eng": "Huludao City 2024 Military Recruitment Announcement~",
         "nickname": "葫芦岛都市网",
         "created_at": "2023-12-28",
         "archive": "gh_f86665431cb0_2023-12-28_2247546717_w0MHFBbkjG.y.tar.gz",
         "censored_date": "2023-12-30 02:04:24",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU2MDQwOTc2Mw==&mid=2247566547&idx=1&sn=f70ab6fdd9c602c799df419d144b416a",
+        "title": "刘强东给“兄弟们”涨薪，100%涨幅是个文字游戏？",
+        "nickname": "蓝鲸财经记者工作平台",
+        "created_at": "2023-12-28",
+        "archive": "gh_d5dc7a7b8835_2023-12-28_2247566547_AQIJwM6xcg.y.tar.gz",
+        "censored_date": "2023-12-30 02:49:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NjQ2ODI4MQ==&mid=2247505294&idx=2&sn=a52cdbb977c024b4786c8de9640898f3",
+        "title": "领头羊一旦患上智障，带给羊群的将是死亡",
+        "nickname": "段字手",
+        "created_at": "2023-12-28",
+        "archive": "gh_6fb98f76adf0_2023-12-28_2247505294_eRTOv0JyAU.y.tar.gz",
+        "censored_date": "2023-12-30 03:03:09",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
