@@ -8535,6 +8535,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzUxNzgzOTE5NQ==&mid=2247490423&idx=1&sn=0b41cb1adcb94b986dfd9b22f4f13b46",
         "title": "2023，如何逾越？",
+        "title_eng": "2023, how to transcend?",
         "nickname": "梅说的",
         "created_at": "2023-12-28",
         "archive": "gh_90488f191416_2023-12-28_2247490423_u7gAeI4YSa.y.tar.gz",
@@ -8544,6 +8545,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247988145&idx=2&sn=e6f5ec6f6115f5392dc1f1bf23bcf4ef",
         "title": "海蓝之谜发生了什么？这价格…专柜哭晕了",
+        "title_eng": "What happened to La Mer? This price...the counter was so stunned that he cried",
         "nickname": "她姐生活",
         "created_at": "2023-12-27",
         "archive": "gh_4c63fcb04eaf_2023-12-27_2247988145_tjR5TEiZ3D.y.tar.gz",
@@ -8553,6 +8555,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAxMjU2MA==&mid=2649756537&idx=1&sn=8c9628a571c00afdce789846846128fe",
         "title": "小牛创始人胡依林要做腕表界的“汽车之家”｜风眼对话",
+        "title_eng": "Yilin Hu, the founder of Mavericks, wants to be the â€œcar homeâ€<9d> in the watch industry | Fengyan Dialogue",
         "nickname": "凤凰网科技",
         "created_at": "2023-12-28",
         "archive": "gh_5e8e8c06ed7d_2023-12-28_2649756537_noSTg3ZrNA.y.tar.gz",
@@ -8562,11 +8565,33 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MjI4Njg1OQ==&mid=2650560831&idx=1&sn=02eef39701b24c704b6d5b0dc2ca6cae",
         "title": "北极鲶鱼的故事，一种不被公开的规律",
+        "title_eng": "The story of arctic catfish, an undisclosed pattern",
         "nickname": "王育琨频道",
         "created_at": "2023-12-28",
         "archive": "gh_2fbf3b6efb95_2023-12-28_2650560831_seNfqxnBO7.y.tar.gz",
         "censored_date": "2023-12-30 06:58:50",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-28 19:50:22"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247571900&idx=3&sn=2fc92ffe2c9c8ca92c7a67904e03441b",
+        "title": "今后全国统一判：包工头因工死亡，违法转包的建工企业承担工伤保险责任",
+        "title_eng": "From now on, there will be a unified nationwide ruling: if a contractor dies on the job, the construction company that illegally subcontracted will bear the liability for work-related injury insurance.",
+        "nickname": "律法读报",
+        "created_at": "2023-12-25",
+        "archive": "gh_cbe49e48bd1e_2023-12-25_2247571900_UKqhZB83rv.y.tar.gz",
+        "censored_date": "2023-12-30 08:13:32",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-28 22:29:08"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653744957&idx=1&sn=0152305088f95493d44695c1c11dccad",
+        "title": "领导：这活谁干的？我：AIGC",
+        "title_eng": "Leader: Who does this work? Me: AIGC",
+        "nickname": "简笔笑画",
+        "created_at": "2023-12-26",
+        "archive": "gh_c364747d22d0_2023-12-26_2653744957_NRp987G51o.y.tar.gz",
+        "censored_date": "2023-12-30 07:59:28",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
