@@ -8026,7 +8026,7 @@
         "archive": "gh_6fb98f76adf0_2023-12-27_2247505289_WDr8uKGdh1.y.tar.gz",
         "censored_date": "2023-12-28 08:37:27",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2023-12-29 22:51:55"
+        "update_date": "2023-12-31 00:53:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MDIyMTMwOA==&mid=2649552988&idx=2&sn=2cb8e4c28042434a77ae6ddab2e24623",
@@ -8037,7 +8037,7 @@
         "archive": "gh_f37c9048d287_2023-12-26_2649552988_nFOKc6ABxW.y.tar.gz",
         "censored_date": "2023-12-28 09:13:35",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-29 22:52:41"
+        "update_date": "2023-12-31 00:54:14"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MDQwOTc2Mw==&mid=2247566362&idx=1&sn=c65622df749510f98df577347607bd50",
@@ -8278,7 +8278,8 @@
         "created_at": "2023-12-28",
         "archive": "gh_96522be72207_2023-12-28_2247517326_aYAo7dXQE1.y.tar.gz",
         "censored_date": "2023-12-29 22:28:10",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-31 00:40:15"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247517326&idx=3&sn=d32065eba90ea02597968a431441b95f",
@@ -8288,7 +8289,8 @@
         "created_at": "2023-12-28",
         "archive": "gh_96522be72207_2023-12-28_2247517326_aP5tDsdSBE.y.tar.gz",
         "censored_date": "2023-12-29 22:27:00",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-31 00:42:24"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247517326&idx=5&sn=202684dbdb8d7f8aadadb1d26bc1c9f2",
@@ -8298,7 +8300,8 @@
         "created_at": "2023-12-28",
         "archive": "gh_96522be72207_2023-12-28_2247517326_j9PcyLDRix.y.tar.gz",
         "censored_date": "2023-12-29 22:27:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-31 00:42:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653190441&idx=4&sn=9cc3dcf431a3b693c052cdc13c8c848c",
@@ -8716,11 +8719,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247675567&idx=2&sn=d4a9d92fb939a80aacab463a17aee1c6",
         "title": "再见了，某宝！",
+        "title_eng": "Goodbye, a certain treasure!",
         "nickname": "魔都囡",
         "created_at": "2023-12-27",
         "archive": "gh_ae36af7e44bd_2023-12-27_2247675567_QNWSGXnqjP.y.tar.gz",
         "censored_date": "2023-12-30 23:49:25",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-29 16:05:39"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzNDgwMjc5NQ==&mid=2247499268&idx=1&sn=6f0ede8341a87bf6e63fdb25ebab9a33",
+        "title": "上海富人圈“奴性”事件曝光：贫穷限制了我们的想象",
+        "nickname": "虞乐仲",
+        "created_at": "2023-12-27",
+        "archive": "gh_1aa55fadd2a2_2023-12-27_2247499268_6Q09s3zeVd.y.tar.gz",
+        "censored_date": "2023-12-31 01:13:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-29 23:30:12"
     }
 ]
