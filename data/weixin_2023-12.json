@@ -8741,7 +8741,7 @@
         "archive": "gh_ae36af7e44bd_2023-12-27_2247675567_QNWSGXnqjP.y.tar.gz",
         "censored_date": "2023-12-30 23:49:25",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-29 16:05:39"
+        "update_date": "2024-01-01 06:19:51"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzNDgwMjc5NQ==&mid=2247499268&idx=1&sn=6f0ede8341a87bf6e63fdb25ebab9a33",
@@ -9163,6 +9163,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NTg5OTk2Mg==&mid=2247593349&idx=1&sn=68de7e72e997e83ecef2dda8afb5b159",
         "title": "在美国要饭爆红的讲师突遭多平台封杀，润人扬言才刚刚开始",
+        "title_eng": "A lecturer who became popular in the United States was suddenly blocked by many platforms. Runren said it was just the beginning",
         "nickname": "韬闻",
         "created_at": "2023-12-27",
         "archive": "gh_dcc806c2f4d8_2023-12-27_2247593349_uvjdPRqNhU.y.tar.gz",
@@ -9173,6 +9174,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247503503&idx=1&sn=00920c76c5d5c543957d3c6762529dc8",
         "title": "全网最详统计：俄乌战场上，俄军到底死了多少人？",
+        "title_eng": "The most detailed statistics on the entire Internet: How many Russian soldiers died on the Russian-Ukrainian battlefield?",
         "nickname": "麟阁经略",
         "created_at": "2023-12-28",
         "archive": "gh_5771ce1bec7d_2023-12-28_2247503503_myl9V0B5DT.y.tar.gz",
@@ -9183,11 +9185,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247503494&idx=1&sn=c4fd4c7bdd84a69710bf46a4f7d6a2ca",
         "title": "大西北的价值，有一半体现在这只羊中！",
+        "title_eng": "Half of the value of the Great Northwest is reflected in this sheep!",
         "nickname": "麟阁经略",
         "created_at": "2023-12-27",
         "archive": "gh_5771ce1bec7d_2023-12-27_2247503494_FWBeaVQMlN.y.tar.gz",
         "censored_date": "2024-01-01 05:13:27",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2023-12-30 21:25:12"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247503503&idx=2&sn=276e4790a26c0e35cee49df04a1bd2c8",
+        "title": "刚刚！海参被渔民实名曝光！",
+        "title_eng": "just! The real name of sea cucumber was exposed by fishermen!",
+        "nickname": "麟阁经略",
+        "created_at": "2023-12-28",
+        "archive": "gh_5771ce1bec7d_2023-12-28_2247503503_j1lG2aEi53.y.tar.gz",
+        "censored_date": "2024-01-01 05:19:28",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2023-12-30 21:24:46"
     }
 ]
