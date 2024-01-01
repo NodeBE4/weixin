@@ -1294,7 +1294,8 @@
         "created_at": "2023-12-29",
         "archive": "gh_5771ce1bec7d_2023-12-29_2247503533_UnYt7cujZR.y.tar.gz",
         "censored_date": "2024-01-01 00:10:41",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-02 01:49:33"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523787&idx=1&sn=06a41aa5497c9969217ac138c7d9349e",
@@ -1304,7 +1305,8 @@
         "created_at": "2023-12-30",
         "archive": "gh_526cee4e55f0_2023-12-30_2247523787_0OlsnNJXTC.y.tar.gz",
         "censored_date": "2024-01-01 00:47:31",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-02 01:48:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247675853&idx=2&sn=9c068a92e05ce6e4d566e408fbbcb50a",
@@ -1498,10 +1500,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2Mjc1NTI3Mw==&mid=2247692151&idx=3&sn=32c32a56c7de778ac73db48dd7568175",
         "title": "“我爱北大也对其失望”，两届高考状元刘丁宁自爆在北大被人排挤",
+        "title_eng": "I love Peking University but I am also disappointed in it. Two-time college entrance examination champion Liu Dingning revealed that he was excluded from Peking University.",
         "nickname": "化妆师萍姐",
         "created_at": "2023-12-31",
         "archive": "gh_b4440ba65477_2023-12-31_2247692151_VPyuKrHiod.y.tar.gz",
         "censored_date": "2024-01-02 00:34:05",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650598231&idx=2&sn=2c2fe40c42f9c2be23554356f64b36ec",
+        "title": "为什么读懂《周易》的人更好运？交流群正式开放！",
+        "nickname": "南师国学堂",
+        "created_at": "2023-12-30",
+        "archive": "gh_45de294b7642_2023-12-30_2650598231_gG4kp3qADK.y.tar.gz",
+        "censored_date": "2024-01-02 02:15:13",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-01 10:21:51"
     }
 ]
