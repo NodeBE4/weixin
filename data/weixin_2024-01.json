@@ -1163,7 +1163,7 @@
         "archive": "gh_80330ed4178a_2023-12-29_2652414120_wbxsky3GVN.y.tar.gz",
         "censored_date": "2023-12-31 13:17:21",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-31 17:00:55"
+        "update_date": "2024-01-01 21:51:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247517326&idx=4&sn=ea0a8df599786dccf242f134d4f860d7",
@@ -1185,7 +1185,7 @@
         "archive": "gh_fc38726eb63b_2023-12-29_2652017253_bgz9wkj1ZF.y.tar.gz",
         "censored_date": "2023-12-31 14:20:04",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2023-12-31 18:00:40"
+        "update_date": "2024-01-01 22:10:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496580&idx=2&sn=15cffa6585207e92dd60e3633d74b8b3",
@@ -1468,6 +1468,15 @@
         "created_at": "2023-12-28",
         "archive": "gh_f65867e77e76_2023-12-28_2653190443_hDvC3EaFQK.y.tar.gz",
         "censored_date": "2024-01-01 18:23:48",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxOTA3NTI1OA==&mid=2652863062&idx=3&sn=4479403909dae36f7f3127932ca99a54",
+        "title": "清华原校长，新职明确",
+        "nickname": "杏坛传声",
+        "created_at": "2023-12-31",
+        "archive": "gh_fec2939dbded_2023-12-31_2652863062_p6d1QE0UOA.y.tar.gz",
+        "censored_date": "2024-01-01 21:40:33",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
