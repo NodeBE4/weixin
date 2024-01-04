@@ -1789,7 +1789,8 @@
         "created_at": "2023-12-29",
         "archive": "gh_cbe49e48bd1e_2023-12-29_2247572026_OuZ2hpNoMe.y.tar.gz",
         "censored_date": "2024-01-03 14:58:41",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-04 12:35:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5ODAzNTc2NA==&mid=2652892795&idx=1&sn=bad8b66bcf31aed1b06b280fd56ca418",
@@ -1799,7 +1800,8 @@
         "created_at": "2024-01-02",
         "archive": "gh_228524cee8a6_2024-01-02_2652892795_Uh0t0qIDFu.y.tar.gz",
         "censored_date": "2024-01-03 16:20:47",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-04 12:48:58"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5MTA2NDY4MA==&mid=2653190527&idx=2&sn=32fe0677e54eae7a3ca481b84e79563f",
@@ -1809,7 +1811,8 @@
         "created_at": "2023-12-30",
         "archive": "gh_f65867e77e76_2023-12-30_2653190527_H6QsAbKLpZ.y.tar.gz",
         "censored_date": "2024-01-03 18:25:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-04 13:18:43"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247740630&idx=6&sn=94644279fd07446ea1b4c2b00e5d9983",
@@ -1929,6 +1932,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNTUyMDQ4OA==&mid=2247628881&idx=2&sn=6cd48ea7ecc648903db28b4a2c16e069",
         "title": "为啥普通人赚钱越来越难了？",
+        "title_eng": "Why is it becoming more and more difficult for ordinary people to make money?",
         "nickname": "有范爸妈读书会",
         "created_at": "2024-01-01",
         "archive": "gh_46a785a11778_2024-01-01_2247628881_IQ056Zh32T.y.tar.gz",
@@ -1938,10 +1942,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247572140&idx=2&sn=3f0db73fc1395d6b6ea06d4f53346546",
         "title": "【双休+正式编制+6险2金】2024军队文职面向社会公开招考，正式编制！大专可报！",
+        "title_eng": "[Saturday weekend, official establishment, 6 insurances and 2 gold] 2024 military civilian positions are open to the public for open recruitment, official establishment! Can apply for junior college!",
         "nickname": "律法读报",
         "created_at": "2024-01-02",
         "archive": "gh_cbe49e48bd1e_2024-01-02_2247572140_7RFneUSlh2.y.tar.gz",
         "censored_date": "2024-01-04 12:10:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247740645&idx=6&sn=f74cff152e0e5d9a856f1c70f7afbd6a",
+        "title": "两位数拿下加绒“锁温”雪地靴！上脚舒适保暖，关键显腿长不撞款！",
+        "nickname": "远方青木",
+        "created_at": "2023-12-31",
+        "archive": "gh_36dfda0fb531_2023-12-31_2247740645_ypWOAdfS6r.y.tar.gz",
+        "censored_date": "2024-01-04 12:35:22",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-03 15:23:03"
     }
 ]
