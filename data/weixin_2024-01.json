@@ -2195,7 +2195,8 @@
         "created_at": "2023-12-29",
         "archive": "gh_03b33816cfbc_2023-12-29_2247520758_cvzhMTw2C6.y.tar.gz",
         "censored_date": "2024-01-05 15:02:12",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-06 12:39:31"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5NjczOTUxNg==&mid=2247546937&idx=3&sn=0be9f09cd116456a6769e98485e73b8b",
@@ -2360,10 +2361,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496613&idx=2&sn=bc47a16cb8519791e3affc0b3bc5712a",
         "title": "限招120人！2024学历提升免试入学招生通道开启，低学历在职人员均可报考！",
+        "title_eng": "Recruitment is limited to 120 people! The 2024 academic qualification-free entrance examination-free admission channel is open, and in-service personnel with low academic qualifications can apply!",
         "nickname": "法律读报",
         "created_at": "2024-01-04",
         "archive": "gh_372ae2bb1547_2024-01-04_2247496613_lnb0TR4a7m.y.tar.gz",
         "censored_date": "2024-01-06 11:50:51",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIxNTE5MTIyMQ==&mid=2651781685&idx=3&sn=a99c2494b7c8333c26f12bf46837feec",
+        "title": "“春咏香江”深圳原创舞剧《咏春》新年香港首演主题活动举行",
+        "nickname": "直新闻",
+        "created_at": "2024-01-05",
+        "archive": "gh_8d6b93d2a414_2024-01-05_2651781685_0JVGrz5nDZ.y.tar.gz",
+        "censored_date": "2024-01-06 13:06:47",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
