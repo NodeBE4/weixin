@@ -4530,6 +4530,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247989530&idx=2&sn=e9b26ca25076f7f6a3bd803e51485b7b",
         "title": "急需有声配音员：念书即可，简单好做",
+        "title_eng": "Voiceover actors are urgently needed: just study, itâ€™s easy and easy to do",
         "nickname": "她姐生活",
         "created_at": "2024-01-16",
         "archive": "gh_4c63fcb04eaf_2024-01-16_2247989530_kDXZxfH3uP.y.tar.gz",
@@ -4540,6 +4541,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MTk1MjIwODAwMQ==&mid=2651547166&idx=2&sn=6df01f1c8f9828b9e0ceaeb4fb90badc",
         "title": "直奔深圳保税仓！这次美妆活动玩大了",
+        "title_eng": "Go straight to the Shenzhen bonded warehouse! This beauty event is a big deal",
         "nickname": "南方都市报",
         "created_at": "2024-01-16",
         "archive": "wxid_4783107810411_2024-01-16_2651547166_YsWx8BteIL.y.tar.gz",
@@ -4549,6 +4551,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4OTczNzMyMQ==&mid=2649796935&idx=1&sn=0d162f4fd187e10746e93c438f1a2d85",
         "title": "CES 2024 最有趣的研究：这款设备能教您的爱犬弹钢琴？",
+        "title_eng": "The most interesting research from CES 2024: Can this device teach your dog to play piano?",
         "nickname": "键盘世界",
         "created_at": "2024-01-17",
         "archive": "gh_e5253ed2a8ac_2024-01-17_2649796935_NsMon7l3gr.y.tar.gz",
@@ -4558,11 +4561,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247989335&idx=2&sn=ea2e27fc5ee7b776dc96078750632e53",
         "title": "海蓝之谜发生了什么？这价格…专柜哭晕了",
+        "title_eng": "What happened to La Mer? This price...the counter was so stunned that he cried",
         "nickname": "她姐生活",
         "created_at": "2024-01-14",
         "archive": "gh_4c63fcb04eaf_2024-01-14_2247989335_ZAdIyfaUTJ.y.tar.gz",
         "censored_date": "2024-01-19 11:21:56",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-01-19 06:37:38"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIwNDM1MTk4NA==&mid=2247550187&idx=3&sn=ffb039a531a8877a80bf20d221a706a6",
+        "title": "“课间强奸老师”，某些职校实在太乱了",
+        "nickname": "常识流通处",
+        "created_at": "2024-01-16",
+        "archive": "gh_612917ae95b0_2024-01-16_2247550187_VsHjT5qeAL.y.tar.gz",
+        "censored_date": "2024-01-19 11:53:40",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
