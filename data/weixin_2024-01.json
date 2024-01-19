@@ -3397,7 +3397,7 @@
         "archive": "gh_36dfda0fb531_2024-01-11_2247742316_HywuP2DQqK.y.tar.gz",
         "censored_date": "2024-01-17 04:58:40",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-01-17 22:51:26"
+        "update_date": "2024-01-19 14:35:20"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU2MjY3NDY4NQ==&mid=2247551878&idx=2&sn=858962b86f508d21931e9b923d474348",
@@ -4484,7 +4484,8 @@
         "created_at": "2024-01-16",
         "archive": "gh_c316ab540b5d_2024-01-16_2247611032_UTsoL9iN5J.y.tar.gz",
         "censored_date": "2024-01-19 09:01:56",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-19 14:59:08"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzc2NjI3Mw==&mid=2247517749&idx=3&sn=9d4c6574a390013b3749adcf141dbb7d",
@@ -4614,6 +4615,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653455181&idx=2&sn=e55319cd7ec86f3d8e31d3dbcde0d900",
         "title": "急招50名长期AI作者，识字即可不限经验，非常适合25+女生，时间自由可日结！",
+        "title_eng": "We are urgently recruiting 50 long-term AI authors. No experience limit is required as long as you are literate. They are very suitable for girls aged 25 and above. You have free time and can be paid on a daily basis!",
         "nickname": "亲子派",
         "created_at": "2024-01-16",
         "archive": "gh_47a9a35a129b_2024-01-16_2653455181_sPoNlMcjXF.y.tar.gz",
@@ -4623,10 +4625,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653455134&idx=2&sn=c02749e3282ee6b373809ae515982cf2",
         "title": "2024年高考志愿规划师开启报名！简单好学，用人缺口大！",
+        "title_eng": "Registration for 2024 college entrance examination volunteer planners is open! Simple and easy to learn, there is a big hiring gap!",
         "nickname": "亲子派",
         "created_at": "2024-01-15",
         "archive": "gh_47a9a35a129b_2024-01-15_2653455134_dRVKubcHO8.y.tar.gz",
         "censored_date": "2024-01-19 14:06:11",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI3ODg3Mjc2Ng==&mid=2247490636&idx=1&sn=284a1a70af398a9a5125bc1467e4ef07",
+        "title": "从山东台“从不看笑话”说起",
+        "nickname": "深涵说",
+        "created_at": "2024-01-17",
+        "archive": "gh_4910f56a42ee_2024-01-17_2247490636_jvyxABigwU.y.tar.gz",
+        "censored_date": "2024-01-19 14:34:05",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
