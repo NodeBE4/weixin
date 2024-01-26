@@ -5817,7 +5817,7 @@
         "archive": "gh_697523b9eb34_2024-01-23_2247637268_8YfcdjRWAM.y.tar.gz",
         "censored_date": "2024-01-24 15:01:57",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-01-25 15:34:12"
+        "update_date": "2024-01-26 13:07:53"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MTY3NTUwMg==&mid=2247579597&idx=1&sn=d525a841042d24d85efb644566165d03",
@@ -5839,7 +5839,7 @@
         "archive": "gh_b50997668f3b_2024-01-23_2247579597_Lct0yuAUkX.y.tar.gz",
         "censored_date": "2024-01-24 16:10:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-01-25 15:49:34"
+        "update_date": "2024-01-26 13:09:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3OTAyNTgzNg==&mid=2247611653&idx=1&sn=f01943deb2091335c7f1f3814051e0b0",
@@ -6057,7 +6057,8 @@
         "created_at": "2024-01-24",
         "archive": "gh_45de294b7642_2024-01-24_2650600998_iMmwJaZ7kP.y.tar.gz",
         "censored_date": "2024-01-25 13:07:43",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-01-26 12:40:47"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxMDU5MzA5OA==&mid=2247508478&idx=1&sn=8fc5ed7907cdd104f0f1270bff7c0023",
@@ -6222,10 +6223,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247745543&idx=2&sn=f9783f061a84c9f890e98016f42fbc5c",
         "title": "家长、教师恭喜了！高考志愿规划师开始招募！考过就是金饭碗！",
+        "title_eng": "Congratulations to parents and teachers! Recruitment for college entrance examination volunteer planners begins! Passing the exam is a golden job!",
         "nickname": "志愿云",
         "created_at": "2024-01-24",
         "archive": "gh_63cc4b4ef76d_2024-01-24_2247745543_2Fp7YDnrC1.y.tar.gz",
         "censored_date": "2024-01-26 12:07:30",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496701&idx=2&sn=872ca1c443e23dea28f7fb297ee13547",
+        "title": "正式通知!本科以下学历直升本科，每人补贴8000元，政策扶持名额有限，速看!",
+        "nickname": "法律读报",
+        "created_at": "2024-01-24",
+        "archive": "gh_372ae2bb1547_2024-01-24_2247496701_8kSrPFghQ2.y.tar.gz",
+        "censored_date": "2024-01-26 12:36:58",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
