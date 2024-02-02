@@ -536,7 +536,7 @@
         "archive": "gh_b3c0e9559e02_2024-01-29_2247542546_M2SjgqolWR.y.tar.gz",
         "censored_date": "2024-01-31 06:43:37",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-01-30 11:13:38"
+        "update_date": "2024-02-02 13:41:12"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247514054&idx=1&sn=39929c85704bb6e29371df51d75e5d81",
@@ -1085,7 +1085,8 @@
         "created_at": "2024-01-31",
         "archive": "gh_46cfcecff297_2024-01-31_2247487140_62FX7J0Gev.y.tar.gz",
         "censored_date": "2024-02-02 09:12:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-02 13:57:45"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652602822&idx=1&sn=386e78f7565573b5baec47fdda55c1de",
@@ -1122,6 +1123,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650375416&idx=4&sn=294504a8565fbc7247ffce7f87df17f9",
         "title": "中国邮政用2g足金，打造了一套龙年金邮票！太美了！",
+        "title_eng": "China Post used 2g of pure gold to create a set of Dragon Year gold stamps! So beautiful!",
         "nickname": "酷玩实验室",
         "created_at": "2024-01-23",
         "archive": "gh_f33ea5eaf126_2024-01-23_2650375416_MdinLVqrI4.y.tar.gz",
@@ -1132,6 +1134,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247745388&idx=2&sn=8a1a237cc0a1b7654cca760d3146d3ee",
         "title": "1折速抢红酒中的爱马仕！法国进口、拿奖到手软，过年送礼太有面！",
+        "title_eng": "Grab the HermÃ¨s on red wine with 10% off! Imported from France, it has won awards and is so popular as a New Year gift!",
         "nickname": "远方青木",
         "created_at": "2024-01-26",
         "archive": "gh_36dfda0fb531_2024-01-26_2247745388_r4jMicSFpX.y.tar.gz",
@@ -1142,6 +1145,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650375522&idx=4&sn=d4d9f999713b2fe7b3e082d3792f2a0b",
         "title": "大油皮千万别看！我怕你心动但又用不了……",
+        "title_eng": "Donâ€™t look at it if you have oily skin! I'm afraid you'll be tempted but I can't use it...",
         "nickname": "酷玩实验室",
         "created_at": "2024-01-24",
         "archive": "gh_f33ea5eaf126_2024-01-24_2650375522_0kdGtPSo1c.y.tar.gz",
@@ -1152,10 +1156,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA4NzcwMDQxMg==&mid=2653749578&idx=3&sn=37e2cf0e31f6225649ec919bb9ea42a1",
         "title": "奔驰车加塞事件，恭喜这对可怜的男女，喜提一个难忘的春节。",
+        "title_eng": "Congratulations to this poor man and woman for the Mercedes-Benz car jam incident and wish them an unforgettable Spring Festival.",
         "nickname": "简笔笑画",
         "created_at": "2024-01-31",
         "archive": "gh_c364747d22d0_2024-01-31_2653749578_9S2Pcn85eq.y.tar.gz",
         "censored_date": "2024-02-02 12:54:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247745388&idx=4&sn=4a0d1872670273dc387cca82f6fdf7e0",
+        "title": "怕冷就穿羊毛裤，抗冻，修身，百来块钱，千元的体验~",
+        "title_eng": "If you are afraid of the cold, wear woolen pants. They are anti-freeze and slimming. It costs a hundred yuan and is a thousand yuan experience~",
+        "nickname": "远方青木",
+        "created_at": "2024-01-26",
+        "archive": "gh_36dfda0fb531_2024-01-26_2247745388_no9SCJYZTH.y.tar.gz",
+        "censored_date": "2024-02-02 13:26:02",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMzUyOTkyNQ==&mid=2247520142&idx=1&sn=9807f0bc6eda39a74b6d58dc6e014810",
+        "title": "爱国不能没有法度，更不能把爱国当生意",
+        "nickname": "川江物语",
+        "created_at": "2024-02-01",
+        "archive": "gh_88e9499896f5_2024-02-01_2247520142_DNZTRSM1di.y.tar.gz",
+        "censored_date": "2024-02-02 13:43:18",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
