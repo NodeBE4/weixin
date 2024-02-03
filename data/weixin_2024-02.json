@@ -1295,6 +1295,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkwNjQ3ODAyMw==&mid=2247548995&idx=2&sn=bdd6ab20772efcb31e36c05873dc6980",
         "title": "女子发视频维权遭警察上门威胁：要么删视频要么抓你走！",
+        "title_eng": "A woman posted a video to defend her rights and was threatened by the police: Either delete the video or arrest her!",
         "nickname": "案例指南",
         "created_at": "2024-02-02",
         "archive": "gh_c17e5235b564_2024-02-02_2247548995_AjF0w4Wkdm.y.tar.gz",
@@ -1304,6 +1305,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg3MDkwOTU2OA==&mid=2247488339&idx=1&sn=102a57479274491116a147448eb76d6d",
         "title": "长沙某女干部不雅聊天记录曝光，几个被忽略的细节",
+        "title_eng": "Indecent chat records of a female cadre in Changsha exposed, several overlooked details",
         "nickname": "法规指南",
         "created_at": "2024-02-02",
         "archive": "gh_f745ba7423f3_2024-02-02_2247488339_Ic2FiBate6.y.tar.gz",
@@ -1313,10 +1315,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzkxMDU5MzA5OA==&mid=2247508560&idx=1&sn=620f36d2b89485562531810f2fa7905b",
         "title": "“重庆姐弟坠亡案”被告人被执行死刑，辩护律师认为公安机关非法拘禁、疲劳审讯，采取欺骗、虚假承诺骗取张波认罪认罚",
+        "title_eng": "The defendant in the Chongqing sister and brother falling death case was executed. The defense lawyer believed that the public security organs illegally detained and fatigued the interrogation, and used deception and false promises to trick Zhang Bo into confessing and accepting punishment.",
         "nickname": "基层业务",
         "created_at": "2024-02-02",
         "archive": "gh_f8f0af347d52_2024-02-02_2247508560_rx8ayFZKMd.y.tar.gz",
         "censored_date": "2024-02-03 17:04:28",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI4NDU1NjE4NQ==&mid=2247500578&idx=1&sn=4f08a15e343911690750102f04dedc75",
+        "title": "“重庆姐弟坠亡案”被告人被执行死刑，辩护律师认为公安机关非法拘禁、疲劳审讯，采取欺骗、虚假承诺骗取张波认罪认罚",
+        "title_eng": "The defendant in the Chongqing sister and brother falling death case was executed. The defense lawyer believed that the public security organs illegally detained and fatigued the interrogation, and used deception and false promises to trick Zhang Bo into confessing and accepting punishment.",
+        "nickname": "侠客剑",
+        "created_at": "2024-02-02",
+        "archive": "gh_8e5ecc455fc9_2024-02-02_2247500578_ajSJ7Fx4d0.y.tar.gz",
+        "censored_date": "2024-02-03 18:17:02",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
