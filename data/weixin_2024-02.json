@@ -1393,7 +1393,7 @@
         "archive": "gh_88e9499896f5_2024-02-03_2247520201_3d9RU0sjLv.y.tar.gz",
         "censored_date": "2024-02-03 22:18:26",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2024-02-04 20:22:26"
+        "update_date": "2024-02-05 18:33:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248018554&idx=3&sn=6f795ed661a44f09b58a5432be8e7f83",
@@ -1638,6 +1638,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487914&idx=2&sn=2d0379c4bcdf93ab0dbb3181594aa364",
         "title": "清华学霸美国杀妻，律师说出致命真相",
+        "title_eng": "Tsinghua University student killed his wife in the United States, lawyer tells the fatal truth",
         "nickname": "炎黄春",
         "created_at": "2024-02-02",
         "archive": "gh_695be352a397_2024-02-02_2247487914_n04f0uJkBW.y.tar.gz",
@@ -1647,10 +1648,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI3MTQzNjYxNw==&mid=2247790934&idx=1&sn=a2febaef5d9adf807688e2de8c767639",
         "title": "致6人死亡，杨功迅被判死刑！16名党员干部履职不力被追责问责",
+        "title_eng": "Causing the death of 6 people, Yang Gongxun was sentenced to death! 16 party members and cadres were held accountable for their failure to perform their duties",
         "nickname": "红星新闻",
         "created_at": "2024-02-04",
         "archive": "gh_1ede6c42db01_2024-02-04_2247790934_ZWYkvSRgCu.y.tar.gz",
         "censored_date": "2024-02-05 18:08:42",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2ODQ5MTc0Ng==&mid=2247523923&idx=1&sn=569e1e5c7e65cb667cbb2262a56d142a",
+        "title": "奔驰砸车事件，徐老太太的白车撞人细节被拍下，奇瑞评论区却沦陷了",
+        "nickname": "曾经的道哥",
+        "created_at": "2024-02-04",
+        "archive": "gh_526cee4e55f0_2024-02-04_2247523923_mVJs6iRZvM.y.tar.gz",
+        "censored_date": "2024-02-05 18:45:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
