@@ -1833,7 +1833,7 @@
         "archive": "gh_5771ce1bec7d_2024-02-05_2247503969_GYRfvh0zQq.y.tar.gz",
         "censored_date": "2024-02-07 09:52:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-06 18:13:16"
+        "update_date": "2024-02-09 00:18:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjA3NDQ5Mjc0MQ==&mid=2653158665&idx=2&sn=a6d45c96ddf3e95042373252127b0fca",
@@ -1953,7 +1953,8 @@
         "created_at": "2024-02-07",
         "archive": "gh_5ed67d08cd42_2024-02-07_2649980405_mGtAnNJ9pi.y.tar.gz",
         "censored_date": "2024-02-07 23:35:46",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-08 23:45:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5OTYwOTM0Nw==&mid=2650377851&idx=2&sn=27f6179698263fabe4751a2c19aa414a",
@@ -2023,6 +2024,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxODQxMDczMA==&mid=2455548336&idx=1&sn=9de289673b297a41513b67313da6ba46",
         "title": "露骨聊天流出，美女局长的绯闻大瓜",
+        "title_eng": "Explicit chat leaked, the scandal of the beautiful director",
         "nickname": "爺叔語錄",
         "created_at": "2024-02-07",
         "archive": "gh_ba71c6c7d57e_2024-02-07_2455548336_wMQFqcrXHn.y.tar.gz",
@@ -2032,10 +2034,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDE4MDg4Mw==&mid=2649316401&idx=3&sn=a5b4c17b08c51e5b06360e46e65b48d4",
         "title": "局长姐姐“鹿鞭粉”事件后续：关系网被曝，已牵扯多位领导",
+        "title_eng": "Follow-up to the directorâ€™s sisterâ€™s â€œdeer whip fanâ€<9d> incident: The network of relationships has been exposed, and many leaders have been implicated",
         "nickname": "金融圈小伙伴",
         "created_at": "2024-02-07",
         "archive": "gh_16e68ee8982f_2024-02-07_2649316401_unYMhHsUbJ.y.tar.gz",
         "censored_date": "2024-02-08 23:15:17",
         "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU2ODE1Ng==&mid=2247583380&idx=1&sn=10886a0a1188b9aa9562c687529634d3",
+        "title": "菲律宾潜水教练拔吊无情的瓜",
+        "nickname": "重生道",
+        "created_at": "2024-02-07",
+        "archive": "gh_efdfc4769f39_2024-02-07_2247583380_OY0EzUk7wj.y.tar.gz",
+        "censored_date": "2024-02-09 00:13:52",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
