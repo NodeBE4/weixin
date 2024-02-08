@@ -1876,7 +1876,8 @@
         "created_at": "2024-02-06",
         "archive": "gh_307be0bd98f2_2024-02-06_2247492370_7d9D1mQB4t.y.tar.gz",
         "censored_date": "2024-02-07 17:37:35",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-02-08 16:54:54"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMTY3MjMwOQ==&mid=2247592155&idx=1&sn=240f7ca44025173d0f12953704d79081",
@@ -1886,7 +1887,8 @@
         "created_at": "2024-02-06",
         "archive": "gh_06140cfad959_2024-02-06_2247592155_gvJsGWLPmj.y.tar.gz",
         "censored_date": "2024-02-07 17:58:51",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-02-08 17:08:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652131507&idx=6&sn=481c9ccfb7ab81ae49124ebb7cde7f77",
@@ -1983,5 +1985,25 @@
         "censored_date": "2024-02-08 12:24:01",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-02-07 13:06:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzUzMDk5NjcxNg==&mid=2247505900&idx=2&sn=e6f2dd24eebf9ccece239909b47ebc22",
+        "title": "2023年难得一见的顶级微信，删除前速看！",
+        "nickname": "法律知识咨询学习平台",
+        "created_at": "2024-02-05",
+        "archive": "gh_2ffe7c08aaf7_2024-02-05_2247505900_X0BtdKF7iE.y.tar.gz",
+        "censored_date": "2024-02-08 17:12:08",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-07 18:11:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMTc5OTM2OQ==&mid=2247489608&idx=1&sn=278abde81de55d5d3dbc9ff5d7901b87",
+        "title": "4年来最低！官方无意中透露A股暴跌真相！美国投资巨无霸也被割韭菜",
+        "nickname": "北清交校友研究",
+        "created_at": "2024-02-04",
+        "archive": "gh_83abda42e275_2024-02-04_2247489608_f6ywuSq0eF.y.tar.gz",
+        "censored_date": "2024-02-08 16:38:02",
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-02-07 17:26:56"
     }
 ]
