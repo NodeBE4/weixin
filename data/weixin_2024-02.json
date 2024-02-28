@@ -3544,7 +3544,7 @@
         "archive": "gh_695be352a397_2024-02-22_2247487963_fD9mdVZvKk.y.tar.gz",
         "censored_date": "2024-02-27 10:14:36",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-26 11:25:40"
+        "update_date": "2024-02-28 10:00:37"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487969&idx=1&sn=ba10fd3a169f6fc9dd0e1b0522a96dc0",
@@ -3566,7 +3566,7 @@
         "archive": "gh_695be352a397_2024-02-23_2247487969_f3cXOE85Qg.y.tar.gz",
         "censored_date": "2024-02-27 10:15:22",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-26 11:26:53"
+        "update_date": "2024-02-28 10:01:00"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5NzA3NjEzNQ==&mid=2247486248&idx=1&sn=a31b3c9040236c4a42ae42600c047342",
@@ -3576,7 +3576,8 @@
         "created_at": "2024-02-26",
         "archive": "gh_aecae97a9865_2024-02-26_2247486248_GvxLVidwlJ.y.tar.gz",
         "censored_date": "2024-02-27 11:13:42",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-02-28 10:25:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAwNDExMDAzNw==&mid=2651427114&idx=2&sn=cd2ffb29d978210cfec1d47ab0d24388",
@@ -3739,5 +3740,15 @@
         "censored_date": "2024-02-28 07:10:42",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-02-27 16:22:15"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIzMjE4OTk1Mg==&mid=2247543164&idx=2&sn=18e9430c338d8fcf672951ebee441a9d",
+        "title": "正式通知!本科以下学历直升本科，每人补贴8000元，政策扶持名额有限，速看!",
+        "nickname": "律法帝国",
+        "created_at": "2024-02-26",
+        "archive": "gh_b3c0e9559e02_2024-02-26_2247543164_5WZSPMTbKn.y.tar.gz",
+        "censored_date": "2024-02-28 10:25:02",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-27 11:28:41"
     }
 ]
