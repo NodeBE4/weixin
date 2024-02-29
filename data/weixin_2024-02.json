@@ -3820,7 +3820,8 @@
         "created_at": "2024-02-28",
         "archive": "gh_2fbf3b6efb95_2024-02-28_2650563322_dsMG54nkz0.y.tar.gz",
         "censored_date": "2024-02-28 14:23:29",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-02-29 14:52:49"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI5MDcwMjg5Nw==&mid=2247503492&idx=3&sn=54de404466a64c1fecefd6299adedb0a",
@@ -3830,7 +3831,8 @@
         "created_at": "2024-02-26",
         "archive": "gh_dc0cbe6b399b_2024-02-26_2247503492_fpjquFH6Pm.y.tar.gz",
         "censored_date": "2024-02-28 13:34:50",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-29 14:53:57"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NjE3NjQ0Ng==&mid=2247993343&idx=2&sn=519077691cf27f4e05dbfe0d2075b59b",
@@ -3852,7 +3854,7 @@
         "archive": "gh_c86111a7658d_2024-02-25_2649605227_9IcX7JtRyO.y.tar.gz",
         "censored_date": "2024-02-28 15:33:20",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-27 04:57:35"
+        "update_date": "2024-02-29 15:20:34"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NTg5MTUzNw==&mid=2649605227&idx=5&sn=00aa1dc3789544f647002dbc014f12b2",
@@ -3874,7 +3876,7 @@
         "archive": "gh_372ae2bb1547_2024-02-26_2247496814_anKR83k9Xf.y.tar.gz",
         "censored_date": "2024-02-28 15:57:47",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-27 05:21:03"
+        "update_date": "2024-02-29 15:14:26"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652605432&idx=2&sn=d551b3fa9b974ec7828e2d6c1e90579f",
@@ -4113,6 +4115,15 @@
         "created_at": "2024-02-28",
         "archive": "gh_b3c0e9559e02_2024-02-28_2247543240_N0EMOR3k6H.y.tar.gz",
         "censored_date": "2024-02-29 13:01:41",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1MjEzMjg3OA==&mid=2649696237&idx=3&sn=c2e6f2b33305b0aa28d0b3903b74f4dd",
+        "title": "全国法院典型案例 | 涉“农村四哥”短视频侵害信息网络传播权纠纷案（附音频）",
+        "nickname": "知识产权家",
+        "created_at": "2024-02-28",
+        "archive": "gh_e22964dc1650_2024-02-28_2649696237_wfcDFB46bt.y.tar.gz",
+        "censored_date": "2024-02-29 14:31:26",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
