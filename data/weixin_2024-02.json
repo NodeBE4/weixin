@@ -3645,7 +3645,7 @@
         "archive": "gh_36dfda0fb531_2024-02-22_2247747141_dwIgEhUOCz.y.tar.gz",
         "censored_date": "2024-02-27 16:25:32",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-02-28 11:59:37"
+        "update_date": "2024-02-29 09:16:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247747708&idx=5&sn=393754fa086116f0149a38e850608614",
@@ -3765,7 +3765,8 @@
         "created_at": "2024-02-25",
         "archive": "gh_e80b5c3c8b87_2024-02-25_2247590891_GWoAPnH37p.y.tar.gz",
         "censored_date": "2024-02-28 10:48:03",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-29 08:15:19"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247504047&idx=1&sn=a96bb4ae4ab36a6039a14ecc1cdd6969",
@@ -3786,7 +3787,8 @@
         "created_at": "2024-02-26",
         "archive": "gh_21744088d622_2024-02-26_2247515141_03hZf0VNnc.y.tar.gz",
         "censored_date": "2024-02-28 11:17:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-29 08:45:59"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247747708&idx=3&sn=21e8a8e7bac137a25b8f39f314f303fe",
@@ -4041,11 +4043,23 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496819&idx=2&sn=193addf02e0bac2511afb9604bb11e1c",
         "title": "明确了！在职也能自考本科，免试入学通道已开启，限招120人！",
+        "title_eng": "Clear! You can also take self-study undergraduate courses while working. The entrance exam-free admission channel has been opened, with a limit of 120 people!",
         "nickname": "法律读报",
         "created_at": "2024-02-27",
         "archive": "gh_372ae2bb1547_2024-02-27_2247496819_d7KgrFPbms.y.tar.gz",
         "censored_date": "2024-02-29 07:23:18",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-02-28 09:52:27"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247746474&idx=2&sn=e07a499062afad8232493fb35ae6cda8",
+        "title": "突然宣布！开展高考报考指导师培训！教师家长免费申领，2月28日截止！",
+        "title_eng": "Suddenly announced! Conduct training for college entrance examination instructors! Teachers and parents can apply for free, deadline is February 28th!",
+        "nickname": "志愿云",
+        "created_at": "2024-02-27",
+        "archive": "gh_63cc4b4ef76d_2024-02-27_2247746474_xZJK0P1miS.y.tar.gz",
+        "censored_date": "2024-02-29 07:56:25",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-02-28 10:29:48"
     }
 ]
