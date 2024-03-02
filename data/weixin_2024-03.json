@@ -1197,6 +1197,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247487978&idx=2&sn=c4091eb46afe98c45a1374ec5f7cdbe8",
         "title": "南京火灾给每个人敲响警钟！火场逃生最致命的3大错误！（性命攸关，再忙也要听）",
+        "title_eng": "The Nanjing fire is a wake-up call for everyone! The 3 most fatal mistakes when escaping from a fire! (Life is at stake, no matter how busy you are, you must listen)",
         "nickname": "炎黄春",
         "created_at": "2024-02-26",
         "archive": "gh_695be352a397_2024-02-26_2247487978_zgF0B3OY5L.y.tar.gz",
@@ -1206,6 +1207,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247746538&idx=2&sn=0ad461bfc3c1ad7b07006276b1ff3987",
         "title": "自从进了这个京东捡漏福利群，拿了很多0元商品，还有很多秒杀呢！",
+        "title_eng": "Since joining this Jingdong pick-up and leakage welfare group, I have gotten a lot of 0 yuan products, and there are also many flash sales!",
         "nickname": "志愿云",
         "created_at": "2024-02-29",
         "archive": "gh_63cc4b4ef76d_2024-02-29_2247746538_IJabimv9u2.y.tar.gz",
@@ -1215,10 +1217,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3Mjg3NjAwNg==&mid=2649451772&idx=1&sn=635b1ddc182a58b4ef454e18eb7c2cc7",
         "title": "滔滔顾问应邀参加第二十届上海国际医疗旅游展览，海外辅助生殖解决生育难题",
+        "title_eng": "Taotao Consultants was invited to participate in the 20th Shanghai International Medical Tourism Exhibition, overseas assisted reproduction solves fertility problems",
         "nickname": "滔滔顾问",
         "created_at": "2024-03-01",
         "archive": "gh_f52700579eb0_2024-03-01_2649451772_6XABUjLzNx.y.tar.gz",
         "censored_date": "2024-03-02 23:09:01",
         "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496826&idx=2&sn=2da0da7a06d98fd110ed1f8e979829dc",
+        "title": "正式通知！本科以下学历直升本科，政策扶持，名额有限，速看！",
+        "nickname": "法律读报",
+        "created_at": "2024-02-29",
+        "archive": "gh_372ae2bb1547_2024-02-29_2247496826_mN2iQLqdf4.y.tar.gz",
+        "censored_date": "2024-03-02 23:38:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496830&idx=1&sn=6a926fc0ac857bbdebc43c2f42f27ae3",
+        "title": "震惊！律师看守所会见当事人，一只录音笔从铁椅下掉落，指示灯一闪一闪…",
+        "title_eng": "Shock! When the lawyer met with the client in the detention center, a recording pen fell from under the iron chair, and the indicator light flashed...",
+        "nickname": "法律读报",
+        "created_at": "2024-03-01",
+        "archive": "gh_372ae2bb1547_2024-03-01_2247496830_53UrIkONWd.y.tar.gz",
+        "censored_date": "2024-03-02 23:27:49",
+        "censored_msg": "此内容因违规无法查看"
     }
 ]
