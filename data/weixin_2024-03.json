@@ -1240,7 +1240,7 @@
         "archive": "gh_372ae2bb1547_2024-02-29_2247496826_mN2iQLqdf4.y.tar.gz",
         "censored_date": "2024-03-02 23:38:20",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-03 13:58:20"
+        "update_date": "2024-03-04 15:44:22"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496830&idx=1&sn=6a926fc0ac857bbdebc43c2f42f27ae3",
@@ -1262,7 +1262,7 @@
         "archive": "gh_0483453059fb_2024-03-01_2247490988_iC4ITvyDPu.y.tar.gz",
         "censored_date": "2024-03-03 01:54:32",
         "censored_msg": "此内容因违规无法查看",
-        "update_date": "2024-03-03 16:12:47"
+        "update_date": "2024-03-04 16:07:42"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247680448&idx=2&sn=1623004e71319fae9447e41af1f00400",
@@ -1284,7 +1284,7 @@
         "archive": "gh_08885da058c6_2024-02-29_2248023847_rzsH9KC8yD.y.tar.gz",
         "censored_date": "2024-03-03 03:46:07",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-03 18:00:41"
+        "update_date": "2024-03-04 16:22:52"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3NzA5MDMyMg==&mid=2653456702&idx=2&sn=4ad11f9b59902c09258a65c3c6d4ec19",
@@ -1316,7 +1316,8 @@
         "created_at": "2024-03-02",
         "archive": "gh_ae36af7e44bd_2024-03-02_2247680706_KILMr8ZJhC.y.tar.gz",
         "censored_date": "2024-03-03 22:52:10",
-        "censored_msg": "此内容因违规无法查看"
+        "censored_msg": "此内容因违规无法查看",
+        "update_date": "2024-03-04 18:06:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI2NzczODk2OA==&mid=2247485062&idx=1&sn=0ada5d9ad084faef80d719655f267133",
@@ -1375,10 +1376,21 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2NjMyODA5MQ==&mid=2247484450&idx=1&sn=5b2d845e06d1b05c50b946cd81f134d3",
         "title": "国运之争2---加杠杆",
+        "title_eng": "Battle for National Destiny 2---Add Leverage",
         "nickname": "隔壁小李2020",
         "created_at": "2024-03-03",
         "archive": "gh_82c3464b7c68_2024-03-03_2247484450_vBFLYehCmb.y.tar.gz",
         "censored_date": "2024-03-04 14:48:37",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzU3NDM0NzA0Nw==&mid=2247504205&idx=1&sn=7e6ef535a9746b55748f87ee0b98fe72",
+        "title": "请大家重新预约一下今晚6点55分的直播",
+        "title_eng": "Please reschedule the live broadcast at 6:55 tonight",
+        "nickname": "麟阁经略",
+        "created_at": "2024-03-03",
+        "archive": "gh_5771ce1bec7d_2024-03-03_2247504205_27r4e6Qjdn.y.tar.gz",
+        "censored_date": "2024-03-04 16:58:16",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
