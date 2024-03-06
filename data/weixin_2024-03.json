@@ -1394,7 +1394,7 @@
         "archive": "gh_5771ce1bec7d_2024-03-03_2247504205_27r4e6Qjdn.y.tar.gz",
         "censored_date": "2024-03-04 16:58:16",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-05 07:00:31"
+        "update_date": "2024-03-06 11:45:21"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247680565&idx=2&sn=38fcae5878599e1920d3d095040c27b0",
@@ -1614,6 +1614,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247748426&idx=2&sn=3babd808afd10875d8f49e91cdb6e8e1",
         "title": "头油、头屑多？这款宝藏洗发水帮你过上3天不洗头的生活！",
+        "title_eng": "Do you have oily scalp and dandruff? This treasure shampoo helps you live a life without washing your hair for 3 days!",
         "nickname": "远方青木",
         "created_at": "2024-02-29",
         "archive": "gh_36dfda0fb531_2024-02-29_2247748426_UCvSamBKlV.y.tar.gz",
@@ -1624,6 +1625,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247748426&idx=3&sn=111b8ed5ee9670d8c8973a6880ba2bfa",
         "title": "双肩包中的“变形金刚”扩展收纳超能装，防水耐磨，简约轻出行！",
+        "title_eng": "The Transformers expansion storage super-pack in the backpack is waterproof and wear-resistant, simple and easy to travel!",
         "nickname": "远方青木",
         "created_at": "2024-02-29",
         "archive": "gh_36dfda0fb531_2024-02-29_2247748426_GmTkbgUtNQ.y.tar.gz",
@@ -1634,11 +1636,40 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU5MzcyMzc2OQ==&mid=2247748426&idx=5&sn=d4dcf2f82de56566d177e962d2b871c6",
         "title": "低头玩手机=脖子扛50斤大米？仿真人手托，纠正姿态，专治“低头族”",
+        "title_eng": "Playing with your phone with your head down = carrying 50 pounds of rice on your neck? Simulated human hand supports, corrects posture, and specializes in treating people with bowed heads",
         "nickname": "远方青木",
         "created_at": "2024-02-29",
         "archive": "gh_36dfda0fb531_2024-02-29_2247748426_cnDo6y8RBr.y.tar.gz",
         "censored_date": "2024-03-06 11:02:55",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-03-05 18:31:07"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU3NzIxMg==&mid=2247495700&idx=1&sn=eb98fdeb815e1d508371ad743c242312",
+        "title": "战火烧到俄罗斯东部，萨马拉州一座铁路桥被乌方特工炸毁！",
+        "nickname": "徐夫人讲堂",
+        "created_at": "2024-03-05",
+        "archive": "gh_4b4e39b99038_2024-03-05_2247495700_reN5TC6f7U.y.tar.gz",
+        "censored_date": "2024-03-06 11:38:06",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-05 19:08:42"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247680998&idx=1&sn=0e546b1e0e9275c88e682cca0c98ea37",
+        "title": "震惊！拼床省钱、开房针灸、人格出G…渣女“辩手”毁三观！",
+        "nickname": "魔都囡",
+        "created_at": "2024-03-05",
+        "archive": "gh_ae36af7e44bd_2024-03-05_2247680998_dN5pX7iBb6.y.tar.gz",
+        "censored_date": "2024-03-06 12:07:20",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247680998&idx=2&sn=99c63138f9397cdb068c5485adf85c1b",
+        "title": "再见了，某mu超市！",
+        "nickname": "魔都囡",
+        "created_at": "2024-03-05",
+        "archive": "gh_ae36af7e44bd_2024-03-05_2247680998_bcFwTl6xpB.y.tar.gz",
+        "censored_date": "2024-03-06 12:07:43",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
