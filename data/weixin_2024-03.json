@@ -1427,7 +1427,7 @@
         "archive": "gh_f20ca770ecd1_2024-03-01_2247548370_whf0vPFCoI.y.tar.gz",
         "censored_date": "2024-03-05 07:45:38",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-04 17:56:35"
+        "update_date": "2024-03-06 14:34:05"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247680706&idx=2&sn=cb313243e36b9ac5c956b02cb0e367ec",
@@ -1449,7 +1449,7 @@
         "archive": "gh_4b4e39b99038_2024-03-01_2247495645_MO30Z7ev60.y.tar.gz",
         "censored_date": "2024-03-05 08:12:00",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-04 18:28:48"
+        "update_date": "2024-03-06 14:48:25"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDkwMDc5MQ==&mid=2649740824&idx=5&sn=a425fdc1aaf1dbda5dd1e1d4908be5af",
@@ -1698,6 +1698,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA3MDcxNDYxOQ==&mid=2650306432&idx=1&sn=db483bbff1b37b52cbbe8e4ece435984",
         "title": "罪犯尚有健康权！“赤脚医生”为失足女看病被判刑",
+        "title_eng": "Criminals still have the right to health! 'Barefoot doctor' sentenced for treating woman who lost foot",
         "nickname": "宾曰语云",
         "created_at": "2024-03-03",
         "archive": "gh_b61bafb1cb59_2024-03-03_2650306432_ArDozxg5Ye.y.tar.gz",
@@ -1708,6 +1709,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDkwMDc5MQ==&mid=2649740870&idx=2&sn=f7c264fa9f06cc4679234dd41b2aa450",
         "title": "38岁芬兰前女总理真潇洒！自己开了公司，派对上轻抚新男友的脸",
+        "title_eng": "The 38-year-old former female prime minister of Finland is so chic! I opened my own company and caressed my new boyfriendâ€™s face at the party.",
         "nickname": "烨桐娱乐",
         "created_at": "2024-03-03",
         "archive": "gh_8ed3d6c11214_2024-03-03_2649740870_K7XYsGbQiu.y.tar.gz",
@@ -1718,6 +1720,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDkwMDc5MQ==&mid=2649740824&idx=4&sn=b846fd1e428e263d328beaf066f416da",
         "title": "凯特“消失”引发太多传言，肯辛顿宫回应，威廉独自亮相圣大卫日",
+        "title_eng": "Kate's disappearance sparked too many rumors, Kensington Palace responded, William appeared alone on St. David's Day",
         "nickname": "烨桐娱乐",
         "created_at": "2024-03-02",
         "archive": "gh_8ed3d6c11214_2024-03-02_2649740824_bulwjnQYXo.y.tar.gz",
@@ -1728,6 +1731,7 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDkwMDc5MQ==&mid=2649740310&idx=2&sn=c96fba42141e873e0aebb8893e60c294",
         "title": "凭《第二十条》这10句振聋发聩的台词，元宵节就该带全家人去看看",
+        "title_eng": "With these 10 mind-blowing lines from Article 20, you should take the whole family to see it during the Lantern Festival",
         "nickname": "烨桐娱乐",
         "created_at": "2024-02-24",
         "archive": "gh_8ed3d6c11214_2024-02-24_2649740310_W3qbPM51JN.y.tar.gz",
@@ -1738,11 +1742,22 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MjM5NDkwMDc5MQ==&mid=2649740870&idx=3&sn=6d5c99adcf63433f9320c7469a31d117",
         "title": "特朗普庆“超级星期六”，连赢了3个州，黑利或能在周日胜一次",
+        "title_eng": "Trump celebrates Super Saturday and wins 3 states in a row, Haley may win once on Sunday",
         "nickname": "烨桐娱乐",
         "created_at": "2024-03-03",
         "archive": "gh_8ed3d6c11214_2024-03-03_2649740870_3vb9QCkiwn.y.tar.gz",
         "censored_date": "2024-03-06 14:02:05",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-03-05 06:35:52"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg5OTU3NzIxMg==&mid=2247495689&idx=1&sn=d0044f745279ea2dce3a06b6674e2376",
+        "title": "俄境内多地遭袭击，乌军打击深度延伸！",
+        "nickname": "徐夫人讲堂",
+        "created_at": "2024-03-04",
+        "archive": "gh_4b4e39b99038_2024-03-04_2247495689_6rbvZdt4XH.y.tar.gz",
+        "censored_date": "2024-03-06 14:47:35",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-05 08:12:26"
     }
 ]
