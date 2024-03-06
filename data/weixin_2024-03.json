@@ -1569,7 +1569,8 @@
         "created_at": "2024-03-03",
         "archive": "gh_cbe49e48bd1e_2024-03-03_2247573276_0PKRFyucH3.y.tar.gz",
         "censored_date": "2024-03-05 21:19:41",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-06 21:09:39"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIwMDE4MDg4Mw==&mid=2649316677&idx=1&sn=79e7b514680ff5fd80b79228cb22f70d",
@@ -1579,7 +1580,8 @@
         "created_at": "2024-03-03",
         "archive": "gh_16e68ee8982f_2024-03-03_2649316677_MHgXa7R5yO.y.tar.gz",
         "censored_date": "2024-03-05 20:37:58",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-06 21:06:48"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247746593&idx=1&sn=e70d5531d1ec458f4002223f18736486",
@@ -1589,7 +1591,8 @@
         "created_at": "2024-03-02",
         "archive": "gh_63cc4b4ef76d_2024-03-02_2247746593_qCGA4Zwtsg.y.tar.gz",
         "censored_date": "2024-03-05 20:55:44",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-06 21:07:11"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzI4NzMzNTc0NQ==&mid=2247497360&idx=1&sn=19a756e41477d2d3bb445819dfa0c220",
@@ -1822,6 +1825,15 @@
         "created_at": "2024-03-04",
         "archive": "gh_372ae2bb1547_2024-03-04_2247496840_c51Rpo2dGX.y.tar.gz",
         "censored_date": "2024-03-06 20:34:44",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=Mzg3MDkwOTU2OA==&mid=2247488640&idx=1&sn=858bc68a4a9369b96f8b4a5c4ee4be12",
+        "title": "无罪的宁夏女律师，为何律协偏要处分？",
+        "nickname": "法规指南",
+        "created_at": "2024-03-03",
+        "archive": "gh_f745ba7423f3_2024-03-03_2247488640_fZGbREJCFI.y.tar.gz",
+        "censored_date": "2024-03-06 21:19:25",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
