@@ -1547,7 +1547,8 @@
         "created_at": "2024-03-04",
         "archive": "gh_b3c0e9559e02_2024-03-04_2247543332_1YmS450ATv.y.tar.gz",
         "censored_date": "2024-03-05 20:04:18",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-06 20:35:32"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247573276&idx=2&sn=99a785ac7b084030a22c1a395ed882d5",
@@ -1812,5 +1813,15 @@
         "censored_date": "2024-03-06 17:35:22",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-03-05 12:52:06"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyODQzMDExMQ==&mid=2247496840&idx=2&sn=4890f59c1a6a3a4140df9f03b3321de0",
+        "title": "正式通知!本科以下学历直升本科，每人补贴8000元，政策扶持名额有限，速看!",
+        "title_eng": "Official notice! For those with a bachelor's degree or below who can go directly to a bachelor's degree, each person will receive a subsidy of 8,000 yuan. The number of policy support places is limited. Check it out!",
+        "nickname": "法律读报",
+        "created_at": "2024-03-04",
+        "archive": "gh_372ae2bb1547_2024-03-04_2247496840_c51Rpo2dGX.y.tar.gz",
+        "censored_date": "2024-03-06 20:34:44",
+        "censored_msg": "The content has been deleted by the author."
     }
 ]
