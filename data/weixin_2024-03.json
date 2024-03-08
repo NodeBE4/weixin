@@ -2049,7 +2049,8 @@
         "created_at": "2024-03-06",
         "archive": "gh_88e9499896f5_2024-03-06_2247521223_laWCLmgSMT.y.tar.gz",
         "censored_date": "2024-03-07 19:11:28",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-08 10:22:07"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5NzEwMTUzNQ==&mid=2650605293&idx=2&sn=a78fde361a2d3c40ff76fcf9f2c5a57c",
@@ -2094,5 +2095,15 @@
         "censored_date": "2024-03-08 06:15:09",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-03-07 11:54:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA3OTQ4NDkxOA==&mid=2649682340&idx=3&sn=80657ec33049a90158a8be1680908a54",
+        "title": "中国式QE真的来了！",
+        "nickname": "观点",
+        "created_at": "2024-03-06",
+        "archive": "gh_2ac9b41ee17c_2024-03-06_2649682340_xkVMfzZeU7.y.tar.gz",
+        "censored_date": "2024-03-08 10:04:58",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-07 18:30:21"
     }
 ]
