@@ -2043,7 +2043,7 @@
         "archive": "gh_d3e334ed12f9_2024-03-07_2651126167_n0ijvgyx30.y.tar.gz",
         "censored_date": "2024-03-07 19:05:59",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-08 10:28:39"
+        "update_date": "2024-03-09 14:12:40"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzIzMzUyOTkyNQ==&mid=2247521223&idx=1&sn=42592907b1b7366c1fb41089585d09e5",
@@ -2109,7 +2109,7 @@
         "archive": "gh_2ac9b41ee17c_2024-03-06_2649682340_xkVMfzZeU7.y.tar.gz",
         "censored_date": "2024-03-08 10:04:58",
         "censored_msg": "The content has been deleted by the author.",
-        "update_date": "2024-03-07 18:30:21"
+        "update_date": "2024-03-09 14:13:04"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg4NjU1MTU0MQ==&mid=2247516299&idx=4&sn=1d450f360104a89a86c56fb6b8064409",
@@ -2332,10 +2332,30 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=MzA5MTcwMTU0NA==&mid=2247527126&idx=1&sn=bc1376ec6c99d2d607ff88c1c7785aa9",
         "title": "农夫山泉被民粹“围剿”，上一次是海天和李宁",
+        "title_eng": "Nongfu Spring was encircled and suppressed by populists. The last time was Haitian and Li Ning",
         "nickname": "黑天鹅商业情报站",
         "created_at": "2024-03-08",
         "archive": "gh_0bffbf7d8e5d_2024-03-08_2247527126_9gM0n1UEZJ.y.tar.gz",
         "censored_date": "2024-03-09 13:21:33",
+        "censored_msg": "此内容因违规无法查看"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzkxMDI3OTg1Mw==&mid=2247698756&idx=2&sn=192306033b143f64eb5143c5a0cc3301",
+        "title": "突然宣布！开展高考报考指导师培训！教师家长免费申领，3月9日截止！",
+        "nickname": "志云说",
+        "created_at": "2024-03-07",
+        "archive": "gh_123bef9e7add_2024-03-07_2247698756_lKm78xhraw.y.tar.gz",
+        "censored_date": "2024-03-09 14:18:56",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-08 11:16:11"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzI1NDc3NTk0NA==&mid=2247488012&idx=2&sn=f991ed95b3da5061da7887a055710c8f",
+        "title": "民宿变三级片片场：触目惊心！",
+        "nickname": "炎黄春",
+        "created_at": "2024-03-08",
+        "archive": "gh_695be352a397_2024-03-08_2247488012_blqcRwWv0S.y.tar.gz",
+        "censored_date": "2024-03-09 13:56:45",
         "censored_msg": "此内容因违规无法查看"
     }
 ]
