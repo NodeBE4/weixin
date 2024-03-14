@@ -2974,7 +2974,8 @@
         "created_at": "2024-03-12",
         "archive": "gh_ae36af7e44bd_2024-03-12_2247682087_X0LgoHxQ48.y.tar.gz",
         "censored_date": "2024-03-13 22:49:37",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-14 21:24:18"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzAxMzk5MDc2OQ==&mid=2247681946&idx=2&sn=d6dfd3fb8289deee04e2e7e9ae1ab373",
@@ -3064,10 +3065,20 @@
     {
         "url": "mp.weixin.qq.com/s?__biz=Mzg2Mjg5Nzg5Ng==&mid=2247746903&idx=1&sn=7107e1f749242a87b0eccc882b477ece",
         "title": "服装工厂订单被取消，一大批商场衣服急需脱手，超低价清仓！",
+        "title_eng": "Clothing factory orders have been cancelled, and a large number of clothes in shopping malls are in urgent need of being sold, and they are being cleared at super low prices!",
         "nickname": "志愿云",
         "created_at": "2024-03-12",
         "archive": "gh_63cc4b4ef76d_2024-03-12_2247746903_Od5aBI0K7S.y.tar.gz",
         "censored_date": "2024-03-14 20:49:57",
+        "censored_msg": "The content has been deleted by the author."
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzA5MzgyOTQwNw==&mid=2652307571&idx=2&sn=5ad4aafba814c365297cceb76dd98807",
+        "title": "破纪录！去年550万家企业在美国成立，为什么都来美国开公司？",
+        "nickname": "北美移民指南",
+        "created_at": "2024-03-14",
+        "archive": "gh_3861c01522f7_2024-03-14_2652307571_W9xXZbQd60.y.tar.gz",
+        "censored_date": "2024-03-14 21:48:23",
         "censored_msg": "The content has been deleted by the author."
     }
 ]
