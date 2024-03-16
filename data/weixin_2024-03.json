@@ -3248,7 +3248,8 @@
         "created_at": "2024-03-13",
         "archive": "gh_ebabb1e039c3_2024-03-13_2247570172_moMn6BOW8i.y.tar.gz",
         "censored_date": "2024-03-16 07:20:11",
-        "censored_msg": "The content has been deleted by the author."
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-17 04:02:09"
     },
     {
         "url": "mp.weixin.qq.com/s?__biz=MzU4NTg5OTk2Mg==&mid=2247599355&idx=1&sn=089a9d7f76be70d299523f8f8cd80858",
@@ -3280,5 +3281,15 @@
         "censored_date": "2024-03-16 14:55:19",
         "censored_msg": "The content has been deleted by the author.",
         "update_date": "2024-03-15 06:29:13"
+    },
+    {
+        "url": "mp.weixin.qq.com/s?__biz=MzIyMDQ4OTk1NQ==&mid=2247573538&idx=1&sn=4b840d1bb17cc0e9e44d85ea1a2ddda0",
+        "title": "各类人员法定退休年龄规定（2024年新版）",
+        "nickname": "律法读报",
+        "created_at": "2024-03-15",
+        "archive": "gh_cbe49e48bd1e_2024-03-15_2247573538_SuVZ2hslEb.y.tar.gz",
+        "censored_date": "2024-03-17 04:14:44",
+        "censored_msg": "The content has been deleted by the author.",
+        "update_date": "2024-03-16 12:07:17"
     }
 ]
